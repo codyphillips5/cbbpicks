@@ -6,8 +6,8 @@
 		"awayTeam" : 62,
 		"favorite" : 62,
 		"spread" : 1.5,
-		"gameTime" : ,
-		"channel": ,
+		"gameTime" : 5,
+		"channel": 5,
 		"required" : false
     },
     {
@@ -16,14 +16,6 @@
 		"awayTeam" : 271,
 		"favorite" : 96,
 		"spread" : 2.5,
-		"required" : false
-    },
-    {
-		"gameId" : 3,
-		"homeTeam" : ,
-		"awayTeam" : ,
-		"favorite" : ,
-		"spread" : ,
 		"required" : false
     }
   ]
