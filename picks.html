@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>CFB Picks | Games</title>
+    <title>CBB Picks | Games</title>
     <link rel="stylesheet" href="styles.css"></link>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
@@ -19,7 +19,7 @@
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>                        
 		</button>
-		<a class="navbar-brand" href="/cfbpicks">CFB Picks</a>
+		<a class="navbar-brand" href="/cfbpicks">CBB Picks</a>
 		</div>
 		<div class="collapse navbar-collapse" id="myNavbar">
 		<ul class="nav navbar-nav">
@@ -31,47 +31,42 @@
 		<ul class="nav navbar-nav navbar-right">
 				<li class="logged-in" style="display: none;"><a href="#" id="logout"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
 				<li class="logged-out" style="display: none;"><a href="log.html" id ="login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-				<!-- <li class="logged-out" style="display: none;"><a href="signup.html"><span class="glyphicon glyphicon-plus"></span>  Signup</a></li> -->	
+				<li class="logged-out" style="display: none;"><a href="signup.html"><span class="glyphicon glyphicon-plus"></span>  Signup</a></li>
 		</ul>
 		</div>
 	</div>
 </nav>
 
 <form action="" id="save_picks" class="form-inlin justify-content-center">
-<div class="container center_div"><h2>Week 11</h2></div>
+<div class="container center_div"><h2>Week 1</h2></div>
 <section class="picks">
 	<div class="selection">
-		<span class='header'><input type="text" id="50" class="form-control choice" class='choice' required><br><h1>50</h1></span>
-        <span id='label-choice-50'></span>
-        <span id="image50" class='choice'></span>
+		<span class='header'><input type="text" id="seasongame1" class="form-control choice" class='choice' required><br><h1>Game 1</h1></span>
+        <span id='label-choice-seasongame1'></span>
+        <span id="image1" class='choice'></span>
 	</div>
 	<div class="selection">
-            <span class='header'><input type="text" id="40" class="form-control choice" class='choice' required><br><h1>40</h1></span>
-            <span id='label-choice-40'></span>
-            <span id="image40" class='choice'></span>
+            <span class='header'><input type="text" id="seasongame2" class="form-control choice" class='choice' required><br><h1>Game 2</h1></span>
+            <span id='label-choice-seasongame2'></span>
+            <span id="image2" class='choice'></span>
 	</div>
 	<div class="selection">
-            <span class='header'><input type="text" id="30" class="form-control choice" class='choice' required><br><h1>30</h1></span>
-            <span id='label-choice-30'></span>
-            <span id="image30" class='choice'></span>
+            <span class='header'><input type="text" id="seasongame3" class="form-control choice" class='choice' required><br><h1>Game 3</h1></span>
+            <span id='label-choice-seasongame3'></span>
+            <span id="image3" class='choice'></span>
 	</div>
 	<div class="selection">
-            <span class='header'><input type="text" id="20" class="form-control choice" class='choice' required><br><h1>20</h1></span>
-            <span id='label-choice-20'></span>
-            <span id="image20" class='choice'></span>
-	</div>
-		<div class="selection">
-			<span class='header'><input type="text" id="10" class="form-control choice" class='choice' required><br><h1>10</h1></span>
-            <span id='label-choice-10'></span>
-            <span id="image10" class='choice'></span>
+            <span class='header'><input type="text" id="seasongame4" class="form-control choice" class='choice' required><br><h1>Game 4</h1></span>
+            <span id='label-choice-seasongame4'></span>
+            <span id="image4" class='choice'></span>
 	</div>
 </section><br>
 	<p class="response"></p><div class="alert" role="alert"></div>
 
 	<section class="pick_button">
 		<div>
-			<h4>Official Lines available <b>Thursday (11/7)</b></h4> 
-			<!--<button type="submit" id="submit" disabled='disabled' class='btn btn-primary'>Save My Picks</button>-->
+			<!--<h4>Official Lines available <b>Thursday (10/24)</b></h4>-->
+			<button type="submit" id="submit" class='btn btn-primary'>Save My Picks</button>
 		</div>
 	</section>
 </form>
@@ -92,11 +87,14 @@
 <script>
   // Your web app's Firebase configuration
   var firebaseConfig = {
-	apiKey: "AIzaSyAEJrKsbvPAbjz_hIx4_j_T_fFxIJMbY2U",
-	authDomain: "cfb-pick-em.firebaseapp.com",
-	databaseURL: "https://cfb-pick-em.firebaseio.com",
-	projectId: "cfb-pick-em",
-	appId: "1:916406632300:web:d7b9b98e0a83f1c6"
+    apiKey: "AIzaSyDFXCFaM3jQMZ26lNNH7bbewFa6wH6z6r0",
+    authDomain: "cbb-picks.firebaseapp.com",
+    databaseURL: "https://cbb-picks.firebaseio.com",
+    projectId: "cbb-picks",
+    storageBucket: "cbb-picks.appspot.com",
+    messagingSenderId: "215555236913",
+    appId: "1:215555236913:web:27a28125eec1ee36a06110",
+    measurementId: "G-5S7HXFNGJN"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
