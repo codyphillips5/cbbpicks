@@ -30,11 +30,11 @@ var game = {
   
   var xFile, yFile;
   
-  var requestX = $.getJSON("https://codyphillips5.github.io/cfbpicks/json/games/week11.json", function(json){
+  var requestX = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week1.json", function(json){
 	  xFile = json;
   });
   
-  var requestY = $.getJSON("https://codyphillips5.github.io/cfbpicks/json/teams.json", function(json){
+  var requestY = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/teams.json", function(json){
 	  yFile = json;
   });
   
@@ -88,7 +88,7 @@ var game = {
 				  badge.className = 'games-layout';		
 			  }
 			  var header = '<span class=\'header\'><h4>' + awayTeam + ' vs ' + homeTeam + ' (' + homeSide + spread + ') </h4><br>';
-			  var select = '<select class=\'teamlist\' id=\'game' + gameId + '\' onchange=\"showPointTotals(\'point_totals_game_' + gameId + '\', this);\"><option value = \"\"> -- Select Team -- </option><option value=\"' + awayTeamVal + '\">' + awayTeam + ' ' + awaySide + spread + '</option><option value=\"' + homeTeamVal + '\">' + homeTeam + ' ' + homeSide + spread + '</option></select>';
+			  var select = '<select class=\'teamlist\' id=\'game' + gameId + '\' onchange=\"assignPointsByTeam(' + gameId +');\"><option value = \"\"> -- Select Team -- </option><option value=\"' + awayTeamVal + '\">' + awayTeam + ' ' + awaySide + spread + '</option><option value=\"' + homeTeamVal + '\">' + homeTeam + ' ' + homeSide + spread + '</option></select>';
 			  var display = '<div id=\"point_totals_game_' + gameId + '\" style=\"display:none;\">';
 			  var numbers = [5, 4, 3, 2, 1];
 			  var radios = [];
@@ -109,15 +109,15 @@ var game = {
   
   var request;
   
-  function assignPointsByTeam(pts, id) {
+  function assignPointsByTeam(id) {
 	  var pick = document.getElementById("game" + id);
 	  var userPick = pick.options[pick.selectedIndex].value;
 	  var fullTeamName = pick.options[pick.selectedIndex].text;
 	  fullTeamSpread = fullTeamName.replace(/[^\d+.-]/g, '');
 	  game.team = userPick;
 	  game.spread = attempt.thisTeamImg;
-	  document.getElementById(pts).value = game.team;
-	  document.getElementById("label-choice-" + pts).innerHTML = `<label for="${pts}" class="choice">${game.team} ${fullTeamSpread}</label>`;
+	  document.getElementById("seasongame" + id).value = game.team;
+	  document.getElementById("label-choice-seasongame" + id).innerHTML = `<label for="${id}" class="choice">${game.team} ${fullTeamSpread}</label>`;
 	  getTeamInfo(userPick);
 	  request.success(function(response){
 		  for (i = 0; i < choices.length; i++) {
@@ -129,7 +129,7 @@ var game = {
 				  document.getElementById("label-choice-" + choices[i].pts).innerHTML = `<label for="${choices[i].pts}" class="choice"></label>`;
 				  document.getElementById("image" + choices[i].pts).innerHTML = ``;
 			  }
-			  if (pts == choices[i].pts) {
+			  if (id == choices[i].pts) {
 				  if(choices[i].teamAbb != "") {
 					  console.log("game.game = " + game.game);
 						  if(choices[i].game != game.game) {
@@ -144,14 +144,14 @@ var game = {
 				  choices[i].fullTeam = fullTeamName;
 				  choices[i].game = id;
 				  choices[i].spread = attempt.thisTeamImg;
-				  document.getElementById("image" + pts).innerHTML = `<img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/ncaaf/teams/retina/${choices[i].spread}.vresize.200.200.medium.2.png">`;
+				  document.getElementById("image" + id).innerHTML = `<img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/ncaaf/teams/retina/${choices[i].spread}.vresize.200.200.medium.2.png">`;
 				  game.game = id;
 			  }
 		  }
 	  });
-	  document.getElementById(pts).value = game.team;
+	  document.getElementById("seasongame" + id).value = game.team;
   }
-  
+  /*
   function showPointTotals(divId, element){
 	  document.getElementById(divId).style.display = element.value != "" ? 'block' : 'none';
 	  var gm = divId.substring(divId.lastIndexOf("_") + 1);
@@ -179,7 +179,7 @@ var game = {
 	  }
 	  game.team = element.value;
 	  game.game = gm;
-  }
+  }*/
   
   function setTeam(element) {
 	  game.team = element.value;
