@@ -37,7 +37,7 @@
 		"favorite" : 96,
 		"spread" : 2.5,
 		"gameTime" : "2019-11-06 02:30:00",
-		"spread" : "ESPN",
+		"channel" : "ESPN",
 		"required" : false
     }
   ]
