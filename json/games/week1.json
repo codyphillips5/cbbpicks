@@ -5,7 +5,7 @@
 		"homeTeam" : 19,
 		"awayTeam" : 18,
 		"favorite" : 18,
-		"spread" : 7.5,
+		"spread" : 6.5,
 		"gameTime" : "2019-11-05 23:30:00",
 		"channel": "ESPN",
 		"required" : false
