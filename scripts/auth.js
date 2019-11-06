@@ -24,16 +24,14 @@ if(createForm) {
     
         db.collection('week1').add({
             user: auth.currentUser.email,
-            game_1: document.getElementById('seasongame1').value,
-            game_2: document.getElementById('seasongame2').value,
-            game_3: document.getElementById('seasongame3').value,
-            game_4: document.getElementById('seasongame4').value,
+            game5: document.getElementById('seasongame5').value,
+            game6: document.getElementById('seasongame6').value,
         }).then(() => {
             // close the modal and reset form
             //const modal = document.querySelector('#modal-create');
             //M.Modal.getInstance(modal).close();
             createForm.reset();
-            createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-success" role="alert">Success! Your picks have been saved. At this time, picks may only be submitted ONCE. Please reach out to Kevin with questions or any pick changes.</div>`;
+            createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-success" role="alert">Success! Your picks have been saved. At this time, picks may only be submitted ONCE. Please reach out to Cody with questions or any pick changes.</div>`;
         }).catch(err => {
             console.log(err.message)
             //signupForm.querySelector('.response').innerHTML = `<br><div class="alert alert-danger" role="alert">${err.message}</div>`;

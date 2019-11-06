@@ -81,14 +81,15 @@ var game = {
 				  awaySide = "";
 				  spread = "PK";
 			  }
-			  if (required) {
-				  badge.className = 'required';
+			  badge.className = 'games-layout';	
+			  if (xFile[key][i].cover) {
+				  var select = '<h4><b>Game settled<b></h4>';
 			  }
 			  else {
-				  badge.className = 'games-layout';		
+				 var select = '<select class=\'teamlist\' id=\'game' + gameId + '\' onchange=\"assignPointsByTeam(' + gameId +');\"><option value = \"\"> -- Select Team -- </option><option value=\"' + awayTeamVal + '\">' + awayTeam + ' ' + awaySide + spread + '</option><option value=\"' + homeTeamVal + '\">' + homeTeam + ' ' + homeSide + spread + '</option></select>'; 	
 			  }
 			  var header = '<span class=\'header\'><h4>' + awayTeam + ' vs ' + homeTeam + ' (' + homeSide + spread + ') </h4><br>';
-			  var select = '<select class=\'teamlist\' id=\'game' + gameId + '\' onchange=\"assignPointsByTeam(' + gameId +');\"><option value = \"\"> -- Select Team -- </option><option value=\"' + awayTeamVal + '\">' + awayTeam + ' ' + awaySide + spread + '</option><option value=\"' + homeTeamVal + '\">' + homeTeam + ' ' + homeSide + spread + '</option></select>';
+			  
 			  var display = '<div id=\"point_totals_game_' + gameId + '\" style=\"display:none;\">';
 			  var numbers = [5, 4, 3, 2, 1];
 			  var radios = [];
