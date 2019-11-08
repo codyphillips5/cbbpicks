@@ -56,9 +56,18 @@
 		"awayTeam" : 25,
 		"favorite" : 25,
 		"spread" : 3.5,
-		"gameTime" : "2019-11-06 02:00:00",
+		"gameTime" : "2019-11-07 02:00:00",
 		"channel" : "ACCN",
 		"cover" : 25
+    },
+    {
+		"gameId" : 7,
+		"homeTeam" : 60,
+		"awayTeam" : 254,
+		"favorite" : 60,
+		"spread" : 5.5,
+		"gameTime" : "2019-11-09 02:30:00",
+		"channel" : "ESPN"
     }
   ]
 }
