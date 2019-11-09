@@ -22,9 +22,10 @@ if(createForm) {
     createForm.addEventListener('submit', (e) => {
         e.preventDefault();
     
-        db.collection('game7').add({
+        db.collection('saturday').add({
             user: auth.currentUser.email,
-            game7: document.getElementById('seasongame7').value,
+            game8: document.getElementById('seasongame8').value,
+			game9: document.getElementById('seasongame9').value
         }).then(() => {
             // close the modal and reset form
             //const modal = document.querySelector('#modal-create');
