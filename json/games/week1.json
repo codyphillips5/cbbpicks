@@ -67,7 +67,26 @@
 		"favorite" : 60,
 		"spread" : 5.5,
 		"gameTime" : "2019-11-09 02:30:00",
-		"channel" : "ESPN"
+		"channel" : "ESPN",
+		"cover" : 254
+    },
+    {
+		"gameId" : 8,
+		"homeTeam" : 249,
+		"awayTeam" : 61,
+		"favorite" : 249,
+		"spread" : 2.5,
+		"gameTime" : "2019-11-09 21:30:00",
+		"channel" : ""
+    },
+    {
+		"gameId" : 9,
+		"homeTeam" : 102,
+		"awayTeam" : 67,
+		"favorite" : 102,
+		"spread" : 8.5,
+		"gameTime" : "2019-11-10 00:30:00",
+		"channel" : "FS1"
     }
   ]
 }
