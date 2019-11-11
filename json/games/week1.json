@@ -97,7 +97,8 @@
 		"favorite" : 269,
 		"spread" : 5.5,
 		"gameTime" : "2019-11-10 18:00:00",
-		"channel" : "ESPN"
+		"channel" : "ESPN",
+		"cover" : 16
     }
   ]
 }
