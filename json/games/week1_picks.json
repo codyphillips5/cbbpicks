@@ -177,7 +177,7 @@
 		"game4" : "UK",
 		"game5" : "CINCY",
 		"game6" : "UVA",
-		"game7" : "",
+		"game7" : "BU",
 		"game8" : "OREST",
 		"game9" : "TEX",
 		"game10" : "FLA"
@@ -326,7 +326,7 @@
 		"game10" : "FLA"
     },
 	{
-		"userId" : 25,
+		"userId" : 26,
 		"game1" : "",
 		"game2" : "",
 		"game3" : "",
