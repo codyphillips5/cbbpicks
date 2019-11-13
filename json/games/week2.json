@@ -15,7 +15,7 @@
 		"homeTeam" : 79,
 		"awayTeam" : 274,
 		"favorite" : 79,
-		"spread" : 6.5,
+		"spread" : 5.5,
 		"gameTime" : "2019-11-13 00:00:00 UTC",
 		"channel": "CBSSN",
 		"cover" : 274
@@ -44,7 +44,7 @@
 		"homeTeam" : 100,
 		"awayTeam" : 78,
 		"favorite" : 100,
-		"spread" : 3.5,
+		"spread" : 2.5,
 		"gameTime" : "2019-11-14 00:00:00 UTC",
 		"channel": "FS1"
     },
@@ -53,7 +53,7 @@
 		"homeTeam" : 74,
 		"awayTeam" : 102,
 		"favorite" : 74,
-		"spread" : 2.5,
+		"spread" : 1.5,
 		"gameTime" : "2019-11-14 02:00:00 UTC",
 		"channel": "FS1"
     }
