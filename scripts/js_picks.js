@@ -4,7 +4,8 @@ var game = {
 	pts : "",
 	game : "" 
   };
-  var attempt = {
+
+attempt = {
 	  thisTeam : "",
 	  thisMascot : "",
 	  thisTeamAbb : "",
@@ -27,6 +28,7 @@ var game = {
   var homeSide = "";
   var awaySide = "";
   var required = "";
+  var gog = "";
   
   var xFile, yFile;
   
@@ -70,7 +72,8 @@ var game = {
 			  var fav = xFile[key][i].favorite;
 			  var homeSide = "-";
 			  var awaySide = "+";
-			  var required = xFile[key][i].required;
+			  var channel = xFile[key][i].channel;
+			  var date = new Date(xFile[key][i].gameTime);
 			  var badge = document.createElement('div');
 			  if (fav != home) {
 				  homeSide = "+";
@@ -88,21 +91,16 @@ var game = {
 			  else {
 				 var select = '<select class=\'teamlist\' id=\'game' + gameId + '\' onchange=\"assignPointsByTeam(' + gameId +');\"><option value = \"\"> -- Select Team -- </option><option value=\"' + awayTeamVal + '\">' + awayTeam + ' ' + awaySide + spread + '</option><option value=\"' + homeTeamVal + '\">' + homeTeam + ' ' + homeSide + spread + '</option></select>'; 	
 			  }
-			  var header = '<span class=\'header\'><h4>' + awayTeam + ' vs ' + homeTeam + ' (' + homeSide + spread + ') </h4><br>';
-			  
+			  var header = '<span class=\'header\'><h4>' + awayTeam + ' vs ' + homeTeam + ' (' + homeSide + spread + ') </h4>';
+			  var gameInfo = '<sub> '+ channel + " · " + date.toLocaleString() + '</sub><br><br>';
 			  var display = '<div id=\"point_totals_game_' + gameId + '\" style=\"display:none;\">';
 			  var numbers = [5, 4, 3, 2, 1];
-			  var radios = [];
+			  /*var radios = [];
 			  for (var j = 0; j < numbers.length; j++) {
-				  if (required) {
-					  var radio = '<label class="radio-inline font-weight-bold"><input type=\"radio\" onchange=\"assignPointsByTeam(this.value, ' + gameId +');\" name=\"pick_worth\" value=' + numbers[j] + '0 required>' + numbers[j] + '0</label>'
-				  } 
-				  else {
-					  var radio = '<label class="radio-inline font-weight-bold"><input type=\"radio\" onchange=\"assignPointsByTeam(this.value, ' + gameId +');\" name=\"pick_worth\" value=' + numbers[j] + '0>' + numbers[j] + '0</label>'
-				  }
+					var radio = '<label class="radio-inline font-weight-bold"><input type=\"radio\" onchange=\"assignPointsByTeam(this.value, ' + gameId +');\" name=\"pick_worth\" value=' + numbers[j] + '0>' + numbers[j] + '0</label>'
 				  radios.push(radio);
-			  }
-			  badge.innerHTML = '<form>' + header + select + '<br>'+ display + radios.join(' ') + '</form>';		
+			  }*/
+			  badge.innerHTML = '<form>' + header + gameInfo + select + '<br>'+ display + '</form>';		
 			  document.getElementById(key).appendChild(badge);
 		  }
 	  }
@@ -116,11 +114,13 @@ var game = {
 	  var fullTeamName = pick.options[pick.selectedIndex].text;
 	  fullTeamSpread = fullTeamName.replace(/[^\d+.-]/g, '');
 	  game.team = userPick;
-	  game.spread = attempt.thisTeamImg;
 	  document.getElementById("seasongame" + id).value = game.team;
 	  document.getElementById("label-choice-seasongame" + id).innerHTML = `<label for="${id}" class="choice">${game.team} ${fullTeamSpread}</label>`;
 	  getTeamInfo(userPick);
+
 	  request.success(function(response){
+		  game.spread = attempt.thisTeamImg;
+		  document.getElementById("image" + id).innerHTML = `<img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${game.spread}.vresize.200.200.medium.2.png">`;
 		  for (i = 0; i < choices.length; i++) {
 			  // only allow a team to be chosen once
 			  if (game.team == choices[i].teamAbb) {
@@ -145,6 +145,7 @@ var game = {
 				  choices[i].fullTeam = fullTeamName;
 				  choices[i].game = id;
 				  choices[i].spread = attempt.thisTeamImg;
+				  console.log("logo: " + choices[i].spread);
 				  document.getElementById("image" + id).innerHTML = `<img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/ncaaf/teams/retina/${choices[i].spread}.vresize.200.200.medium.2.png">`;
 				  game.game = id;
 			  }
@@ -206,8 +207,8 @@ var game = {
 	  })
   }
   
-  function getTeamInfo(teamId) {
-	  request = $.getJSON("https://codyphillips5.github.io/cfbpicks/json/teams.json", function(team) {
+ function getTeamInfo(teamId) {
+	  request = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/teams.json", function(team) {
 	  for (var key in team) {
 		  for (var i = 0; i < team[key].length; i++) {
 			  if(team[key][i].teamValue == teamId){
