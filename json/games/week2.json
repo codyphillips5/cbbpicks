@@ -6,7 +6,7 @@
 		"awayTeam" : 71,
 		"favorite" : 95,
 		"spread" : 4.5,
-		"gameTime" : "2019-11-12 23:30:00 UTC",
+		"gameTime" : "2019-11-12T23:30:00+0000",
 		"channel": "FS1",
 		"cover" : 95
     },
