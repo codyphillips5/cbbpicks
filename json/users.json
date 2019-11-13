@@ -137,6 +137,24 @@
 		"FirstName" : "Angie",
 		"LastName" : "Phillips",
 		"Email" : "acphillips5@yahoo.com"
+    },
+	{
+		"userId" : 24,
+		"FirstName" : "Johnny",
+		"LastName" : "Osborne",
+		"Email" : "jbosborne24@gmail.com"
+    },
+	{
+		"userId" : 25,
+		"FirstName" : "Liz",
+		"LastName" : "Hurley",
+		"Email" : "lizhurley021@gmail.com"
+    },
+	{
+		"userId" : 26,
+		"FirstName" : "Peterdude",
+		"LastName" : "Hartmann",
+		"Email" : "kylehartmann@gmail.com"
     }
 	]
 }
