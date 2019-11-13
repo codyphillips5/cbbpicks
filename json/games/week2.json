@@ -45,7 +45,7 @@
 		"awayTeam" : 78,
 		"favorite" : 100,
 		"spread" : 3.5,
-		"gameTime" : "2019-11-13 02:00:00 UTC",
+		"gameTime" : "2019-11-14 00:00:00 UTC",
 		"channel": "FS1"
     },
 	{
@@ -54,7 +54,7 @@
 		"awayTeam" : 102,
 		"favorite" : 74,
 		"spread" : 2.5,
-		"gameTime" : "2019-11-13 02:00:00 UTC",
+		"gameTime" : "2019-11-14 02:00:00 UTC",
 		"channel": "FS1"
     }
   ]
