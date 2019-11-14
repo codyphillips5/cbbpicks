@@ -15,7 +15,7 @@
 		"homeTeam" : 79,
 		"awayTeam" : 274,
 		"favorite" : 79,
-		"spread" : 5.5,
+		"spread" : 6.5,
 		"gameTime" : "2019-11-13 00:00:00 UTC",
 		"channel": "CBSSN",
 		"cover" : 274
@@ -37,25 +37,28 @@
 		"favorite" : 50,
 		"spread" : 2.5,
 		"gameTime" : "2019-11-13 23:00:00 UTC",
-		"channel": "ESPN2"
+		"channel": "ESPN2",
+		"cover" : 272
     },
 	{
 		"gameId" : 15,
 		"homeTeam" : 100,
 		"awayTeam" : 78,
 		"favorite" : 100,
-		"spread" : 2.5,
+		"spread" : 3.5,
 		"gameTime" : "2019-11-14 00:00:00 UTC",
-		"channel": "FS1"
+		"channel": "FS1",
+		"cover" : 100
     },
 	{
 		"gameId" : 16,
 		"homeTeam" : 74,
 		"awayTeam" : 102,
 		"favorite" : 74,
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2019-11-14 02:00:00 UTC",
-		"channel": "FS1"
+		"channel": "FS1",
+		"cover" : 74
     }
   ]
 }
