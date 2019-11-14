@@ -59,6 +59,15 @@
 		"gameTime" : "2019-11-14 02:00:00 UTC",
 		"channel": "FS1",
 		"cover" : 74
+    },
+	{
+		"gameId" : 17,
+		"homeTeam" : 76,
+		"awayTeam" : 96,
+		"favorite" : 96,
+		"spread" : 6.5,
+		"gameTime" : "2019-11-15 01:30:00 UTC",
+		"channel": "FS1"
     }
   ]
 }
