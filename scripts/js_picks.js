@@ -126,7 +126,7 @@ attempt = {
 			  if (game.team == choices[i].teamAbb) {
 				  choices[i].teamAbb = "";
 				  choices[i].fullTeam = "";
-				  document.getElementById(choices[i].pts).value = "";
+				  //document.getElementById(choices[i].pts).value = "";
 				  document.getElementById("label-choice-" + choices[i].pts).innerHTML = `<label for="${choices[i].pts}" class="choice"></label>`;
 				  document.getElementById("image" + choices[i].pts).innerHTML = ``;
 			  }
