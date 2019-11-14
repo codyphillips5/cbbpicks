@@ -3,22 +3,22 @@ var lastName = "";
 var coversNum = [];
 var coversTeam = [];
 
-var standings, standings, resultsList, usersList;
+var standings, teams, resultsList, usersList;
 
-var getPicks = $.getJSON("https://codyphillips5.github.io/cfbpicks/json/games/week10_picks.json", function(json){
+var getPicks = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week2_picks.json", function(json){
 	standings = json;
 });
 
-var getStandings = $.getJSON("https://codyphillips5.github.io/cfbpicks/json/teams.json", function(json){
-	standings = json;
+var getStandings = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/teams.json", function(json){
+	teams = json;
 });
 
-var getUsers= $.getJSON("https://codyphillips5.github.io/cfbpicks/json/users.json", function(json){
+var getUsers= $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.json", function(json){
     usersList = json;
 });
 
 $.when(getPicks, getStandings, getUsers).then(function(){
-	var tableStart = `<table class="table table-hover" id="results"><thead><tr><th scope="col">Name</th><th scope="col">50</th><th scope="col">40</th><th scope="col">30</th><th scope="col">20</th><th scope="col">10</th></tr></thead><tbody>`;
+	var tableStart = `<table class="table table-hover" id="results"><thead><tr><th scope="col">Name</th><th scope="col">Game 1</th><th scope="col">Game 2</th><th scope="col">Game 3</th><th scope="col">Game 4</th><th scope="col">Game 5</th><th scope="col">Game 6</th><th scope="col">Game 7</th><th scope="col">Game 8</th><th scope="col">Game 9</th><th scope="col">Game 10</th><th scope="col">Total</th></tr></thead><tbody>`;
 
 	for (var key in standings) {
 		for (var i = 0; i < standings[key].length; i++) {
@@ -38,8 +38,8 @@ $.when(getPicks, getStandings, getUsers).then(function(){
 			}
 			var tableUser = tableUser + `<tr><th>${firstName + " " + lastName}</th>`;
 			// check user picks against results
-			for (var pointTotals = 50; pointTotals >= 10; pointTotals = pointTotals-10) {
-				tableUser = tableUser + `<td>${standings[key][i][pointTotals]}</td>`;
+			for (var pointTotals = 11; pointTotals <= 20; pointTotals++) {
+				tableUser = tableUser + `<td>${standings[key][i]["game"+pointTotals]}</td>`;
 			}
 		}
 	}
