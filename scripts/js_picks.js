@@ -95,7 +95,7 @@ attempt = {
 				 var select = '<select class=\'teamlist\' id=\'game' + gameId + '\' onchange=\"assignPointsByTeam(' + gameId +');\"><option value = \"\"> -- Select Team -- </option><option value=\"' + awayTeamVal + '\">' + awayTeam + ' ' + awaySide + spread + '</option><option value=\"' + homeTeamVal + '\">' + homeTeam + ' ' + homeSide + spread + '</option></select>'; 	
 			  }
 			  var header = '<span class=\'header\'><h4>' + awayTeam + ' vs ' + homeTeam + ' (' + homeSide + spread + ') </h4>';
-			  var gameInfo = '<sub> '+ channel + " · " + date.toLocaleString() + '</sub><br><br>';
+			  var gameInfo = '<sub> '+ channel + " · " + date.toLocaleString([], {weekday: 'long', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit'}).replace(',',' ·') + '</sub><br><br>';
 			  var display = '<div id=\"point_totals_game_' + gameId + '\" style=\"display:none;\">';
 			  var numbers = [5, 4, 3, 2, 1];
 			  /*var radios = [];
