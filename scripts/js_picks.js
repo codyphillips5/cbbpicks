@@ -88,7 +88,7 @@ attempt = {
 			  if (xFile[key][i].cover) {
 				  var select = '<h4><b>Game settled<b></h4>';
 			  }
-			  else if (spread == "") {
+			  else if (spread == "-") {
 				  var select = '<h4><b>Game upcoming<b></h4>';
 			  }
 			  else {
