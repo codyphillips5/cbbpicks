@@ -6,7 +6,7 @@
 		"awayTeam" : 71,
 		"favorite" : 95,
 		"spread" : 4.5,
-		"gameTime" : "2019-11-12T23:30:00Z",
+		"gameTime" : "2019-11-12T23:30Z",
 		"channel": "FS1",
 		"cover" : 95
     },
@@ -16,7 +16,7 @@
 		"awayTeam" : 274,
 		"favorite" : 79,
 		"spread" : 6.5,
-		"gameTime" : "2019-11-13 00:00:00 UTC",
+		"gameTime" : "2019-11-13T00:00:00Z",
 		"channel": "CBSSN",
 		"cover" : 274
     },
@@ -26,7 +26,7 @@
 		"awayTeam" : 5,
 		"favorite" : 248,
 		"spread" : 3.5,
-		"gameTime" : "2019-11-13 02:00:00 UTC",
+		"gameTime" : "2019-11-13T02:00:00Z",
 		"channel": "ESPN",
 		"cover" : 248
     },
@@ -36,7 +36,7 @@
 		"awayTeam" : 272,
 		"favorite" : 50,
 		"spread" : 2.5,
-		"gameTime" : "2019-11-13 23:00:00 UTC",
+		"gameTime" : "2019-11-13T23:00Z",
 		"channel": "ESPN2",
 		"cover" : 272
     },
@@ -46,7 +46,7 @@
 		"awayTeam" : 78,
 		"favorite" : 100,
 		"spread" : 3.5,
-		"gameTime" : "2019-11-14 00:00:00 UTC",
+		"gameTime" : "2019-11-14T00:00Z",
 		"channel": "FS1",
 		"cover" : 100
     },
@@ -56,7 +56,7 @@
 		"awayTeam" : 102,
 		"favorite" : 74,
 		"spread" : 2.5,
-		"gameTime" : "2019-11-14 02:00:00 UTC",
+		"gameTime" : "2019-11-14T02:00Z",
 		"channel": "FS1",
 		"cover" : 74
     },
@@ -66,7 +66,7 @@
 		"awayTeam" : 96,
 		"favorite" : 96,
 		"spread" : 6.5,
-		"gameTime" : "2019-11-15 01:30:00 UTC",
+		"gameTime" : "2019-11-15T01:30:00Z",
 		"channel": "FS1",
 		"cover" : 76
     },
@@ -76,7 +76,7 @@
 		"awayTeam" : 344,
 		"favorite" : 344,
 		"spread" : 6.5,
-		"gameTime" : "2019-11-16T02:00:00+0000",
+		"gameTime" : "2019-11-16T02:00:00Z",
 		"channel": "SECN"
     },
 	{
@@ -85,7 +85,7 @@
 		"awayTeam" : 254,
 		"favorite" : 254,
 		"spread" : "-",
-		"gameTime" : "2019-11-16T22:00:00+0000",
+		"gameTime" : "2019-11-16T22:00:00Z",
 		"channel": "ESPN+"
     },
 	{
@@ -94,7 +94,7 @@
 		"awayTeam" : 74,
 		"favorite" : 74,
 		"spread" : "-",
-		"gameTime" : "2019-11-17T18:00:00+0000",
+		"gameTime" : "2019-11-17T18:00:00Z",
 		"channel": "FS1"
     }
   ]
