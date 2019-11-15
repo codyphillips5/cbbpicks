@@ -88,6 +88,9 @@ attempt = {
 			  if (xFile[key][i].cover) {
 				  var select = '<h4><b>Game settled<b></h4>';
 			  }
+			  else if (spread == "") {
+				  var select = '<h4><b>Game upcoming<b></h4>';
+			  }
 			  else {
 				 var select = '<select class=\'teamlist\' id=\'game' + gameId + '\' onchange=\"assignPointsByTeam(' + gameId +');\"><option value = \"\"> -- Select Team -- </option><option value=\"' + awayTeamVal + '\">' + awayTeam + ' ' + awaySide + spread + '</option><option value=\"' + homeTeamVal + '\">' + homeTeam + ' ' + homeSide + spread + '</option></select>'; 	
 			  }
