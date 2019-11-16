@@ -9,7 +9,7 @@
 		"game15" : "NOVA",
 		"game16" : "MARQ",
 		"game17" : "SETON",
-		"game18" : "",
+		"game18" : "GONZ",
 		"game19" : "",
 		"game20" : ""
     },
@@ -22,7 +22,7 @@
 		"game15" : "NOVA",
 		"game16" : "MARQ",
 		"game17" : "MSU",
-		"game18" : "",
+		"game18" : "GONZ",
 		"game19" : "",
 		"game20" : ""
     },
@@ -35,7 +35,7 @@
 		"game15" : "NOVA",
 		"game16" : "PURD",
 		"game17" : "MSU",
-		"game18" : "",
+		"game18" : "GONZ",
 		"game19" : "",
 		"game20" : ""
     },
@@ -48,7 +48,7 @@
 		"game15" : "NOVA",
 		"game16" : "PURD",
 		"game17" : "SETON",
-		"game18" : "",
+		"game18" : "GONZ",
 		"game19" : "",
 		"game20" : ""
     },
@@ -61,7 +61,7 @@
 		"game15" : "OSU",
 		"game16" : "PURD",
 		"game17" : "MSU",
-		"game18" : "",
+		"game18" : "TXAM",
 		"game19" : "",
 		"game20" : ""
     },
@@ -74,7 +74,7 @@
 		"game15" : "OSU",
 		"game16" : "MARQ",
 		"game17" : "MSU",
-		"game18" : "",
+		"game18" : "TXAM",
 		"game19" : "",
 		"game20" : ""
     },    
@@ -87,7 +87,7 @@
 		"game15" : "NOVA",
 		"game16" : "PURD",
 		"game17" : "MSU",
-		"game18" : "",
+		"game18" : "GONZ",
 		"game19" : "",
 		"game20" : ""
     },
@@ -100,7 +100,7 @@
 		"game15" : "NOVA",
 		"game16" : "MARQ",
 		"game17" : "SETON",
-		"game18" : "",
+		"game18" : "TXAM",
 		"game19" : "",
 		"game20" : ""
     },	
@@ -139,7 +139,7 @@
 		"game15" : "OSU",
 		"game16" : "MARQ",
 		"game17" : "MSU",
-		"game18" : "",
+		"game18" : "GONZ",
 		"game19" : "",
 		"game20" : ""
     },
@@ -152,7 +152,7 @@
 		"game15" : "OSU",
 		"game16" : "PURD",
 		"game17" : "",
-		"game18" : "",
+		"game18" : "GONZ",
 		"game19" : "",
 		"game20" : ""
     },
@@ -165,7 +165,7 @@
 		"game15" : "OSU",
 		"game16" : "MARQ",
 		"game17" : "MSU",
-		"game18" : "",
+		"game18" : "GONZ",
 		"game19" : "",
 		"game20" : ""
     },
@@ -178,7 +178,7 @@
 		"game15" : "NOVA",
 		"game16" : "PURD",
 		"game17" : "MSU",
-		"game18" : "",
+		"game18" : "GONZ",
 		"game19" : "",
 		"game20" : ""
     },
@@ -191,7 +191,7 @@
 		"game15" : "NOVA",
 		"game16" : "PURD",
 		"game17" : "MSU",
-		"game18" : "",
+		"game18" : "GONZ",
 		"game19" : "",
 		"game20" : ""
     },
@@ -204,7 +204,7 @@
 		"game15" : "NOVA",
 		"game16" : "MARQ",
 		"game17" : "MSU",
-		"game18" : "",
+		"game18" : "TXAM",
 		"game19" : "",
 		"game20" : ""
     },
@@ -216,7 +216,7 @@
 		"game14" : "LSU",
 		"game15" : "OSU",
 		"game16" : "PURD",
-		"game17" : "",
+		"game17" : "GONZ",
 		"game18" : "",
 		"game19" : "",
 		"game20" : ""
@@ -230,7 +230,7 @@
 		"game15" : "OSU",
 		"game16" : "PURD",
 		"game17" : "MSU",
-		"game18" : "",
+		"game18" : "GONZ",
 		"game19" : "",
 		"game20" : ""
     },
@@ -243,7 +243,7 @@
 		"game15" : "NOVA",
 		"game16" : "MARQ",
 		"game17" : "MSU",
-		"game18" : "",
+		"game18" : "GONZ",
 		"game19" : "",
 		"game20" : ""
     },
@@ -256,7 +256,7 @@
 		"game15" : "NOVA",
 		"game16" : "PURD",
 		"game17" : "MSU",
-		"game18" : "",
+		"game18" : "GONZ",
 		"game19" : "",
 		"game20" : ""
     },
@@ -269,7 +269,7 @@
 		"game15" : "OSU",
 		"game16" : "PURD",
 		"game17" : "MSU",
-		"game18" : "",
+		"game18" : "GONZ",
 		"game19" : "",
 		"game20" : ""
     },
@@ -282,7 +282,7 @@
 		"game15" : "NOVA",
 		"game16" : "MARQ",
 		"game17" : "SETON",
-		"game18" : "",
+		"game18" : "GONZ",
 		"game19" : "",
 		"game20" : ""
     },
@@ -295,7 +295,7 @@
 		"game15" : "NOVA",
 		"game16" : "MARQ",
 		"game17" : "MSU",
-		"game18" : "",
+		"game18" : "GONZ",
 		"game19" : "",
 		"game20" : ""
     },
@@ -321,7 +321,7 @@
 		"game15" : "OSU",
 		"game16" : "PURD",
 		"game17" : "MSU",
-		"game18" : "",
+		"game18" : "GONZ",
 		"game19" : "",
 		"game20" : ""
     },

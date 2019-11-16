@@ -45,7 +45,7 @@
 		"homeTeam" : 100,
 		"awayTeam" : 78,
 		"favorite" : 100,
-		"spread" : 3.5,
+		"spread" : 2.5,
 		"gameTime" : "2019-11-14T00:00Z",
 		"channel": "FS1",
 		"cover" : 100
@@ -55,7 +55,7 @@
 		"homeTeam" : 74,
 		"awayTeam" : 102,
 		"favorite" : 74,
-		"spread" : 2.5,
+		"spread" : 1.5,
 		"gameTime" : "2019-11-14T02:00Z",
 		"channel": "FS1",
 		"cover" : 74
@@ -65,7 +65,7 @@
 		"homeTeam" : 76,
 		"awayTeam" : 96,
 		"favorite" : 96,
-		"spread" : 6.5,
+		"spread" : 5.5,
 		"gameTime" : "2019-11-15T01:30:00Z",
 		"channel": "FS1",
 		"cover" : 76
