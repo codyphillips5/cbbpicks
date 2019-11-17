@@ -97,7 +97,8 @@
 		"favorite" : 104,
 		"spread" : 1.5,
 		"gameTime" : "2019-11-17T18:00:00Z",
-		"channel": "FS1"
+		"channel": "FS1",
+		"cover" : 104
     }
   ]
 }
