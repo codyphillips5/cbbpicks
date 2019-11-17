@@ -149,7 +149,7 @@ attempt = {
 				  choices[i].game = id;
 				  choices[i].spread = attempt.thisTeamImg;
 				  console.log("logo: " + choices[i].spread);
-				  document.getElementById("image" + id).innerHTML = `<img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/ncaaf/teams/retina/${choices[i].spread}.vresize.200.200.medium.2.png">`;
+				  document.getElementById("image" + id).innerHTML = `<img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${choices[i].spread}.vresize.200.200.medium.2.png">`;
 				  game.game = id;
 			  }
 		  }
