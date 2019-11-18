@@ -2,16 +2,16 @@
   "picks": [
     {
 		"userId" : 1,
-		"game11" : "MICH",
-		"game12" : "XAV",
-		"game13" : "ORE",
-		"game14" : "LSU",
-		"game15" : "NOVA",
-		"game16" : "MARQ",
-		"game17" : "SETON",
-		"game18" : "GONZ",
-		"game19" : "TENN",
-		"game20" : "WIS"
+		"game1" : "MICH",
+		"game2" : "XAV",
+		"game3" : "ORE",
+		"game4" : "LSU",
+		"game5" : "NOVA",
+		"game6" : "MARQ",
+		"game7" : "SETON",
+		"game8" : "GONZ",
+		"game9" : "TENN",
+		"game10" : "WIS"
     },
     {
 		"userId" : 2,
