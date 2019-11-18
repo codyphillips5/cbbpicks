@@ -48,7 +48,7 @@ function getResultsByWeek(week) {
 			}
 		}
 	});
-	
+
 	$.when(getPicks, getResults, getTeams, getUsers).then(function(){
 		var tableStart = `<table class="table table-hover" id="results"><thead><tr><th scope="col">Name</th>`;
 		var tableGames;
@@ -103,7 +103,8 @@ function getResultsByWeek(week) {
 							}
 						}
 					}
-					if(coversTeam.includes(pick)) {
+
+					if(coversTeam[pointTotals-1] == pick) {
 						isCorrect = "success";
 						pointTotal = pointTotal+1;
 					}
