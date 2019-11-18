@@ -25,6 +25,7 @@ function getResultsByWeek(week) {
 		for (var result in resultsList) {
 			for (var r = 0; r < resultsList[result].length; r++) {
 				coversNum.push(resultsList[result][r].cover);
+				console.log(coversNum);
 			}
 		}
 	});
@@ -48,7 +49,7 @@ function getResultsByWeek(week) {
 			}
 		}
 	});
-
+	console.log(coversTeam);
 	$.when(getPicks, getResults, getTeams, getUsers).then(function(){
 		var tableStart = `<table class="table table-hover" id="results"><thead><tr><th scope="col">Name</th>`;
 		var tableGames;
@@ -103,8 +104,7 @@ function getResultsByWeek(week) {
 							}
 						}
 					}
-
-					if(coversTeam[pointTotals-1] == pick) {
+					if(coversTeam.includes(pick)) {
 						isCorrect = "success";
 						pointTotal = pointTotal+1;
 					}
