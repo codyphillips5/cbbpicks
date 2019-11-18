@@ -12,8 +12,6 @@ attempt = {
 	  thisTeamImg : ""
   };
   
-  var choices = [{teamAbb: "", fullTeam: "", game: "", spread : "", pts : "50"}, {teamAbb: "", fullTeam: "", game: "", spread : "", pts : "40"}, {teamAbb: "", fullTeam: "", game: "", spread : "", pts : "30"}, {teamAbb: "", fullTeam: "", game: "", spread : "", pts : "20"}, {teamAbb: "", fullTeam: "", game: "", spread : "", pts : "10"}];
-  
   var gameId = "";
   var home = "";
   var homeTeam = "";
@@ -86,24 +84,21 @@ attempt = {
 			  }
 			  badge.className = 'games-layout';	
 			  if (xFile[key][i].cover) {
-				  var select = '<h4><b>Game settled<b></h4>';
+				  var select = `<img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${awayTeamImage}.vresize.25.25.medium.2.png"> - ${xFile[key][i].awayScore} <br> <img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${homeTeamImage}.vresize.25.25.medium.2.png"> - ${xFile[key][i].homeScore}`
+				  if (xFile[key][i].cover == home)
+				  select = select + `<h6><b>Cover: <img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${homeTeamImage}.vresize.25.25.medium.2.png"> ${homeTeam} ${homeTeamMascot}<b></h6>`;
+				  else if (xFile[key][i].cover == away)
+					  var select = select + `<h6><b>Cover: <img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${awayTeamImage}.vresize.25.25.medium.2.png"> ${awayTeam} ${awayTeamMascot}<b></h6>`;
 			  }
 			  else if (spread == "-") {
-				  var select = '<h4><b>Game upcoming<b></h4>';
+				  var select = '';
 			  }
 			  else {
 				 var select = '<select class=\'teamlist\' id=\'game' + gameId + '\' onchange=\"assignPointsByTeam(' + gameId +');\"><option value = \"\"> -- Select Team -- </option><option value=\"' + awayTeamVal + '\">' + awayTeam + ' ' + awaySide + spread + '</option><option value=\"' + homeTeamVal + '\">' + homeTeam + ' ' + homeSide + spread + '</option></select>'; 	
 			  }
 			  var header = '<span class=\'header\'><h4>' + awayTeam + ' vs ' + homeTeam + ' (' + homeSide + spread + ') </h4>';
-			  var gameInfo = '<sub> '+ channel + " · " + date.toLocaleString([], {weekday: 'long', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit'}).replace(',',' ·') + '</sub><br><br>';
-			  var display = '<div id=\"point_totals_game_' + gameId + '\" style=\"display:none;\">';
-			  var numbers = [5, 4, 3, 2, 1];
-			  /*var radios = [];
-			  for (var j = 0; j < numbers.length; j++) {
-					var radio = '<label class="radio-inline font-weight-bold"><input type=\"radio\" onchange=\"assignPointsByTeam(this.value, ' + gameId +');\" name=\"pick_worth\" value=' + numbers[j] + '0>' + numbers[j] + '0</label>'
-				  radios.push(radio);
-			  }*/
-			  badge.innerHTML = '<form>' + header + gameInfo + select + '<br>'+ display + '</form>';		
+			  var gameInfo = '<sub> '+ channel + " · " + date.toLocaleString([], {weekday: 'long', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit'}).replace(',',' ·') + '</sub><br>';
+			  badge.innerHTML = '<form>' + header + gameInfo + select + '</form>';		
 			  document.getElementById(key).appendChild(badge);
 		  }
 	  }
@@ -156,58 +151,9 @@ attempt = {
 	  });
 	  document.getElementById("seasongame" + id).value = game.team;
   }
-  /*
-  function showPointTotals(divId, element){
-	  document.getElementById(divId).style.display = element.value != "" ? 'block' : 'none';
-	  var gm = divId.substring(divId.lastIndexOf("_") + 1);
-	  console.log(choices);
-	  for (i = 0; i < choices.length; i++) {
-		  // only allow a team to be chosen once
-		  if (choices[i].game == gm){ 
-			  if (element.value != choices[i].teamAbb) {
-				  if (choices[i].pts) {
-					  document.getElementById(choices[i].pts).value = "";
-					  document.getElementById("label-choice-" + choices[i].pts).innerHTML = `<label for="${choices[i].pts}" class="choice"></label>`;
-					  document.getElementById("image" + choices[i].pts).innerHTML = ``;
-					  choices[i].teamAbb = "";
-					  choices[i].fullTeam = "";
-					  choices[i].game = "";
-					  choices[i].spread = "";
-				  }
-			  }
-		  }
-	  }
-  
-	  var inputs = document.getElementById("point_totals_game_" + gm).getElementsByTagName("input");
-	  for (j = 0; j < inputs.length; j++) {
-		  inputs[j].checked = false;
-	  }
-	  game.team = element.value;
-	  game.game = gm;
-  }*/
   
   function setTeam(element) {
 	  game.team = element.value;
-  }
-  
-  // save picks
-  const savePicks = document.querySelector('#save_picks');
-  if(savePicks) {
-	  savePicks.addEventListener('submit', (e) => {
-		  try {
-			  e.preventDefault();
-			  const fifty = document.getElementById('50').value;
-			  const forty = document.getElementById('40').value;
-			  const thirty = document.getElementById('30').value;
-			  const twenty = document.getElementById('20').value;
-			  const ten = document.getElementById('10').value;
-			  console.log(fifty);
-		  }
-		  catch (err) {
-			  console.log(err);
-			  console.log(err.message);
-		  }
-	  })
   }
   
  function getTeamInfo(teamId) {
