@@ -4,16 +4,17 @@ var coversNum = [];
 var coversTeam = [];
 
 var picksList, teamsList, resultsList, usersList;
-//var badge = document.createElement('div');
-//badge.className = 'standings';
-//var select = `<select class='form-control' id='results_by_week' onchange="getResultsByWeek(this.value);"><option value =''> Select Week </option><option value ='1'> Week 1 </option><option value ='2'> Week 2 </option></select>`;
-//badge.innerHTML = '<form>' + select + '</form>';		
-//document.getElementById("weeks").appendChild(badge);
+var badge = document.createElement('div');
+badge.className = 'standings';
+var select = `<select class='form-control' id='results_by_week' onchange="getResultsByWeek(this.value);"><option value ='2'> Week 2 </option><option value ='1'> Week 1 </option></select>`;
+badge.innerHTML = '<form>' + select + '</form>';		
+document.getElementById("weeks").appendChild(badge);
 
-getResultsByWeek(1);
+
+getResultsByWeek(2);
+
 
 function getResultsByWeek(week) {
-	console.log(week);
 	var getPicks = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week"+ week +"_picks.json", function(json){
 		picksList = json;
 	});
@@ -24,7 +25,6 @@ function getResultsByWeek(week) {
 		for (var result in resultsList) {
 			for (var r = 0; r < resultsList[result].length; r++) {
 				coversNum.push(resultsList[result][r].cover);
-				console.log(resultsList[result][r].cover);
 			}
 		}
 	});
@@ -48,10 +48,32 @@ function getResultsByWeek(week) {
 			}
 		}
 	});
-	console.log(coversTeam);
+	
 	$.when(getPicks, getResults, getTeams, getUsers).then(function(){
-		console.log("Here");
-		var tableStart = `<table class="table table-hover" id="results"><thead><tr><th scope="col">Name</th><th scope="col">Game 1</th><th scope="col">Game 2</th><th scope="col">Game 3</th><th scope="col">Game 4</th><th scope="col">Game 5</th><th scope="col">Game 6</th><th scope="col">Game 7</th><th scope="col">Game 8</th><th scope="col">Game 9</th><th scope="col">Game 10</th><th scope="col">Total</th></tr></thead><tbody>`;
+		var tableStart = `<table class="table table-hover" id="results"><thead><tr><th scope="col">Name</th>`;
+		var tableGames;
+		var home, away;
+		// loop through week's game
+		for (var result in resultsList) {
+			for (var r = 0; r < resultsList[result].length; r++) {
+				home = resultsList[result][r].homeTeam;
+				away = resultsList[result][r].awayTeam;
+				// match week's teams with teams stored
+				for (var weekTeam in teamsList) {
+					for (var goo = 0; goo < teamsList[weekTeam].length; goo++) {
+						if (home == teamsList[weekTeam][goo].teamId) {
+							home = teamsList[weekTeam][goo].teamValue;
+						}
+						if (away == teamsList[weekTeam][goo].teamId) {
+							away = teamsList[weekTeam][goo].teamValue;
+						}
+					}
+				}
+				tableGames = tableGames + `<th scope="col">${away} vs ${home}</th>`;
+			}
+		}
+		
+		tableStart = tableStart + tableGames + `<th scope="col">Total</th></tr></thead><tbody>`;
 	
 		for (var key in picksList) {
 			for (var i = 0; i < picksList[key].length; i++) {
@@ -60,6 +82,7 @@ function getResultsByWeek(week) {
 				var isCorrect;
 	
 				var user = picksList[key][i].userId;
+				var teamImage = "";
 				// get user info
 				for (var k in usersList) {
 					for (var j = 0; j < usersList[k].length; j++) {
@@ -71,27 +94,37 @@ function getResultsByWeek(week) {
 				}
 				var tableUser = tableUser + `<tr><th>${firstName + " " + lastName}</th>`;
 				// check user picks against results
-				console.log(coversTeam);
 				for (var pointTotals = 1; pointTotals <= 10; pointTotals++) {
-					if(coversTeam.includes(picksList[key][i]["game"+pointTotals])) {
+					var pick = picksList[key][i]["game"+pointTotals];
+					for (var team in teamsList) {
+						for (var num = 0; num < teamsList[team].length; num++) {	
+							if (pick == teamsList[team][num].teamValue) {
+								teamImage = teamsList[team][num].teamImage;
+							}
+						}
+					}
+					if(coversTeam.includes(pick)) {
 						isCorrect = "success";
 						pointTotal = pointTotal+1;
 					}
 					else {
 						isCorrect = "danger";				
 					}
-					tableUser = tableUser + `<td class="${isCorrect}">${picksList[key][i]["game"+pointTotals]}</td>`;
+					if (teamImage)
+						pick = ` <center><img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${teamImage}.vresize.75.75.medium.2.png"></center>`;
+					tableUser = tableUser + `<td class="${isCorrect}">${pick}</td>`;
+					teamImage = "";
 				}
 				//calculate score			
 				tableUser = tableUser + `<td>${pointTotal}</td></tr>`;
 			}
 		}
 		tableUser = tableUser.replace("undefined","");
+		tableStart = tableStart.replace("undefined","");
 		var tableEnd = `</tbody></table>`;	
 		document.getElementById("standings").innerHTML = tableStart + tableUser + tableEnd;
 		sortTable(11);
 	});
-	console.log("end");
 }
 
 function sortTable(n) {
