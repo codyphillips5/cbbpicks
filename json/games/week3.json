@@ -5,7 +5,7 @@
 		"homeTeam" : 270,
 		"awayTeam" : 17,
 		"favorite" : 270,
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2019-11-21T00:00Z",
 		"channel": "SECN"
 	}
