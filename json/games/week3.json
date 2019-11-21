@@ -7,7 +7,73 @@
 		"favorite" : 270,
 		"spread" : 4.5,
 		"gameTime" : "2019-11-21T00:00Z",
-		"channel": "SECN"
+		"channel": "SECN+",
+		"homeScore" : 82,
+		"awayScore" : 78,
+		"cover" : 17
+	},
+	{
+		"gameId" : 22,
+		"homeTeam" : 73,
+		"awayTeam" : 67,
+		"favorite" : 67,
+		"spread" : 4.5,
+		"gameTime" : "2019-11-22T00:00Z",
+		"channel": ""
+	},
+	{
+		"gameId" : 23,
+		"homeTeam" : "TBD",
+		"awayTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2019-11-22T17:00Z",
+		"channel": "Charleston Classic"
+	},
+	{
+		"gameId" : 24,
+		"homeTeam" : "TBD",
+		"awayTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2019-11-22T19:30Z",
+		"channel": "Myrtle Beach Inv."
+	},
+	{
+		"gameId" : 25,
+		"homeTeam" : "TBD",
+		"awayTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2019-11-22T22:00Z",
+		"channel": "2K Empire Classic"
+	}
+	{
+		"gameId" : 26,
+		"homeTeam" : "TBD",
+		"awayTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2019-11-22T22:00Z",
+		"channel": "Myrtle Beach Inv."
+	},
+	{
+		"gameId" : 27,
+		"homeTeam" : 220,
+		"awayTeam" : 272,
+		"favorite" : 220,
+		"spread" : "-",
+		"gameTime" : "2019-11-23T00:00Z",
+		"channel": "CBSSN"
+	},
+	{
+		"gameId" : 28,
+		"homeTeam" : "TBD",
+		"awayTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2019-11-23T02:30Z",
+		"channel": "Charleston Classic"
 	}
   ]
 }
