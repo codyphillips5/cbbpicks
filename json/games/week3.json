@@ -23,36 +23,36 @@
 	},
 	{
 		"gameId" : 23,
-		"homeTeam" : "TBD",
-		"awayTeam" : "TBD",
-		"favorite" : "TBD",
+		"homeTeam" : 0,
+		"awayTeam" : 0,
+		"favorite" : 0,
 		"spread" : "-",
 		"gameTime" : "2019-11-22T17:00Z",
 		"channel": "Charleston Classic"
 	},
 	{
 		"gameId" : 24,
-		"homeTeam" : "TBD",
-		"awayTeam" : "TBD",
-		"favorite" : "TBD",
+		"homeTeam" : 0,
+		"awayTeam" : 0,
+		"favorite" : 0,
 		"spread" : "-",
 		"gameTime" : "2019-11-22T19:30Z",
 		"channel": "Myrtle Beach Inv."
 	},
 	{
 		"gameId" : 25,
-		"homeTeam" : "TBD",
-		"awayTeam" : "TBD",
-		"favorite" : "TBD",
+		"homeTeam" : 0,
+		"awayTeam" : 0,
+		"favorite" : 0,
 		"spread" : "-",
 		"gameTime" : "2019-11-22T22:00Z",
 		"channel": "2K Empire Classic"
 	},
 	{
 		"gameId" : 26,
-		"homeTeam" : "TBD",
-		"awayTeam" : "TBD",
-		"favorite" : "TBD",
+		"homeTeam" : 0,
+		"awayTeam" : 0,
+		"favorite" : 0,
 		"spread" : "-",
 		"gameTime" : "2019-11-22T22:00Z",
 		"channel": "Myrtle Beach Inv."
@@ -68,9 +68,9 @@
 	},
 	{
 		"gameId" : 28,
-		"homeTeam" : "TBD",
-		"awayTeam" : "TBD",
-		"favorite" : "TBD",
+		"homeTeam" : 0,
+		"awayTeam" : 0,
+		"favorite" : 0,
 		"spread" : "-",
 		"gameTime" : "2019-11-23T02:30Z",
 		"channel": "Charleston Classic"
