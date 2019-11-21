@@ -1,6 +1,13 @@
 {
   "teams": [
     {
+		"teamId" : 0,
+		"team" : "TBD",
+		"teamMascot" : "TBD",
+		"teamValue" : "TBD",
+		"teamImage" : 0
+    },
+    {
 		"teamId" : 1,
 		"team" : "Cincinnati",
 		"teamMascot" : "Bearcats",
