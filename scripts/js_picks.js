@@ -90,9 +90,9 @@ attempt = {
 				  var awayScore = `<br><img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${awayTeamImage}.vresize.25.25.medium.2.png"> ${awayTeam} ${awayTeamMascot} - ${xFile[key][i].awayScore}`
 				  var homeScore = `<br> <img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${homeTeamImage}.vresize.25.25.medium.2.png"> ${homeTeam} ${homeTeamMascot} - ${xFile[key][i].homeScore}`
 				  if (xFile[key][i].cover == home)
-				  homeScore = `${homeScore}   <span style="color:green" class="glyphicon glyphicon-triangle-left"></span>`;
+				  homeScore = `${homeScore}   <span style="color:green" class="glyphicon glyphicon-piggy-bank"></span>`;
 				  else if (xFile[key][i].cover == away)
-					  awayScore = `${awayScore}   <span style="color:green" class="glyphicon glyphicon-triangle-left"></span>`;
+					  awayScore = `${awayScore}   <span style="color:green" class="glyphicon glyphicon-piggy-bank"></span>`;
 				  select = awayScore + homeScore;
 				  gameInfo = '<sub><b>FINAL</b></sub>'
 			  }
