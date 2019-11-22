@@ -44,15 +44,6 @@
 	},
 	{
 		"gameId" : 25,
-		"homeTeam" : 0,
-		"awayTeam" : 0,
-		"favorite" : 0,
-		"spread" : "-",
-		"gameTime" : "2019-11-22T22:00Z",
-		"channel": "2K Empire Classic"
-	},
-	{
-		"gameId" : 27,
 		"homeTeam" : 220,
 		"awayTeam" : 272,
 		"favorite" : 220,
@@ -61,7 +52,16 @@
 		"channel": "CBSSN"
 	},
 	{
-		"gameId" : 28,
+		"gameId" : 26,
+		"homeTeam" : 248,
+		"awayTeam" : 4,
+		"favorite" : 248,
+		"spread" : 7.5,
+		"gameTime" : "2019-11-23T02:00Z",
+		"channel": "PAC12"
+	},
+	{
+		"gameId" : 27,
 		"homeTeam" : 2,
 		"awayTeam" : 79,
 		"favorite" : 79,
@@ -70,13 +70,31 @@
 		"channel": "Charleston Classic"
 	},
 	{
-		"gameId" : 26,
-		"homeTeam" : 248,
-		"awayTeam" : 4,
-		"favorite" : 248,
-		"spread" : 7.5,
-		"gameTime" : "2019-11-22T22:00Z",
-		"channel": "PAC12"
+		"gameId" : 28,
+		"homeTeam" : 5,
+		"awayTeam" : 275,
+		"favorite" : 5,
+		"spread" : "-",
+		"gameTime" : "2019-11-23T18:00Z",
+		"channel": "ESPN3"
+	},
+	{
+		"gameId" : 29,
+		"homeTeam" : 0,
+		"awayTeam" : 0,
+		"favorite" : 0,
+		"spread" : "-",
+		"gameTime" : "2019-11-23T22:00Z",
+		"channel": "Myrtle Beach Champ."
+	},
+	{
+		"gameId" : 30,
+		"homeTeam" : 0,
+		"awayTeam" : 0,
+		"favorite" : 0,
+		"spread" : "-",
+		"gameTime" : "2019-11-23T18:30Z",
+		"channel": "Charleston Classic Champ."
 	}
   ]
 }
