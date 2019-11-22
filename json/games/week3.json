@@ -74,7 +74,7 @@
 		"homeTeam" : 5,
 		"awayTeam" : 275,
 		"favorite" : 5,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2019-11-23T18:00Z",
 		"channel": "ESPN3"
 	},
