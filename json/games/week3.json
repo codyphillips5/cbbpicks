@@ -31,7 +31,10 @@
 		"favorite" : 269,
 		"spread" : 3.5,
 		"gameTime" : "2019-11-22T17:00Z",
-		"channel": "ESPN2"
+		"channel": "ESPN2",
+		"homeScore" : 78,
+		"awayScore" : 58,
+		"cover" : 269
 	},
 	{
 		"gameId" : 24,
@@ -40,7 +43,10 @@
 		"favorite" : 78,
 		"spread" : 7.5,
 		"gameTime" : "2019-11-22T19:30Z",
-		"channel": "ESPN2"
+		"channel": "ESPN2",
+		"homeScore" : 76,
+		"awayScore" : 83,
+		"cover" : 273
 	},
 	{
 		"gameId" : 25,
