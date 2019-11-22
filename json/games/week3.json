@@ -38,7 +38,7 @@
 		"homeTeam" : 273,
 		"awayTeam" : 78,
 		"favorite" : 78,
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2019-11-22T19:30Z",
 		"channel": "ESPN2"
 	},
