@@ -55,7 +55,10 @@
 		"favorite" : 220,
 		"spread" : 1.5,
 		"gameTime" : "2019-11-23T00:00Z",
-		"channel": "CBSSN"
+		"channel": "CBSSN",
+		"homeScore" : 80,
+		"awayScore" : 78,
+		"cover" : 220
 	},
 	{
 		"gameId" : 26,
@@ -64,7 +67,10 @@
 		"favorite" : 248,
 		"spread" : 7.5,
 		"gameTime" : "2019-11-23T02:00Z",
-		"channel": "PAC12"
+		"channel": "PAC12",
+		"homeScore" : 78,
+		"awayScore" : 66,
+		"cover" : 248
 	},
 	{
 		"gameId" : 27,
@@ -73,7 +79,10 @@
 		"favorite" : 79,
 		"spread" : 3.5,
 		"gameTime" : "2019-11-23T02:30Z",
-		"channel": "ESPNU"
+		"channel": "ESPNU",
+		"homeScore" : 75,
+		"awayScore" : 74,
+		"cover" : 2
 	},
 	{
 		"gameId" : 28,
@@ -86,21 +95,21 @@
 	},
 	{
 		"gameId" : 29,
-		"homeTeam" : 0,
-		"awayTeam" : 0,
-		"favorite" : 0,
+		"homeTeam" : 60,
+		"awayTeam" : 78,
+		"favorite" : 78,
 		"spread" : "-",
 		"gameTime" : "2019-11-24T22:00Z",
-		"channel": "Myrtle Beach Champ."
+		"channel": "ESPN"
 	},
 	{
 		"gameId" : 30,
-		"homeTeam" : 0,
-		"awayTeam" : 0,
-		"favorite" : 0,
+		"homeTeam" : 79,
+		"awayTeam" : 269,
+		"favorite" : 79,
 		"spread" : "-",
 		"gameTime" : "2019-11-25T01:30Z",
-		"channel": "Charleston Classic Champ."
+		"channel": "ESPN"
 	}
   ]
 }
