@@ -91,7 +91,10 @@
 		"favorite" : 5,
 		"spread" : 3.5,
 		"gameTime" : "2019-11-23T18:00Z",
-		"channel": "ESPN3"
+		"channel": "ESPN3",
+		"homeScore" : 87,
+		"awayScore" : 86,
+		"cover" : 275
 	},
 	{
 		"gameId" : 29,
