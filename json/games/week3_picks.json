@@ -10,8 +10,8 @@
 		"game6" : "ORE",
 		"game7" : "XAV",
 		"game8" : "MEM",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "NOVA",
+		"game10" : "XAV"
     },
     {
 		"userId" : 2,
@@ -23,8 +23,8 @@
 		"game6" : "ORE",
 		"game7" : "XAV",
 		"game8" : "MEM",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "BU",
+		"game10" : "FLA"
     },
     {
 		"userId" : 3,
@@ -36,8 +36,8 @@
 		"game6" : "ORE",
 		"game7" : "UCONN",
 		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "NOVA",
+		"game10" : "XAV"
     },
 	{
 		"userId" : 4,
@@ -49,8 +49,8 @@
 		"game6" : "ORE",
 		"game7" : "XAV",
 		"game8" : "MEM",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "BU",
+		"game10" : "FLA"
     },
 	{
 		"userId" : 5,
@@ -62,8 +62,8 @@
 		"game6" : "ORE",
 		"game7" : "XAV",
 		"game8" : "MEM",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "NOVA",
+		"game10" : "XAV"
     },
 	{
 		"userId" : 6,
@@ -75,8 +75,8 @@
 		"game6" : "ORE",
 		"game7" : "XAV",
 		"game8" : "MEM",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "NOVA",
+		"game10" : "FLA"
     },    
 	{
 		"userId" : 7,
@@ -88,8 +88,8 @@
 		"game6" : "HOU",
 		"game7" : "XAV",
 		"game8" : "MEM",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "NOVA",
+		"game10" : "XAV"
     },
 	{
 		"userId" : 8,
@@ -101,8 +101,8 @@
 		"game6" : "ORE",
 		"game7" : "XAV",
 		"game8" : "MISS",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "NOVA",
+		"game10" : "XAV"
     },	
 	{
 		"userId" : 9,
@@ -127,8 +127,8 @@
 		"game6" : "ORE",
 		"game7" : "XAV",
 		"game8" : "MEM",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "NOVA",
+		"game10" : "XAV"
     },	
 	{
 		"userId" : 11,
@@ -140,8 +140,8 @@
 		"game6" : "ORE",
 		"game7" : "XAV",
 		"game8" : "MEM",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "NOVA",
+		"game10" : "FLA"
     },
 	{
 		"userId" : 12,
@@ -153,8 +153,8 @@
 		"game6" : "ORE",
 		"game7" : "XAV",
 		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "NOVA",
+		"game10" : "XAV"
     },
 	{
 		"userId" : 13,
@@ -166,8 +166,8 @@
 		"game6" : "ORE",
 		"game7" : "XAV",
 		"game8" : "MEM",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "NOVA",
+		"game10" : "FLA"
     },
 	{
 		"userId" : 14,
@@ -179,8 +179,8 @@
 		"game6" : "HOU",
 		"game7" : "XAV",
 		"game8" : "MEM",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "NOVA",
+		"game10" : "FLA"
     },
 	{
 		"userId" : 15,
@@ -205,8 +205,8 @@
 		"game6" : "ORE",
 		"game7" : "XAV",
 		"game8" : "MEM",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "NOVA",
+		"game10" : "XAV"
     },
 	{
 		"userId" : 17,
@@ -218,8 +218,8 @@
 		"game6" : "HOU",
 		"game7" : "UCONN",
 		"game8" : "MEM",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "NOVA",
+		"game10" : "FLA"
     },
 	{
 		"userId" : 18,
@@ -231,8 +231,8 @@
 		"game6" : "HOU",
 		"game7" : "XAV",
 		"game8" : "MEM",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "NOVA",
+		"game10" : "XAV"
     },
 	{
 		"userId" : 19,
@@ -244,8 +244,8 @@
 		"game6" : "HOU",
 		"game7" : "XAV",
 		"game8" : "MEM",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "NOVA",
+		"game10" : "FLA"
     },
 	{
 		"userId" : 20,
@@ -257,8 +257,8 @@
 		"game6" : "ORE",
 		"game7" : "XAV",
 		"game8" : "MEM",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "BU",
+		"game10" : "XAV"
     },
 	{
 		"userId" : 21,
@@ -270,8 +270,8 @@
 		"game6" : "HOU",
 		"game7" : "XAV",
 		"game8" : "MEM",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "NOVA",
+		"game10" : "FLA"
     },
 	{
 		"userId" : 22,
@@ -283,8 +283,8 @@
 		"game6" : "ORE",
 		"game7" : "XAV",
 		"game8" : "MISS",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "BU",
+		"game10" : "XAV"
     },
 	{
 		"userId" : 23,
@@ -296,8 +296,8 @@
 		"game6" : "ORE",
 		"game7" : "XAV",
 		"game8" : "MISS",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "NOVA",
+		"game10" : "XAV"
     },
 	{
 		"userId" : 24,
@@ -322,8 +322,8 @@
 		"game6" : "HOU",
 		"game7" : "XAV",
 		"game8" : "MEM",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "NOVA",
+		"game10" : "FLA"
     },
 	{
 		"userId" : 26,
