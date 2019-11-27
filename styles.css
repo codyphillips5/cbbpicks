@@ -55,7 +55,7 @@
   }
 }
 .selection {
-    width: 100%;
+    width: 50%;
     height: 178px;
     background: white;
     float: left;
@@ -149,4 +149,8 @@ h4{
 .teamlist {
     display: block;
     margin: 0 auto;
+}
+
+th, td {
+	white-space: nowrap;
 }
