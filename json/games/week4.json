@@ -32,12 +32,12 @@
 	},
 	{
 		"gameId" : 34,
-		"homeTeam" : 0,
-		"awayTeam" : 0,
-		"favorite" : 0,
+		"homeTeam" : 20,
+		"awayTeam" : 95,
+		"favorite" : 20,
 		"spread" : "-",
 		"gameTime" : "2019-11-28T18:30Z",
-		"channel": "Battle 4 Atlantis | ESPN"
+		"channel": "ESPN"
 	},
 	{
 		"gameId" : 35,
