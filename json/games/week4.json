@@ -14,12 +14,39 @@
 	},
 	{
 		"gameId" : 32,
+		"homeTeam" : 62,
+		"awayTeam" : 38,
+		"favorite" : 62,
+		"spread" : 4.5,
+		"gameTime" : "2019-11-27T22:00Z",
+		"channel": "ESPN"
+	},
+	{
+		"gameId" : 33,
 		"homeTeam" : 248,
 		"awayTeam" : 76,
 		"favorite" : 248,
 		"spread" : 1.5,
 		"gameTime" : "2019-11-28T02:30Z",
 		"channel": "ESPN2"
+	},
+	{
+		"gameId" : 34,
+		"homeTeam" : 0,
+		"awayTeam" : 0,
+		"favorite" : 0,
+		"spread" : "-",
+		"gameTime" : "2019-11-28T18:30Z",
+		"channel": "Battle 4 Atlantis | ESPN"
+	},
+	{
+		"gameId" : 35,
+		"homeTeam" : 0,
+		"awayTeam" : 0,
+		"favorite" : 0,
+		"spread" : "-",
+		"gameTime" : "2019-11-28T21:00Z",
+		"channel": "Battle 4 Atlantis | ESPN"
 	}
   ]
 }
