@@ -103,10 +103,10 @@
 		"game8" : "",
 		"game9" : "",
 		"game10" : ""
-    },	
+    },
 	{
 		"userId" : 9,
-		"game1" : "",
+		"game1" : "VT",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -119,19 +119,6 @@
     },	
 	{
 		"userId" : 10,
-		"game1" : "VT",
-		"game2" : "",
-		"game3" : "",
-		"game4" : "",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
-    },	
-	{
-		"userId" : 11,
 		"game1" : "DAY",
 		"game2" : "",
 		"game3" : "",
@@ -144,8 +131,21 @@
 		"game10" : ""
     },
 	{
-		"userId" : 12,
+		"userId" : 11,
 		"game1" : "VT",
+		"game2" : "",
+		"game3" : "",
+		"game4" : "",
+		"game5" : "",
+		"game6" : "",
+		"game7" : "",
+		"game8" : "",
+		"game9" : "",
+		"game10" : ""
+    },
+	{
+		"userId" : 12,
+		"game1" : "DAY",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -210,7 +210,7 @@
     },
 	{
 		"userId" : 17,
-		"game1" : "DAY",
+		"game1" : "",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -223,7 +223,7 @@
     },
 	{
 		"userId" : 18,
-		"game1" : "",
+		"game1" : "DAY",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -249,7 +249,7 @@
     },
 	{
 		"userId" : 20,
-		"game1" : "DAY",
+		"game1" : "VT",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -288,46 +288,7 @@
     },
 	{
 		"userId" : 23,
-		"game1" : "VT",
-		"game2" : "",
-		"game3" : "",
-		"game4" : "",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
-    },
-	{
-		"userId" : 24,
-		"game1" : "",
-		"game2" : "",
-		"game3" : "",
-		"game4" : "",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
-    },
-	{
-		"userId" : 25,
 		"game1" : "DAY",
-		"game2" : "",
-		"game3" : "",
-		"game4" : "",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
-    },
-	{
-		"userId" : 26,
-		"game1" : "",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
