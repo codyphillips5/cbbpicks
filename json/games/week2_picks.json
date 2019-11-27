@@ -103,22 +103,9 @@
 		"game8" : "TXAM",
 		"game9" : "TENN",
 		"game10" : "WIS"
-    },	
+    },
 	{
 		"userId" : 9,
-		"game1" : "",
-		"game2" : "",
-		"game3" : "",
-		"game4" : "",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
-    },	
-	{
-		"userId" : 10,
 		"game1" : "MICH",
 		"game2" : "XAV",
 		"game3" : "MEM",
@@ -131,7 +118,7 @@
 		"game10" : "WIS"
     },	
 	{
-		"userId" : 11,
+		"userId" : 10,
 		"game1" : "MICH",
 		"game2" : "XAV",
 		"game3" : "ORE",
@@ -144,7 +131,7 @@
 		"game10" : "MARQ"
     },
 	{
-		"userId" : 12,
+		"userId" : 11,
 		"game1" : "MICH",
 		"game2" : "XAV",
 		"game3" : "MEM",
@@ -157,7 +144,7 @@
 		"game10" : "WIS"
     },
 	{
-		"userId" : 13,
+		"userId" : 12,
 		"game1" : "CREIGH",
 		"game2" : "XAV",
 		"game3" : "ORE",
@@ -170,7 +157,7 @@
 		"game10" : "MARQ"
     },
 	{
-		"userId" : 14,
+		"userId" : 13,
 		"game1" : "MICH",
 		"game2" : "XAV",
 		"game3" : "ORE",
@@ -183,7 +170,7 @@
 		"game10" : "WIS"
     },
 	{
-		"userId" : 15,
+		"userId" : 14,
 		"game1" : "MICH",
 		"game2" : "XAV",
 		"game3" : "ORE",
@@ -196,7 +183,7 @@
 		"game10" : "WIS"
     },
 	{
-		"userId" : 16,
+		"userId" : 15,
 		"game1" : "MICH",
 		"game2" : "XAV",
 		"game3" : "ORE",
@@ -209,7 +196,7 @@
 		"game10" : "MARQ"
     },
 	{
-		"userId" : 17,
+		"userId" : 16,
 		"game1" : "MICH",
 		"game2" : "XAV",
 		"game3" : "ORE",
@@ -222,7 +209,7 @@
 		"game10" : "MARQ"
     },
 	{
-		"userId" : 18,
+		"userId" : 17,
 		"game1" : "CREIGH",
 		"game2" : "XAV",
 		"game3" : "MEM",
@@ -235,7 +222,7 @@
 		"game10" : "WIS"
     },
 	{
-		"userId" : 19,
+		"userId" : 18,
 		"game1" : "MICH",
 		"game2" : "XAV",
 		"game3" : "ORE",
@@ -248,7 +235,7 @@
 		"game10" : ""
     },
 	{
-		"userId" : 20,
+		"userId" : 19,
 		"game1" : "MICH",
 		"game2" : "XAV",
 		"game3" : "MEM",
@@ -261,7 +248,7 @@
 		"game10" : "WIS"
     },
 	{
-		"userId" : 21,
+		"userId" : 20,
 		"game1" : "CREIGH",
 		"game2" : "MIZ",
 		"game3" : "ORE",
@@ -274,7 +261,7 @@
 		"game10" : "MARQ"
     },
 	{
-		"userId" : 22,
+		"userId" : 21,
 		"game1" : "MICH",
 		"game2" : "XAV",
 		"game3" : "ORE",
@@ -287,7 +274,7 @@
 		"game10" : "WIS"
     },
 	{
-		"userId" : 23,
+		"userId" : 22,
 		"game1" : "MICH",
 		"game2" : "XAV",
 		"game3" : "ORE",
@@ -300,20 +287,7 @@
 		"game10" : "WIS"
     },
 	{
-		"userId" : 24,
-		"game1" : "",
-		"game2" : "",
-		"game3" : "",
-		"game4" : "LSU",
-		"game5" : "NOVA",
-		"game6" : "MARQ",
-		"game7" : "SETON",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
-    },
-	{
-		"userId" : 25,
+		"userId" : 23,
 		"game1" : "MICH",
 		"game2" : "XAV",
 		"game3" : "MEM",
@@ -324,19 +298,6 @@
 		"game8" : "GONZ",
 		"game9" : "TENN",
 		"game10" : "MARQ"
-    },
-	{
-		"userId" : 26,
-		"game1" : "",
-		"game2" : "",
-		"game3" : "",
-		"game4" : "",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
     }
 	]
 }
