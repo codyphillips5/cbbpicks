@@ -4,157 +4,162 @@
 		"userId" : 1,
 		"FirstName" : "Keith",
 		"LastName" : "Phillips",
-		"Email" : "utvols42@yahoo.com"
+		"Email" : "utvols42@yahoo.com",
+		"paid" : true
     },
     {
 		"userId" : 2,
 		"FirstName" : "Danny",
 		"LastName" : "Telles",
-		"Email" : "dantelles0@gmail.com"
+		"Email" : "dantelles0@gmail.com",
+		"paid" : false
     },
 	{
 		"userId" : 3,
 		"FirstName" : "Austin",
 		"LastName" : "Tarvin",
-		"Email" : "tarvinaustin@gmail.com"
+		"Email" : "tarvinaustin@gmail.com",
+		"paid" : true
     },
 	{
 		"userId" : 4,
 		"FirstName" : "Luke",
 		"LastName" : "Nientimp",
-		"Email" : "lnientimp@gmail.com"
+		"Email" : "lnientimp@gmail.com",
+		"paid" : true
     },
 	{
 		"userId" : 5,
 		"FirstName" : "Kevin",
 		"LastName" : "Haasle",
-		"Email" : "haaskr2@yahoo.com"
+		"Email" : "haaskr2@yahoo.com",
+		"paid" : true
     },
 	{
 		"userId" : 6,
 		"FirstName" : "Zac",
 		"LastName" : "Gorman",
-		"Email" : "zacmgorman@gmail.com"
+		"Email" : "zacmgorman@gmail.com",
+		"paid" : false
     },
 	{
 		"userId" : 7,
 		"FirstName" : "Mario",
 		"LastName" : "Jansen",
-		"Email" : "jansenmariod@gmail.com"
+		"Email" : "jansenmariod@gmail.com",
+		"paid" : true
     },
 	{
 		"userId" : 8,
 		"FirstName" : "Sean",
 		"LastName" : "Deuber",
-		"Email" : "smdeuber@gmail.com"
+		"Email" : "smdeuber@gmail.com",
+		"paid" : true
     },
 	{
 		"userId" : 9,
-		"FirstName" : "Justin",
-		"LastName" : "Freedman",
-		"Email" : "jufreedm@teksystems.com"
-    },
-	{
-		"userId" : 10,
 		"FirstName" : "Daniel",
 		"LastName" : "Schwarz",
-		"Email" : "dschwarz730@gmail.com"
+		"Email" : "dschwarz730@gmail.com",
+		"paid" : true
     },	
 	{
-		"userId" : 11,
+		"userId" : 10,
 		"FirstName" : "Jarred",
 		"LastName" : "Perrmann",
-		"Email" : "jperrmann1@gmail.com"
+		"Email" : "jperrmann1@gmail.com",
+		"paid" : true
+    },
+	{
+		"userId" : 11,
+		"FirstName" : "Ian",
+		"LastName" : "Rothan",
+		"Email" : "ianrothan9@gmail.com",
+		"paid" : true
     },
 	{
 		"userId" : 12,
-		"FirstName" : "Ian",
-		"LastName" : "Rothan",
-		"Email" : "ianrothan9@gmail.com"
+		"FirstName" : "Cody",
+		"LastName" : "Phillips",
+		"Email" : "codyphill5@gmail.com",
+		"paid" : true
     },
 	{
 		"userId" : 13,
-		"FirstName" : "Cody",
-		"LastName" : "Phillips",
-		"Email" : "codyphill5@gmail.com"
+		"FirstName" : "Nick",
+		"LastName" : "Philthy",
+		"Email" : "nphilli8@gmail.com",
+		"paid" : true
     },
 	{
 		"userId" : 14,
-		"FirstName" : "Nick",
-		"LastName" : "Philthy",
-		"Email" : "nphilli8@gmail.com"
+		"FirstName" : "Brandon",
+		"LastName" : "Oathout",
+		"Email" : "brandon_oathout@yahoo.com",
+		"paid" : true
     },
 	{
 		"userId" : 15,
-		"FirstName" : "Brandon",
-		"LastName" : "Oathout",
-		"Email" : "brandon_oathout@yahoo.com"
+		"FirstName" : "David",
+		"LastName" : "Murray",
+		"Email" : "free23ty@yahoo.com",
+		"paid" : true
     },
 	{
 		"userId" : 16,
-		"FirstName" : "David",
-		"LastName" : "Murray",
-		"Email" : "free23ty@yahoo.com"
+		"FirstName" : "Alisa",
+		"LastName" : "Schmidt",
+		"Email" : "alisaschmidt0@gmail.com",
+		"paid" : true
     },
 	{
 		"userId" : 17,
-		"FirstName" : "Alisa",
-		"LastName" : "Schmidt",
-		"Email" : "alisaschmidt0@gmail.com"
+		"FirstName" : "Mike",
+		"LastName" : "Harrell",
+		"Email" : "harrellm5@gmail.com",
+		"paid" : true
     },
 	{
 		"userId" : 18,
-		"FirstName" : "Mike",
-		"LastName" : "Harrell",
-		"Email" : "harrellm5@gmail.com"
+		"FirstName" : "Jake",
+		"LastName" : "Borkosky",
+		"Email" : "jakeborkosky5253@gmail.com",
+		"paid" : true
     },
 	{
 		"userId" : 19,
-		"FirstName" : "Jake",
-		"LastName" : "Borkosky",
-		"Email" : "jakeborkosky5253@gmail.com"
+		"FirstName" : "Sam",
+		"LastName" : "Dresmann",
+		"Email" : "sdresmann@gmail.com",
+		"paid" : true
     },
 	{
 		"userId" : 20,
-		"FirstName" : "Sam",
-		"LastName" : "Dresmann",
-		"Email" : "sdresmann@gmail.com"
+		"FirstName" : "Mitchell",
+		"LastName" : "Schultz",
+		"Email" : "schultzmitchell93@gmail.com",
+		"paid" : true
     },
 	{
 		"userId" : 21,
-		"FirstName" : "Mitchell",
-		"LastName" : "Schultz",
-		"Email" : "schultzmitchell93@gmail.com"
+		"FirstName" : "Katie",
+		"LastName" : "Phillips",
+		"Email" : "katiephillips11@yahoo.com",
+		"paid" : true
     },
 	{
 		"userId" : 22,
-		"FirstName" : "Katie",
+		"FirstName" : "Angie",
 		"LastName" : "Phillips",
-		"Email" : "katiephillips11@yahoo.com"
+		"Email" : "acphillips5@yahoo.com",
+		"paid" : true
     },
 	{
 		"userId" : 23,
-		"FirstName" : "Angie",
-		"LastName" : "Phillips",
-		"Email" : "acphillips5@yahoo.com"
-    },
-	{
-		"userId" : 24,
-		"FirstName" : "Johnny",
-		"LastName" : "Osborne",
-		"Email" : "jbosborne24@gmail.com"
-    },
-	{
-		"userId" : 25,
 		"FirstName" : "Liz",
 		"LastName" : "Hurley",
-		"Email" : "lizhurley021@gmail.com"
-    },
-	{
-		"userId" : 26,
-		"FirstName" : "Peterdude",
-		"LastName" : "Hartmann",
-		"Email" : "kylehartmann@gmail.com"
+		"Email" : "lizhurley021@gmail.com",
+		"paid" : true
     }
 	]
 }
