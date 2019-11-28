@@ -5,7 +5,7 @@ var coversTeam = [];
 
 var standings, teams, resultsList, usersList;
 
-var getPicks = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week3_picks.json", function(json){
+var getPicks = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week4_picks.json", function(json){
 	standings = json;
 });
 
@@ -38,7 +38,7 @@ $.when(getPicks, getStandings, getUsers).then(function(){
 			}
 			var tableUser = tableUser + `<tr><th>${firstName + " " + lastName}</th>`;
 			// check user picks against results
-			for (var pointTotals = 1; pointTotals <= 10; pointTotals++) {
+			for (var pointTotals = 11; pointTotals <= 20; pointTotals++) {
 				tableUser = tableUser + `<td>${standings[key][i]["game"+pointTotals]}</td>`;
 			}
 		}
