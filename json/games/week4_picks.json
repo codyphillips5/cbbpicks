@@ -29,8 +29,8 @@
     {
 		"userId" : 3,
 		"game1" : "VT",
-		"game2" : "DAY",
-		"game3" : "ORE",
+		"game2" : "",
+		"game3" : "",
 		"game4" : "",
 		"game5" : "",
 		"game6" : "",
@@ -42,8 +42,8 @@
 	{
 		"userId" : 4,
 		"game1" : "DAY",
-		"game2" : "",
-		"game3" : "",
+		"game2" : "DAY",
+		"game3" : "ORE",
 		"game4" : "",
 		"game5" : "",
 		"game6" : "",
