@@ -41,7 +41,7 @@
 		"homeTeam" : 20,
 		"awayTeam" : 95,
 		"favorite" : 20,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2019-11-28T18:30Z",
 		"channel": "ESPN"
 	},
@@ -50,7 +50,7 @@
 		"homeTeam" : 344,
 		"awayTeam" : 248,
 		"favorite" : 344,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2019-11-28T21:00Z",
 		"channel": "ESPN"
 	}
