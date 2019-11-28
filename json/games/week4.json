@@ -43,7 +43,10 @@
 		"favorite" : 20,
 		"spread" : 3.5,
 		"gameTime" : "2019-11-28T18:30Z",
-		"channel": "ESPN"
+		"channel": "ESPN",
+		"homeScore" : 64,
+		"awayScore" : 73,
+		"cover" : 95
 	},
 	{
 		"gameId" : 35,
