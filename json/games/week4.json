@@ -65,7 +65,7 @@
 		"homeTeam" : 344,
 		"awayTeam" : 95,
 		"favorite" : 344,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2019-11-29T19:00Z",
 		"channel": "ESPN"
 	},
