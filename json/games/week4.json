@@ -113,7 +113,7 @@
 		"homeTeam" : 94,
 		"awayTeam" : 74,
 		"favorite" : 94,
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2019-12-01T18:00Z",
 		"channel": "ESPN"
 	}
