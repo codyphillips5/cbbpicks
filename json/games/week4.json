@@ -95,6 +95,15 @@
 		"spread" : 3.5,
 		"gameTime" : "2019-11-30T04:30Z",
 		"channel": "ESPNU"
+	},
+	{
+		"gameId" : 40,
+		"homeTeam" : 94,
+		"awayTeam" : 74,
+		"favorite" : 94,
+		"spread" : "-",
+		"gameTime" : "2019-12-01T18:00Z",
+		"channel": "ESPN"
 	}
   ]
 }
