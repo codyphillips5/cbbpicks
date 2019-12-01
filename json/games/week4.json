@@ -67,7 +67,10 @@
 		"favorite" : 344,
 		"spread" : 3.5,
 		"gameTime" : "2019-11-29T19:00Z",
-		"channel": "ESPN"
+		"channel": "ESPN",
+		"homeScore" : 64,
+		"awayScore" : 82,
+		"cover" : 95
 	},
 	{
 		"gameId" : 37,
@@ -76,7 +79,10 @@
 		"favorite" : 16,
 		"spread" : 1.5,
 		"gameTime" : "2019-11-30T00:00Z",
-		"channel": "CBSSN"
+		"channel": "CBSSN",
+		"homeScore" : 60,
+		"awayScore" : 57,
+		"cover" : 16
 	},
 	{
 		"gameId" : 38,
@@ -85,7 +91,10 @@
 		"favorite" : 102,
 		"spread" : 2.5,
 		"gameTime" : "2019-11-30T02:30Z",
-		"channel": "CBSSN"
+		"channel": "CBSSN",
+		"homeScore" : 59,
+		"awayScore" : 56,
+		"cover" : 102
 	},
 	{
 		"gameId" : 39,
@@ -94,7 +103,10 @@
 		"favorite" : 349,
 		"spread" : 3.5,
 		"gameTime" : "2019-11-30T04:30Z",
-		"channel": "ESPNU"
+		"channel": "ESPNU",
+		"homeScore" : 81,
+		"awayScore" : 73,
+		"cover" : 349
 	},
 	{
 		"gameId" : 40,
