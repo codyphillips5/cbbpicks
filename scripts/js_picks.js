@@ -110,7 +110,7 @@ attempt = {
 			 }
 			  badge.innerHTML = '<form>' + header + gameInfo + select + '</form>';
 			  document.getElementById(key).appendChild(badge);
-			  document.getElementsByClassName(badge.id)[i].appendChild(yourPick);
+			  //document.getElementsByClassName(badge.id)[i].appendChild(yourPick);
 		  }
 	  }
   });
