@@ -6,12 +6,12 @@ var coversTeam = [];
 var picksList, teamsList, resultsList, usersList;
 var badge = document.createElement('div');
 badge.className = 'standings';
-var select = `<select class='form-control' id='results_by_week' onchange="getResultsByWeek(this.value);"><option value ='3'> Week 3 </option><option value ='2'> Week 2 </option><option value ='1'> Week 1 </option></select>`;
+var select = `<select class='form-control' id='results_by_week' onchange="getResultsByWeek(this.value);"><option value ='4'> Week 4 </option><option value ='3'> Week 3 </option><option value ='2'> Week 2 </option><option value ='1'> Week 1 </option></select>`;
 badge.innerHTML = '<form>' + select + '</form>';		
 document.getElementById("weeks").appendChild(badge);
 
 
-getResultsByWeek(3);
+getResultsByWeek(4);
 
 
 function getResultsByWeek(week) {
@@ -52,7 +52,7 @@ function getResultsByWeek(week) {
 	});
 	console.log(coversTeam);
 	$.when(getPicks, getResults, getTeams, getUsers).then(function(){
-		var tableStart = `<table class="table table-hover" id="results"><thead><tr><th scope="col">Name</th>`;
+		var tableStart = `<table class="table table-hover" id="results"><thead><tr><th class="first-col" scope="col">Name</th>`;
 		var tableGames;
 		var home, away;
 		// loop through week's game
@@ -94,7 +94,7 @@ function getResultsByWeek(week) {
 						}
 					}
 				}
-				var tableUser = tableUser + `<tr><th>${firstName + " " + lastName}</th>`;
+				var tableUser = tableUser + `<tr><th class="first-col">${firstName + " " + lastName}</th>`;
 				// check user picks against results
 				for (var pointTotals = 1; pointTotals <= 10; pointTotals++) {
 					var pick = picksList[key][i]["game"+pointTotals];
