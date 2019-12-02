@@ -1,0 +1,22 @@
+{
+  "games": [
+	{
+		"gameId" : 41,
+		"homeTeam" : 18,
+		"awayTeam" : 95,
+		"favorite" : 18,
+		"spread" : "-",
+		"gameTime" : "2019-12-04 00:30:00",
+		"channel": "ESPN"
+	},
+	{
+		"gameId" : 42,
+		"homeTeam" : 96,
+		"awayTeam" : 15,
+		"favorite" : 15,
+		"spread" : "-",
+		"gameTime" : "2019-12-04 02:30:00",
+		"channel": "ESPN"
+	}
+  ]
+}
