@@ -6,7 +6,7 @@
 		"awayTeam" : 95,
 		"favorite" : 18,
 		"spread" : "-",
-		"gameTime" : "2019-12-04 00:30:00",
+		"gameTime" : "2019-12-04T00:30Z",
 		"channel": "ESPN"
 	},
 	{
@@ -15,7 +15,7 @@
 		"awayTeam" : 15,
 		"favorite" : 15,
 		"spread" : "-",
-		"gameTime" : "2019-12-04 02:30:00",
+		"gameTime" : "2019-12-04T02:30Z",
 		"channel": "ESPN"
 	}
   ]
