@@ -11,21 +11,21 @@
 	},
 	{
 		"gameId" : 42,
+		"homeTeam" : 92,
+		"awayTeam" : 16,
+		"favorite" : 16,
+		"spread" : "-",
+		"gameTime" : "2019-12-04T02:00Z",
+		"channel": "ESPN2"
+	},
+	{
+		"gameId" : 43,
 		"homeTeam" : 96,
 		"awayTeam" : 15,
 		"favorite" : 15,
 		"spread" : "-",
 		"gameTime" : "2019-12-04T02:30Z",
 		"channel": "ESPN"
-	},
-	{
-		"gameId" : 43,
-		"homeTeam" : 102,
-		"awayTeam" : 25,
-		"favorite" : 25,
-		"spread" : "-",
-		"gameTime" : "2019-12-05T00:15Z",
-		"channel": "ESPN2"
 	},
 	{
 		"gameId" : 44,
