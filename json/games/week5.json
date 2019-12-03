@@ -5,7 +5,7 @@
 		"homeTeam" : 18,
 		"awayTeam" : 95,
 		"favorite" : 18,
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2019-12-04T00:30Z",
 		"channel": "ESPN"
 	},
@@ -13,8 +13,8 @@
 		"gameId" : 42,
 		"homeTeam" : 92,
 		"awayTeam" : 16,
-		"favorite" : 16,
-		"spread" : "-",
+		"favorite" : 92,
+		"spread" : 2.5,
 		"gameTime" : "2019-12-04T02:00Z",
 		"channel": "ESPN2"
 	},
@@ -22,8 +22,8 @@
 		"gameId" : 43,
 		"homeTeam" : 96,
 		"awayTeam" : 15,
-		"favorite" : 15,
-		"spread" : "-",
+		"favorite" : 96,
+		"spread" : 6.5,
 		"gameTime" : "2019-12-04T02:30Z",
 		"channel": "ESPN"
 	},
