@@ -154,3 +154,10 @@ h4{
 th, td {
 	white-space: nowrap;
 }
+
+.first-col
+{
+  position:sticky;
+  left:0px;
+  background-color:white;
+}
