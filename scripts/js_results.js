@@ -52,7 +52,7 @@ function getResultsByWeek(week) {
 	});
 	console.log(coversTeam);
 	$.when(getPicks, getResults, getTeams, getUsers).then(function(){
-		var tableStart = `<table class="table table-hover" id="results"><thead><tr><th class="first-col" scope="col">Name</th>`;
+		var tableStart = `<div class="table-responsive"> <table class="table table-hover" id="results"><thead><tr><th class="first-col" scope="col">Name</th>`;
 		var tableGames;
 		var home, away;
 		// loop through week's game
