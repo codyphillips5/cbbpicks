@@ -96,8 +96,8 @@ function getResultsByWeek(week) {
 				}
 				var tableUser = tableUser + `<tr><th class="first-col">${firstName + " " + lastName}</th>`;
 				// check user picks against results
-				for (var pointTotals = 1; pointTotals <= 10; pointTotals++) {
-					var pick = picksList[key][i]["game"+pointTotals];
+				for (var gameNum = 1; gameNum <= 10; gameNum++) {
+					var pick = picksList[key][i]["game"+gameNum];
 					for (var team in teamsList) {
 						for (var num = 0; num < teamsList[team].length; num++) {	
 							if (pick == teamsList[team][num].teamValue) {
@@ -106,9 +106,12 @@ function getResultsByWeek(week) {
 						}
 					}
 
-					if(coversTeam[pointTotals-1] == pick) {
+					if(coversTeam[gameNum-1] == pick) {
 						isCorrect = "success";
 						pointTotal = pointTotal+1;
+					}
+					else if(gameNum > coversTeam.length) {
+						isCorrect = "";
 					}
 					else {
 						isCorrect = "danger";				
