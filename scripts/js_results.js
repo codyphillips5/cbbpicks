@@ -52,7 +52,7 @@ function getResultsByWeek(week) {
 	});
 	console.log(coversTeam);
 	$.when(getPicks, getResults, getTeams, getUsers).then(function(){
-		var tableStart = `<div class="table-responsive"> <table class="table table-hover" id="results"><thead><tr><th class="first-col" scope="col">Name</th>`;
+		var tableStart = `<div class="table-responsive"> <table class="table table-hover" id="results"><thead><tr><th class="first-col small" scope="col">NAME</th>`;
 		var tableGames;
 		var home, away;
 		// loop through week's game
@@ -71,11 +71,11 @@ function getResultsByWeek(week) {
 						}
 					}
 				}
-				tableGames = tableGames + `<th scope="col">${away} vs ${home}</th>`;
+				tableGames = tableGames + `<th scope="col" class='small text-center'>${away} vs ${home}</th>`;
 			}
 		}
 		
-		tableStart = tableStart + tableGames + `<th scope="col">Total</th></tr></thead><tbody>`;
+		tableStart = tableStart + tableGames + `<th scope="col" class='small active text-center'><strong>TOTAL</strong></th></tr></thead><tbody>`;
 	
 		for (var key in picksList) {
 			for (var i = 0; i < picksList[key].length; i++) {
@@ -122,7 +122,7 @@ function getResultsByWeek(week) {
 					teamImage = "";
 				}
 				//calculate score			
-				tableUser = tableUser + `<td>${pointTotal}</td></tr>`;
+				tableUser = tableUser + `<td class="active text-center">${pointTotal}</td></tr>`;
 			}
 		}
 		tableUser = tableUser.replace("undefined","");
