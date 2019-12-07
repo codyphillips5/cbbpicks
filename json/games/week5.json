@@ -53,27 +53,27 @@
 		"homeTeam" : 60,
 		"awayTeam" : 244,
 		"favorite" : 60,
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2019-12-07T17:00Z",
 		"channel": "ESPNU"
 	},
 	{
 		"gameId" : 46,
-		"homeTeam" : 79,
-		"awayTeam" : 1,
-		"favorite" : 79,
-		"spread" : "-",
-		"gameTime" : "2019-12-07T22:00Z",
-		"channel": "FS1"
+		"homeTeam" : 70,
+		"awayTeam" : 269,
+		"favorite" : 70,
+		"spread" : 4.5,
+		"gameTime" : "2019-12-07T17:00Z",
+		"channel": "FOX"
 	},
 	{
 		"gameId" : 47,
-		"homeTeam" : 62,
-		"awayTeam" : 247,
-		"favorite" : 62,
-		"spread" : "-",
-		"gameTime" : "2019-12-08T00:00Z",
-		"channel": "ESPN2"
+		"homeTeam" : 79,
+		"awayTeam" : 1,
+		"favorite" : 79,
+		"spread" : 6.5,
+		"gameTime" : "2019-12-07T22:00Z",
+		"channel": "FS1"
 	},
 	{
 		"gameId" : 48,
