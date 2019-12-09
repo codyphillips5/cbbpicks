@@ -115,7 +115,10 @@
 		"favorite" : 344,
 		"spread" : 2.5,
 		"gameTime" : "2019-12-09T00:00Z",
-		"channel": "ESPN2"
+		"channel": "ESPN2",
+		"homeScore" : 76,
+		"awayScore" : 83,
+		"cover" : 344
 	}
   ]
 }
