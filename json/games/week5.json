@@ -91,7 +91,10 @@
 		"favorite" : 25,
 		"spread" : 4.5,
 		"gameTime" : "2019-12-08T21:00Z",
-		"channel": "ACCN"
+		"channel": "ACCN",
+		"homeScore" : 56,
+		"awayScore" : 47,
+		"cover" : 25
 	},
 	{
 		"gameId" : 49,
@@ -100,7 +103,10 @@
 		"favorite" : 38,
 		"spread" : 3.5,
 		"gameTime" : "2019-12-08T21:00Z",
-		"channel": "ESPNU"
+		"channel": "ESPNU",
+		"homeScore" : 68,
+		"awayScore" : 78,
+		"cover" : 38
 	},
 	{
 		"gameId" : 50,
