@@ -1,0 +1,94 @@
+{
+  "games": [
+	{
+		"gameId" : 51,
+		"homeTeam" : 18,
+		"awayTeam" : 68,
+		"favorite" : 18,
+		"spread" : "-",
+		"gameTime" : "2019-12-11T00:00Z",
+		"channel": "ESPN"
+    },
+	{
+		"gameId" : 52,
+		"homeTeam" : 101,
+		"awayTeam" : 94,
+		"favorite" : 94,
+		"spread" : "-",
+		"gameTime" : "2019-12-11T00:00Z",
+		"channel": "ESPN2"
+    },
+	{
+		"gameId" : 53,
+		"homeTeam" : 60,
+		"awayTeam" : 70,
+		"favorite" : 60,
+		"spread" : "-",
+		"gameTime" : "2019-12-11T02:00Z",
+		"channel": "ESPN2"
+    },
+	{
+		"gameId" : 54,
+		"homeTeam" : 2,
+		"awayTeam" : 92,
+		"favorite" : 92,
+		"spread" : "-",
+		"gameTime" : "2019-12-11T02:00Z",
+		"channel": "ESPN"
+    },
+	{
+		"gameId" : 55,
+		"homeTeam" : 61,
+		"awayTeam" : 93,
+		"favorite" : 61,
+		"spread" : "-",
+		"gameTime" : "2019-12-13T01:00Z",
+		"channel": "ESPN2"
+    },
+	{
+		"gameId" : 56,
+		"homeTeam" : 95,
+		"awayTeam" : 248,
+		"favorite" : 95,
+		"spread" : "-",
+		"gameTime" : "2019-12-14T17:00Z",
+		"channel": "CBS"
+    },
+	{
+		"gameId" : 57,
+		"homeTeam" : 277,
+		"awayTeam" : 5,
+		"favorite" : 277,
+		"spread" : "-",
+		"gameTime" : "2019-12-14T20:00Z",
+		"channel": "ESPN"
+    },
+	{
+		"gameId" : 58,
+		"homeTeam" : 268,
+		"awayTeam" : 48,
+		"favorite" : 268,
+		"spread" : "-",
+		"gameTime" : "2019-12-14T21:00Z",
+		"channel": "ESPN2"
+    },
+	{
+		"gameId" : 59,
+		"homeTeam" : 12,
+		"awayTeam" : 64,
+		"favorite" : 12,
+		"spread" : "-",
+		"gameTime" : "2019-12-14T23:00Z",
+		"channel": "ESPN2"
+    },
+	{
+		"gameId" : 60,
+		"homeTeam" : 244,
+		"awayTeam" : 344,
+		"favorite" : 244,
+		"spread" : "-",
+		"gameTime" : "2019-12-15T03:00Z",
+		"channel": "ESPN2"
+    }
+  ]
+}
