@@ -67,7 +67,10 @@
 		"favorite" : 95,
 		"spread" : 3.5,
 		"gameTime" : "2019-12-14T17:00Z",
-		"channel": "CBS"
+		"channel": "CBS",
+		"homeScore" : 70,
+		"awayScore" : 71,
+		"cover" : 248
 	},
 	{
 		"gameId" : 57,
@@ -76,7 +79,10 @@
 		"favorite" : 277,
 		"spread" : 5.5,
 		"gameTime" : "2019-12-14T20:00Z",
-		"channel": "ESPN"
+		"channel": "ESPN",
+		"homeScore" : 47,
+		"awayScore" : 51,
+		"cover" : 5
 	},
 	{
 		"gameId" : 58,
@@ -85,7 +91,10 @@
 		"favorite" : 12,
 		"spread" : 4.5,
 		"gameTime" : "2019-12-14T23:00Z",
-		"channel": "ESPN2"
+		"channel": "ESPN2",
+		"homeScore" : 80,
+		"awayScore" : 75,
+		"cover" : 12
 	},
 	{
 		"gameId" : 59,
@@ -94,7 +103,10 @@
 		"favorite" : 343,
 		"spread" : 1.5,
 		"gameTime" : "2019-12-15T01:00Z",
-		"channel": ""
+		"channel": "",
+		"homeScore" : 68,
+		"awayScore" : 64,
+		"cover" : 343
 	},
 	{
 		"gameId" : 60,
@@ -103,7 +115,10 @@
 		"favorite" : 244,
 		"spread" : 3.5,
 		"gameTime" : "2019-12-15T03:00Z",
-		"channel": "ESPN2"
+		"channel": "ESPN2",
+		"homeScore" : 80,
+		"awayScore" : 84,
+		"cover" : 344
 	}
   ]
 }
