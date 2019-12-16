@@ -1,0 +1,94 @@
+{
+  "games": [
+	{
+		"gameId" : 61,
+		"homeTeam" : 1,
+		"awayTeam" : 277,
+		"favorite" : 277,
+		"spread" : "-",
+		"gameTime" : "2019-12-19T00:00Z",
+		"channel": "ESPN2"
+	},
+	{
+		"gameId" : 62,
+		"homeTeam" : 344,
+		"awayTeam" : 20,
+		"favorite" : 344,
+		"spread" : "-",
+		"gameTime" : "2019-12-19T02:00Z",
+		"channel": "ESPN2"
+	},
+	{
+		"gameId" : 63,
+		"homeTeam" : 76,
+		"awayTeam" : 94,
+		"favorite" : 94,
+		"spread" : "-",
+		"gameTime" : "2019-12-20T00:00Z",
+		"channel": "FS1"
+	},
+	{
+		"gameId" : 64,
+		"homeTeam" : 268,
+		"awayTeam" : 21,
+		"favorite" : 268,
+		"spread" : "-",
+		"gameTime" : "2019-12-20T02:00Z",
+		"channel": "ESPN2"
+	},
+	{
+		"gameId" : 65,
+		"homeTeam" : 78,
+		"awayTeam" : 62,
+		"favorite" : 62,
+		"spread" : "-",
+		"gameTime" : "2019-12-21T17:00Z",
+		"channel": "FOX"
+	},
+	{
+		"gameId" : 66,
+		"homeTeam" : 12,
+		"awayTeam" : 50,
+		"favorite" : 12,
+		"spread" : "-",
+		"gameTime" : "2019-12-21T17:00Z",
+		"channel": "ESPN2"
+	},
+	{
+		"gameId" : 67,
+		"homeTeam" : 70,
+		"awayTeam" : 102,
+		"favorite" : 70,
+		"spread" : "-",
+		"gameTime" : "2019-12-21T19:30Z",
+		"channel": "BTN"
+	},
+	{
+		"gameId" : 68,
+		"homeTeam" : 271,
+		"awayTeam" : 100,
+		"favorite" : 100,
+		"spread" : "-",
+		"gameTime" : "2019-12-21T22:15Z",
+		"channel": "CBS"
+	},
+	{
+		"gameId" : 69,
+		"homeTeam" : 38,
+		"awayTeam" : 247,
+		"favorite" : 38,
+		"spread" : "-",
+		"gameTime" : "2019-12-21T23:30Z",
+		"channel": "CBSSN"
+	},
+	{
+		"gameId" : 70,
+		"homeTeam" : 252,
+		"awayTeam" : 272,
+		"favorite" : 272,
+		"spread" : "-",
+		"gameTime" : "2019-12-22T02:00Z",
+		"channel": "FS1"
+	}
+  ]
+}
