@@ -30,7 +30,7 @@ attempt = {
   
   var xFile, yFile;
   
-  var requestX = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week6.json", function(json){
+  var requestX = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week7.json", function(json){
 	  xFile = json;
   });
   
