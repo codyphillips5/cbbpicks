@@ -5,18 +5,18 @@
 		"homeTeam" : 1,
 		"awayTeam" : 277,
 		"favorite" : 277,
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2019-12-19T00:00Z",
 		"channel": "ESPN2"
 	},
 	{
 		"gameId" : 62,
-		"homeTeam" : 344,
-		"awayTeam" : 20,
-		"favorite" : 344,
-		"spread" : "-",
+		"homeTeam" : 349,
+		"awayTeam" : 245,
+		"favorite" : 349,
+		"spread" : 2.5,
 		"gameTime" : "2019-12-19T02:00Z",
-		"channel": "ESPN2"
+		"channel": "PAC12"
 	},
 	{
 		"gameId" : 63,
