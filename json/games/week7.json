@@ -7,7 +7,10 @@
 		"favorite" : 277,
 		"spread" : 1.5,
 		"gameTime" : "2019-12-19T00:00Z",
-		"channel": "ESPN2"
+		"channel": "ESPN2",
+		"homeScore" : 78,
+		"awayScore" : 66,
+		"cover" : 1
 	},
 	{
 		"gameId" : 62,
@@ -16,14 +19,17 @@
 		"favorite" : 349,
 		"spread" : 2.5,
 		"gameTime" : "2019-12-19T02:00Z",
-		"channel": "PAC12"
+		"channel": "PACN",
+		"homeScore" : 96,
+		"awayScore" : 56,
+		"cover" : 349
 	},
 	{
 		"gameId" : 63,
 		"homeTeam" : 76,
 		"awayTeam" : 94,
 		"favorite" : 94,
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2019-12-20T00:00Z",
 		"channel": "FS1"
 	},
@@ -32,7 +38,7 @@
 		"homeTeam" : 268,
 		"awayTeam" : 21,
 		"favorite" : 268,
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2019-12-20T02:00Z",
 		"channel": "ESPN2"
 	},
