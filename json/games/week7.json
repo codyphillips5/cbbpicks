@@ -79,7 +79,10 @@
 		"favorite" : 70,
 		"spread" : 1.5,
 		"gameTime" : "2019-12-21T19:30Z",
-		"channel": "BTN"
+		"channel": "BTN",
+		"homeScore" : 70,
+		"awayScore" : 61,
+		"cover" : 70
 	},
 	{
 		"gameId" : 68,
