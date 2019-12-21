@@ -53,7 +53,7 @@
 		"homeTeam" : 78,
 		"awayTeam" : 62,
 		"favorite" : 62,
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2019-12-21T17:00Z",
 		"channel": "FOX"
 	},
@@ -62,7 +62,7 @@
 		"homeTeam" : 12,
 		"awayTeam" : 50,
 		"favorite" : 12,
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2019-12-21T17:00Z",
 		"channel": "ESPN2"
 	},
@@ -71,7 +71,7 @@
 		"homeTeam" : 70,
 		"awayTeam" : 102,
 		"favorite" : 70,
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2019-12-21T19:30Z",
 		"channel": "BTN"
 	},
@@ -80,7 +80,7 @@
 		"homeTeam" : 271,
 		"awayTeam" : 100,
 		"favorite" : 100,
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2019-12-21T22:15Z",
 		"channel": "CBS"
 	},
@@ -89,7 +89,7 @@
 		"homeTeam" : 38,
 		"awayTeam" : 247,
 		"favorite" : 38,
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2019-12-21T23:30Z",
 		"channel": "CBSSN"
 	},
@@ -98,7 +98,7 @@
 		"homeTeam" : 252,
 		"awayTeam" : 272,
 		"favorite" : 272,
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2019-12-22T02:00Z",
 		"channel": "FS1"
 	}
