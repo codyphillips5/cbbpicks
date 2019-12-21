@@ -55,7 +55,10 @@
 		"favorite" : 62,
 		"spread" : 2.5,
 		"gameTime" : "2019-12-21T17:00Z",
-		"channel": "FOX"
+		"channel": "FOX",
+		"homeScore" : 56,
+		"awayScore" : 55,
+		"cover" : 78
 	},
 	{
 		"gameId" : 66,
@@ -64,7 +67,10 @@
 		"favorite" : 12,
 		"spread" : 5.5,
 		"gameTime" : "2019-12-21T17:00Z",
-		"channel": "ESPN2"
+		"channel": "ESPN2",
+		"homeScore" : 73,
+		"awayScore" : 63,
+		"cover" : 12
 	},
 	{
 		"gameId" : 67,
