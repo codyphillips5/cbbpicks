@@ -103,7 +103,10 @@
 		"favorite" : 38,
 		"spread" : 5.5,
 		"gameTime" : "2019-12-21T23:30Z",
-		"channel": "CBSSN"
+		"channel": "CBSSN",
+		"homeScore" : 76,
+		"awayScore" : 78,
+		"cover" : 247
 	},
 	{
 		"gameId" : 70,
