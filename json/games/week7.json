@@ -115,7 +115,10 @@
 		"favorite" : 272,
 		"spread" : 2.5,
 		"gameTime" : "2019-12-22T02:00Z",
-		"channel": "FS1"
+		"channel": "FS1",
+		"homeScore" : 70,
+		"awayScore" : 68,
+		"cover" : 252
 	}
   ]
 }
