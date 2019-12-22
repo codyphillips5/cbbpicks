@@ -91,7 +91,10 @@
 		"favorite" : 100,
 		"spread" : 4.5,
 		"gameTime" : "2019-12-21T22:15Z",
-		"channel": "CBS"
+		"channel": "CBS",
+		"homeScore" : 65,
+		"awayScore" : 71,
+		"cover" : 100
 	},
 	{
 		"gameId" : 69,
