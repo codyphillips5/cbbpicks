@@ -7,7 +7,7 @@
 		"favorite" : 4,
 		"spread" : "-",
 		"gameTime" : "2019-12-24T00:00Z",
-		"channel": ""
+		"channel": "ESPN2"
     },
 	{
 		"gameId" : 72,
@@ -16,7 +16,7 @@
 		"favorite" : 0,
 		"spread" : "-",
 		"gameTime" : "2019-12-25T20:30Z",
-		"channel": "ESPN+"
+		"channel": "Diamond Head Classic"
     },
 	{
 		"gameId" : 73,
