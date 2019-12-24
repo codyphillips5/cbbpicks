@@ -5,18 +5,21 @@
 		"homeTeam" : 4,
 		"awayTeam" : 17,
 		"favorite" : 4,
-		"spread" : 6.5,
+		"spread" : "-",
 		"gameTime" : "2019-12-24T00:00Z",
-		"channel": "ESPN2"
+		"channel": "ESPN2",
+		"homeScore" : 70,
+		"awayScore" : 59,
+		"cover" : 4
     },
 	{
 		"gameId" : 72,
-		"homeTeam" : 0,
-		"awayTeam" : 0,
-		"favorite" : 0,
+		"homeTeam" : 254,
+		"awayTeam" : 4,
+		"favorite" : 254,
 		"spread" : "-",
 		"gameTime" : "2019-12-26T01:30Z",
-		"channel": "Diamond Head Classic"
+		"channel": "ESPN2"
     },
 	{
 		"gameId" : 73,
