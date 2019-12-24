@@ -17,7 +17,7 @@
 		"homeTeam" : 254,
 		"awayTeam" : 4,
 		"favorite" : 254,
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2019-12-26T01:30Z",
 		"channel": "ESPN2"
     },
