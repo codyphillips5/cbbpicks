@@ -19,7 +19,10 @@
 		"favorite" : 254,
 		"spread" : 0,
 		"gameTime" : "2019-12-26T01:30Z",
-		"channel": "ESPN2"
+		"channel": "ESPN2",
+		"homeScore" : 71,
+		"awayScore" : 75,
+		"cover" : 4
     },
 	{
 		"gameId" : 73,
