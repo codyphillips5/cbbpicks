@@ -29,7 +29,7 @@
 		"homeTeam" : 277,
 		"awayTeam" : 104,
 		"favorite" : 277,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2019-12-28T18:30Z",
 		"channel": "CBS"
     },
@@ -38,7 +38,7 @@
 		"homeTeam" : 271,
 		"awayTeam" : 18,
 		"favorite" : 271,
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2019-12-28T20:45Z",
 		"channel": "CBS"
     },
@@ -47,7 +47,7 @@
 		"homeTeam" : 148,
 		"awayTeam" : 234,
 		"favorite" : 148,
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2019-12-29T00:30Z",
 		"channel": "STADIUM"
     },
