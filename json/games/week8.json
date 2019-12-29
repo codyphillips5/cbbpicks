@@ -31,7 +31,10 @@
 		"favorite" : 277,
 		"spread" : 3.5,
 		"gameTime" : "2019-12-28T18:30Z",
-		"channel": "CBS"
+		"channel": "CBS",
+		"homeScore" : 48,
+		"awayScore" : 68,
+		"cover" : 104
     },
 	{
 		"gameId" : 74,
@@ -40,7 +43,11 @@
 		"favorite" : 271,
 		"spread" : 1.5,
 		"gameTime" : "2019-12-28T20:45Z",
-		"channel": "CBS"
+		"channel": "CBS",
+		"homeScore" : 78,
+		"awayScore" : 70,
+		"cover" : 271
+
     },
 	{
 		"gameId" : 75,
@@ -49,14 +56,18 @@
 		"favorite" : 148,
 		"spread" : 1.5,
 		"gameTime" : "2019-12-29T00:30Z",
-		"channel": "STADIUM"
+		"channel": "STADIUM",
+		"homeScore" : 62,
+		"awayScore" : 79,
+		"cover" : 234
+
     },
 	{
 		"gameId" : 76,
 		"homeTeam" : 100,
 		"awayTeam" : 69,
 		"favorite" : 100,
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2019-12-29T17:00Z",
 		"channel": "FS1"
     },
@@ -65,7 +76,7 @@
 		"homeTeam" : 272,
 		"awayTeam" : 54,
 		"favorite" : 272,
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2019-12-29T18:30Z",
 		"channel": "SECN"
     },
@@ -73,8 +84,8 @@
 		"gameId" : 78,
 		"homeTeam" : 250,
 		"awayTeam" : 62,
-		"favorite" : 250,
-		"spread" : "-",
+		"favorite" : 62,
+		"spread" : 6.5,
 		"gameTime" : "2019-12-29T20:00Z",
 		"channel": "ABC"
     },
@@ -83,7 +94,7 @@
 		"homeTeam" : 92,
 		"awayTeam" : 267,
 		"favorite" : 92,
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2019-12-29T23:00Z",
 		"channel": "BTN"
     },
@@ -92,7 +103,7 @@
 		"homeTeam" : 266,
 		"awayTeam" : 46,
 		"favorite" : 266,
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2019-12-29T23:30Z",
 		"channel": "SECN"
     }
