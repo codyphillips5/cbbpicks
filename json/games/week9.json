@@ -1,0 +1,94 @@
+{
+  "games": [
+	{
+		"gameId" : 81,
+		"homeTeam" : 78,
+		"awayTeam" : 79,
+		"favorite" : 78,
+		"spread" : 5.5,
+		"gameTime" : "2019-12-30T23:30Z",
+		"channel": "FS1"
+	},
+	{
+		"gameId" : 82,
+		"homeTeam" : 77,
+		"awayTeam" : 70,
+		"favorite" : 70,
+		"spread" : "-",
+		"gameTime" : "2020-01-01T01:30Z",
+		"channel": "FS1"
+	},
+	{
+		"gameId" : 83,
+		"homeTeam" : 71,
+		"awayTeam" : 74,
+		"favorite" : 71,
+		"spread" : "-",
+		"gameTime" : "2020-01-02T02:00Z",
+		"channel": "FS1"
+	},
+	{
+		"gameId" : 84,
+		"homeTeam" : 247,
+		"awayTeam" : 248,
+		"favorite" : 248,
+		"spread" : "-",
+		"gameTime" : "2020-01-03T02:00Z",
+		"channel": "ESPN2"
+	},
+	{
+		"gameId" : 85,
+		"homeTeam" : 104,
+		"awayTeam" : 100,
+		"favorite" : 100,
+		"spread" : "-",
+		"gameTime" : "2020-01-04T00:00Z",
+		"channel": "FS1"
+	},
+	{
+		"gameId" : 86,
+		"homeTeam" : 18,
+		"awayTeam" : 16,
+		"favorite" : 18,
+		"spread" : "-",
+		"gameTime" : "2020-01-04T19:00Z",
+		"channel": "ESPN2"
+	},
+	{
+		"gameId" : 87,
+		"homeTeam" : 101,
+		"awayTeam" : 93,
+		"favorite" : 101,
+		"spread" : "-",
+		"gameTime" : "2020-01-04T19:00Z",
+		"channel": "BTN"
+	},
+	{
+		"gameId" : 88,
+		"homeTeam" : 62,
+		"awayTeam" : 69,
+		"favorite" : 62,
+		"spread" : "-",
+		"gameTime" : "2020-01-04T21:00Z",
+		"channel": "ESPN+"
+	},
+	{
+		"gameId" : 89,
+		"homeTeam" : 220,
+		"awayTeam" : 217,
+		"favorite" : 217,
+		"spread" : "-",
+		"gameTime" : "2020-01-05T03:00Z",
+		"channel": "CBSSN"
+	},
+	{
+		"gameId" : 90,
+		"homeTeam" : 96,
+		"awayTeam" : 95,
+		"favorite" : 96,
+		"spread" : "-",
+		"gameTime" : "2020-01-05T17:00Z",
+		"channel": "CBS"
+	}
+  ]
+}
