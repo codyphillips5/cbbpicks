@@ -38,8 +38,8 @@
 	},
 	{
 		"gameId" : 85,
-		"homeTeam" : 104,
-		"awayTeam" : 100,
+		"homeTeam" : 100,
+		"awayTeam" : 104,
 		"favorite" : 100,
 		"spread" : "-",
 		"gameTime" : "2020-01-04T00:00Z",
