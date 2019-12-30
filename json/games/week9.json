@@ -5,7 +5,7 @@
 		"homeTeam" : 78,
 		"awayTeam" : 79,
 		"favorite" : 78,
-		"spread" : 5.5,
+		"spread" : 6.5,
 		"gameTime" : "2019-12-30T23:30Z",
 		"channel": "FS1"
 	},
@@ -15,7 +15,7 @@
 		"awayTeam" : 70,
 		"favorite" : 70,
 		"spread" : "-",
-		"gameTime" : "2020-01-01T01:30Z",
+		"gameTime" : "2020-01-01T00:30Z",
 		"channel": "FS1"
 	},
 	{
