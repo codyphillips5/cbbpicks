@@ -69,7 +69,10 @@
 		"favorite" : 100,
 		"spread" : 6.5,
 		"gameTime" : "2019-12-29T17:00Z",
-		"channel": "FS1"
+		"channel": "FS1",
+		"homeScore" : 59,
+		"awayScore" : 67,
+		"cover" : 69
     },
 	{
 		"gameId" : 77,
@@ -78,7 +81,10 @@
 		"favorite" : 272,
 		"spread" : 6.5,
 		"gameTime" : "2019-12-29T18:30Z",
-		"channel": "SECN"
+		"channel": "SECN",
+		"homeScore" : 74,
+		"awayScore" : 57,
+		"cover" : 272
     },
 	{
 		"gameId" : 78,
@@ -87,7 +93,10 @@
 		"favorite" : 62,
 		"spread" : 6.5,
 		"gameTime" : "2019-12-29T20:00Z",
-		"channel": "ABC"
+		"channel": "ABC",
+		"homeScore" : 56,
+		"awayScore" : 72,
+		"cover" : 62
     },
 	{
 		"gameId" : 79,
@@ -96,7 +105,10 @@
 		"favorite" : 92,
 		"spread" : 4.5,
 		"gameTime" : "2019-12-29T23:00Z",
-		"channel": "BTN"
+		"channel": "BTN",
+		"homeScore" : 64,
+		"awayScore" : 71,
+		"cover" : 267
     },
 	{
 		"gameId" : 80,
@@ -105,7 +117,10 @@
 		"favorite" : 266,
 		"spread" : 6.5,
 		"gameTime" : "2019-12-29T23:30Z",
-		"channel": "SECN"
+		"channel": "SECN",
+		"homeScore" : 90,
+		"awayScore" : 78,
+		"cover" : 266
     }
   ]
 }
