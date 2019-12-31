@@ -17,7 +17,7 @@
 		"homeTeam" : 77,
 		"awayTeam" : 70,
 		"favorite" : 70,
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2020-01-01T00:30Z",
 		"channel": "FS1"
 	},
