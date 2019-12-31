@@ -7,7 +7,10 @@
 		"favorite" : 78,
 		"spread" : 6.5,
 		"gameTime" : "2019-12-30T23:30Z",
-		"channel": "FS1"
+		"channel": "FS1",
+		"homeScore" : 68,
+		"awayScore" : 62,
+		"cover" : 79
 	},
 	{
 		"gameId" : 82,
