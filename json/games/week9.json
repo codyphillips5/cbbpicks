@@ -19,14 +19,17 @@
 		"favorite" : 70,
 		"spread" : 4.5,
 		"gameTime" : "2020-01-01T00:30Z",
-		"channel": "FS1"
+		"channel": "FS1",
+		"homeScore" : 58,
+		"awayScore" : 60,
+		"cover" : 77
 	},
 	{
 		"gameId" : 83,
 		"homeTeam" : 71,
 		"awayTeam" : 74,
 		"favorite" : 71,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2020-01-02T02:00Z",
 		"channel": "CBSSN"
 	},
