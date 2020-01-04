@@ -35,6 +35,8 @@ if(createForm) {
             //M.Modal.getInstance(modal).close();
             createForm.reset();
             createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-success" role="alert">Success! Your picks have been saved. At this time, picks may only be submitted ONCE. Please reach out to Cody with questions or any pick changes.</div>`;
+			document.getElementById("submit").disabled = true;
+			document.getElementById("submit").innerHTML = "Saved";
         }).catch(err => {
             console.log(err.message)
             //signupForm.querySelector('.response').innerHTML = `<br><div class="alert alert-danger" role="alert">${err.message}</div>`;
