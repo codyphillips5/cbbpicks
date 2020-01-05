@@ -103,14 +103,17 @@
 		"favorite" : 220,
 		"spread" : 2.5,
 		"gameTime" : "2020-01-05T03:00Z",
-		"channel": "CBSSN"
+		"channel": "CBSSN",
+		"homeScore" : 68,
+		"awayScore" : 77,
+		"cover" : 217
 	},
 	{
 		"gameId" : 90,
 		"homeTeam" : 96,
 		"awayTeam" : 95,
 		"favorite" : 96,
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2020-01-05T18:30Z",
 		"channel": "CBS"
 	}
