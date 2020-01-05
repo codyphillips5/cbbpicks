@@ -113,7 +113,7 @@
 		"homeTeam" : 96,
 		"awayTeam" : 95,
 		"favorite" : 96,
-		"spread" : 7.5,
+		"spread" : 9.5,
 		"gameTime" : "2020-01-05T18:30Z",
 		"channel": "CBS"
 	}
