@@ -115,7 +115,10 @@
 		"favorite" : 96,
 		"spread" : 9.5,
 		"gameTime" : "2020-01-05T18:30Z",
-		"channel": "CBS"
+		"channel": "CBS",
+		"homeScore" : 87,
+		"awayScore" : 69,
+		"cover" : 96
 	}
   ]
 }
