@@ -53,7 +53,7 @@
 		"homeTeam" : 12,
 		"awayTeam" : 5,
 		"favorite" : 12,
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2020-01-10T00:00Z",
 		"channel": "ESPN2"
 	},
@@ -61,8 +61,8 @@
 		"gameId" : 96,
 		"homeTeam" : 250,
 		"awayTeam" : 254,
-		"favorite" : 254,
-		"spread" : "-",
+		"favorite" : 250,
+		"spread" : 2.5,
 		"gameTime" : "2020-01-10T02:00Z",
 		"channel": "FS1"
 	},
