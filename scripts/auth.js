@@ -24,10 +24,9 @@ if(createForm) {
     createForm.addEventListener('submit', (e) => {
         e.preventDefault();
     
-        db.collection('week10_day4').add({
+        db.collection('week10_day5').add({
             user: auth.currentUser.email,
-            game95: document.getElementById('seasongame95').value,
-            game96: document.getElementById('seasongame96').value
+            game97: document.getElementById('seasongame97').value
         }).then(() => {
             // close the modal and reset form
             //const modal = document.querySelector('#modal-create');
