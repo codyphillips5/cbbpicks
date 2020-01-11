@@ -9,9 +9,9 @@
 		"game5" : "WICHST",
 		"game6" : "STAN",
 		"game7" : "MARY",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "ILL",
+		"game9" : "KU",
+		"game10" : "SETON"
     },
     {
 		"userId" : 2,
@@ -22,9 +22,9 @@
 		"game5" : "MEM",
 		"game6" : "WASH",
 		"game7" : "MARY",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "ILL",
+		"game9" : "BU",
+		"game10" : "MARQ"
     },
     {
 		"userId" : 3,
@@ -48,9 +48,9 @@
 		"game5" : "WICHST",
 		"game6" : "WASH",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "RUTG",
+		"game9" : "KU",
+		"game10" : "SETON"
     },
 	{
 		"userId" : 5,
@@ -61,9 +61,9 @@
 		"game5" : "WICHST",
 		"game6" : "WASH",
 		"game7" : "MARY",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "ILL",
+		"game9" : "BU",
+		"game10" : "MARQ"
     },
 	{
 		"userId" : 6,
@@ -74,9 +74,9 @@
 		"game5" : "WICHST",
 		"game6" : "STAN",
 		"game7" : "MARY",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "ILL",
+		"game9" : "BU",
+		"game10" : "SETON"
     },    
 	{
 		"userId" : 7,
@@ -87,9 +87,9 @@
 		"game5" : "WICHST",
 		"game6" : "WASH",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "RUTG",
+		"game9" : "KU",
+		"game10" : "SETON"
     },
 	{
 		"userId" : 8,
@@ -100,9 +100,9 @@
 		"game5" : "MEM",
 		"game6" : "STAN",
 		"game7" : "MARY",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "RUTG",
+		"game9" : "KU",
+		"game10" : "SETON"
     },
 	{
 		"userId" : 9,
@@ -113,9 +113,9 @@
 		"game5" : "WICHST",
 		"game6" : "STAN",
 		"game7" : "MARY",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "ILL",
+		"game9" : "KU",
+		"game10" : "SETON"
     },	
 	{
 		"userId" : 10,
@@ -126,9 +126,9 @@
 		"game5" : "WICHST",
 		"game6" : "WASH",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "ILL",
+		"game9" : "BU",
+		"game10" : "SETON"
     },
 	{
 		"userId" : 11,
@@ -152,9 +152,9 @@
 		"game5" : "WICHST",
 		"game6" : "WASH",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "RUTG",
+		"game9" : "BU",
+		"game10" : "SETON"
     },
 	{
 		"userId" : 13,
@@ -165,9 +165,9 @@
 		"game5" : "MEM",
 		"game6" : "WASH",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "ILL",
+		"game9" : "KU",
+		"game10" : "SETON"
     },
 	{
 		"userId" : 14,
@@ -191,9 +191,9 @@
 		"game5" : "WICHST",
 		"game6" : "WASH",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "ILL",
+		"game9" : "BU",
+		"game10" : "SETON"
     },
 	{
 		"userId" : 16,
@@ -204,9 +204,9 @@
 		"game5" : "MEM",
 		"game6" : "STAN",
 		"game7" : "MARY",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "ILL",
+		"game9" : "BU",
+		"game10" : "MARQ"
     },
 	{
 		"userId" : 17,
@@ -217,9 +217,9 @@
 		"game5" : "MEM",
 		"game6" : "WASH",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "ILL",
+		"game9" : "KU",
+		"game10" : "SETON"
     },
 	{
 		"userId" : 18,
@@ -230,9 +230,9 @@
 		"game5" : "WICHST",
 		"game6" : "STAN",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "ILL",
+		"game9" : "BU",
+		"game10" : "SETON"
     },
 	{
 		"userId" : 19,
@@ -243,9 +243,9 @@
 		"game5" : "WICHST",
 		"game6" : "WASH",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "ILL",
+		"game9" : "KU",
+		"game10" : "MARQ"
     },
 	{
 		"userId" : 20,
@@ -256,9 +256,9 @@
 		"game5" : "WICHST",
 		"game6" : "WASH",
 		"game7" : "MARY",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "RUTG",
+		"game9" : "BU",
+		"game10" : "SETON"
     },
 	{
 		"userId" : 21,
@@ -269,9 +269,9 @@
 		"game5" : "WICHST",
 		"game6" : "WASH",
 		"game7" : "MARY",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "RUTG",
+		"game9" : "KU",
+		"game10" : "SETON"
     },
 	{
 		"userId" : 22,
@@ -282,9 +282,9 @@
 		"game5" : "WICHST",
 		"game6" : "WASH",
 		"game7" : "MARY",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "RUTG",
+		"game9" : "BU",
+		"game10" : "SETON"
     },
 	{
 		"userId" : 23,
@@ -295,9 +295,9 @@
 		"game5" : "MEM",
 		"game6" : "STAN",
 		"game7" : "MARY",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "ILL",
+		"game9" : "BU",
+		"game10" : "MARQ"
     }
 	]
 }

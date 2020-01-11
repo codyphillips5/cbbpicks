@@ -91,7 +91,10 @@
 		"favorite" : 91,
 		"spread" : 5.5,
 		"gameTime" : "2020-01-11T17:00Z",
-		"channel": "BTN"
+		"channel": "BTN",
+		"homeScore" : 54,
+		"awayScore" : 51,
+		"cover" : 103
 	},
 	{
 		"gameId" : 99,
