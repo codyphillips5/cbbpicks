@@ -103,7 +103,10 @@
 		"favorite" : 62,
 		"spread" : 7.5,
 		"gameTime" : "2020-01-11T18:00Z",
-		"channel": "CBS"
+		"channel": "CBS",
+		"homeScore" : 55,
+		"awayScore" : 67,
+		"cover" : 60
 	},
 	{
 		"gameId" : 100,
