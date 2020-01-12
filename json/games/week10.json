@@ -115,7 +115,10 @@
 		"favorite" : 76,
 		"spread" : 5.5,
 		"gameTime" : "2020-01-11T21:00Z",
-		"channel": "CBSSN"
+		"channel": "CBSSN",
+		"homeScore" : 69,
+		"awayScore" : 55,
+		"cover" : 76
 	}
   ]
 }
