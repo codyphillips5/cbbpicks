@@ -26,7 +26,14 @@
 			<li><a href="/cbbpicks">Home</a></li>
 			<li><a href="picks.html">Games</a></li>
 			<li class="active"><a href="#">Results</a></li>
-			<li ><a href="standings.html">Standings</a></li>
+			<li class="dropdown">
+				<a class="dropdown-toggle" data-toggle="dropdown" href="#">Standings
+				<span class="caret"></span></a>
+				<ul class="dropdown-menu">
+					<li><a href="standings_end.html">Current</a></a></li>
+					<li><a href="standings.html">Weeks 1-9</a></li>
+				</ul>
+			</li>
 		</ul>
 		<ul class="nav navbar-nav navbar-right">
 				<li class="logged-in" style="display: none;"><a href="#" id="logout"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
@@ -39,7 +46,7 @@
 
 <form action="" id="save_picks" class="form-inlin justify-content-center">
 <div class="container center_div"><h2>Results</h2></div>
-<div class="container center_div"></div><div class="standings" id="weeks"></div>
+<div class="container center_div"></div><div class="standings" id="weeks" class="table-wrapper"></div>
 <section class="standings" id="standings">
 </section>
 </form>
