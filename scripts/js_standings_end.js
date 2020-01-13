@@ -14,7 +14,7 @@ var getUsers= $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.jso
 });
 
 $.when(getStandings, getUsers).then(function(){
-	var tableStart = `<table class="table table-hover" id="standings-table"><thead><tr><th scope="col">Name</th><th scope="col">Weeks 1-9</th><th scope="col">Week 10</th><th scope="col" class="active">Total</th><th scope="col" class="active">Percent</th></tr></thead><tbody>`;
+	var tableStart = `<table class="table table-hover" id="standings-table"><thead><tr><th scope="col">Name</th><th scope="col" id='week 1'>Week 10</th><th scope="col" class="active">Total</th><th scope="col" class="active">Percent</th></tr></thead><tbody>`;
 
 	for (var key in standings) {
 		for (var i = 0; i < standings[key].length; i++) {
@@ -24,6 +24,7 @@ $.when(getStandings, getUsers).then(function(){
 			var pointTotal = 0;
 			var isTop;
 			var weekTotal = 0;
+			var seenot = "";
 
 			var user = standings[key][i].userId;
 
@@ -41,17 +42,22 @@ $.when(getStandings, getUsers).then(function(){
 				//tableUser = tableUser + `<td>${standings[key][i]["week_" + stand]}</td>`;
 				pointTotal = pointTotal + standings[key][i]["week_" + stand];
 				weekTotal++;
+				if (stand == 0) {
+					seenot = "hidden";
+				}
 				if(standings[key][i]["week_" + stand + "_top"]) {
-					tableUser = tableUser + `<td class='success'>${standings[key][i]["week_" + stand]}</td>`;
+					tableUser = tableUser + `<td class='success' id='week ${stand}' ${seenot}>${standings[key][i]["week_" + stand]}</td>`;
 				}
 				else {
-					tableUser = tableUser + `<td>${standings[key][i]["week_" + stand]}</td>`;
+					tableUser = tableUser + `<td id='week ${stand}' ${seenot}>${standings[key][i]["week_" + stand]}</td>`;
 				}
+				seenot = "";
 			}
 			//calculate score
 			var perc = (pointTotal / (week * 10)) * 100
 			tableUser = tableUser + `<td class="active">${pointTotal}</td>`;
 			tableUser = tableUser + `<td class="active"> ${perc.toFixed(2)}%</td></tr>`;
+
 		}
 	}
 	tableUser = tableUser.replace("undefined","");
