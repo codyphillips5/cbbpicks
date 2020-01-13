@@ -20,7 +20,7 @@ $.when(getStandings, getUsers).then(function(){
 		for (var i = 0; i < standings[key].length; i++) {
 			
 			// set starters
-			var week = 10
+			var week = 10;
 			var pointTotal = 0;
 			var isTop;
 			var weekTotal = 0;
