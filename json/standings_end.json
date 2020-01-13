@@ -2,122 +2,122 @@
   "picks": [
     {
 		"userId" : 1,
-		"week_19" : 40,
-		"week_10" : 5
+		"week_0" : 40,
+		"week_1" : 5
     },
     {
 		"userId" : 2,
-		"week_19" : 37,
-		"week_10" : 3
+		"week_0" : 37,
+		"week_1" : 3
     },
     {
 		"userId" : 3,
-		"week_19" : 10,
-		"week_10" : 0
+		"week_0" : 10,
+		"week_1" : 0
     },
 	{
 		"userId" : 4,
-		"week_19" : 47,
-		"week_10" : 5
+		"week_0" : 47,
+		"week_1" : 5
 	},
 	{
 		"userId" : 5,
-		"week_19" : 42,
-		"week_10" : 4
+		"week_0" : 42,
+		"week_1" : 4
     },
 	{
 		"userId" : 6,
-		"week_19" : 38,
-		"week_10" : 8,
-		"week_10_top" : true 
+		"week_0" : 38,
+		"week_1" : 8,
+		"week_1_top" : true 
     },    
 	{
 		"userId" : 7,
-		"week_19" : 40,
-		"week_10" : 8,
-		"week_10_top" : true
+		"week_0" : 40,
+		"week_1" : 8,
+		"week_1_top" : true
     },
 	{
 		"userId" : 8,
-		"week_19" : 33,
-		"week_10" : 4
+		"week_0" : 33,
+		"week_1" : 4
     },		
 	{
 		"userId" : 9,
-		"week_19" : 38,
-		"week_10" : 4
+		"week_0" : 38,
+		"week_1" : 4
     },	
 	{
 		"userId" : 10,
-		"week_19" : 47,
-		"week_10" : 7
+		"week_0" : 47,
+		"week_1" : 7
     },
 	{
 		"userId" : 11,
-		"week_19" : 21,
-		"week_10" : 0
+		"week_0" : 21,
+		"week_1" : 0
     },
 	{
 		"userId" : 12,
-		"week_19" : 42,
-		"week_10" : 8,
-		"week_10_top" : true
+		"week_0" : 42,
+		"week_1" : 8,
+		"week_1_top" : true
     },
 	{
 		"userId" : 13,
-		"week_19" : 36,
-		"week_10" : 4
+		"week_0" : 36,
+		"week_1" : 4
     },
 	{
 		"userId" : 14,
-		"week_19" : 42,
-		"week_10" : 5
+		"week_0" : 42,
+		"week_1" : 5
     },
 	{
 		"userId" : 15,
-		"week_19" : 42,
-		"week_10" : 6
+		"week_0" : 42,
+		"week_1" : 6
     },
 	{
 		"userId" : 16,
-		"week_19" : 38,
-		"week_10" : 3
+		"week_0" : 38,
+		"week_1" : 3
     },
 	{
 		"userId" : 17,
-		"week_19" : 35,
-		"week_10" : 3
+		"week_0" : 35,
+		"week_1" : 3
     },
 	{
 		"userId" : 18,
-		"week_19" : 34,
-		"week_10" : 6
+		"week_0" : 34,
+		"week_1" : 6
     },
 	{
 		"userId" : 19,
-		"week_19" : 30,
-		"week_10" : 4
+		"week_0" : 30,
+		"week_1" : 4
     },
 	{
 		"userId" : 20,
-		"week_19" : 35,
-		"week_10" : 6
+		"week_0" : 35,
+		"week_1" : 6
     },
 	{
 		"userId" : 21,
-		"week_19" : 51,
-		"week_10" : 6
+		"week_0" : 51,
+		"week_1" : 6
     },
 	{
 		"userId" : 22,
-		"week_19" : 44,
-		"week_10" : 8,
-		"week_10_top" : true
+		"week_0" : 44,
+		"week_1" : 8,
+		"week_1_top" : true
     },	
 	{
 		"userId" : 23,
-		"week_19" : 39,
-		"week_10" : 6
+		"week_0" : 39,
+		"week_1" : 6
     }
 	]
 }
