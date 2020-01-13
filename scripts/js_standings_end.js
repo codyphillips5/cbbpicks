@@ -14,12 +14,13 @@ var getUsers= $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.jso
 });
 
 $.when(getStandings, getUsers).then(function(){
-	var tableStart = `<table class="table table-hover" id="standings-table"><thead><tr><th scope="col">Name</th><th scope="col">Weeks 1-9</th><th scope="col">Week 10</th><th scope="col" class="active">Total</th></tr></thead><tbody>`;
+	var tableStart = `<table class="table table-hover" id="standings-table"><thead><tr><th scope="col">Name</th><th scope="col">Weeks 1-9</th><th scope="col">Week 10</th><th scope="col" class="active">Total</th><th scope="col" class="active">Percent</th></tr></thead><tbody>`;
 
 	for (var key in standings) {
 		for (var i = 0; i < standings[key].length; i++) {
 			
 			// set starters
+			var week = 10
 			var pointTotal = 0;
 			var isTop;
 			var weekTotal = 0;
@@ -47,8 +48,10 @@ $.when(getStandings, getUsers).then(function(){
 					tableUser = tableUser + `<td>${standings[key][i]["week_" + stand]}</td>`;
 				}
 			}
-			//calculate score			
-			tableUser = tableUser + `<td class="active">${pointTotal}</td></tr>`;
+			//calculate score
+			var perc = (pointTotal / (week * 10)) * 100
+			tableUser = tableUser + `<td class="active">${pointTotal}</td>`;
+			tableUser = tableUser + `<td class="active"> ${perc.toFixed(2)}%</td></tr>`;
 		}
 	}
 	tableUser = tableUser.replace("undefined","");
