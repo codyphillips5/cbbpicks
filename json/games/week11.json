@@ -5,7 +5,7 @@
 		"homeTeam" : 70,
 		"awayTeam" : 76,
 		"favorite" : 70,
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2020-01-15T23:30Z",
 		"channel": "FS1"
 	},	
@@ -14,7 +14,7 @@
 		"homeTeam" : 16,
 		"awayTeam" : 25,
 		"favorite" : 16,
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2020-01-16T00:00Z",
 		"channel": "ESPN2"
 	}, 
@@ -23,7 +23,7 @@
 		"homeTeam" : 103,
 		"awayTeam" : 92,
 		"favorite" : 103,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2020-01-16T00:00Z",
 		"channel": "BTN"
 	},
