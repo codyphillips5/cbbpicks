@@ -7,7 +7,10 @@
 		"favorite" : 70,
 		"spread" : 4.5,
 		"gameTime" : "2020-01-15T23:30Z",
-		"channel": "FS1"
+		"channel": "FS1",
+		"homeScore" : 70,
+		"awayScore" : 78,
+		"cover" : 76
 	},	
 	{
 		"gameId" : 102,
@@ -16,7 +19,10 @@
 		"favorite" : 16,
 		"spread" : 6.5,
 		"gameTime" : "2020-01-16T00:00Z",
-		"channel": "ESPN2"
+		"channel": "ESPN2",
+		"homeScore" : 54,
+		"awayScore" : 50,
+		"cover" : 25
 	}, 
 	{
 		"gameId" : 103,
@@ -25,7 +31,10 @@
 		"favorite" : 103,
 		"spread" : 3.5,
 		"gameTime" : "2020-01-16T00:00Z",
-		"channel": "BTN"
+		"channel": "BTN",
+		"homeScore" : 59,
+		"awayScore" : 50,
+		"cover" : 103
 	},
 	{
 		"gameId" : 104,
