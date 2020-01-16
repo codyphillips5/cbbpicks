@@ -2,9 +2,9 @@
   "picks": [
     {
 		"userId" : 1,
-		"game1" : "",
-		"game2" : "",
-		"game3" : "",
+		"game1" : "SETON",
+		"game2" : "FSU",
+		"game3" : "IND",
 		"game4" : "",
 		"game5" : "",
 		"game6" : "",
@@ -249,9 +249,9 @@
     },
 	{
 		"userId" : 20,
-		"game1" : "",
-		"game2" : "",
-		"game3" : "",
+		"game1" : "SETON",
+		"game2" : "FSU",
+		"game3" : "RUTG",
 		"game4" : "",
 		"game5" : "",
 		"game6" : "",
@@ -275,9 +275,9 @@
     },
 	{
 		"userId" : 22,
-		"game1" : "",
-		"game2" : "",
-		"game3" : "",
+		"game1" : "BUTLER",
+		"game2" : "UVA",
+		"game3" : "RUTG",
 		"game4" : "",
 		"game5" : "",
 		"game6" : "",
