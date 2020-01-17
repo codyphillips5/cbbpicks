@@ -41,7 +41,7 @@
 		"homeTeam" : 96,
 		"awayTeam" : 104,
 		"favorite" : 96,
-		"spread" : "-",
+		"spread" : 8.5,
 		"gameTime" : "2020-01-18T00:00Z",
 		"channel": "FS1"
 	},	
@@ -59,7 +59,7 @@
 		"homeTeam" : 269,
 		"awayTeam" : 268,
 		"favorite" : 269,
-		"spread" : 7.5,
+		"spread" : "-",
 		"gameTime" : "2020-01-18T18:30Z",
 		"channel": "CBS"
 	},
