@@ -86,6 +86,7 @@ attempt = {
 			  badge.id = 'games-layout';
 			  var header = '<span class=\'header\'><h4>' + awayTeam + ' vs ' + homeTeam + ' (' + homeSide + spread + ') </h4>';
 			  var gameInfo = '<sub> '+ channel + " · " + date.toLocaleString([], {weekday: 'long', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit'}).replace(',',' ·') + '</sub><br>';
+			  var fin = '';
 
 			  if (xFile[key][i].cover) {
 				  var awayScore = `<br><img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${awayTeamImage}.vresize.25.25.medium.2.png"> ${awayTeam} ${awayTeamMascot} - ${xFile[key][i].awayScore}`
@@ -95,7 +96,8 @@ attempt = {
 				  else if (xFile[key][i].cover == away)
 					  awayScore = `${awayScore}   <span style="color:green" class="glyphicon glyphicon-piggy-bank"></span>`;
 				  select = awayScore + homeScore;
-				  gameInfo = '<sub><b>FINAL</b></sub>'
+				  gameInfo = '';
+				  fin = '<br><sub><b>FINAL</b></sub>';
 				  var yourPick = document.createElement('div');
 				  yourPick.id = 'your-pick-game' + gameId;
 				  yourPick.innerHTML = '';
@@ -108,7 +110,7 @@ attempt = {
 				 var select = '<br><select class=\'teamlist\' id=\'game' + gameId + '\' onchange=\"assignPointsByTeam(' + gameId +');\"><option value = \"\"> -- Select Team -- </option><option value=\"' + awayTeamVal + '\">' + awayTeam + ' ' + awaySide + spread + '</option><option value=\"' + homeTeamVal + '\">' + homeTeam + ' ' + homeSide + spread + '</option></select>'; 	
 				
 			 }
-			  badge.innerHTML = '<form>' + header + gameInfo + select + '</form>';
+			  badge.innerHTML = '<form>' + header + gameInfo + select + fin + '</form>';
 			  document.getElementById(key).appendChild(badge);
 			  //document.getElementsByClassName(badge.id)[i].appendChild(yourPick);
 		  }
