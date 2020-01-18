@@ -79,7 +79,10 @@
 		"favorite" : 244,
 		"spread" : 6.5,
 		"gameTime" : "2020-01-18T19:30Z",
-		"channel": "FOX"
+		"channel": "FOX",
+		"homeScore" : 75,
+		"awayScore" : 54,
+		"cover" : 244
 	},
 	{
 		"gameId" : 108,
