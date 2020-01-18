@@ -43,7 +43,10 @@
 		"favorite" : 96,
 		"spread" : 9.5,
 		"gameTime" : "2020-01-18T00:00Z",
-		"channel": "FS1"
+		"channel": "FS1",
+		"homeScore" : 67,
+		"awayScore" : 55,
+		"cover" : 96
 	},	
 	{
 		"gameId" : 105,
@@ -52,14 +55,17 @@
 		"favorite" : 38,
 		"spread" : 7.5,
 		"gameTime" : "2020-01-18T00:00Z",
-		"channel": "ESPN2"
+		"channel": "ESPN2",
+		"homeScore" : 76,
+		"awayScore" : 78,
+		"cover" : 48
 	},
 	{
 		"gameId" : 106,
 		"homeTeam" : 269,
 		"awayTeam" : 268,
 		"favorite" : 269,
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2020-01-18T18:30Z",
 		"channel": "CBS"
 	},
@@ -68,7 +74,7 @@
 		"homeTeam" : 244,
 		"awayTeam" : 247,
 		"favorite" : 244,
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2020-01-18T19:30Z",
 		"channel": "FOX"
 	},
@@ -76,29 +82,28 @@
 		"gameId" : 108,
 		"homeTeam" : 267,
 		"awayTeam" : 271,
-		"favorite" : 271,
-		"spread" : "-",
+		"favorite" : 267,
+		"spread" : 1.5,
 		"gameTime" : "2020-01-18T21:00Z",
 		"channel": "ESPN"
 	},
-
 	{
 		"gameId" : 109,
-		"homeTeam" : 15,
-		"awayTeam" : 18,
-		"favorite" : 15,
-		"spread" : "-",
-		"gameTime" : "2020-01-18T23:00Z",
-		"channel": "ESPN"
+		"homeTeam" : 12,
+		"awayTeam" : 4,
+		"favorite" : 12,
+		"spread" : 3.5,
+		"gameTime" : "2020-01-18T21:00Z",
+		"channel": "ESPN2"
 	},
 	{
 		"gameId" : 110,
-		"homeTeam" : 344,
-		"awayTeam" : 343,
-		"favorite" : 344,
-		"spread" : "-",
-		"gameTime" : "2020-01-19T03:00Z",
-		"channel": "ESPN2"
+		"homeTeam" : 15,
+		"awayTeam" : 18,
+		"favorite" : 15,
+		"spread" : 7.5,
+		"gameTime" : "2020-01-18T23:00Z",
+		"channel": "ESPN"
 	}
   ]
 }
