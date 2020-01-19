@@ -91,7 +91,10 @@
 		"favorite" : 267,
 		"spread" : 1.5,
 		"gameTime" : "2020-01-18T21:00Z",
-		"channel": "ESPN"
+		"channel": "ESPN",
+		"homeScore" : 66,
+		"awayScore" : 73,
+		"cover" : 271
 	},
 	{
 		"gameId" : 109,
@@ -100,7 +103,10 @@
 		"favorite" : 12,
 		"spread" : 3.5,
 		"gameTime" : "2020-01-18T21:00Z",
-		"channel": "ESPN2"
+		"channel": "ESPN2",
+		"homeScore" : 54,
+		"awayScore" : 65,
+		"cover" : 4
 	},
 	{
 		"gameId" : 110,
@@ -109,7 +115,10 @@
 		"favorite" : 15,
 		"spread" : 7.5,
 		"gameTime" : "2020-01-18T23:00Z",
-		"channel": "ESPN"
+		"channel": "ESPN",
+		"homeScore" : 73,
+		"awayScore" : 79,
+		"cover" : 18
 	}
   ]
 }
