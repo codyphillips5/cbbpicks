@@ -29,12 +29,12 @@
 	},
 	{
 		"gameId" : 114,
-		"homeTeam" : 93,
-		"awayTeam" : 103,
-		"favorite" : 93,
+		"homeTeam" : 72,
+		"awayTeam" : 71,
+		"favorite" : 72,
 		"spread" : "-",
 		"gameTime" : "2020-01-23T02:00Z",
-		"channel": "BTN"
+		"channel": "CBSSN"
 	},
 	{
 		"gameId" : 115,
