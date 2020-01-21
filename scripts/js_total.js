@@ -5,7 +5,7 @@ var home, away;
 
 var standings, teams, resultsList, usersList;
 
-for (var i = 1; i <= 11; i++) {
+for (var i = 1; i <= 12; i++) {
 	var getGames = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week" + i + ".json", function(json){
 		standings = json;
 		
@@ -40,20 +40,26 @@ $.when(getGames, getTeams).then(function(){
 			var guess = allTeams[0][j];
 			var color = "";
 			switch(allTeams[1][j]) {
-				case 5:
+				case 7:
 					color = "danger";
 					break;
-				case 4:
+				case 6:
 					color = "warning";
 					break;
-				case 3:
+				case 5:
 					color = "info";
 					break;
-				case 2:
+				case 4:
 					color = "active";
 					break;
-				case 1:
+				case 3:
 					color = "success";
+					break;
+				case 2:
+					color = "bg-primary";
+					break;
+				case 1:
+					color = "";
 					break;
 				default:
 					// code block
