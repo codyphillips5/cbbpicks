@@ -7,7 +7,10 @@
 		"favorite" : 25,
 		"spread" : 4.5,
 		"gameTime" : "2020-01-21T00:00Z",
-		"channel": "ESPN"
+		"channel": "ESPN",
+		"homeScore" : 51,
+		"awayScore" : 53,
+		"cover" : 21
 	},
 	{
 		"gameId" : 112,
