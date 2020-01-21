@@ -17,7 +17,7 @@
 		"homeTeam" : 102,
 		"awayTeam" : 91,
 		"favorite" : 102,
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2020-01-22T00:00Z",
 		"channel": "ESPNU"
 	},
