@@ -3,7 +3,7 @@
     {
 		"userId" : 1,
 		"game1" : "UVA",
-		"game2" : "",
+		"game2" : "PURD",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -16,7 +16,7 @@
     {
 		"userId" : 2,
 		"game1" : "UVA",
-		"game2" : "",
+		"game2" : "ILL",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -42,7 +42,7 @@
 	{
 		"userId" : 4,
 		"game1" : "NCST",
-		"game2" : "",
+		"game2" : "PURD",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -55,7 +55,7 @@
 	{
 		"userId" : 5,
 		"game1" : "UVA",
-		"game2" : "",
+		"game2" : "ILL",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -68,7 +68,7 @@
 	{
 		"userId" : 6,
 		"game1" : "UVA",
-		"game2" : "",
+		"game2" : "ILL",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -81,7 +81,7 @@
 	{
 		"userId" : 7,
 		"game1" : "UVA",
-		"game2" : "",
+		"game2" : "PURD",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -107,7 +107,7 @@
 	{
 		"userId" : 9,
 		"game1" : "UVA",
-		"game2" : "",
+		"game2" : "PURD",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -120,7 +120,7 @@
 	{
 		"userId" : 10,
 		"game1" : "UVA",
-		"game2" : "",
+		"game2" : "PURD",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -146,7 +146,7 @@
 	{
 		"userId" : 12,
 		"game1" : "UVA",
-		"game2" : "",
+		"game2" : "ILL",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -159,7 +159,7 @@
 	{
 		"userId" : 13,
 		"game1" : "UVA",
-		"game2" : "",
+		"game2" : "PURD",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -172,7 +172,7 @@
 	{
 		"userId" : 14,
 		"game1" : "UVA",
-		"game2" : "",
+		"game2" : "PURD",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -185,7 +185,7 @@
 	{
 		"userId" : 15,
 		"game1" : "UVA",
-		"game2" : "",
+		"game2" : "ILL",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -198,7 +198,7 @@
 	{
 		"userId" : 16,
 		"game1" : "UVA",
-		"game2" : "",
+		"game2" : "PURD",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -211,7 +211,7 @@
 	{
 		"userId" : 17,
 		"game1" : "",
-		"game2" : "",
+		"game2" : "ILL",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -224,7 +224,7 @@
 	{
 		"userId" : 18,
 		"game1" : "UVA",
-		"game2" : "",
+		"game2" : "PURD",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -237,7 +237,7 @@
 	{
 		"userId" : 19,
 		"game1" : "NCST",
-		"game2" : "",
+		"game2" : "ILL",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -250,7 +250,7 @@
 	{
 		"userId" : 20,
 		"game1" : "UVA",
-		"game2" : "",
+		"game2" : "ILL",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -263,7 +263,7 @@
 	{
 		"userId" : 21,
 		"game1" : "UVA",
-		"game2" : "",
+		"game2" : "PURD",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -276,7 +276,7 @@
 	{
 		"userId" : 22,
 		"game1" : "UVA",
-		"game2" : "",
+		"game2" : "ILL",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -289,7 +289,7 @@
 	{
 		"userId" : 23,
 		"game1" : "UVA",
-		"game2" : "",
+		"game2" : "ILL",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
