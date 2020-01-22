@@ -38,7 +38,7 @@
 		"homeTeam" : 72,
 		"awayTeam" : 71,
 		"favorite" : 72,
-		"spread" : 0,
+		"spread" : 1.5,
 		"gameTime" : "2020-01-23T02:00Z",
 		"channel": "CBSSN"
 	},
