@@ -19,14 +19,17 @@
 		"favorite" : 102,
 		"spread" : 5.5,
 		"gameTime" : "2020-01-22T00:00Z",
-		"channel": "ESPNU"
+		"channel": "ESPNU",
+		"homeScore" : 62,
+		"awayScore" : 79,
+		"cover" : 91
 	},
 	{
 		"gameId" : 113,
 		"homeTeam" : 79,
 		"awayTeam" : 73,
 		"favorite" : 79,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2020-01-22T23:30Z",
 		"channel": "FS1"
 	},
@@ -35,7 +38,7 @@
 		"homeTeam" : 72,
 		"awayTeam" : 71,
 		"favorite" : 72,
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2020-01-23T02:00Z",
 		"channel": "CBSSN"
 	},
