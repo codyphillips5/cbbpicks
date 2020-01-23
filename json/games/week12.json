@@ -31,7 +31,10 @@
 		"favorite" : 79,
 		"spread" : 3.5,
 		"gameTime" : "2020-01-22T23:30Z",
-		"channel": "FS1"
+		"channel": "FS1",
+		"homeScore" : 66,
+		"awayScore" : 57,
+		"cover" : 79
 	},
 	{
 		"gameId" : 114,
