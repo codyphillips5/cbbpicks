@@ -24,7 +24,7 @@ if(createForm) {
     createForm.addEventListener('submit', (e) => {
         e.preventDefault();
     
-        db.collection('week12_day3').add({
+        db.collection('week12_day4').add({
             user: auth.currentUser.email,
             game115: document.getElementById('seasongame115').value
         }).then(() => {
