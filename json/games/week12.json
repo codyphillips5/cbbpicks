@@ -55,7 +55,10 @@
 		"favorite" : 248,
 		"spread" : 9.5,
 		"gameTime" : "2020-01-24T04:00Z",
-		"channel": "ESPNU"
+		"channel": "ESPNU",
+		"homeScore" : 79,
+		"awayScore" : 70,
+		"cover" : 252
 	},
 	{
 		"gameId" : 116,
