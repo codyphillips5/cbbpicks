@@ -65,7 +65,7 @@
 		"homeTeam" : 64,
 		"awayTeam" : 273,
 		"favorite" : 64,
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2020-01-25T19:00Z",
 		"channel": "ESPN2"
 	},
@@ -74,7 +74,7 @@
 		"homeTeam" : 68,
 		"awayTeam" : 271,
 		"favorite" : 68,
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2020-01-25T23:00Z",
 		"channel": "ESPN"
 	},
@@ -83,7 +83,7 @@
 		"homeTeam" : 269,
 		"awayTeam" : 60,
 		"favorite" : 269,
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2020-01-26T01:00Z",
 		"channel": "ESPN"
 	},
