@@ -14,13 +14,13 @@ var getUsers= $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.jso
 });
 
 $.when(getStandings, getUsers).then(function(){
-	var tableStart = `<table class="table table-hover" id="standings-table"><thead><tr><th scope="col">Name</th><th scope="col" id='week 1'>Week 10</th><th scope="col" id='week 2'>Week 11</th><th scope="col" class="active">Total</th><th scope="col" class="active">Percent</th></tr></thead><tbody>`;
+	var tableStart = `<table class="table table-hover" id="standings-table"><thead><tr><th scope="col">Name</th><th scope="col" id='week 1'>Week 10</th><th scope="col" id='week 2'>Week 11</th><th scope="col" id='week 3'>Week 12</th><th scope="col" class="active">Total</th><th scope="col" class="active">Percent</th></tr></thead><tbody>`;
 
 	for (var key in standings) {
 		for (var i = 0; i < standings[key].length; i++) {
 			
 			// set starters
-			var week = 11;
+			var week = 12;
 			var pointTotal = 0;
 			var isTop;
 			var weekTotal = 0;
@@ -38,7 +38,7 @@ $.when(getStandings, getUsers).then(function(){
 			}
 			var tableUser = tableUser + `<tr><th>${firstName + " " + lastName}</th>`;
 
-			for(var stand = 0; stand <= 2; stand++) {
+			for(var stand = 0; stand <= 3; stand++) {
 				//tableUser = tableUser + `<td>${standings[key][i]["week_" + stand]}</td>`;
 				pointTotal = pointTotal + standings[key][i]["week_" + stand];
 				weekTotal++;
