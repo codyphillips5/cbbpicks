@@ -100,7 +100,7 @@
 		"gameId" : 119,
 		"homeTeam" : 92,
 		"awayTeam" : 94,
-		"favorite" 0,
+		"favorite": 0,
 		"gameTime" : "2020-01-26T18:00Z",
 		"channel": "CBS"
 	},
