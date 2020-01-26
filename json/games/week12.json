@@ -100,8 +100,7 @@
 		"gameId" : 119,
 		"homeTeam" : 92,
 		"awayTeam" : 94,
-		"favorite" : 92,
-		"spread" : "-",
+		"favorite" 0,
 		"gameTime" : "2020-01-26T18:00Z",
 		"channel": "CBS"
 	},
@@ -109,8 +108,8 @@
 		"gameId" : 120,
 		"homeTeam" : 97,
 		"awayTeam" : 96,
-		"favorite" : 97,
-		"spread" : "-",
+		"favorite" : 96,
+		"spread" : 2.5,
 		"gameTime" : "2020-01-26T20:00Z",
 		"channel": "FOX"
 	}
