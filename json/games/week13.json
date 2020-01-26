@@ -5,7 +5,7 @@
 		"homeTeam" : 93,
 		"awayTeam" : 104,
 		"favorite" : 93,
-		"spread" : ,
+		"spread" : 5.5,
 		"gameTime" : "2020-01-28T00:00Z",
 		"channel": "BTN"
 	},
