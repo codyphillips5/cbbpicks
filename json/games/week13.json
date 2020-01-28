@@ -7,14 +7,17 @@
 		"favorite" : 93,
 		"spread" : 5.5,
 		"gameTime" : "2020-01-28T01:30Z",
-		"channel": "BTN"
+		"channel": "BTN",
+		"homeScore" : 68,
+		"awayScore" : 62,
+		"cover" : 93
 	},
 	{
 		"gameId" : 122,
 		"homeTeam" : 50,
 		"awayTeam" : 46,
 		"favorite" : 50,
-		"spread" : "-",
+		"spread" : 8.5,
 		"gameTime" : "2020-01-29T00:00Z",
 		"channel": "CBSSN"
 	},
@@ -23,7 +26,7 @@
 		"homeTeam" : 103,
 		"awayTeam" : 102,
 		"favorite" : 103,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2020-01-29T01:00Z",
 		"channel": "BTN"
 	},
