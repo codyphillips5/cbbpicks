@@ -19,7 +19,10 @@
 		"favorite" : 50,
 		"spread" : 8.5,
 		"gameTime" : "2020-01-29T00:00Z",
-		"channel": "CBSSN"
+		"channel": "CBSSN",
+		"homeScore" : 87,
+		"awayScore" : 68,
+		"cover" : 50
 	},
 	{
 		"gameId" : 123,
@@ -28,14 +31,17 @@
 		"favorite" : 103,
 		"spread" : 3.5,
 		"gameTime" : "2020-01-29T01:00Z",
-		"channel": "BTN"
+		"channel": "BTN",
+		"homeScore" : 70,
+		"awayScore" : 63,
+		"cover" : 103
 	},
 	{
 		"gameId" : 124,
 		"homeTeam" : 272,
 		"awayTeam" : 266,
 		"favorite" : 272,
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2020-01-30T00:00Z",
 		"channel": "ESPN2"
 	},
@@ -44,7 +50,7 @@
 		"homeTeam" : 68,
 		"awayTeam" : 69,
 		"favorite" : 68,
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2020-01-30T01:00Z",
 		"channel": "ESPN+"
 	},
