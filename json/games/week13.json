@@ -43,7 +43,10 @@
 		"favorite" : 272,
 		"spread" : 5.5,
 		"gameTime" : "2020-01-30T00:00Z",
-		"channel": "ESPN2"
+		"channel": "ESPN2",
+		"homeScore" : 90,
+		"awayScore" : 76,
+		"cover" : 272
 	},
 	{
 		"gameId" : 125,
@@ -52,7 +55,10 @@
 		"favorite" : 68,
 		"spread" : 2.5,
 		"gameTime" : "2020-01-30T01:00Z",
-		"channel": "ESPN+"
+		"channel": "ESPN+",
+		"homeScore" : 89,
+		"awayScore" : 81,
+		"cover" : 68
 	},
 	{
 		"gameId" : 126,
