@@ -65,7 +65,7 @@
 		"homeTeam" : 78,
 		"awayTeam" : 71,
 		"favorite" : 78,
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2020-02-01T17:00Z",
 		"channel": "FS1"
 	},
@@ -74,7 +74,7 @@
 		"homeTeam" : 268,
 		"awayTeam" : 271,
 		"favorite" : 268,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2020-02-01T23:00Z",
 		"channel": "ESPN"
 	},
@@ -82,8 +82,8 @@
 		"gameId" : 128,
 		"homeTeam" : 10,
 		"awayTeam" : 12,
-		"favorite" : 10,
-		"spread" : "-",
+		"favorite" : 12,
+		"spread" : 2.5,
 		"gameTime" : "2020-02-01T23:00Z",
 		"channel": "ESPNU"
 	},
@@ -92,7 +92,7 @@
 		"homeTeam" : 343,
 		"awayTeam" : 349,
 		"favorite" : 343,
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2020-02-02T03:00Z",
 		"channel": "ESPN2"
 	},
@@ -101,9 +101,9 @@
 		"homeTeam" : 252,
 		"awayTeam" : 247,
 		"favorite" : 252,
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2020-02-02T03:30Z",
-		"channel": ""
+		"channel": "FS1"
 	}
   ]
 }
