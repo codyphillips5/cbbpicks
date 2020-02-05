@@ -7,7 +7,10 @@
 		"favorite" : 267,
 		"spread" : 1.5,
 		"gameTime" : "2020-02-05T00:00Z",
-		"channel": "SECN"
+		"channel": "SECN",
+		"homeScore" : 76,
+		"awayScore" : 79,
+		"cover" : 268
 	},
 	{
 		"gameId" : 132,
