@@ -6,12 +6,12 @@ var coversTeam = [];
 var picksList, teamsList, resultsList, usersList;
 var badge = document.createElement('div');
 badge.className = 'standings';
-var select = `<select class='form-control' id='results_by_week' onchange="getResultsByWeek(this.value);"><option value ='13'> Week 13 </option><option value ='12'> Week 12 </option><option value ='11'> Week 11 </option><option value ='10'> Week 10 </option><option value ='9'> Week 9 </option><option value ='8'> Week 8 </option><option value ='7'> Week 7 </option><option value ='6'> Week 6 </option><option value ='5'> Week 5 </option><option value ='4'> Week 4 </option><option value ='3'> Week 3 </option><option value ='2'> Week 2 </option><option value ='1'> Week 1 </option></select>`;
+var select = `<select class='form-control' id='results_by_week' onchange="getResultsByWeek(this.value);"><option value ='14'> Week 14 </option><option value ='13'> Week 13 </option><option value ='12'> Week 12 </option><option value ='11'> Week 11 </option><option value ='10'> Week 10 </option><option value ='9'> Week 9 </option><option value ='8'> Week 8 </option><option value ='7'> Week 7 </option><option value ='6'> Week 6 </option><option value ='5'> Week 5 </option><option value ='4'> Week 4 </option><option value ='3'> Week 3 </option><option value ='2'> Week 2 </option><option value ='1'> Week 1 </option></select>`;
 badge.innerHTML = '<form>' + select + '</form>';		
 document.getElementById("weeks").appendChild(badge);
 
 
-getResultsByWeek(13);
+getResultsByWeek(14);
 
 
 function getResultsByWeek(week) {
@@ -117,7 +117,8 @@ function getResultsByWeek(week) {
 						isCorrect = "danger";				
 					}
 					if (teamImage)
-						pick = ` <center><img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${teamImage}.vresize.75.75.medium.2.png"></center>`;
+						pick = ` <div><img class='center' src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${teamImage}.vresize.75.75.medium.2.png"></div>`;
+						//pick = ` <center><img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${teamImage}.vresize.75.75.medium.2.png"></center>`;
 					tableUser = tableUser + `<td class="${isCorrect}">${pick}</td>`;
 					teamImage = "";
 				}
