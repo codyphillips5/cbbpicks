@@ -6,12 +6,12 @@
 		"game2" : "BUTLER",
 		"game3" : "CINCY",
 		"game4" : "MARY",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "MSU",
+		"game6" : "AUB",
+		"game7" : "IND",
+		"game8" : "MINN",
+		"game9" : "LOU",
+		"game10" : "STMARY"
     },
     {
 		"userId" : 2,
@@ -19,12 +19,12 @@
 		"game2" : "BUTLER",
 		"game3" : "WICHST",
 		"game4" : "ILL",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "MICH",
+		"game6" : "AUB",
+		"game7" : "IND",
+		"game8" : "PSU",
+		"game9" : "LOU",
+		"game10" : "STMARY"
     },
     {
 		"userId" : 3,
@@ -45,12 +45,12 @@
 		"game2" : "NOVA",
 		"game3" : "WICHST",
 		"game4" : "ILL",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "MICH",
+		"game6" : "LSU",
+		"game7" : "PURD",
+		"game8" : "MINN",
+		"game9" : "UVA",
+		"game10" : "STMARY"
     },
 	{
 		"userId" : 5,
@@ -58,12 +58,12 @@
 		"game2" : "NOVA",
 		"game3" : "CINCY",
 		"game4" : "ILL",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "MICH",
+		"game6" : "LSU",
+		"game7" : "IND",
+		"game8" : "MINN",
+		"game9" : "UVA",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 6,
@@ -71,12 +71,12 @@
 		"game2" : "NOVA",
 		"game3" : "CINCY",
 		"game4" : "MARY",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "MSU",
+		"game6" : "LSU",
+		"game7" : "IND",
+		"game8" : "PSU",
+		"game9" : "LOU",
+		"game10" : "GONZ"
     },    
 	{
 		"userId" : 7,
@@ -84,12 +84,12 @@
 		"game2" : "NOVA",
 		"game3" : "CINCY",
 		"game4" : "MARY",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "MSU",
+		"game6" : "AUB",
+		"game7" : "IND",
+		"game8" : "MINN",
+		"game9" : "UVA",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 8,
@@ -110,12 +110,12 @@
 		"game2" : "BUTLER",
 		"game3" : "WICHST",
 		"game4" : "ILL",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "MSU",
+		"game6" : "AUB",
+		"game7" : "PURD",
+		"game8" : "MINN",
+		"game9" : "UVA",
+		"game10" : "STMARY"
     },	
 	{
 		"userId" : 10,
@@ -123,12 +123,12 @@
 		"game2" : "NOVA",
 		"game3" : "CINCY",
 		"game4" : "ILL",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "MSU",
+		"game6" : "AUB",
+		"game7" : "IND",
+		"game8" : "PSU",
+		"game9" : "LOU",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 11,
@@ -149,12 +149,12 @@
 		"game2" : "NOVA",
 		"game3" : "CINCY",
 		"game4" : "ILL",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "MICH",
+		"game6" : "LSU",
+		"game7" : "IND",
+		"game8" : "PSU",
+		"game9" : "UVA",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 13,
@@ -162,12 +162,12 @@
 		"game2" : "BUTLER",
 		"game3" : "WICHST",
 		"game4" : "ILL",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "MSU",
+		"game6" : "AUB",
+		"game7" : "IND",
+		"game8" : "MINN",
+		"game9" : "LOU",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 14,
@@ -175,12 +175,12 @@
 		"game2" : "BUTLER",
 		"game3" : "WICHST",
 		"game4" : "ILL",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "MICH",
+		"game6" : "LSU",
+		"game7" : "IND",
+		"game8" : "PSU",
+		"game9" : "UVA",
+		"game10" : "STMARY"
     },
 	{
 		"userId" : 15,
@@ -188,12 +188,12 @@
 		"game2" : "BUTLER",
 		"game3" : "WICHST",
 		"game4" : "MARY",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "MSU",
+		"game6" : "AUB",
+		"game7" : "PURD",
+		"game8" : "PSU",
+		"game9" : "UVA",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 16,
@@ -201,12 +201,12 @@
 		"game2" : "NOVA",
 		"game3" : "CINCY",
 		"game4" : "ILL",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "MSU",
+		"game6" : "AUB",
+		"game7" : "IND",
+		"game8" : "MINN",
+		"game9" : "LOU",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 17,
@@ -214,12 +214,12 @@
 		"game2" : "BUTLER",
 		"game3" : "CINCY",
 		"game4" : "MARY",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "MICH",
+		"game6" : "LSU",
+		"game7" : "IND",
+		"game8" : "MINN",
+		"game9" : "UVA",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 18,
@@ -240,12 +240,12 @@
 		"game2" : "BUTLER",
 		"game3" : "CINCY",
 		"game4" : "ILL",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "MICH",
+		"game6" : "LSU",
+		"game7" : "IND",
+		"game8" : "PSU",
+		"game9" : "LOU",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 20,
@@ -253,12 +253,12 @@
 		"game2" : "BUTLER",
 		"game3" : "WICHST",
 		"game4" : "ILL",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "MSU",
+		"game6" : "LSU",
+		"game7" : "IND",
+		"game8" : "MINN",
+		"game9" : "UVA",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 21,
@@ -266,12 +266,12 @@
 		"game2" : "BUTLER",
 		"game3" : "WICHST",
 		"game4" : "MARY",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "MSU",
+		"game6" : "LSU",
+		"game7" : "IND",
+		"game8" : "MINN",
+		"game9" : "UVA",
+		"game10" : "STMARY"
     },
 	{
 		"userId" : 22,
@@ -279,12 +279,12 @@
 		"game2" : "BUTLER",
 		"game3" : "WICHST",
 		"game4" : "MARY",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "MSU",
+		"game6" : "LSU",
+		"game7" : "IND",
+		"game8" : "PSU",
+		"game9" : "LOU",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 23,
@@ -292,12 +292,12 @@
 		"game2" : "NOVA",
 		"game3" : "CINCY",
 		"game4" : "MARY",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "MSU",
+		"game6" : "LSU",
+		"game7" : "IND",
+		"game8" : "PSU",
+		"game9" : "UVA",
+		"game10" : "STMARY"
     }
 	]
 }
