@@ -52,7 +52,7 @@
 		"gameId" : 135,
 		"homeTeam" : 95,
 		"awayTeam" : 96,
-		"favorite" : 95,
+		"favorite" : 96,
 		"spread" : 2.5,
 		"gameTime" : "2020-02-08T17:00Z",
 		"channel": "FOX"
