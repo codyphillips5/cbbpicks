@@ -55,7 +55,10 @@
 		"favorite" : 96,
 		"spread" : 2.5,
 		"gameTime" : "2020-02-08T17:00Z",
-		"channel": "FOX"
+		"channel": "FOX",
+		"homeScore" : 77,
+		"awayScore" : 68,
+		"cover" : 95
 	},
 	{
 		"gameId" : 136,
@@ -64,7 +67,10 @@
 		"favorite" : 268,
 		"spread" : 5.5,
 		"gameTime" : "2020-02-08T17:00Z",
-		"channel": "ESPN"
+		"channel": "ESPN",
+		"homeScore" : 91,
+		"awayScore" : 90,
+		"cover" : 272
 	},
 	{
 		"gameId" : 137,
@@ -73,7 +79,10 @@
 		"favorite" : 92,
 		"spread" : 2.5,
 		"gameTime" : "2020-02-08T19:00Z",
-		"channel": "ESPN"
+		"channel": "ESPN",
+		"homeScore" : 62,
+		"awayScore" : 74,
+		"cover" : 102
 	},
 		{
 		"gameId" : 138,
