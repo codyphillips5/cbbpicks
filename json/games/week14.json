@@ -91,7 +91,10 @@
 		"favorite" : 101,
 		"spread" : 6.5,
 		"gameTime" : "2020-02-08T21:00Z",
-		"channel": "BTN"
+		"channel": "BTN",
+		"homeScore" : 83,
+		"awayScore" : 77,
+		"cover" : 97
 	},
 	{
 		"gameId" : 139,
@@ -100,7 +103,10 @@
 		"favorite" : 18,
 		"spread" : 6.5,
 		"gameTime" : "2020-02-08T21:00Z",
-		"channel": "ESPN"
+		"channel": "ESPN",
+		"homeScore" : 80,
+		"awayScore" : 73,
+		"cover" : 18
 	},
 	{
 		"gameId" : 140,
@@ -109,7 +115,10 @@
 		"favorite" : 344,
 		"spread" : 6.5,
 		"gameTime" : "2020-02-09T03:00Z",
-		"channel": "ESPN"
+		"channel": "ESPN",
+		"homeScore" : 60,
+		"awayScore" : 90,
+		"cover" : 344
 	}
   ]
 }
