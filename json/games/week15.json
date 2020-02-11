@@ -7,14 +7,17 @@
 		"favorite" : 15,
 		"spread" : 8.5,
 		"gameTime" : "2020-02-11T00:00Z",
-		"channel": "ESPN"
+		"channel": "ESPN",
+		"homeScore" : 70,
+		"awayScore" : 65,
+		"cover" : 16
 	},
 	{
 		"gameId" : 142,
 		"homeTeam" : 24,
 		"awayTeam" : 21,
 		"favorite" : 24,
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2020-02-12T00:00Z",
 		"channel": "ESPN2"
 	},
