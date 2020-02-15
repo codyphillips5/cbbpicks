@@ -65,7 +65,7 @@
 		"homeTeam" : 267,
 		"awayTeam" : 273,
 		"favorite" : 267,
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2020-02-15T18:00Z",
 		"channel": "SECN"
 	},
@@ -74,7 +74,7 @@
 		"homeTeam" : 103,
 		"awayTeam" : 91,
 		"favorite" : 103,
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2020-02-15T21:30Z",
 		"channel": "BTN"
 	},
@@ -83,7 +83,7 @@
 		"homeTeam" : 206,
 		"awayTeam" : 208,
 		"favorite" : 208,
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2020-02-16T01:00Z",
 		"channel": "ESPN2"
 	},
@@ -92,7 +92,7 @@
 		"homeTeam" : 250,
 		"awayTeam" : 244,
 		"favorite" : 244,
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2020-02-16T03:30Z",
 		"channel": "PAC12"
 	},
