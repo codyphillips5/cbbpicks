@@ -7,10 +7,10 @@
 		"game3" : "CREIGH",
 		"game4" : "KU",
 		"game5" : "ORE",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "ARK",
+		"game7" : "RUTG",
+		"game8" : "NOIOWA",
+		"game9" : "ZONA",
 		"game10" : ""
     },
     {
@@ -20,10 +20,10 @@
 		"game3" : "SETON",
 		"game4" : "KU",
 		"game5" : "ORE",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "ARK",
+		"game7" : "ILL",
+		"game8" : "NOIOWA",
+		"game9" : "ZONA",
 		"game10" : ""
     },
     {
@@ -46,10 +46,10 @@
 		"game3" : "CREIGH",
 		"game4" : "WVU",
 		"game5" : "COLO",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "MSST",
+		"game7" : "ILL",
+		"game8" : "LOYCHI",
+		"game9" : "STAN",
 		"game10" : ""
     },
 	{
@@ -59,10 +59,10 @@
 		"game3" : "SETON",
 		"game4" : "WVU",
 		"game5" : "ORE",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "MSST",
+		"game7" : "RUTG",
+		"game8" : "NOIOWA",
+		"game9" : "STAN",
 		"game10" : ""
     },
 	{
@@ -72,10 +72,10 @@
 		"game3" : "SETON",
 		"game4" : "KU",
 		"game5" : "COLO",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "MSST",
+		"game7" : "RUTG",
+		"game8" : "LOYCHI",
+		"game9" : "ZONA",
 		"game10" : ""
     },    
 	{
@@ -85,10 +85,10 @@
 		"game3" : "SETON",
 		"game4" : "WVU",
 		"game5" : "COLO",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "ARK",
+		"game7" : "RUTG",
+		"game8" : "NOIOWA",
+		"game9" : "ZONA",
 		"game10" : ""
     },
 	{
@@ -98,10 +98,10 @@
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "ARK",
+		"game7" : "RUTG",
+		"game8" : "NOIOWA",
+		"game9" : "ZONA",
 		"game10" : ""
     },
 	{
@@ -111,10 +111,10 @@
 		"game3" : "SETON",
 		"game4" : "WVU",
 		"game5" : "ORE",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "MSST",
+		"game7" : "ILL",
+		"game8" : "NOIOWA",
+		"game9" : "ZONA",
 		"game10" : ""
     },	
 	{
@@ -124,10 +124,10 @@
 		"game3" : "CREIGH",
 		"game4" : "WVU",
 		"game5" : "ORE",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "ARK",
+		"game7" : "RUTG",
+		"game8" : "LOYCHI",
+		"game9" : "STAN",
 		"game10" : ""
     },
 	{
@@ -150,10 +150,10 @@
 		"game3" : "CREIGH",
 		"game4" : "KU",
 		"game5" : "ORE",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "ARK",
+		"game7" : "RUTG",
+		"game8" : "NOIOWA",
+		"game9" : "ZONA",
 		"game10" : ""
     },
 	{
@@ -163,10 +163,10 @@
 		"game3" : "SETON",
 		"game4" : "KU",
 		"game5" : "ORE",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "ARK",
+		"game7" : "RUTG",
+		"game8" : "NOIOWA",
+		"game9" : "ZONA",
 		"game10" : ""
     },
 	{
@@ -176,10 +176,10 @@
 		"game3" : "CREIGH",
 		"game4" : "KU",
 		"game5" : "COLO",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "ARK",
+		"game7" : "RUTG",
+		"game8" : "NOIOWA",
+		"game9" : "STAN",
 		"game10" : ""
     },
 	{
@@ -202,10 +202,10 @@
 		"game3" : "SETON",
 		"game4" : "KU",
 		"game5" : "COLO",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "MSST",
+		"game7" : "ILL",
+		"game8" : "NOIOWA",
+		"game9" : "STAN",
 		"game10" : ""
     },
 	{
@@ -215,10 +215,10 @@
 		"game3" : "SETON",
 		"game4" : "WVU",
 		"game5" : "COLO",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "MSST",
+		"game7" : "ILL",
+		"game8" : "NOIOWA",
+		"game9" : "STAN",
 		"game10" : ""
     },
 	{
@@ -241,10 +241,10 @@
 		"game3" : "SETON",
 		"game4" : "KU",
 		"game5" : "COLO",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "MSST",
+		"game7" : "ILL",
+		"game8" : "NOIOWA",
+		"game9" : "ZONA",
 		"game10" : ""
     },
 	{
@@ -254,10 +254,10 @@
 		"game3" : "CREIGH",
 		"game4" : "WVU",
 		"game5" : "COLO",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "ARK",
+		"game7" : "RUTG",
+		"game8" : "NOIOWA",
+		"game9" : "ZONA",
 		"game10" : ""
     },
 	{
@@ -267,10 +267,10 @@
 		"game3" : "CREIGH",
 		"game4" : "KU",
 		"game5" : "COLO",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "MSST",
+		"game7" : "RUTG",
+		"game8" : "LOYCHI",
+		"game9" : "ZONA",
 		"game10" : ""
     },
 	{
@@ -280,10 +280,10 @@
 		"game3" : "CREIGH",
 		"game4" : "KU",
 		"game5" : "COLO",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "ARK",
+		"game7" : "RUTG",
+		"game8" : "NOIOWA",
+		"game9" : "ZONA",
 		"game10" : ""
     },
 	{
@@ -293,10 +293,10 @@
 		"game3" : "SETON",
 		"game4" : "WVU",
 		"game5" : "ORE",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "MSST",
+		"game7" : "ILL",
+		"game8" : "LOYCHI",
+		"game9" : "ZONA",
 		"game10" : ""
     }
 	]
