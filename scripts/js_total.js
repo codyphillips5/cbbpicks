@@ -40,23 +40,26 @@ $.when(getGames, getTeams).then(function(){
 			var guess = allTeams[0][j];
 			var color = "";
 			switch(allTeams[1][j]) {
+				case 8:
+					color = "table-danger";
+					break;
 				case 7:
-					color = "danger";
+					color = "table-warning";
 					break;
 				case 6:
-					color = "warning";
+					color = "table-info";
 					break;
 				case 5:
-					color = "info";
+					color = "table-active";
 					break;
 				case 4:
-					color = "active";
+					color = "table-success";
 					break;
 				case 3:
-					color = "success";
+					color = "table-primary";
 					break;
 				case 2:
-					color = "bg-primary";
+					color = "table-dark";
 					break;
 				case 1:
 					color = "";
