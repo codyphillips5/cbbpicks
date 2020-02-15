@@ -32,7 +32,7 @@ $.when(getGames, getTeams).then(function(){
 	console.log("all: " + allTeams.length);
 	allTeams = numbers(allTeams);
 	
-	var tableStart = `<table class="table table-hover" id="results"><thead><tr><th scope="col">Team</th><th scope="col">Times</th></tr></thead><tbody>`;
+	var tableStart = `<table class="table table-hover" id="results"><thead><tr><th scope="col">Team</th><th scope="col">Games</th></tr></thead><tbody>`;
 	
 	for (var team in teams) {
 		for (var j = 0; j < allTeams[0].length; j++) {
