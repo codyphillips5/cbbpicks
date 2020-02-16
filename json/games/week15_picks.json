@@ -11,7 +11,7 @@
 		"game7" : "RUTG",
 		"game8" : "NOIOWA",
 		"game9" : "ZONA",
-		"game10" : ""
+		"game10" : "IOWA"
     },
     {
 		"userId" : 2,
@@ -24,7 +24,7 @@
 		"game7" : "ILL",
 		"game8" : "NOIOWA",
 		"game9" : "ZONA",
-		"game10" : ""
+		"game10" : "IOWA"
     },
     {
 		"userId" : 3,
@@ -50,7 +50,7 @@
 		"game7" : "ILL",
 		"game8" : "LOYCHI",
 		"game9" : "STAN",
-		"game10" : ""
+		"game10" : "MINN"
     },
 	{
 		"userId" : 5,
@@ -63,7 +63,7 @@
 		"game7" : "RUTG",
 		"game8" : "NOIOWA",
 		"game9" : "STAN",
-		"game10" : ""
+		"game10" : "IOWA"
     },
 	{
 		"userId" : 6,
@@ -76,7 +76,7 @@
 		"game7" : "RUTG",
 		"game8" : "LOYCHI",
 		"game9" : "ZONA",
-		"game10" : ""
+		"game10" : "IOWA"
     },    
 	{
 		"userId" : 7,
@@ -89,7 +89,7 @@
 		"game7" : "RUTG",
 		"game8" : "NOIOWA",
 		"game9" : "ZONA",
-		"game10" : ""
+		"game10" : "IOWA"
     },
 	{
 		"userId" : 8,
@@ -115,7 +115,7 @@
 		"game7" : "ILL",
 		"game8" : "NOIOWA",
 		"game9" : "ZONA",
-		"game10" : ""
+		"game10" : "MINN"
     },	
 	{
 		"userId" : 10,
@@ -128,7 +128,7 @@
 		"game7" : "RUTG",
 		"game8" : "LOYCHI",
 		"game9" : "STAN",
-		"game10" : ""
+		"game10" : "IOWA"
     },
 	{
 		"userId" : 11,
@@ -154,7 +154,7 @@
 		"game7" : "RUTG",
 		"game8" : "NOIOWA",
 		"game9" : "ZONA",
-		"game10" : ""
+		"game10" : "IOWA"
     },
 	{
 		"userId" : 13,
@@ -167,7 +167,7 @@
 		"game7" : "RUTG",
 		"game8" : "NOIOWA",
 		"game9" : "ZONA",
-		"game10" : ""
+		"game10" : "MINN"
     },
 	{
 		"userId" : 14,
@@ -180,7 +180,7 @@
 		"game7" : "RUTG",
 		"game8" : "NOIOWA",
 		"game9" : "STAN",
-		"game10" : ""
+		"game10" : "MINN"
     },
 	{
 		"userId" : 15,
@@ -193,7 +193,7 @@
 		"game7" : "ILL",
 		"game8" : "NOIOWA",
 		"game9" : "STAN",
-		"game10" : ""
+		"game10" : "IOWA"
     },
 	{
 		"userId" : 16,
@@ -245,7 +245,7 @@
 		"game7" : "ILL",
 		"game8" : "NOIOWA",
 		"game9" : "ZONA",
-		"game10" : ""
+		"game10" : "IOWA"
     },
 	{
 		"userId" : 20,
@@ -258,7 +258,7 @@
 		"game7" : "RUTG",
 		"game8" : "NOIOWA",
 		"game9" : "ZONA",
-		"game10" : ""
+		"game10" : "IOWA"
     },
 	{
 		"userId" : 21,
@@ -271,7 +271,7 @@
 		"game7" : "RUTG",
 		"game8" : "LOYCHI",
 		"game9" : "ZONA",
-		"game10" : ""
+		"game10" : "IOWA"
     },
 	{
 		"userId" : 22,
@@ -284,7 +284,7 @@
 		"game7" : "RUTG",
 		"game8" : "NOIOWA",
 		"game9" : "ZONA",
-		"game10" : ""
+		"game10" : "IOWA"
     },
 	{
 		"userId" : 23,
@@ -297,7 +297,7 @@
 		"game7" : "ILL",
 		"game8" : "LOYCHI",
 		"game9" : "ZONA",
-		"game10" : ""
+		"game10" : "IOWA"
     }
 	]
 }
