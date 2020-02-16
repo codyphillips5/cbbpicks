@@ -91,7 +91,10 @@
 		"favorite" : 208,
 		"spread" : 0,
 		"gameTime" : "2020-02-16T01:00Z",
-		"channel": "ESPN2"
+		"channel": "ESPN2",
+		"homeScore" : 82,
+		"awayScore" : 73,
+		"cover" : 206
 	},
 	{
 		"gameId" : 149,
