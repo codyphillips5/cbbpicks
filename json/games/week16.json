@@ -8,7 +8,7 @@
 		"spread" : "-",
 		"gameTime" : "2020-02-18T23:30Z",
 		"channel": "FS1"
-    },
+	},
 	{
 		"gameId" : 152,
 		"homeTeam" : 74,
@@ -17,7 +17,7 @@
 		"spread" : "-",
 		"gameTime" : "2020-02-19T01:30Z",
 		"channel": "FS1"
-    },
+	},
 	{
 		"gameId" : 153,
 		"homeTeam" : 50,
@@ -26,7 +26,7 @@
 		"spread" : "-",
 		"gameTime" : "2020-02-19T01:30Z",
 		"channel": "CBSSN"
-    },
+	},
 	{
 		"gameId" : 154,
 		"homeTeam" : 76,
@@ -35,7 +35,7 @@
 		"spread" : "-",
 		"gameTime" : "2020-02-19T23:30Z",
 		"channel": "FS1"
-    },
+	},
 	{
 		"gameId" : 155,
 		"homeTeam" : 295,
@@ -44,7 +44,7 @@
 		"spread" : "-",
 		"gameTime" : "2020-02-20T00:00Z",
 		"channel": "ESPN+"
-    },
+	},
 	{
 		"gameId" : 156,
 		"homeTeam" : 245,
@@ -53,7 +53,7 @@
 		"spread" : "-",
 		"gameTime" : "2020-02-21T02:00Z",
 		"channel": "ESPN"
-    },
+	},
 	{
 		"gameId" : 157,
 		"homeTeam" : 60,
@@ -62,7 +62,7 @@
 		"spread" : "-",
 		"gameTime" : "2020-02-22T17:00Z",
 		"channel": "ESPN"
-    },
+	},
 	{
 		"gameId" : 158,
 		"homeTeam" : 5,
@@ -71,7 +71,7 @@
 		"spread" : "-",
 		"gameTime" : "2020-02-22T19:00Z",
 		"channel": "ESPN2"
-    },
+	},
 	{
 		"gameId" : 159,
 		"homeTeam" : 79,
@@ -80,7 +80,7 @@
 		"spread" : "-",
 		"gameTime" : "2020-02-22T19:30Z",
 		"channel": "FOX"
-    },
+	},
 	{
 		"gameId" : 160,
 		"homeTeam" : 271,
@@ -89,7 +89,6 @@
 		"spread" : "-",
 		"gameTime" : "2020-02-22T23:00Z",
 		"channel": "ESPN"
-    }
-    }
+	}
   ]
 }
