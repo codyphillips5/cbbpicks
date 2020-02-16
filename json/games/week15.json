@@ -103,14 +103,17 @@
 		"favorite" : 244,
 		"spread" : 4.5,
 		"gameTime" : "2020-02-16T03:30Z",
-		"channel": "PAC12"
+		"channel": "PAC12",
+		"homeScore" : 60,
+		"awayScore" : 69,
+		"cover" : 244
 	},
 	{
 		"gameId" : 150,
 		"homeTeam" : 97,
 		"awayTeam" : 93,
 		"favorite" : 97,
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2020-02-16T18:00Z",
 		"channel": "FS1"
 	}
