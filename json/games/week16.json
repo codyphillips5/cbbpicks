@@ -5,7 +5,7 @@
 		"homeTeam" : 101,
 		"awayTeam" : 91,
 		"favorite" : 101,
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2020-02-18T23:30Z",
 		"channel": "FS1"
 	},
@@ -14,7 +14,7 @@
 		"homeTeam" : 74,
 		"awayTeam" : 71,
 		"favorite" : 74,
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2020-02-19T01:30Z",
 		"channel": "FS1"
 	},
@@ -23,7 +23,7 @@
 		"homeTeam" : 50,
 		"awayTeam" : 38,
 		"favorite" : 38,
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2020-02-19T01:30Z",
 		"channel": "CBSSN"
 	},
