@@ -43,7 +43,10 @@
 		"favorite" : 76,
 		"spread" : 4.5,
 		"gameTime" : "2020-02-19T23:30Z",
-		"channel": "FS1"
+		"channel": "FS1",
+		"homeScore" : 74,
+		"awayScore" : 72,
+		"cover" : 70
 	},
 	{
 		"gameId" : 155,
@@ -52,14 +55,17 @@
 		"favorite" : 295,
 		"spread" : 4.5,
 		"gameTime" : "2020-02-20T00:00Z",
-		"channel": "ESPN+"
+		"channel": "ESPN+",
+		"homeScore" : 75,
+		"awayScore" : 66,
+		"cover" : 295
 	},
 	{
 		"gameId" : 156,
 		"homeTeam" : 245,
 		"awayTeam" : 248,
 		"favorite" : 248,
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2020-02-21T02:00Z",
 		"channel": "ESPN"
 	},
