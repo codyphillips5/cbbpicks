@@ -83,15 +83,6 @@
 	},
 	{
 		"gameId" : 158,
-		"homeTeam" : 5,
-		"awayTeam" : 4,
-		"favorite" : 5,
-		"spread" : "-",
-		"gameTime" : "2020-02-22T19:00Z",
-		"channel": "ESPN2"
-	},
-	{
-		"gameId" : 159,
 		"homeTeam" : 79,
 		"awayTeam" : 78,
 		"favorite" : 79,
@@ -100,13 +91,22 @@
 		"channel": "FOX"
 	},
 	{
-		"gameId" : 160,
+		"gameId" : 159,
 		"homeTeam" : 271,
 		"awayTeam" : 269,
 		"favorite" : 271,
 		"spread" : "-",
 		"gameTime" : "2020-02-22T23:00Z",
 		"channel": "ESPN"
+	},
+	{
+		"gameId" : 160,
+		"homeTeam" : 343,
+		"awayTeam" : 344,
+		"favorite" : 344,
+		"spread" : "-",
+		"gameTime" : "2020-02-23T03:00Z",
+		"channel": "ESPN2"
 	}
   ]
 }
