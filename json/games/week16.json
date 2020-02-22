@@ -79,7 +79,10 @@
 		"favorite" : 60,
 		"spread" : 1.5,
 		"gameTime" : "2020-02-22T17:00Z",
-		"channel": "ESPN"
+		"channel": "ESPN",
+		"homeScore" : 61,
+		"awayScore" : 64,
+		"cover" : 62
 	},
 	{
 		"gameId" : 158,
