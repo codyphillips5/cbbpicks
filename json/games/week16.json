@@ -77,7 +77,7 @@
 		"homeTeam" : 60,
 		"awayTeam" : 62,
 		"favorite" : 60,
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2020-02-22T17:00Z",
 		"channel": "ESPN"
 	},
@@ -86,7 +86,7 @@
 		"homeTeam" : 79,
 		"awayTeam" : 78,
 		"favorite" : 79,
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2020-02-22T19:30Z",
 		"channel": "FOX"
 	},
@@ -95,7 +95,7 @@
 		"homeTeam" : 271,
 		"awayTeam" : 269,
 		"favorite" : 271,
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2020-02-22T23:00Z",
 		"channel": "ESPN"
 	},
@@ -104,7 +104,7 @@
 		"homeTeam" : 343,
 		"awayTeam" : 344,
 		"favorite" : 344,
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2020-02-23T03:00Z",
 		"channel": "ESPN2"
 	}
