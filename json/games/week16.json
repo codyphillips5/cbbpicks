@@ -91,7 +91,10 @@
 		"favorite" : 79,
 		"spread" : 0,
 		"gameTime" : "2020-02-22T19:30Z",
-		"channel": "FOX"
+		"channel": "FOX",
+		"homeScore" : 55,
+		"awayScore" : 64,
+		"cover" : 78
 	},
 	{
 		"gameId" : 159,
