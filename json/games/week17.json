@@ -13,8 +13,8 @@
 		"gameId" : 162,
 		"homeTeam" : 64,
 		"awayTeam" : 68,
-		"favorite" : 64,
-		"spread" : "-",
+		"favorite" : 68,
+		"spread" : 2.5,
 		"gameTime" : "2020-02-26T02:00Z",
 		"channel": "ESPN2"
 	},
