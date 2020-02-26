@@ -19,14 +19,17 @@
 		"favorite" : 68,
 		"spread" : 2.5,
 		"gameTime" : "2020-02-26T02:00Z",
-		"channel": "ESPN2"
+		"channel": "ESPN2",
+		"homeScore" : 65,
+		"awayScore" : 51,
+		"cover" : 64
 	},
 	{
 		"gameId" : 163,
 		"homeTeam" : 74,
 		"awayTeam" : 73,
 		"favorite" : 74,
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2020-02-27T01:30Z",
 		"channel": "FS1"
 	},
@@ -46,7 +49,7 @@
 		"favorite" : 251,
 		"spread" : "-",
 		"gameTime" : "2020-02-28T04:00Z",
-		"channel": ""
+		"channel": "PACN"
 	},
 	{
 		"gameId" : 166,
