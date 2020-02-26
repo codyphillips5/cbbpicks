@@ -18,6 +18,11 @@ auth.onAuthStateChanged(user => {
     }
 })
 
+var firstName;
+var users = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.json", function(json){
+	  usersFile = json;
+  });
+
 // create new guide
 const createForm = document.querySelector('#save_picks');
 if(createForm) {
@@ -31,8 +36,18 @@ if(createForm) {
             // close the modal and reset form
             //const modal = document.querySelector('#modal-create');
             //M.Modal.getInstance(modal).close();
+
+$.when(users).then(function(){	
+	for (var key in usersFile) {
+		for (var i = 0; i < usersFile[key].length; i++) {
+			if(auth.currentUser.email == usersFile[key][i].Email) {
+				firstName = usersFile[key][i].FirstName;
+			}
+		}
+	}
+});
             createForm.reset();
-            createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-success" role="alert">Success! Your picks have been saved. At this time, picks may only be submitted ONCE. Please reach out to Cody with questions or any pick changes.</div>`;
+            createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-success" role="alert">Success! Your picks have been saved. Good luck, ${firstName}!</div>`;
 			document.getElementById("savePicks").disabled = true;
 			document.getElementById("savePicks").innerHTML = "Saved";
         }).catch(err => {
