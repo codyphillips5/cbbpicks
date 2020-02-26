@@ -47,7 +47,7 @@ $.when(users).then(function(){
 	}
 });
             createForm.reset();
-            createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-success" role="alert">Success! Your picks have been saved. Good luck, ${firstName}!</div>`;
+            createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-success" role="alert">Success! Your picks have been saved. <br>Good luck, ${firstName}!</div>`;
 			document.getElementById("savePicks").disabled = true;
 			document.getElementById("savePicks").innerHTML = "Saved";
         }).catch(err => {
