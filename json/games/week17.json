@@ -41,7 +41,7 @@
 		"homeTeam" : 252,
 		"awayTeam" : 244,
 		"favorite" : 244,
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2020-02-28T03:00Z",
 		"channel": "ESPN"
 	},
