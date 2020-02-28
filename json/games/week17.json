@@ -55,7 +55,10 @@
 		"favorite" : 251,
 		"spread" : 3.5,
 		"gameTime" : "2020-02-28T04:00Z",
-		"channel": "PACN"
+		"channel": "PACN",
+		"homeScore" : 75,
+		"awayScore" : 72,
+		"cover" : 245
 	},
 	{
 		"gameId" : 166,
