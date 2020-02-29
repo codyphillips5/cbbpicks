@@ -65,7 +65,7 @@
 		"homeTeam" : 93,
 		"awayTeam" : 101,
 		"favorite" : 93,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2020-02-29T17:00Z",
 		"channel": "BTN"
 	},
@@ -74,7 +74,7 @@
 		"homeTeam" : 271,
 		"awayTeam" : 268,
 		"favorite" : 271,
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2020-02-29T20:45Z",
 		"channel": "CBS"
 	},
@@ -83,7 +83,7 @@
 		"homeTeam" : 25,
 		"awayTeam" : 15,
 		"favorite" : 15,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2020-02-29T23:00Z",
 		"channel": "ESPN"
 	},
