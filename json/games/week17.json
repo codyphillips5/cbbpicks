@@ -67,7 +67,10 @@
 		"favorite" : 93,
 		"spread" : 3.5,
 		"gameTime" : "2020-02-29T17:00Z",
-		"channel": "BTN"
+		"channel": "BTN",
+		"homeScore" : 77,
+		"awayScore" : 68,
+		"cover" : 93
 	},
 	{
 		"gameId" : 167,
