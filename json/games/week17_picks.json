@@ -10,8 +10,8 @@
 		"game6" : "IOWA",
 		"game7" : "UK",
 		"game8" : "DUKE",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "CINCY",
+		"game10" : "COLO"
     },
     {
 		"userId" : 2,
@@ -23,8 +23,8 @@
 		"game6" : "",
 		"game7" : "",
 		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "CINCY",
+		"game10" : "COLO"
     },
     {
 		"userId" : 3,
@@ -49,8 +49,8 @@
 		"game6" : "PSU",
 		"game7" : "AUB",
 		"game8" : "UVA",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "HOU",
+		"game10" : "STAN"
     },
 	{
 		"userId" : 5,
@@ -62,8 +62,8 @@
 		"game6" : "IOWA",
 		"game7" : "UK",
 		"game8" : "UVA",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "HOU",
+		"game10" : "COLO"
     },
 	{
 		"userId" : 6,
@@ -75,8 +75,8 @@
 		"game6" : "IOWA",
 		"game7" : "AUB",
 		"game8" : "UVA",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "CINCY",
+		"game10" : "COLO"
     },    
 	{
 		"userId" : 7,
@@ -88,8 +88,8 @@
 		"game6" : "IOWA",
 		"game7" : "AUB",
 		"game8" : "DUKE",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "CINCY",
+		"game10" : "COLO"
     },
 	{
 		"userId" : 8,
@@ -101,8 +101,8 @@
 		"game6" : "IOWA",
 		"game7" : "UK",
 		"game8" : "UVA",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "HOU",
+		"game10" : "STAN"
     },
 	{
 		"userId" : 9,
@@ -114,8 +114,8 @@
 		"game6" : "IOWA",
 		"game7" : "UK",
 		"game8" : "UVA",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "HOU",
+		"game10" : "STAN"
     },	
 	{
 		"userId" : 10,
@@ -127,8 +127,8 @@
 		"game6" : "IOWA",
 		"game7" : "UK",
 		"game8" : "DUKE",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "CINCY",
+		"game10" : "STAN"
     },
 	{
 		"userId" : 11,
@@ -153,8 +153,8 @@
 		"game6" : "IOWA",
 		"game7" : "AUB",
 		"game8" : "DUKE",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "CINCY",
+		"game10" : "COLO"
     },
 	{
 		"userId" : 13,
@@ -166,8 +166,8 @@
 		"game6" : "IOWA",
 		"game7" : "UK",
 		"game8" : "DUKE",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "CINCY",
+		"game10" : "COLO"
     },
 	{
 		"userId" : 14,
@@ -218,8 +218,8 @@
 		"game6" : "IOWA",
 		"game7" : "AUB",
 		"game8" : "DUKE",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "CINCY",
+		"game10" : "COLO"
     },
 	{
 		"userId" : 18,
@@ -231,8 +231,8 @@
 		"game6" : "IOWA",
 		"game7" : "UK",
 		"game8" : "UVA",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "CINCY",
+		"game10" : "COLO"
     },
 	{
 		"userId" : 19,
@@ -244,8 +244,8 @@
 		"game6" : "PSU",
 		"game7" : "AUB",
 		"game8" : "UVA",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "HOU",
+		"game10" : "STAN"
     },
 	{
 		"userId" : 20,
@@ -270,8 +270,8 @@
 		"game6" : "IOWA",
 		"game7" : "AUB",
 		"game8" : "UVA",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "HOU",
+		"game10" : "COLO"
     },
 	{
 		"userId" : 22,
@@ -283,8 +283,8 @@
 		"game6" : "IOWA",
 		"game7" : "AUB",
 		"game8" : "UVA",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "CINCY",
+		"game10" : "COLO"
     },
 	{
 		"userId" : 23,
@@ -296,8 +296,8 @@
 		"game6" : "IOWA",
 		"game7" : "AUB",
 		"game8" : "UVA",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "HOU",
+		"game10" : "STAN"
     }
 	]
 }
