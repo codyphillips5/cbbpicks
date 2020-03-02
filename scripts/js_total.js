@@ -41,30 +41,16 @@ $.when(getGames, getTeams).then(function(){
 			var color = "";
 			switch(allTeams[1][j]) {
 				case 9:
-					color = "bg-danger";
-					break;
-				case 8:
-					color = "table-danger";
-					break;
 				case 7:
-					color = "table-warning";
-					break;
-				case 6:
-					color = "table-info";
-					break;
 				case 5:
+				case 3:
+				case 1:
 					color = "table-active";
 					break;
+				case 8:
+				case 6:
 				case 4:
-					color = "table-success";
-					break;
-				case 3:
-					color = "table-primary";
-					break;
 				case 2:
-					color = "table-dark";
-					break;
-				case 1:
 					color = "";
 					break;
 				default:
