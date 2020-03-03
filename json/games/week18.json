@@ -4,8 +4,8 @@
 		"gameId" : 171,
 		"homeTeam" : 103,
 		"awayTeam" : 94,
-		"favorite" : 94,
-		"spread" : "-",
+		"favorite" : 103,
+		"spread" : 1.5,
 		"gameTime" : "2020-03-04T00:00Z",
 		"channel": "BTN"
     },
@@ -14,7 +14,7 @@
 		"homeTeam" : 64,
 		"awayTeam" : 67,
 		"favorite" : 64,
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2020-03-04T02:00Z",
 		"channel": "ESPN2"
 	},
