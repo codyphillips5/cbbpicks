@@ -19,14 +19,17 @@
 		"favorite" : 64,
 		"spread" : 6.5,
 		"gameTime" : "2020-03-04T02:00Z",
-		"channel": "ESPN2"
+		"channel": "ESPN2",
+		"homeScore" : 51,
+		"awayScore" : 52,
+		"cover" : 67
 	},
 	{
 		"gameId" : 173,
 		"homeTeam" : 75,
 		"awayTeam" : 79,
-		"favorite" : 79,
-		"spread" : "-",
+		"favorite" : 75,
+		"spread" : 4.5,
 		"gameTime" : "2020-03-04T23:30Z",
 		"channel": "FS1"
     },
@@ -35,7 +38,7 @@
 		"homeTeam" : 272,
 		"awayTeam" : 267,
 		"favorite" : 272,
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2020-03-05T00:00Z",
 		"channel": "SECN"
     },
@@ -43,8 +46,8 @@
 		"gameId" : 175,
 		"homeTeam" : 45,
 		"awayTeam" : 38,
-		"favorite" : 45,
-		"spread" : "-",
+		"favorite" : 38,
+		"spread" : 3.5,
 		"gameTime" : "2020-03-05T02:00Z",
 		"channel": "CBSSN"
     },
