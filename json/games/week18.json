@@ -55,14 +55,17 @@
 		"favorite" : 38,
 		"spread" : 3.5,
 		"gameTime" : "2020-03-05T02:00Z",
-		"channel": "CBSSN"
+		"channel": "CBSSN",
+		"homeScore" : 84,
+		"awayScore" : 57,
+		"cover" : 38
     },
 	{
 		"gameId" : 176,
 		"homeTeam" : 5,
 		"awayTeam" : 12,
-		"favorite" : 12,
-		"spread" : "-",
+		"favorite" : 5,
+		"spread" : 1.5,
 		"gameTime" : "2020-03-06T02:00Z",
 		"channel": "ESPN"
     },
