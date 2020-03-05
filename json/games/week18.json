@@ -31,7 +31,10 @@
 		"favorite" : 75,
 		"spread" : 4.5,
 		"gameTime" : "2020-03-04T23:30Z",
-		"channel": "FS1"
+		"channel": "FS1",
+		"homeScore" : 80,
+		"awayScore" : 74,
+		"cover" : 75
     },
 	{
 		"gameId" : 174,
@@ -40,7 +43,10 @@
 		"favorite" : 267,
 		"spread" : 2.5,
 		"gameTime" : "2020-03-05T00:00Z",
-		"channel": "SECN"
+		"channel": "SECN",
+		"homeScore" : 99,
+		"awayScore" : 90,
+		"cover" : 267
     },
 	{
 		"gameId" : 175,
