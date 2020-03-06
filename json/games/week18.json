@@ -67,7 +67,10 @@
 		"favorite" : 5,
 		"spread" : 1.5,
 		"gameTime" : "2020-03-06T02:00Z",
-		"channel": "ESPN"
+		"channel": "ESPN",
+		"homeScore" : 68,
+		"awayScore" : 60,
+		"cover" : 5
     },
 	{
 		"gameId" : 177,
