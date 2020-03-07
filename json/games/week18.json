@@ -91,7 +91,10 @@
 		"favorite" : 62,
 		"spread" : 3.5,
 		"gameTime" : "2020-03-07T19:00Z",
-		"channel": "ESPN"
+		"channel": "ESPN",
+		"homeScore" : 62,
+		"awayScore" : 66,
+		"cover" : 62
     },
 	{
 		"gameId" : 179,
@@ -100,7 +103,10 @@
 		"favorite" : 71,
 		"spread" : 3.5,
 		"gameTime" : "2020-03-07T19:30Z",
-		"channel": "FOX"
+		"channel": "FOX",
+		"homeScore" : 77,
+		"awayScore" : 60,
+		"cover" : 71
     },
 	{
 		"gameId" : 180,
@@ -109,7 +115,10 @@
 		"favorite" : 252,
 		"spread" : 3.5,
 		"gameTime" : "2020-03-07T20:15Z",
-		"channel": "CBS"
+		"channel": "CBS",
+		"homeScore" : 54,
+		"awayScore" : 52,
+		"cover" : 251
     }
   ]
 }
