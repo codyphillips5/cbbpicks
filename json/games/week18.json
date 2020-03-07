@@ -77,7 +77,7 @@
 		"homeTeam" : 69,
 		"awayTeam" : 60,
 		"favorite" : 69,
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2020-03-07T18:00Z",
 		"channel": "ESPN+"
     },
@@ -86,7 +86,7 @@
 		"homeTeam" : 68,
 		"awayTeam" : 62,
 		"favorite" : 62,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2020-03-07T19:00Z",
 		"channel": "ESPN"
     },
@@ -95,7 +95,7 @@
 		"homeTeam" : 71,
 		"awayTeam" : 76,
 		"favorite" : 71,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2020-03-07T19:30Z",
 		"channel": "FOX"
     },
@@ -104,7 +104,7 @@
 		"homeTeam" : 252,
 		"awayTeam" : 251,
 		"favorite" : 252,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2020-03-07T20:15Z",
 		"channel": "CBS"
     }
