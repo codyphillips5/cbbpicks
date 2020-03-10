@@ -1,6 +1,7 @@
 var homeTeams = [];
 var awayTeams = [];
 var allTeams = [];
+var winners = [];
 var home, away;
 
 var standings, teams, resultsList, usersList;
@@ -25,7 +26,16 @@ var getTeams = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/teams.js
 	teams = json;
 });
 
-$.when(getGames, getTeams).then(function(){
+var getTourney = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/tournament.json", function(json){
+	tourney = json;
+	for (var auto in tourney) {
+		for (var i = 0; i < tourney[auto].length; i++) {
+			winners.push(tourney[auto][i].winner);
+		}
+	}
+});
+
+$.when(getGames, getTeams, getTourney).then(function(){
 	allTeams = homeTeams.concat(awayTeams);
 	console.log("home: " + homeTeams.length);
 	console.log("away: " + awayTeams.length);
@@ -55,6 +65,9 @@ $.when(getGames, getTeams).then(function(){
 					break;
 				default:
 					// code block
+			}
+			if (winners.includes(teams[team][guess].team)) {
+				color = "table-warning";
 			}
 			tableStart = tableStart + `<tr><th class="${color}">${teams[team][guess].team}</th><th class="${color}">${allTeams[1][j]}</th>`;
 		}
