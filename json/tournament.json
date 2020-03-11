@@ -26,23 +26,23 @@
 	},
 	{
 		"conf" : "Colonial",
-		"winner" : ""
+		"winner" : "Hofstra"
     },
 	{
 		"conf" : "Horizon",
-		"winner" : ""
+		"winner" : "Northern Kentucky"
     },
 	{
 		"conf" : "Northeast",
-		"winner" : ""
+		"winner" : "Robert Morris"
     },
 	{
 		"conf" : "Summit",
-		"winner" : ""
+		"winner" : "NDSU"
     },
 	{
 		"conf" : "WCC",
-		"winner" : ""
+		"winner" : "Gonzaga"
     },
 	{
 		"conf" : "Patriot",
@@ -106,7 +106,7 @@
     },
 	{
 		"conf" : "Ivy",
-		"winner" : ""
+		"winner" : "Yale"
     },
 	{
 		"conf" : "A-10",
