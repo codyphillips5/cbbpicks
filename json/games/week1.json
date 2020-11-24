@@ -2,103 +2,93 @@
   "games": [
     {
 		"gameId" : 1,
-		"homeTeam" : 19,
-		"awayTeam" : 18,
-		"favorite" : 18,
-		"spread" : 6.5,
-		"gameTime" : "2019-11-05 23:30:00",
-		"channel": "ACCN",
-		"cover" : 18
+		"homeTeam" : 217,
+		"awayTeam" : 251,
+		"favorite" : 251,
+		"spread" : "-",
+		"gameTime" : "2020-11-26 03:30:00",
+		"channel": "ESPN2"
     },
 	{
 		"gameId" : 2,
 		"homeTeam" : 15,
 		"awayTeam" : 62,
 		"favorite" : 62,
-		"spread" : 2.5,
-		"gameTime" : "2019-11-06 00:00:00",
-		"channel": "ESPN",
-		"cover" : 15
+		"spread" : "-",
+		"gameTime" : "2020-11-25 00:00:00",
+		"channel": ""
     },
 	{
 		"gameId" : 3,
 		"homeTeam" : 104,
 		"awayTeam" : 349,
 		"favorite" : 349,
-		"spread" : 4.5,
-		"gameTime" : "2019-11-06 02:00:00",
-		"channel": "ESPNU",
-		"cover" : 104
+		"spread" : "-",
+		"gameTime" : "2020-11-25 02:00:00",
+		"channel": ""
     },
     {
 		"gameId" : 4,
 		"homeTeam" : 96,
 		"awayTeam" : 271,
 		"favorite" : 96,
-		"spread" : 2.5,
-		"gameTime" : "2019-11-06 02:30:00",
-		"channel" : "ESPN",
-		"cover" : 271
+		"spread" : "-",
+		"gameTime" : "2020-11-25 02:30:00",
+		"channel" : ""
     },
     {
 		"gameId" : 5,
 		"homeTeam" : 100,
 		"awayTeam" : 1,
 		"favorite" : 100,
-		"spread" : 6.5,
-		"gameTime" : "2019-11-07 01:30:00",
-		"channel" : "FS1",
-		"cover" : 100
+		"spread" : "-",
+		"gameTime" : "2020-11-25 01:30:00",
+		"channel" : ""
     },
     {
 		"gameId" : 6,
 		"homeTeam" : 24,
 		"awayTeam" : 25,
 		"favorite" : 25,
-		"spread" : 3.5,
-		"gameTime" : "2019-11-07 02:00:00",
-		"channel" : "ACCN",
-		"cover" : 25
+		"spread" : "-",
+		"gameTime" : "2020-11-25 02:00:00",
+		"channel" : ""
     },
     {
 		"gameId" : 7,
 		"homeTeam" : 60,
 		"awayTeam" : 254,
 		"favorite" : 60,
-		"spread" : 5.5,
-		"gameTime" : "2019-11-09 02:30:00",
-		"channel" : "ESPN",
-		"cover" : 254
+		"spread" : "-",
+		"gameTime" : "2020-11-25 02:30:00",
+		"channel" : ""
     },
     {
 		"gameId" : 8,
 		"homeTeam" : 249,
 		"awayTeam" : 61,
 		"favorite" : 249,
-		"spread" : 2.5,
-		"gameTime" : "2019-11-09 21:30:00",
-		"channel" : "",
-		"cover" : 249
+		"spread" : "-",
+		"gameTime" : "2020-11-25 21:30:00",
+		"channel" : ""
     },
     {
 		"gameId" : 9,
 		"homeTeam" : 102,
 		"awayTeam" : 67,
 		"favorite" : 102,
-		"spread" : 8.5,
-		"gameTime" : "2019-11-10 00:30:00",
-		"channel" : "FS1",
-		"cover" : 67
+		"spread" : "-",
+		"gameTime" : "2020-11-25 00:30:00",
+		"channel" : ""
     },
     {
 		"gameId" : 10,
 		"homeTeam" : 269,
 		"awayTeam" : 16,
 		"favorite" : 269,
-		"spread" : 5.5,
-		"gameTime" : "2019-11-10 18:00:00",
-		"channel" : "ESPN",
-		"cover" : 16
+		"spread" : "-",
+		"gameTime" : "2020-11-25 18:00:00",
+		"channel" : ""
     }
   ]
 }
