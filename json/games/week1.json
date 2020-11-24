@@ -47,21 +47,21 @@
     },
     {
 		"gameId" : 6,
-		"homeTeam" : 96,
-		"awayTeam" : 22,
-		"favorite" : 96,
-		"spread" : "-",
-		"gameTime" : "2020-11-28T17:00Z",
-		"channel" : "B1G"
-    },
-    {
-		"gameId" : 7,
 		"homeTeam" : 48,
 		"awayTeam" : 272,
 		"favorite" : 272,
 		"spread" : "-",
-		"gameTime" : "2020-11-28T17:00Z",
-		"channel" : ""
+		"gameTime" : "2020-11-28T19:00Z",
+		"channel" : "ESPN+"
+    },
+    {
+		"gameId" : 7,
+		"homeTeam" : 96,
+		"awayTeam" : 22,
+		"favorite" : 96,
+		"spread" : "-",
+		"gameTime" : "2020-11-29T01:00Z",
+		"channel" : "B1G"
     },
     {
 		"gameId" : 8,
