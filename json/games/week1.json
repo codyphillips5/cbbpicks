@@ -14,7 +14,7 @@
 		"homeTeam" : 14,
 		"awayTeam" : 273,
 		"favorite" : 14,
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2020-11-26T01:30Z",
 		"channel" : "CBSSN"
     },
@@ -23,7 +23,7 @@
 		"homeTeam" : 217,
 		"awayTeam" : 251,
 		"favorite" : 251,
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2020-11-26T03:30Z",
 		"channel": "ESPN2"
     },
