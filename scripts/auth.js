@@ -29,57 +29,75 @@ if(createForm) {
     createForm.addEventListener('submit', (e) => {
         e.preventDefault();
     
-        db.collection('week1').add({
-            user: auth.currentUser.email,
-            game1: document.getElementById('seasongame1').value,
-            game2: document.getElementById('seasongame2').value,
-            game3: document.getElementById('seasongame3').value,
-            game4: document.getElementById('seasongame4').value
-        }).then(() => {
-            // close the modal and reset form
-            //const modal = document.querySelector('#modal-create');
-            //M.Modal.getInstance(modal).close();
-
-$.when(users).then(function(){	
-	for (var key in usersFile) {
-		for (var i = 0; i < usersFile[key].length; i++) {
-			if(auth.currentUser.email == usersFile[key][i].Email) {
-				firstName = usersFile[key][i].FirstName;
+        var week = db.collection('week1').doc(auth.currentUser.email);
+		console.log(auth.currentUser.email);
+		
+		week.get()
+		  .then((docSnapshot) => {
+			if (docSnapshot.exists) {
+				week.update({
+					user: auth.currentUser.email,
+					game1: document.getElementById('seasongame1').value,
+					game2: document.getElementById('seasongame2').value,
+					game3: document.getElementById('seasongame3').value
+				}).then(function() {
+					success();
+				}).catch(err => {
+					console.log(err.message);
+					createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-danger" role="alert">${err.message}</div>`;
+				});
+			} else {
+				week.set({
+					user: auth.currentUser.email,
+					game1: document.getElementById('seasongame1').value,
+					game2: document.getElementById('seasongame2').value,
+					game3: document.getElementById('seasongame3').value
+				}).then(() => {
+					// close the modal and reset form
+					//const modal = document.querySelector('#modal-create');
+					//M.Modal.getInstance(modal).close();
+					
+					success();
+				}).catch(err => {
+					console.log(err.message)
+					createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-danger" role="alert">${err.message}</div>`;
+				});				
 			}
-		}
-	}
-});
-            createForm.reset();
-            createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-success" role="alert">Success! Your picks have been saved. <br>Good luck, ${firstName}!</div>`;
-			document.getElementById("savePicks").disabled = true;
-			document.getElementById("savePicks").innerHTML = "Saved";
-        }).catch(err => {
-            console.log(err.message)
-            //signupForm.querySelector('.response').innerHTML = `<br><div class="alert alert-danger" role="alert">${err.message}</div>`;
-        });
+		});
     });
 }
 
 // signup
+//console.log(auth.currentUser.email);
 const signupForm = document.querySelector('#signup-form');
-if(signupForm) {
-    signupForm.addEventListener('submit', (e) => {
-        e.preventDefault();
+console.log("state = unknown (until the callback is invoked)")
+firebase.auth().onAuthStateChanged(user => {
+	if(signupForm) {
+		if (!user) {
+			signupForm.addEventListener('submit', (e) => {
+				e.preventDefault();
+				
+				// get user info
+				const email = signupForm['signup-email'].value;
+				const password = signupForm['signup-password'].value;
 
-        // get user info
-        const email = signupForm['signup-email'].value;
-        const password = signupForm['signup-password'].value;
+				// sign up the user
+				auth.createUserWithEmailAndPassword(email, password).then(cred => {
+				signupForm.reset();
+				signupForm.querySelector('.response').innerHTML = `<br><div class="alert alert-success" role="alert">Success! Account created. Go view the <a href='picks.html'>Lines</a></div>`;
+				document.getElementById("signup").disabled = true;
+				}).catch(err => {
+					signupForm.querySelector('.response').innerHTML = `<br><div class="alert alert-danger" role="alert">${err.message}</div>`;
+				});
+			});
+		}
+		else {
+		console.log('already a user');
+		location.replace("picks.html");
+		}
+	}
+});	
 
-        // sign up the user
-        auth.createUserWithEmailAndPassword(email, password).then(cred => {
-            signupForm.reset();
-            signupForm.querySelector('.response').innerHTML = `<br><div class="alert alert-success" role="alert">Success! Account created. Go view the <a href='picks.html'>Lines</a></div>`;
-            document.getElementById("signup").disabled = true;
-        }).catch(err => {
-                signupForm.querySelector('.response').innerHTML = `<br><div class="alert alert-danger" role="alert">${err.message}</div>`;
-        });
-    });
-}
 
 // logout 
 const logout = document.querySelector('#logout');
@@ -90,20 +108,45 @@ logout.addEventListener('click', (e) => {
 
 // login
 const loginForm = document.querySelector('#login-form');
-if(loginForm) {
-    loginForm.addEventListener('submit', (e) => {
-        e.preventDefault();
-    
-        // get user info
-        const email = loginForm['login-email'].value;
-        const password = loginForm['login-password'].value;
-    
-        auth.signInWithEmailAndPassword(email, password).then(cred => {
-            // close the login modal and reset the form
-            loginForm.reset();
-            location.replace("picks.html");
-        }).catch(err => {
-            loginForm.querySelector('.error').innerHTML = `<br><div class="alert alert-danger" role="alert">${err.message}</div>`;
-        })
-    });
+console.log("state = unknown (until the callback is invoked)")
+firebase.auth().onAuthStateChanged(user => {
+	if(loginForm) {
+		if (!user) {
+			loginForm.addEventListener('submit', (e) => {
+				e.preventDefault();
+			
+				// get user info
+				const email = loginForm['login-email'].value;
+				const password = loginForm['login-password'].value;
+			
+				auth.signInWithEmailAndPassword(email, password).then(cred => {
+					// close the login modal and reset the form
+					loginForm.reset();
+					location.replace("picks.html");
+				}).catch(err => {
+					loginForm.querySelector('.error').innerHTML = `<br><div class="alert alert-danger" role="alert">${err.message}</div>`;
+				})
+			});		
+		}
+		else {
+			console.log('already a user');
+			location.replace("picks.html");
+		}
+	}
+});
+
+function success() {
+	$.when(users).then(function(){	
+	for (var key in usersFile) {
+		for (var i = 0; i < usersFile[key].length; i++) {
+			if(auth.currentUser.email == usersFile[key][i].Email) {
+				firstName = usersFile[key][i].FirstName;
+			}
+		}
+	}
+	});
+	createForm.reset();
+	createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-success" role="alert">Success! Your picks have been saved. <br>Good luck, ${firstName}!</div>`;
+	document.getElementById("savePicks").disabled = true;
+	document.getElementById("savePicks").innerHTML = "Saved";
 }
