@@ -5,7 +5,7 @@
 		"homeTeam" : 245,
 		"awayTeam" : 45,
 		"favorite" : 245,
-		"spread" : 8.5,
+		"spread" : 7.5,
 		"gameTime" : "2020-11-26T00:00Z",
 		"channel": "ESPN"
     },
@@ -23,7 +23,7 @@
 		"homeTeam" : 217,
 		"awayTeam" : 251,
 		"favorite" : 251,
-		"spread" : 2.5,
+		"spread" : 3.5,
 		"gameTime" : "2020-11-26T03:30Z",
 		"channel": "ESPN2"
     },
