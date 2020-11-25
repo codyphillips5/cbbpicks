@@ -33,7 +33,7 @@ firebase.auth().onAuthStateChanged(user => {
 	week.get()
 		.then((docSnapshot) => {
 			if (docSnapshot.exists) {
-				document.getElementById("label-choice-seasongame2").innerHTML = `YOUR PICKS: <label>${docSnapshot.data().game1}, ${docSnapshot.data().game2}, ${docSnapshot.data().game3}</label>`
+				document.getElementById("label-choice-seasongame2").innerHTML = `YOUR PICKS: <label class="choice">${docSnapshot.data().game1}, ${docSnapshot.data().game2}, ${docSnapshot.data().game3}</label>`
 				console.log("Document data:", docSnapshot.data())
 			}
 		});
