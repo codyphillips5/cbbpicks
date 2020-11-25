@@ -26,12 +26,24 @@ var users = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.json"
 // create new guide
 const createForm = document.querySelector('#save_picks');
 if(createForm) {
+firebase.auth().onAuthStateChanged(user => {
+	var week = db.collection('week1').doc(auth.currentUser.email);
+	console.log(auth.currentUser.email);
+
+	week.get()
+		.then((docSnapshot) => {
+			if (docSnapshot.exists) {
+				document.getElementById("label-choice-seasongame2").innerHTML = `YOUR PICKS: <label>${docSnapshot.data().game1}, ${docSnapshot.data().game2}, ${docSnapshot.data().game3}</label>`
+				console.log("Document data:", docSnapshot.data())
+			}
+		});
+	});	
+	
     createForm.addEventListener('submit', (e) => {
         e.preventDefault();
-    
-        var week = db.collection('week1').doc(auth.currentUser.email);
-		console.log(auth.currentUser.email);
-		
+	var week = db.collection('week1').doc(auth.currentUser.email);
+	console.log(auth.currentUser.email);
+	
 		week.get()
 		  .then((docSnapshot) => {
 			if (docSnapshot.exists) {
