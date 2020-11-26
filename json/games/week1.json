@@ -7,7 +7,10 @@
 		"favorite" : 245,
 		"spread" : 7.5,
 		"gameTime" : "2020-11-26T00:00Z",
-		"channel": "ESPN"
+		"channel": "ESPN",
+		"homeScore" : 94,
+		"awayScore" : 88,
+		"cover" : 45
     },
 	{
 		"gameId" : 2,
@@ -16,7 +19,10 @@
 		"favorite" : 14,
 		"spread" : 4.5,
 		"gameTime" : "2020-11-26T01:30Z",
-		"channel" : "CBSSN"
+		"channel" : "CBSSN",
+		"homeScore" : 53,
+		"awayScore" : 42,
+		"cover" : 14
     },
 	{
 		"gameId" : 3,
@@ -25,14 +31,17 @@
 		"favorite" : 251,
 		"spread" : 3.5,
 		"gameTime" : "2020-11-26T03:30Z",
-		"channel": "ESPN2"
+		"channel": "CBSSN",
+		"homeScore" : 73,
+		"awayScore" : 58,
+		"cover" : 217
     },
     {
 		"gameId" : 4,
 		"homeTeam" : 62,
 		"awayTeam" : 344,
 		"favorite" : 344,
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2020-11-26T18:30Z",
 		"channel": "FOX"
     },
