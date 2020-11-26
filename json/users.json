@@ -216,6 +216,20 @@
 		"LastName" : "Deters",
 		"Email" : "jim_dtts@yahoo.com",
 		"paid" : false
+    },
+	{
+		"userId" : 32,
+		"FirstName" : "Eric",
+		"LastName" : "Schlesinger",
+		"Email" : "cosmocon@yahoo.com",
+		"paid" : false
+    },
+	{
+		"userId" : 33,
+		"FirstName" : "",
+		"LastName" : "",
+		"Email" : "ednientimp@gmail.com",
+		"paid" : false
     }
 	]
 }
