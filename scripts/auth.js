@@ -49,7 +49,7 @@ firebase.auth().onAuthStateChanged(user => {
 			if (docSnapshot.exists) {
 				week.update({
 					user: auth.currentUser.email,
-					game1: document.getElementById('seasongame4').value
+					game4: document.getElementById('seasongame4').value
 				}).then(function() {
 					success();
 				}).catch(err => {
@@ -59,7 +59,7 @@ firebase.auth().onAuthStateChanged(user => {
 			} else {
 				week.set({
 					user: auth.currentUser.email,
-					game1: document.getElementById('seasongame4').value
+					game4: document.getElementById('seasongame4').value
 				}).then(() => {
 					// close the modal and reset form
 					//const modal = document.querySelector('#modal-create');
