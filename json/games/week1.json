@@ -62,7 +62,7 @@
 		"homeTeam" : 18,
 		"awayTeam" : 76,
 		"favorite" : 18,
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2020-11-27T21:00Z",
 		"channel" : "ESPN2"
     },
