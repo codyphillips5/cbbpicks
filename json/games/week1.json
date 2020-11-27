@@ -50,12 +50,12 @@
     },
     {
 		"gameId" : 5,
-		"homeTeam" : 344,
-		"awayTeam" : 268,
-		"favorite" : 344,
+		"homeTeam" : 69,
+		"awayTeam" : 148,
+		"favorite" : 69,
 		"spread" : "-",
-		"gameTime" : "2020-11-27T16:00Z",
-		"channel" : "FOX"
+		"gameTime" : "2020-11-27T18:30Z",
+		"channel" : "ESPN"
     },
     {
 		"gameId" : 6,
