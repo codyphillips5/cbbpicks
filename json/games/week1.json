@@ -53,7 +53,7 @@
 		"homeTeam" : 69,
 		"awayTeam" : 148,
 		"favorite" : 69,
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2020-11-27T18:30Z",
 		"channel" : "ESPN"
     },
