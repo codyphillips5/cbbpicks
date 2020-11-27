@@ -32,10 +32,12 @@ firebase.auth().onAuthStateChanged(user => {
 
 	week.get()
 		.then((docSnapshot) => {
-			if (docSnapshot.exists) {
-				document.getElementById("label-choice-seasongame5").innerHTML = `<label class="choice">YOUR PICK: ${docSnapshot.data().game5}</label>`
-				document.getElementById("label-choice-seasongame6").innerHTML = `<label class="choice">${docSnapshot.data().game6}</label>`
-				console.log("Document data:", docSnapshot.data())
+			if (docSnapshot.data()) {
+				if (docSnapshot.data().game5 !== undefined) { 
+					document.getElementById("label-choice-seasongame5").innerHTML = `<label class="choice">YOUR PICK: ${docSnapshot.data().game5}</label>`
+					document.getElementById("label-choice-seasongame6").innerHTML = `<label class="choice">${docSnapshot.data().game6}</label>`
+					console.log("Document data:", docSnapshot.data())
+				}
 			}
 		});
 	});	
