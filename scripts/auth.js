@@ -34,8 +34,8 @@ firebase.auth().onAuthStateChanged(user => {
 		.then((docSnapshot) => {
 			if (docSnapshot.data()) {
 				if (docSnapshot.data().game5 !== undefined) { 
-					document.getElementById("label-choice-seasongame5").innerHTML = `<label class="choice">YOUR PICK: ${docSnapshot.data().game5}</label>`
-					document.getElementById("label-choice-seasongame6").innerHTML = `<label class="choice">${docSnapshot.data().game6}</label>`
+					document.getElementById("label-choice-seasongame7").innerHTML = `<label class="choice">YOUR PICK: ${docSnapshot.data().game7}</label>`
+					document.getElementById("label-choice-seasongame8").innerHTML = `<label class="choice">${docSnapshot.data().game8}</label>`
 					console.log("Document data:", docSnapshot.data())
 				}
 			}
@@ -52,8 +52,8 @@ firebase.auth().onAuthStateChanged(user => {
 			if (docSnapshot.exists) {
 				week.update({
 					user: auth.currentUser.email,
-					game5: document.getElementById('seasongame5').value,
-					game6: document.getElementById('seasongame6').value
+					game7: document.getElementById('seasongame7').value,
+					game8: document.getElementById('seasongame8').value
 				}).then(function() {
 					success();
 				}).catch(err => {
@@ -63,8 +63,8 @@ firebase.auth().onAuthStateChanged(user => {
 			} else {
 				week.set({
 					user: auth.currentUser.email,
-					game5: document.getElementById('seasongame5').value,
-					game6: document.getElementById('seasongame6').value
+					game7: document.getElementById('seasongame7').value,
+					game8: document.getElementById('seasongame8').value
 				}).then(() => {
 					// close the modal and reset form
 					//const modal = document.querySelector('#modal-create');
