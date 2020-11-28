@@ -55,7 +55,10 @@
 		"favorite" : 69,
 		"spread" : 7.5,
 		"gameTime" : "2020-11-27T18:30Z",
-		"channel" : "ESPN"
+		"channel" : "ESPN",
+		"homeScore" : 70,
+		"awayScore" : 64,
+		"cover" : 148
     },
     {
 		"gameId" : 6,
@@ -64,7 +67,10 @@
 		"favorite" : 18,
 		"spread" : 6.5,
 		"gameTime" : "2020-11-27T21:00Z",
-		"channel" : "ESPN2"
+		"channel" : "ESPN2",
+		"homeScore" : 71,
+		"awayScore" : 70,
+		"cover" : 76
     },
     {
 		"gameId" : 7,
