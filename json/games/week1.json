@@ -79,7 +79,10 @@
 		"favorite" : 48,
 		"spread" : 2.5,
 		"gameTime" : "2020-11-28T20:00Z",
-		"channel" : "ESPN+"
+		"channel" : "ESPN+",
+		"homeScore" : 85,
+		"awayScore" : 81,
+		"cover" : 48
     },
     {
 		"gameId" : 8,
