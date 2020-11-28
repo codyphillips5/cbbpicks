@@ -83,12 +83,12 @@
     },
     {
 		"gameId" : 8,
-		"homeTeam" : 96,
-		"awayTeam" : 22,
-		"favorite" : 96,
-		"spread" : 10.5,
+		"homeTeam" : 78,
+		"awayTeam" : 26,
+		"favorite" : 78,
+		"spread" : 8.5,
 		"gameTime" : "2020-11-29T01:00Z",
-		"channel" : "B1G"
+		"channel" : "ESPNU"
     },
     {
 		"gameId" : 9,
