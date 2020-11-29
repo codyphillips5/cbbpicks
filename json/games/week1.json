@@ -101,7 +101,7 @@
 		"homeTeam" : 271,
 		"awayTeam" : 46,
 		"favorite" : 271,
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2020-11-29T18:00Z",
 		"channel" : "ESPN"
     },
@@ -109,8 +109,8 @@
 		"gameId" : 10,
 		"homeTeam" : 68,
 		"awayTeam" : 4,
-		"favorite" : 68,
-		"spread" : "-",
+		"favorite" : 4,
+		"spread" : 2.5,
 		"gameTime" : "2020-11-29T22:00Z",
 		"channel" : "ESPN"
     }
