@@ -91,7 +91,10 @@
 		"favorite" : 78,
 		"spread" : 8.5,
 		"gameTime" : "2020-11-29T01:00Z",
-		"channel" : "ESPNU"
+		"channel" : "ESPNU",
+		"homeScore" : 73,
+		"awayScore" : 81,
+		"cover" : 26
     },
     {
 		"gameId" : 9,
