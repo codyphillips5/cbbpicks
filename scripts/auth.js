@@ -34,8 +34,8 @@ firebase.auth().onAuthStateChanged(user => {
 		.then((docSnapshot) => {
 			if (docSnapshot.data()) {
 				if (docSnapshot.data().game9 !== undefined) { 
-					document.getElementById("label-choice-seasongame9").innerHTML = `<label class="choice">YOUR PICK: ${docSnapshot.data().game9}</label>`
-					document.getElementById("label-choice-seasongame10").innerHTML = `<label class="choice">${docSnapshot.data().game10}</label>`
+					document.getElementById("label-choice-seasongame9").innerHTML = `<label class="choice">${docSnapshot.data().game9} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					document.getElementById("label-choice-seasongame10").innerHTML = `<label class="choice">${docSnapshot.data().game10} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 					console.log("Document data:", docSnapshot.data())
 				}
 			}
