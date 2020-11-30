@@ -27,15 +27,15 @@ var users = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.json"
 const createForm = document.querySelector('#save_picks');
 if(createForm) {
 firebase.auth().onAuthStateChanged(user => {
-	var week = db.collection('week1').doc(auth.currentUser.email);
+	var week = db.collection('week2').doc(auth.currentUser.email);
 	console.log(auth.currentUser.email);
 
 	week.get()
 		.then((docSnapshot) => {
 			if (docSnapshot.data()) {
-				if (docSnapshot.data().game9 !== undefined) { 
-					document.getElementById("label-choice-seasongame9").innerHTML = `<label class="choice">${docSnapshot.data().game9} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
-					document.getElementById("label-choice-seasongame10").innerHTML = `<label class="choice">${docSnapshot.data().game10} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+				if (docSnapshot.data().game1 !== undefined) { 
+					document.getElementById("label-choice-seasongame11").innerHTML = `<label class="choice">${docSnapshot.data().game1} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					document.getElementById("label-choice-seasongame12").innerHTML = `<label class="choice">${docSnapshot.data().game2} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 					console.log("Document data:", docSnapshot.data())
 				}
 			}

@@ -30,7 +30,7 @@ attempt = {
   
   var xFile, yFile;
   
-  var requestX = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week1.json", function(json){
+  var requestX = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week2.json", function(json){
 	  xFile = json;
   });
   
@@ -38,7 +38,10 @@ attempt = {
 	  yFile = json;
   });
   
+  var date1 = new Date();
+  
   $.when(requestX, requestY).then(function(){
+	  console.log(firebase.auth().currentUser);
 	  for (var key in xFile) {
 		  for (var i = 0; i < xFile[key].length; i++) {
 			  var gameId = xFile[key][i].gameId;
@@ -72,6 +75,7 @@ attempt = {
 			  var awaySide = "+";
 			  var channel = xFile[key][i].channel;
 			  var date = new Date(xFile[key][i].gameTime);
+			  var date2 = new Date(xFile[key][0].gameTime);
 			  var badge = document.createElement('div');
 			  if (fav != home) {
 				  homeSide = "+";
@@ -115,6 +119,26 @@ attempt = {
 			  //document.getElementsByClassName(badge.id)[i].appendChild(yourPick);
 		  }
 	  }
+	  
+/*	  	// if current time is after start time of first game, lock
+		if (date1.getTime() > date2.getTime()) {
+			document.getElementById("saver").innerHTML = `<button type="submit" disabled id="savePicks" class='btn btn-primary'>Picks Locked</button>`;
+		}
+		else {
+			if (date1.getDay() < 4) {
+				document.getElementById("saver").innerHTML = `<button type="submit" disabled id="savePicks" class='btn btn-primary'>Picks Open Thursday</button>`;	
+			}
+			else {
+				// if day is Thursday before noon, picks open soon
+				if (date1.getDay() == 4 && date1.getHours() < 12) {
+					document.getElementById("saver").innerHTML = `<button type="submit" disabled id="savePicks" class='btn btn-primary'>Picks Open Soon</button>`;
+				}
+				// else picks are open
+				else {
+					document.getElementById("saver").innerHTML = `<button type="submit" id="savePicks" class='btn btn-primary'>Save My Picks</button>`;
+				}
+			}
+		}*/
   });
   
   var request;
