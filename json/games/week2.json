@@ -24,7 +24,7 @@
 		"awayTeam" : 0,
 		"favorite" : 0,
 		"spread" : "-",
-		"gameTime" : "2020-12-02T20:00:00Z",
+		"gameTime" : "2020-12-02T21:00:00Z",
 		"channel": "ESPN"
     },
 	{
@@ -60,7 +60,7 @@
 		"awayTeam" : 21,
 		"favorite" : 2,
 		"spread" : "-",
-		"gameTime" : "2020-12-06T17:00Z",
+		"gameTime" : "2020-12-05T17:00Z",
 		"channel": "ESPNU"
     },
 	{
@@ -69,7 +69,7 @@
 		"awayTeam" : 344,
 		"favorite" : 344,
 		"spread" : "-",
-		"gameTime" : "2020-12-06T18:00Z",
+		"gameTime" : "2020-12-05T18:00Z",
 		"channel": "CBS"
     },
 	{
@@ -78,7 +78,7 @@
 		"awayTeam" : 78,
 		"favorite" : 67,
 		"spread" : "-",
-		"gameTime" : "2020-12-07T18:00Z",
+		"gameTime" : "2020-12-06T18:00Z",
 		"channel": "ESPN"
     },
 	{
@@ -87,7 +87,7 @@
 		"awayTeam" : 79,
 		"favorite" : 1,
 		"spread" : "-",
-		"gameTime" : "2020-12-07T20:00Z",
+		"gameTime" : "2020-12-06T20:00Z",
 		"channel": "ESPN"
     }
   ]
