@@ -2,107 +2,109 @@
   "picks": [
     {
 		"userId" : 1,
-		"week_1" : 0
+		"week_1" : 3
     },
     {
 		"userId" : 2,
-		"week_1" : 0
+		"week_1" : 5
     },
     {
 		"userId" : 3,
-		"week_1" : 0
+		"week_1" : 6
     },
 	{
 		"userId" : 4,
-		"week_1" : 0
+		"week_1" : 6
 	},
 	{
 		"userId" : 5,
-		"week_1" : 0
+		"week_1" : 6
     },
 	{
 		"userId" : 6,
-		"week_1" : 0
+		"week_1" : 4
     },    
 	{
 		"userId" : 7,
-		"week_1" : 0
+		"week_1" : 2
     },
 	{
 		"userId" : 8,
-		"week_1" : 0
+		"week_1" : 2
     },		
 	{
 		"userId" : 9,
-		"week_1" : 0
+		"week_1" : 3
     },	
 	{
 		"userId" : 10,
-		"week_1" : 0
+		"week_1" : 2
     },
 	{
 		"userId" : 11,
-		"week_1" : 0
+		"week_1" : 3
     },
 	{
 		"userId" : 12,
-		"week_1" : 0
+		"week_1" : 5
     },
 	{
 		"userId" : 13,
-		"week_1" : 0
+		"week_1" : 2
     },
 	{
 		"userId" : 14,
-		"week_1" : 0
+		"week_1" : 5
     },
 	{
 		"userId" : 15,
-		"week_1" : 0
+		"week_1" : 4
     },
 	{
 		"userId" : 16,
-		"week_1" : 0
+		"week_1" : 5
     },
 	{
 		"userId" : 17,
-		"week_1" : 0
+		"week_1" : 4
     },
 	{
 		"userId" : 18,
-		"week_1" : 0
+		"week_1" : 4
     },
 	{
 		"userId" : 19,
-		"week_1" : 0
+		"week_1" : 7,
+		"week_1_top" : true
     },
 	{
 		"userId" : 20,
-		"week_1" : 0
+		"week_1" : 7,
+		"week_1_top" : true
     },
 	{
 		"userId" : 21,
-		"week_1" : 0
+		"week_1" : 4
     },
 	{
 		"userId" : 22,
-		"week_1" : 0
+		"week_1" : 2
     },	
 	{
 		"userId" : 23,
-		"week_1" : 0
+		"week_1" : 4
     },	
 	{
 		"userId" : 24,
-		"week_1" : 0
+		"week_1" : 5
     },	
 	{
 		"userId" : 25,
-		"week_1" : 0
+		"week_1" : 6
     },	
 	{
 		"userId" : 26,
-		"week_1" : 0
+		"week_1" : 5
     },	
 	{
 		"userId" : 27,
@@ -110,23 +112,23 @@
     },	
 	{
 		"userId" : 28,
-		"week_1" : 0
+		"week_1" : 2
     },	
 	{
 		"userId" : 29,
-		"week_1" : 0
+		"week_1" : 3
     },	
 	{
 		"userId" : 30,
-		"week_1" : 0
+		"week_1" : 5
     },	
 	{
 		"userId" : 31,
-		"week_1" : 0
+		"week_1" : 3
     },	
 	{
 		"userId" : 32,
-		"week_1" : 0
+		"week_1" : 3
     }
 	]
 }
