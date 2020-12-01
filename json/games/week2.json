@@ -5,7 +5,7 @@
 		"homeTeam" : 15,
 		"awayTeam" : 96,
 		"favorite" : 15,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2020-12-02T00:30Z",
 		"channel": "ESPN"
     },
@@ -14,7 +14,7 @@
 		"homeTeam" : 62,
 		"awayTeam" : 271,
 		"favorite" : 62,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2020-12-02T02:30Z",
 		"channel": "ESPN"
     },
