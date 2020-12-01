@@ -44,7 +44,7 @@ firebase.auth().onAuthStateChanged(user => {
 	
     createForm.addEventListener('submit', (e) => {
         e.preventDefault();
-	var week = db.collection('week1').doc(auth.currentUser.email);
+	var week = db.collection('week2').doc(auth.currentUser.email);
 	console.log(auth.currentUser.email);
 	
 		week.get()
@@ -52,8 +52,8 @@ firebase.auth().onAuthStateChanged(user => {
 			if (docSnapshot.exists) {
 				week.update({
 					user: auth.currentUser.email,
-					game9: document.getElementById('seasongame9').value,
-					game10: document.getElementById('seasongame10').value
+					game1: document.getElementById('seasongame11').value,
+					game2: document.getElementById('seasongame12').value
 				}).then(function() {
 					success();
 				}).catch(err => {
@@ -63,8 +63,8 @@ firebase.auth().onAuthStateChanged(user => {
 			} else {
 				week.set({
 					user: auth.currentUser.email,
-					game9: document.getElementById('seasongame9').value,
-					game10: document.getElementById('seasongame10').value
+					game1: document.getElementById('seasongame11').value,
+					game2: document.getElementById('seasongame12').value
 				}).then(() => {
 					// close the modal and reset form
 					//const modal = document.querySelector('#modal-create');
