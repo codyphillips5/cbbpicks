@@ -38,16 +38,16 @@
 		"homeTeam" : 344,
 		"awayTeam" : 69,
 		"favorite" : 344,
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2020-12-03T00:00Z",
 		"channel": "ESPN"
     },
 	{
 		"gameId" : 15,
-		"homeTeam" : 91,
-		"awayTeam" : 60,
+		"homeTeam" : 60,
+		"awayTeam" : 91,
 		"favorite" : 60,
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2020-12-03T03:00Z",
 		"channel": "ESPN"
     },
