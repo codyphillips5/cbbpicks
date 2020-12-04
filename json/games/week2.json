@@ -65,7 +65,7 @@
 		"homeTeam" : 74,
 		"awayTeam" : 104,
 		"favorite" : 104,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2020-12-05T00:00Z",
 		"channel": "FS1"
     },
