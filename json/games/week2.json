@@ -74,20 +74,20 @@
     },
 	{
 		"gameId" : 17,
-		"homeTeam" : 60,
-		"awayTeam" : 344,
-		"favorite" : 344,
-		"spread" : 2.5,
-		"gameTime" : "2020-12-05T18:00Z",
-		"channel": "CBS"
-    },
-	{
-		"gameId" : 18,
 		"homeTeam" : 38,
 		"awayTeam" : 6,
 		"favorite" : 38,
 		"spread" : 1.5,
 		"gameTime" : "2020-12-05T19:00Z",
+		"channel": "ESPN+"
+    },
+	{
+		"gameId" : 18,
+		"homeTeam" : 4,
+		"awayTeam" : 276,
+		"favorite" : 4,
+		"spread" : 9.5,
+		"gameTime" : "2020-12-05T18:00Z",
 		"channel": "ESPN+"
     },
 	{
