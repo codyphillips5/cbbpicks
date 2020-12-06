@@ -79,7 +79,10 @@
 		"favorite" : 38,
 		"spread" : 1.5,
 		"gameTime" : "2020-12-05T19:00Z",
-		"channel": "ESPN+"
+		"channel": "ESPN+",
+		"homeScore" : 62,
+		"awayScore" : 66,
+		"cover" : 6
     },
 	{
 		"gameId" : 18,
@@ -88,14 +91,17 @@
 		"favorite" : 4,
 		"spread" : 9.5,
 		"gameTime" : "2020-12-05T23:00Z",
-		"channel": "ESPN+"
+		"channel": "ESPN+",
+		"homeScore" : 77,
+		"awayScore" : 67,
+		"cover" : 4
     },
 	{
 		"gameId" : 19,
 		"homeTeam" : 67,
 		"awayTeam" : 78,
 		"favorite" : 67,
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2020-12-06T18:00Z",
 		"channel": "ESPN"
     },
@@ -104,7 +110,7 @@
 		"homeTeam" : 1,
 		"awayTeam" : 79,
 		"favorite" : 1,
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2020-12-06T20:00Z",
 		"channel": "ESPN"
     }
