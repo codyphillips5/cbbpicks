@@ -101,7 +101,7 @@
 		"homeTeam" : 67,
 		"awayTeam" : 78,
 		"favorite" : 67,
-		"spread" : 2.5,
+		"spread" : 1.5,
 		"gameTime" : "2020-12-06T18:00Z",
 		"channel": "ESPN"
     },
