@@ -132,19 +132,6 @@
     },
 	{
 		"userId" : 11,
-		"game1" : "",
-		"game2" : "",
-		"game3" : "",
-		"game4" : "",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
-    },
-	{
-		"userId" : 12,
 		"game1" : "MSU",
 		"game2" : "KU",
 		"game3" : "UNC",
@@ -155,6 +142,19 @@
 		"game8" : "HOU",
 		"game9" : "NOVA",
 		"game10" : "CINCY"
+    },
+	{
+		"userId" : 12,
+		"game1" : "MSU",
+		"game2" : "KU",
+		"game3" : "UNC",
+		"game4" : "GONZ",
+		"game5" : "ILL",
+		"game6" : "WIS",
+		"game7" : "DAY",
+		"game8" : "HOU",
+		"game9" : "NOVA",
+		"game10" : "XAV"
     },
 	{
 		"userId" : 13,
@@ -165,25 +165,12 @@
 		"game5" : "ILL",
 		"game6" : "WIS",
 		"game7" : "DAY",
-		"game8" : "HOU",
-		"game9" : "NOVA",
-		"game10" : "XAV"
-    },
-	{
-		"userId" : 14,
-		"game1" : "MSU",
-		"game2" : "KU",
-		"game3" : "UNC",
-		"game4" : "GONZ",
-		"game5" : "ILL",
-		"game6" : "WIS",
-		"game7" : "DAY",
 		"game8" : "SC",
 		"game9" : "NOVA",
 		"game10" : "CINCY"
     },
 	{
-		"userId" : 15,
+		"userId" : 14,
 		"game1" : "MSU",
 		"game2" : "KU",
 		"game3" : "TEX",
@@ -196,7 +183,7 @@
 		"game10" : "XAV"
     },
 	{
-		"userId" : 16,
+		"userId" : 15,
 		"game1" : "DUKE",
 		"game2" : "KU",
 		"game3" : "",
@@ -209,7 +196,7 @@
 		"game10" : "XAV"
     },
 	{
-		"userId" : 17,
+		"userId" : 16,
 		"game1" : "MSU",
 		"game2" : "KU",
 		"game3" : "UNC",
@@ -222,7 +209,7 @@
 		"game10" : "XAV"
     },
 	{
-		"userId" : 18,
+		"userId" : 17,
 		"game1" : "MSU",
 		"game2" : "UK",
 		"game3" : "UNC",
@@ -235,7 +222,7 @@
 		"game10" : "CINCY"
     },
 	{
-		"userId" : 19,
+		"userId" : 18,
 		"game1" : "MSU",
 		"game2" : "KU",
 		"game3" : "TEX",
@@ -244,6 +231,19 @@
 		"game6" : "MARQ",
 		"game7" : "DAY",
 		"game8" : "HOU",
+		"game9" : "NOVA",
+		"game10" : "CINCY"
+    },
+	{
+		"userId" : 19,
+		"game1" : "DUKE",
+		"game2" : "KU",
+		"game3" : "UNC",
+		"game4" : "WVU",
+		"game5" : "BU",
+		"game6" : "WIS",
+		"game7" : "DAY",
+		"game8" : "SC",
 		"game9" : "NOVA",
 		"game10" : "CINCY"
     },
@@ -254,19 +254,6 @@
 		"game3" : "UNC",
 		"game4" : "WVU",
 		"game5" : "BU",
-		"game6" : "WIS",
-		"game7" : "DAY",
-		"game8" : "SC",
-		"game9" : "NOVA",
-		"game10" : "CINCY"
-    },
-	{
-		"userId" : 21,
-		"game1" : "DUKE",
-		"game2" : "KU",
-		"game3" : "UNC",
-		"game4" : "WVU",
-		"game5" : "BU",
 		"game6" : "MARQ",
 		"game7" : "DAY",
 		"game8" : "SC",
@@ -274,7 +261,7 @@
 		"game10" : "CINCY"
     },
 	{
-		"userId" : 22,
+		"userId" : 21,
 		"game1" : "MSU",
 		"game2" : "KU",
 		"game3" : "UNC",
@@ -287,20 +274,7 @@
 		"game10" : "XAV"
     },
 	{
-		"userId" : 23,
-		"game1" : "",
-		"game2" : "",
-		"game3" : "",
-		"game4" : "",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
-    },
-	{
-		"userId" : 24,
+		"userId" : 22,
 		"game1" : "MSU",
 		"game2" : "KU",
 		"game3" : "TEX",
@@ -313,7 +287,7 @@
 		"game10" : "XAV"
     },
 	{
-		"userId" : 25,
+		"userId" : 23,
 		"game1" : "MSU",
 		"game2" : "KU",
 		"game3" : "UNC",
@@ -326,7 +300,7 @@
 		"game10" : "CINCY"
     },
 	{
-		"userId" : 26,
+		"userId" : 24,
 		"game1" : "DUKE",
 		"game2" : "KU",
 		"game3" : "UNC",
@@ -339,7 +313,7 @@
 		"game10" : "XAV"
     },
 	{
-		"userId" : 27,
+		"userId" : 25,
 		"game1" : "DUKE",
 		"game2" : "UK",
 		"game3" : "UNC",
@@ -352,7 +326,7 @@
 		"game10" : "XAV"
     },
 	{
-		"userId" : 28,
+		"userId" : 26,
 		"game1" : "DUKE",
 		"game2" : "UK",
 		"game3" : "UNC",
@@ -365,7 +339,7 @@
 		"game10" : "XAV"
     },
 	{
-		"userId" : 29,
+		"userId" : 27,
 		"game1" : "DUKE",
 		"game2" : "KU",
 		"game3" : "UNC",
@@ -378,7 +352,7 @@
 		"game10" : "CINCY"
     },
 	{
-		"userId" : 30,
+		"userId" : 28,
 		"game1" : "MSU",
 		"game2" : "KU",
 		"game3" : "UNC",
@@ -391,7 +365,7 @@
 		"game10" : "XAV"
     },
 	{
-		"userId" : 31,
+		"userId" : 29,
 		"game1" : "MSU",
 		"game2" : "KU",
 		"game3" : "UNC",
@@ -404,7 +378,7 @@
 		"game10" : "XAV"
     },
 	{
-		"userId" : 32,
+		"userId" : 30,
 		"game1" : "DUKE",
 		"game2" : "UK",
 		"game3" : "TEX",
