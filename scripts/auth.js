@@ -54,7 +54,7 @@ firebase.auth().onAuthStateChanged(user => {
 				week.update({
 					user: auth.currentUser.email,
 					game1: document.getElementById('seasongame21').value,
-					game2: document.getElementById('seasongame22').value
+					game2: document.getElementById('seasongame22').value,
 					game3: document.getElementById('seasongame23').value
 				}).then(function() {
 					success();
@@ -66,7 +66,7 @@ firebase.auth().onAuthStateChanged(user => {
 				week.set({
 					user: auth.currentUser.email,
 					game1: document.getElementById('seasongame21').value,
-					game2: document.getElementById('seasongame22').value
+					game2: document.getElementById('seasongame22').value,
 					game3: document.getElementById('seasongame23').value
 				}).then(() => {
 					// close the modal and reset form
