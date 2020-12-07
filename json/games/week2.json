@@ -103,7 +103,10 @@
 		"favorite" : 67,
 		"spread" : 1.5,
 		"gameTime" : "2020-12-06T18:00Z",
-		"channel": "ESPN"
+		"channel": "ESPN",
+		"homeScore" : 64,
+		"awayScore" : 68,
+		"cover" : 78
     },
 	{
 		"gameId" : 20,
@@ -112,7 +115,10 @@
 		"favorite" : 1,
 		"spread" : 1.5,
 		"gameTime" : "2020-12-06T20:00Z",
-		"channel": "ESPN"
+		"channel": "ESPN",
+		"homeScore" : 69,
+		"awayScore" : 77,
+		"cover" : 79
     }
   ]
 }
