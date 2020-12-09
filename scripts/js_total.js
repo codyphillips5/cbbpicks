@@ -4,6 +4,7 @@ var coverTeams = [];
 var allTeams = [];
 var winners = [];
 var home, away, cover, week, game;
+var games = false;
 
 var standings, teams, resultsList, usersList;
 game = 0;
@@ -32,24 +33,25 @@ var getTeams = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/teams.js
 	teams = json;
 });
 
-/*var getTourney = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/tournament.json", function(json){
+var getTourney = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/tournament.json", function(json){
 	tourney = json;
 	for (var auto in tourney) {
 		for (var i = 0; i < tourney[auto].length; i++) {
 			winners.push(tourney[auto][i].winner);
 		}
 	}
-});*/
-//, getTourney
+});
 
-$.when(getGames, getTeams).then(function(){
+
+$.when(getGames, getTeams, getTourney).then(function(){
 	allTeams = homeTeams.concat(awayTeams);
-	console.log("home: " + homeTeams.length);
-	console.log("away: " + awayTeams.length);
 	console.log("cover: " + coverTeams.length);
-	console.log("all: " + allTeams.length);
 	allTeams = numbers(allTeams);
 	game = coverTeams.length - ((week-1)*10);
+	
+	if (game < 0) {
+		location.reload();
+	}
 
 	document.getElementById("records").innerHTML = `<li>Records reflected through Game ${game} of Week ${week}.</li>`;
 
