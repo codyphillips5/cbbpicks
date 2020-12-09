@@ -55,7 +55,7 @@ $.when(getGames, getTeams).then(function(){
 	
 	document.getElementById("records").innerHTML = `<li>Records reflected through Game ${coverTeams.length} of Week ${week}.</li>`;
 	
-	var tableStart = `<div class="table-responsive"><table class="table table-bordered" id="results"><thead><tr><th scope="col">Team</th><th scope="col">Games Played</th><th scope="col">ATS Record</th><th scope="col">Cover %</th></tr></thead><tbody>`;
+	var tableStart = `<div class="table-responsive"><table class="table table-bordered" id="results"><thead><tr><th scope="col">Team</th><th scope="col">Games</th><th scope="col">ATS Record</th><th scope="col">Cover %</th></tr></thead><tbody>`;
 	
 	for (var team in teams) {
 		for (var j = 0; j < allTeams[0].length; j++) {
