@@ -49,13 +49,11 @@ $.when(getGames, getTeams).then(function(){
 	console.log("cover: " + coverTeams.length);
 	console.log("all: " + allTeams.length);
 	allTeams = numbers(allTeams);
-	console.log(allTeams);
 	game = coverTeams.length - ((week-1)*10);
 
 	document.getElementById("records").innerHTML = `<li>Records reflected through Game ${game} of Week ${week}.</li>`;
 
 	coverTeams = numbers(coverTeams);
-	console.log(coverTeams);
 	
 	var tableStart = `<div class="table-responsive"><table class="table table-bordered" id="results"><thead><tr><th scope="col">Team</th><th scope="col">Games</th><th scope="col">ATS Record</th><th scope="col">Cover %</th></tr></thead><tbody>`;
 	
@@ -87,12 +85,10 @@ $.when(getGames, getTeams).then(function(){
 			var losses = 0;
 			var perc;
 			if (coverTeams[0].includes(allTeams[0][j])) {
-				console.log(allTeams[0][j]);
 				const isSameNumber = (element) => element == allTeams[0][j];
 				var spot = coverTeams[0].findIndex(isSameNumber);
 				wins = coverTeams[1][spot];
 				losses = allTeams[1][j] - wins;
-				console.log(losses);
 			}
 			else {
 				losses = allTeams[1][j];
@@ -115,7 +111,6 @@ $.when(getGames, getTeams).then(function(){
 			if (winners.includes(teams[team][guess].team)) {
 				color = "table-warning";
 			}
-			console.log(teams[team][guess].team);
 			tableStart = tableStart + `<tr><td class="${color}">${teams[team][guess].team}</td><td class="${color}">${allTeams[1][j]}</td><td class="${color}">${wins}-${losses}</td><td class="${percColor}">${perc.toFixed(1)}</td>`;
 		}
 	}
