@@ -3,10 +3,10 @@ var awayTeams = [];
 var coverTeams = [];
 var allTeams = [];
 var winners = [];
-var home, away, cover, week;
+var home, away, cover, week, game;
 
 var standings, teams, resultsList, usersList;
-
+game = 0;
 week = 3;
 
 for (var i = 1; i <= week; i++) {
@@ -50,10 +50,12 @@ $.when(getGames, getTeams).then(function(){
 	console.log("all: " + allTeams.length);
 	allTeams = numbers(allTeams);
 	console.log(allTeams);
+	game = coverTeams.length - ((week-1)*10);
+
+	document.getElementById("records").innerHTML = `<li>Records reflected through Game ${game} of Week ${week}.</li>`;
+
 	coverTeams = numbers(coverTeams);
 	console.log(coverTeams);
-	
-	document.getElementById("records").innerHTML = `<li>Records reflected through Game ${coverTeams.length} of Week ${week}.</li>`;
 	
 	var tableStart = `<div class="table-responsive"><table class="table table-bordered" id="results"><thead><tr><th scope="col">Team</th><th scope="col">Games</th><th scope="col">ATS Record</th><th scope="col">Cover %</th></tr></thead><tbody>`;
 	
@@ -160,7 +162,6 @@ function sortTable(n) {
       shouldSwitch = false;
       /*Get the two elements you want to compare,
       one from current row and one from the next:*/
-	  console.log(rows[i].getElementsByTagName("TD")[n-1]);
       x = rows[i].getElementsByTagName("TD")[n-1];
       y = rows[i + 1].getElementsByTagName("TD")[n-1];
       /*check if the two rows should switch place,
