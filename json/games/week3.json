@@ -74,20 +74,20 @@
 	},
 	{
 		"gameId" : 28,
-		"homeTeam" : 14,
-		"awayTeam" : 266,
-		"favorite" : 14,
-		"spread" : "-",
-		"gameTime" : "2020-12-13T00:00Z",
-		"channel": "ACCN"
-	},
-	{
-		"gameId" : 29,
 		"homeTeam" : 69,
 		"awayTeam" : 46,
 		"favorite" : 69,
 		"spread" : "-",
 		"gameTime" : "2020-12-13T18:00Z",
+		"channel": "ESPN"
+	},
+	{
+		"gameId" : 29,
+		"homeTeam" : 60,
+		"awayTeam" : 67,
+		"favorite" : 60,
+		"spread" : "-",
+		"gameTime" : "2020-12-13T20:00Z",
 		"channel": "ESPN"
 	},
 	{
