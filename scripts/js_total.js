@@ -1,21 +1,26 @@
 var homeTeams = [];
 var awayTeams = [];
+var coverTeams = [];
 var allTeams = [];
 var winners = [];
-var home, away;
+var home, away, cover;
 
 var standings, teams, resultsList, usersList;
 
-for (var i = 1; i <= 18; i++) {
+for (var i = 1; i <= 3; i++) {
 	var getGames = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week" + i + ".json", function(json){
 		standings = json;
 		
 		for (var key in standings) {
 			for (var i = 0; i < standings[key].length; i++) {
-				home = standings[key][i].homeTeam;
-				away = standings[key][i].awayTeam;
-				homeTeams.push(home);
-				awayTeams.push(away);
+				if (standings[key][i].cover !== undefined) {
+					home = standings[key][i].homeTeam;
+					away = standings[key][i].awayTeam;
+					cover = standings[key][i].cover;
+					homeTeams.push(home);
+					awayTeams.push(away);
+					coverTeams.push(cover);					
+				}
 			}
 		}
 	});
@@ -26,36 +31,42 @@ var getTeams = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/teams.js
 	teams = json;
 });
 
-var getTourney = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/tournament.json", function(json){
+/*var getTourney = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/tournament.json", function(json){
 	tourney = json;
 	for (var auto in tourney) {
 		for (var i = 0; i < tourney[auto].length; i++) {
 			winners.push(tourney[auto][i].winner);
 		}
 	}
-});
+});*/
+//, getTourney
 
-$.when(getGames, getTeams, getTourney).then(function(){
+$.when(getGames, getTeams).then(function(){
 	allTeams = homeTeams.concat(awayTeams);
 	console.log("home: " + homeTeams.length);
 	console.log("away: " + awayTeams.length);
+	console.log("cover: " + coverTeams);
 	console.log("all: " + allTeams.length);
 	allTeams = numbers(allTeams);
+	console.log(allTeams);
+	coverTeams = numbers(coverTeams);
+	console.log(coverTeams);
 	
-	var tableStart = `<table class="table table-hover" id="results"><thead><tr><th scope="col">Team</th><th scope="col">Games</th></tr></thead><tbody>`;
+	var tableStart = `<div class="table-responsive"><table class="table table-bordered" id="results"><thead><tr><th scope="col">Team</th><th scope="col">Games Played</th><th scope="col">ATS Record</th><th scope="col">Cover %</th></tr></thead><tbody>`;
 	
 	for (var team in teams) {
 		for (var j = 0; j < allTeams[0].length; j++) {
 			// set starters
 			var guess = allTeams[0][j];
 			var color = "";
+			var percColor = "";
 			switch(allTeams[1][j]) {
 				case 9:
 				case 7:
 				case 5:
 				case 3:
 				case 1:
-					color = "table-active";
+					color = "active";
 					break;
 				case 8:
 				case 6:
@@ -66,10 +77,41 @@ $.when(getGames, getTeams, getTourney).then(function(){
 				default:
 					// code block
 			}
+			
+			var wins = 0;
+			var losses = 0;
+			var perc;
+			if (coverTeams[0].includes(allTeams[0][j])) {
+				console.log(allTeams[0][j]);
+				const isSameNumber = (element) => element == allTeams[0][j];
+				var spot = coverTeams[0].findIndex(isSameNumber);
+				wins = coverTeams[1][spot];
+				losses = allTeams[1][j] - wins;
+				console.log(losses);
+			}
+			else {
+				losses = allTeams[1][j];
+			}
+			
+			perc = (wins / (wins + losses)) * 100;
+			if (perc >= 75) {
+				percColor = "success";
+			}
+			else if (perc < 75 && perc >= 40) {
+				percColor = "warning";
+			}
+			else if (perc < 40) {
+				percColor = "danger";
+			}
+			else {
+				percColor = color;
+			}
+			
 			if (winners.includes(teams[team][guess].team)) {
 				color = "table-warning";
 			}
-			tableStart = tableStart + `<tr><th class="${color}">${teams[team][guess].team}</th><th class="${color}">${allTeams[1][j]}</th>`;
+			console.log(teams[team][guess].team);
+			tableStart = tableStart + `<tr><td class="${color}">${teams[team][guess].team}</td><td class="${color}">${allTeams[1][j]}</td><td class="${color}">${wins}-${losses}</td><td class="${percColor}">${perc.toFixed(0)}%</td>`;
 		}
 	}
 	var tableEnd = `</tbody></table>`;	
@@ -114,8 +156,8 @@ function sortTable(n) {
       shouldSwitch = false;
       /*Get the two elements you want to compare,
       one from current row and one from the next:*/
-      x = rows[i].getElementsByTagName("TH")[n-1];
-      y = rows[i + 1].getElementsByTagName("TH")[n-1];
+      x = rows[i].getElementsByTagName("TD")[n-1];
+      y = rows[i + 1].getElementsByTagName("TD")[n-1];
       /*check if the two rows should switch place,
       based on the direction, asc or desc:*/
       if (dir == "asc") {
