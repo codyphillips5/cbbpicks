@@ -3,11 +3,13 @@ var awayTeams = [];
 var coverTeams = [];
 var allTeams = [];
 var winners = [];
-var home, away, cover;
+var home, away, cover, week;
 
 var standings, teams, resultsList, usersList;
 
-for (var i = 1; i <= 3; i++) {
+week = 3;
+
+for (var i = 1; i <= week; i++) {
 	var getGames = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week" + i + ".json", function(json){
 		standings = json;
 		
@@ -25,7 +27,6 @@ for (var i = 1; i <= 3; i++) {
 		}
 	});
 }
-
 
 var getTeams = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/teams.json", function(json){
 	teams = json;
@@ -45,12 +46,14 @@ $.when(getGames, getTeams).then(function(){
 	allTeams = homeTeams.concat(awayTeams);
 	console.log("home: " + homeTeams.length);
 	console.log("away: " + awayTeams.length);
-	console.log("cover: " + coverTeams);
+	console.log("cover: " + coverTeams.length);
 	console.log("all: " + allTeams.length);
 	allTeams = numbers(allTeams);
 	console.log(allTeams);
 	coverTeams = numbers(coverTeams);
 	console.log(coverTeams);
+	
+	document.getElementById("records").innerHTML = `<li>Records reflected through Game ${coverTeams.length} of Week ${week}.</li>`;
 	
 	var tableStart = `<div class="table-responsive"><table class="table table-bordered" id="results"><thead><tr><th scope="col">Team</th><th scope="col">Games Played</th><th scope="col">ATS Record</th><th scope="col">Cover %</th></tr></thead><tbody>`;
 	
