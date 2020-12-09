@@ -97,13 +97,13 @@ $.when(getGames, getTeams).then(function(){
 			}
 			
 			perc = (wins / (wins + losses)) * 100;
-			if (perc >= 75) {
+			if (perc >= 75.0) {
 				percColor = "success";
 			}
-			else if (perc < 75 && perc >= 40) {
+			else if (perc < 75.0 && perc >= 40.0) {
 				percColor = "warning";
 			}
-			else if (perc < 40) {
+			else if (perc < 40.0) {
 				percColor = "danger";
 			}
 			else {
@@ -114,11 +114,12 @@ $.when(getGames, getTeams).then(function(){
 				color = "table-warning";
 			}
 			console.log(teams[team][guess].team);
-			tableStart = tableStart + `<tr><td class="${color}">${teams[team][guess].team}</td><td class="${color}">${allTeams[1][j]}</td><td class="${color}">${wins}-${losses}</td><td class="${percColor}">${perc.toFixed(0)}%</td>`;
+			tableStart = tableStart + `<tr><td class="${color}">${teams[team][guess].team}</td><td class="${color}">${allTeams[1][j]}</td><td class="${color}">${wins}-${losses}</td><td class="${percColor}">${perc.toFixed(1)}</td>`;
 		}
 	}
 	var tableEnd = `</tbody></table>`;	
 	document.getElementById("standings").innerHTML = tableStart + tableEnd;
+	sortTable(4);
 	sortTable(2);
 });
 
@@ -159,6 +160,7 @@ function sortTable(n) {
       shouldSwitch = false;
       /*Get the two elements you want to compare,
       one from current row and one from the next:*/
+	  console.log(rows[i].getElementsByTagName("TD")[n-1]);
       x = rows[i].getElementsByTagName("TD")[n-1];
       y = rows[i + 1].getElementsByTagName("TD")[n-1];
       /*check if the two rows should switch place,
