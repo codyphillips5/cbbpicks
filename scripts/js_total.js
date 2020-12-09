@@ -44,82 +44,84 @@ var getTourney = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/tourna
 
 
 $.when(getGames, getTeams, getTourney).then(function(){
-	allTeams = homeTeams.concat(awayTeams);
 	console.log("cover: " + coverTeams.length);
-	allTeams = numbers(allTeams);
 	game = coverTeams.length - ((week-1)*10);
 	
 	if (game < 0) {
 		location.reload();
 	}
+	else {
+		allTeams = homeTeams.concat(awayTeams);
+		allTeams = numbers(allTeams);
+		
+		document.getElementById("records").innerHTML = `<li>Records reflected through Game ${game} of Week ${week}.</li>`;
 
-	document.getElementById("records").innerHTML = `<li>Records reflected through Game ${game} of Week ${week}.</li>`;
-
-	coverTeams = numbers(coverTeams);
-	
-	var tableStart = `<div class="table-responsive"><table class="table table-bordered table-hover" id="results"><thead><tr><th scope="col">Team</th><th scope="col">Games</th><th scope="col">ATS Record</th><th scope="col">Cover %</th></tr></thead><tbody>`;
-	
-	for (var team in teams) {
-		for (var j = 0; j < allTeams[0].length; j++) {
-			// set starters
-			var guess = allTeams[0][j];
-			var color = "";
-			var percColor = "";
-			switch(allTeams[1][j]) {
-				case 9:
-				case 7:
-				case 5:
-				case 3:
-				case 1:
-					color = "active";
-					break;
-				case 8:
-				case 6:
-				case 4:
-				case 2:
-					color = "";
-					break;
-				default:
-					// code block
+		coverTeams = numbers(coverTeams);
+		
+		var tableStart = `<div class="table-responsive"><table class="table table-bordered table-hover" id="results"><thead><tr><th scope="col">Team</th><th scope="col">Games</th><th scope="col">ATS Record</th><th scope="col">Cover %</th></tr></thead><tbody>`;
+		
+		for (var team in teams) {
+			for (var j = 0; j < allTeams[0].length; j++) {
+				// set starters
+				var guess = allTeams[0][j];
+				var color = "";
+				var percColor = "";
+				switch(allTeams[1][j]) {
+					case 9:
+					case 7:
+					case 5:
+					case 3:
+					case 1:
+						color = "active";
+						break;
+					case 8:
+					case 6:
+					case 4:
+					case 2:
+						color = "";
+						break;
+					default:
+						// code block
+				}
+				
+				var wins = 0;
+				var losses = 0;
+				var perc;
+				if (coverTeams[0].includes(allTeams[0][j])) {
+					const isSameNumber = (element) => element == allTeams[0][j];
+					var spot = coverTeams[0].findIndex(isSameNumber);
+					wins = coverTeams[1][spot];
+					losses = allTeams[1][j] - wins;
+				}
+				else {
+					losses = allTeams[1][j];
+				}
+				
+				perc = (wins / (wins + losses)) * 100;
+				if (perc >= 75.0) {
+					percColor = "success";
+				}
+				else if (perc < 75.0 && perc >= 40.0) {
+					percColor = "warning";
+				}
+				else if (perc < 40.0) {
+					percColor = "danger";
+				}
+				else {
+					percColor = color;
+				}
+				
+				if (winners.includes(teams[team][guess].team)) {
+					color = "table-warning";
+				}
+				tableStart = tableStart + `<tr><td class="${color}">${teams[team][guess].team}</td><td class="${color}">${allTeams[1][j]}</td><td class="${color}">${wins}-${losses}</td><td class="${percColor}">${perc.toFixed(1)}</td>`;
 			}
-			
-			var wins = 0;
-			var losses = 0;
-			var perc;
-			if (coverTeams[0].includes(allTeams[0][j])) {
-				const isSameNumber = (element) => element == allTeams[0][j];
-				var spot = coverTeams[0].findIndex(isSameNumber);
-				wins = coverTeams[1][spot];
-				losses = allTeams[1][j] - wins;
-			}
-			else {
-				losses = allTeams[1][j];
-			}
-			
-			perc = (wins / (wins + losses)) * 100;
-			if (perc >= 75.0) {
-				percColor = "success";
-			}
-			else if (perc < 75.0 && perc >= 40.0) {
-				percColor = "warning";
-			}
-			else if (perc < 40.0) {
-				percColor = "danger";
-			}
-			else {
-				percColor = color;
-			}
-			
-			if (winners.includes(teams[team][guess].team)) {
-				color = "table-warning";
-			}
-			tableStart = tableStart + `<tr><td class="${color}">${teams[team][guess].team}</td><td class="${color}">${allTeams[1][j]}</td><td class="${color}">${wins}-${losses}</td><td class="${percColor}">${perc.toFixed(1)}</td>`;
 		}
+		var tableEnd = `</tbody></table>`;	
+		document.getElementById("standings").innerHTML = tableStart + tableEnd;
+		sortTable(4);
+		sortTable(2);		
 	}
-	var tableEnd = `</tbody></table>`;	
-	document.getElementById("standings").innerHTML = tableStart + tableEnd;
-	sortTable(4);
-	sortTable(2);
 });
 
 
