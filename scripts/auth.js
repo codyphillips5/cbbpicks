@@ -33,9 +33,9 @@ firebase.auth().onAuthStateChanged(user => {
 	week.get()
 		.then((docSnapshot) => {
 			if (docSnapshot.data()) {
-				if (docSnapshot.data().game6 !== undefined) { 
-					document.getElementById("label-choice-seasongame26").innerHTML = `<label class="choice">${docSnapshot.data().game6} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
-					console.log("Document data:", docSnapshot.data())
+				if (docSnapshot.data().game7 !== undefined) { 
+					document.getElementById("label-choice-seasongame27").innerHTML = `<label class="choice">${docSnapshot.data().game7} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					//console.log("Document data:", docSnapshot.data())
 				}
 			}
 		});
@@ -51,7 +51,7 @@ firebase.auth().onAuthStateChanged(user => {
 			if (docSnapshot.exists) {
 				week.update({
 					user: auth.currentUser.email,
-					game6: document.getElementById('seasongame26').value
+					game7: document.getElementById('seasongame27').value
 				}).then(function() {
 					success();
 				}).catch(err => {
@@ -61,7 +61,7 @@ firebase.auth().onAuthStateChanged(user => {
 			} else {
 				week.set({
 					user: auth.currentUser.email,
-					game6: document.getElementById('seasongame26').value
+					game7: document.getElementById('seasongame27').value
 				}).then(() => {
 					// close the modal and reset form
 					//const modal = document.querySelector('#modal-create');
