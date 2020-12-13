@@ -91,7 +91,10 @@
 		"favorite" : 69,
 		"spread" : 7.5,
 		"gameTime" : "2020-12-13T18:00Z",
-		"channel": "ESPN"
+		"channel": "ESPN",
+		"homeScore" : 87,
+		"awayScore" : 71,
+		"cover" : 69
 	},
 	{
 		"gameId" : 29,
