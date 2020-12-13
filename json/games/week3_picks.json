@@ -22,9 +22,9 @@
 		"game5" : "OKLA",
 		"game6" : "AZST",
 		"game7" : "FSU",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "RICH",
+		"game9" : "MICH",
+		"game10" : "STAN"
     },
     {
 		"userId" : 3,
@@ -374,8 +374,8 @@
 		"game6" : "SDSU",
 		"game7" : "FLA",
 		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "PSU",
+		"game10" : "USC"
     },
 	{
 		"userId" : 30,
