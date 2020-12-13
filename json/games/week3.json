@@ -79,14 +79,17 @@
 		"favorite" : 16,
 		"spread" : 2.5,
 		"gameTime" : "2020-12-12T16:00Z",
-		"channel": "ESPNU"
+		"channel": "ESPNU",
+		"homeScore" : 83,
+		"awayScore" : 71,
+		"cover" : 16
 	},
 	{
 		"gameId" : 28,
 		"homeTeam" : 69,
 		"awayTeam" : 46,
 		"favorite" : 69,
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2020-12-13T18:00Z",
 		"channel": "ESPN"
 	},
@@ -95,7 +98,7 @@
 		"homeTeam" : 60,
 		"awayTeam" : 67,
 		"favorite" : 60,
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2020-12-13T20:00Z",
 		"channel": "ESPN"
 	},
@@ -104,7 +107,7 @@
 		"homeTeam" : 252,
 		"awayTeam" : 250,
 		"favorite" : 252,
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2020-12-14T02:30Z",
 		"channel": "FS1"
 	}
