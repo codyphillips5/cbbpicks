@@ -110,12 +110,12 @@
 	},
 	{
 		"gameId" : 30,
-		"homeTeam" : 252,
-		"awayTeam" : 250,
-		"favorite" : 252,
-		"spread" : 1.5,
-		"gameTime" : "2020-12-14T02:30Z",
-		"channel": "FS1"
+		"homeTeam" : ,
+		"awayTeam" : 103,
+		"favorite" : ,
+		"spread" : 2.5,
+		"gameTime" : "2020-12-14T23:00Z",
+		"channel": "BTN"
 	}
   ]
 }
