@@ -110,9 +110,9 @@
 	},
 	{
 		"gameId" : 30,
-		"homeTeam" : ,
+		"homeTeam" : 94,
 		"awayTeam" : 103,
-		"favorite" : ,
+		"favorite" : 94,
 		"spread" : 2.5,
 		"gameTime" : "2020-12-14T23:00Z",
 		"channel": "BTN"
