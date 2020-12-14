@@ -11,7 +11,7 @@
 		"game7" : "FSU",
 		"game8" : "RICH",
 		"game9" : "PSU",
-		"game10" : ""
+		"game10" : "MARY"
     },
     {
 		"userId" : 2,
@@ -37,7 +37,7 @@
 		"game7" : "FSU",
 		"game8" : "WVU",
 		"game9" : "MICH",
-		"game10" : ""
+		"game10" : "RUTG"
     },
 	{
 		"userId" : 4,
@@ -76,7 +76,7 @@
 		"game7" : "FSU",
 		"game8" : "RICH",
 		"game9" : "MICH",
-		"game10" : ""
+		"game10" : "MARY"
     },    
 	{
 		"userId" : 7,
@@ -89,7 +89,7 @@
 		"game7" : "FLA",
 		"game8" : "RICH",
 		"game9" : "PSU",
-		"game10" : ""
+		"game10" : "MARY"
     },
 	{
 		"userId" : 8,
@@ -102,7 +102,7 @@
 		"game7" : "FSU",
 		"game8" : "WVU",
 		"game9" : "PSU",
-		"game10" : ""
+		"game10" : "MARY"
     },		
 	{
 		"userId" : 9,
@@ -115,7 +115,7 @@
 		"game7" : "FLA",
 		"game8" : "WVU",
 		"game9" : "MICH",
-		"game10" : ""
+		"game10" : "MARY"
     },	
 	{
 		"userId" : 10,
@@ -128,7 +128,7 @@
 		"game7" : "FLA",
 		"game8" : "RICH",
 		"game9" : "PSU",
-		"game10" : ""
+		"game10" : "RUTG"
     },
 	{
 		"userId" : 11,
@@ -141,7 +141,7 @@
 		"game7" : "FSU",
 		"game8" : "WVU",
 		"game9" : "PSU",
-		"game10" : ""
+		"game10" : "MARY"
     },
 	{
 		"userId" : 12,
@@ -154,7 +154,7 @@
 		"game7" : "FLA",
 		"game8" : "WVU",
 		"game9" : "MICH",
-		"game10" : ""
+		"game10" : "RUTG"
     },
 	{
 		"userId" : 13,
@@ -167,7 +167,7 @@
 		"game7" : "FLA",
 		"game8" : "RICH",
 		"game9" : "MICH",
-		"game10" : ""
+		"game10" : "MARY"
     },
 	{
 		"userId" : 14,
@@ -180,7 +180,7 @@
 		"game7" : "",
 		"game8" : "RICH",
 		"game9" : "PSU",
-		"game10" : ""
+		"game10" : "RUTG"
     },
 	{
 		"userId" : 15,
@@ -193,7 +193,7 @@
 		"game7" : "FLA",
 		"game8" : "RICH",
 		"game9" : "PSU",
-		"game10" : ""
+		"game10" : "RUTG"
     },
 	{
 		"userId" : 16,
@@ -206,7 +206,7 @@
 		"game7" : "FLA",
 		"game8" : "WVU",
 		"game9" : "MICH",
-		"game10" : ""
+		"game10" : "MARY"
     },
 	{
 		"userId" : 17,
@@ -219,7 +219,7 @@
 		"game7" : "FSU",
 		"game8" : "WVU",
 		"game9" : "MICH",
-		"game10" : ""
+		"game10" : "MARY"
     },
 	{
 		"userId" : 18,
@@ -232,7 +232,7 @@
 		"game7" : "FLA",
 		"game8" : "RICH",
 		"game9" : "PSU",
-		"game10" : ""
+		"game10" : "MARY"
     },
 	{
 		"userId" : 19,
@@ -245,7 +245,7 @@
 		"game7" : "FSU",
 		"game8" : "RICH",
 		"game9" : "MICH",
-		"game10" : ""
+		"game10" : "MARY"
     },
 	{
 		"userId" : 20,
@@ -258,7 +258,7 @@
 		"game7" : "FLA",
 		"game8" : "RICH",
 		"game9" : "MICH",
-		"game10" : ""
+		"game10" : "MARY"
     },
 	{
 		"userId" : 21,
@@ -271,7 +271,7 @@
 		"game7" : "FSU",
 		"game8" : "RICH",
 		"game9" : "PSU",
-		"game10" : ""
+		"game10" : "MARY"
     },
 	{
 		"userId" : 22,
@@ -284,7 +284,7 @@
 		"game7" : "FSU",
 		"game8" : "RICH",
 		"game9" : "PSU",
-		"game10" : ""
+		"game10" : "RUTG"
     },
 	{
 		"userId" : 23,
@@ -297,7 +297,7 @@
 		"game7" : "FLA",
 		"game8" : "RICH",
 		"game9" : "PSU",
-		"game10" : ""
+		"game10" : "RUTG"
     },
 	{
 		"userId" : 24,
@@ -310,7 +310,7 @@
 		"game7" : "FSU",
 		"game8" : "RICH",
 		"game9" : "PSU",
-		"game10" : ""
+		"game10" : "RUTG"
     },
 	{
 		"userId" : 25,
@@ -323,7 +323,7 @@
 		"game7" : "FLA",
 		"game8" : "WVU",
 		"game9" : "MICH",
-		"game10" : ""
+		"game10" : "RUTG"
     },
 	{
 		"userId" : 26,
@@ -336,7 +336,7 @@
 		"game7" : "FSU",
 		"game8" : "RICH",
 		"game9" : "MICH",
-		"game10" : ""
+		"game10" : "RUTG"
     },
 	{
 		"userId" : 27,
@@ -349,7 +349,7 @@
 		"game7" : "FSU",
 		"game8" : "WVU",
 		"game9" : "MICH",
-		"game10" : ""
+		"game10" : "MARY"
     },
 	{
 		"userId" : 28,
@@ -362,7 +362,7 @@
 		"game7" : "FSU",
 		"game8" : "",
 		"game9" : "MICH",
-		"game10" : ""
+		"game10" : "MARY"
     },
 	{
 		"userId" : 29,
@@ -375,7 +375,7 @@
 		"game7" : "FLA",
 		"game8" : "",
 		"game9" : "PSU",
-		"game10" : ""
+		"game10" : "RUTG"
     },
 	{
 		"userId" : 30,
@@ -388,7 +388,7 @@
 		"game7" : "FSU",
 		"game8" : "RICH",
 		"game9" : "MICH",
-		"game10" : ""
+		"game10" : "MARY"
     },
 	{
 		"userId" : 31,
@@ -401,7 +401,7 @@
 		"game7" : "FLA",
 		"game8" : "RICH",
 		"game9" : "MICH",
-		"game10" : ""
+		"game10" : "MARY"
     }
 	]
 }
