@@ -5,7 +5,7 @@
 		"homeTeam" : 26,
 		"awayTeam" : 14,
 		"favorite" : 26,
-		"spread" : 0,
+		"spread" : 1.5,
 		"gameTime" : "2020-12-15T23:30Z",
 		"channel": "ACCN"
 	},
@@ -14,7 +14,7 @@
 		"homeTeam" : 266,
 		"awayTeam" : 296,
 		"favorite" : 266,
-		"spread" : 5.5,
+		"spread" : 6.5,
 		"gameTime" : "2020-12-16T02:00Z",
 		"channel": "SECN"
 	},
