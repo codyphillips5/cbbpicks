@@ -14,13 +14,13 @@ var getUsers= $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.jso
 });
 
 $.when(getStandings, getUsers).then(function(){
-	var tableStart = `<table class="table table-hover" id="standings-table"><thead><tr><th scope="col">Name</th><th scope="col">Week 1</th><th scope="col">Week 2</th><th scope="col" class="active">Total</th><th scope="col" class="active">Percent</th></tr></thead><tbody>`;
+	var tableStart = `<table class="table table-hover" id="standings-table"><thead><tr><th scope="col">Name</th><th scope="col">Week 1</th><th scope="col">Week 2</th><th scope="col">Week 3</th><th scope="col" class="active">Total</th><th scope="col" class="active">Percent</th></tr></thead><tbody>`;
 
 	for (var key in standings) {
 		for (var i = 0; i < standings[key].length; i++) {
 			
 			// set starters
-			var week = 2;
+			var week = 3;
 			var pointTotal = 0;
 			var isTop;
 			var weekTotal = 0;
