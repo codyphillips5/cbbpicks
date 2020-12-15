@@ -8,7 +8,7 @@ var games = false;
 
 var standings, teams, resultsList, usersList;
 game = 0;
-week = 3;
+week = 4;
 
 for (var i = 1; i <= week; i++) {
 	var getGames = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week" + i + ".json", function(json){
@@ -51,6 +51,11 @@ $.when(getGames, getTeams, getTourney).then(function(){
 		location.reload();
 	}
 	else {
+		if (game == 0) {
+			game = 10;
+			week = week - 1;
+		}		
+		
 		allTeams = homeTeams.concat(awayTeams);
 		allTeams = numbers(allTeams);
 		
