@@ -79,13 +79,9 @@ $.when(getGames, getTeams, getTourney).then(function(){
 					case 1:
 						color = "active";
 						break;
-					case 8:
-					case 6:
-					case 4:
-					case 2:
+					default:
 						color = "";
 						break;
-					default:
 						// code block
 				}
 				
