@@ -129,6 +129,7 @@ attempt = {
 		else {
 			document.getElementById("saver").innerHTML = `<button type="submit" id="savePicks" class='btn btn-primary'>Save My Picks</button>`;
 		}
+
   });
   
   var request;

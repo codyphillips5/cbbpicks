@@ -12,6 +12,7 @@ auth.onAuthStateChanged(user => {
     }
     else {
         setupUI();
+		//document.getElementById("saver").innerHTML = `<button type="submit" id="savePicks" disabled class='btn btn-primary'>Login</button>`;
 		document.getElementById("savePicks").disabled = true;
 		document.getElementById("savePicks").innerHTML = "Login to Submit";
         //setupGuides([]);
@@ -43,8 +44,12 @@ firebase.auth().onAuthStateChanged(user => {
 	
     createForm.addEventListener('submit', (e) => {
     e.preventDefault();
-	var week = db.collection('week4').doc(auth.currentUser.email);
+	if (auth.currentUser === null) {
+		createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-danger" role="alert">Pick NOT Saved. Please <a href='log.html'>Log In</a>.</div>`;
+	}
 	console.log(auth.currentUser.email);
+	var week = db.collection('week4').doc(auth.currentUser.email);
+
 	
 		week.get()
 		  .then((docSnapshot) => {
