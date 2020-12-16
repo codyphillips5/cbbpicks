@@ -7,7 +7,10 @@
 		"favorite" : 26,
 		"spread" : 1.5,
 		"gameTime" : "2020-12-15T23:30Z",
-		"channel": "ACCN"
+		"channel": "ACCN",
+		"homeScore" : 66,
+		"awayScore" : 60,
+		"cover" : 26
 	},
 	{
 		"gameId" : 32,
