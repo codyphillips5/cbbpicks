@@ -75,7 +75,6 @@ attempt = {
 			  var awaySide = "+";
 			  var channel = xFile[key][i].channel;
 			  var date = new Date(xFile[key][i].gameTime);
-			  var date2 = new Date(xFile[key][0].gameTime);
 			  var badge = document.createElement('div');
 			  if (fav != home) {
 				  homeSide = "+";
@@ -117,28 +116,19 @@ attempt = {
 			  badge.innerHTML = '<form>' + header + gameInfo + select + fin + '</form>';
 			  document.getElementById(key).appendChild(badge);
 			  //document.getElementsByClassName(badge.id)[i].appendChild(yourPick);
+
 		  }
+			var date2 = new Date(xFile[key][2].gameTime);
+			console.log(date2);
 	  }
 	  
-/*	  	// if current time is after start time of first game, lock
+	  	// if current time is after start time of first game, lock
 		if (date1.getTime() > date2.getTime()) {
 			document.getElementById("saver").innerHTML = `<button type="submit" disabled id="savePicks" class='btn btn-primary'>Picks Locked</button>`;
 		}
 		else {
-			if (date1.getDay() < 4) {
-				document.getElementById("saver").innerHTML = `<button type="submit" disabled id="savePicks" class='btn btn-primary'>Picks Open Thursday</button>`;	
-			}
-			else {
-				// if day is Thursday before noon, picks open soon
-				if (date1.getDay() == 4 && date1.getHours() < 12) {
-					document.getElementById("saver").innerHTML = `<button type="submit" disabled id="savePicks" class='btn btn-primary'>Picks Open Soon</button>`;
-				}
-				// else picks are open
-				else {
-					document.getElementById("saver").innerHTML = `<button type="submit" id="savePicks" class='btn btn-primary'>Save My Picks</button>`;
-				}
-			}
-		}*/
+			document.getElementById("saver").innerHTML = `<button type="submit" id="savePicks" class='btn btn-primary'>Save My Picks</button>`;
+		}
   });
   
   var request;
