@@ -29,7 +29,7 @@
 		"homeTeam" : 102,
 		"awayTeam" : 100,
 		"favorite" : 102,
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2020-12-17T00:00Z",
 		"channel": "BTN"
 	},
