@@ -89,11 +89,11 @@
 	},
 	{
 		"gameId" : 40,
-		"homeTeam" : 97,
-		"awayTeam" : 48,
-		"favorite" : 97,
+		"homeTeam" : 2,
+		"awayTeam" : 71,
+		"favorite" : 71,
 		"spread" : "-",
-		"gameTime" : "2020-12-21T01:30Z",
+		"gameTime" : "2020-12-20T17:00Z",
 		"channel": "FS1"
 	}
   ]
