@@ -35,12 +35,12 @@
 	},
 	{
 		"gameId" : 34,
-		"homeTeam" : 68,
-		"awayTeam" : 62,
-		"favorite" : 62,
+		"homeTeam" : 48,
+		"awayTeam" : 21,
+		"favorite" : 48,
 		"spread" : "-",
-		"gameTime" : "2020-12-18T00:00Z",
-		"channel": "ESPN"
+		"gameTime" : "2020-12-18T01:00Z",
+		"channel": ""
 	},
 	{
 		"gameId" : 35,
