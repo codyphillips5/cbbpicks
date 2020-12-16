@@ -19,7 +19,10 @@
 		"favorite" : 266,
 		"spread" : 6.5,
 		"gameTime" : "2020-12-16T02:00Z",
-		"channel": "SECN"
+		"channel": "SECN",
+		"homeScore" : 83,
+		"awayScore" : 80,
+		"cover" : 296
 	},
 	{
 		"gameId" : 33,
