@@ -1,0 +1,100 @@
+{
+	"games": [
+	{
+		"gameId" : 31,
+		"homeTeam" : 26,
+		"awayTeam" : 14,
+		"favorite" : 26,
+		"spread" : 1.5,
+		"gameTime" : "2020-12-15T23:30Z",
+		"channel": "ACCN",
+		"homeScore" : 66,
+		"awayScore" : 60,
+		"cover" : 26
+	},
+	{
+		"gameId" : 32,
+		"homeTeam" : 266,
+		"awayTeam" : 296,
+		"favorite" : 266,
+		"spread" : 6.5,
+		"gameTime" : "2020-12-16T02:00Z",
+		"channel": "SECN",
+		"homeScore" : 83,
+		"awayScore" : 80,
+		"cover" : 296
+	},
+	{
+		"gameId" : 33,
+		"homeTeam" : 102,
+		"awayTeam" : 100,
+		"favorite" : 102,
+		"spread" : 4.5,
+		"gameTime" : "2020-12-17T00:00Z",
+		"channel": "BTN"
+	},
+	{
+		"gameId" : 34,
+		"homeTeam" : 48,
+		"awayTeam" : 21,
+		"favorite" : 48,
+		"spread" : "-",
+		"gameTime" : "2020-12-18T01:00Z",
+		"channel": ""
+	},
+	{
+		"gameId" : 35,
+		"homeTeam" : 74,
+		"awayTeam" : 76,
+		"favorite" : 74,
+		"spread" : "-",
+		"gameTime" : "2020-12-18T02:00Z",
+		"channel": "FS1"
+	},
+	{
+		"gameId" : 36,
+		"homeTeam" : 344,
+		"awayTeam" : 93,
+		"favorite" : 344,
+		"spread" : "-",
+		"gameTime" : "2020-12-19T17:00Z",
+		"channel": "CBS"
+	},
+	{
+		"gameId" : 37,
+		"homeTeam" : 104,
+		"awayTeam" : 18,
+		"favorite" : 104,
+		"spread" : "-",
+		"gameTime" : "2020-12-19T17:00Z",
+		"channel": "ESPN2"
+	},
+	{
+		"gameId" : 38,
+		"homeTeam" : 20,
+		"awayTeam" : 100,
+		"favorite" : 20,
+		"spread" : "-",
+		"gameTime" : "2020-12-19T21:30Z",
+		"channel": "CBS"
+	},
+	{
+		"gameId" : 39,
+		"homeTeam" : 78,
+		"awayTeam" : 25,
+		"favorite" : 78,
+		"spread" : "-",
+		"gameTime" : "2020-12-20T01:00Z",
+		"channel": "FOX"
+	},
+	{
+		"gameId" : 40,
+		"homeTeam" : 97,
+		"awayTeam" : 48,
+		"favorite" : 97,
+		"spread" : "-",
+		"gameTime" : "2020-12-21T01:30Z",
+		"channel": "FS1"
+	}
+  ]
+}
