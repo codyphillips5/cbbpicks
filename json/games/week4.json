@@ -31,7 +31,10 @@
 		"favorite" : 102,
 		"spread" : 4.5,
 		"gameTime" : "2020-12-17T00:00Z",
-		"channel": "BTN"
+		"channel": "BTN",
+		"homeScore" : 67,
+		"awayScore" : 60,
+		"cover" : 102
 	},
 	{
 		"gameId" : 34,
