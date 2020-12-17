@@ -34,8 +34,8 @@ firebase.auth().onAuthStateChanged(user => {
 	week.get()
 		.then((docSnapshot) => {
 			if (docSnapshot.data()) {
-				if (docSnapshot.data().game3 !== undefined) { 
-					document.getElementById("label-choice-seasongame33").innerHTML = `<label class="choice">${docSnapshot.data().game3} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+				if (docSnapshot.data().game4 !== undefined) { 
+					document.getElementById("label-choice-seasongame34").innerHTML = `<label class="choice">${docSnapshot.data().game4} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 					//console.log("Document data:", docSnapshot.data())
 				}
 			}
@@ -56,7 +56,7 @@ firebase.auth().onAuthStateChanged(user => {
 			if (docSnapshot.exists) {
 				week.update({
 					user: auth.currentUser.email,
-					game3: document.getElementById('seasongame33').value
+					game4: document.getElementById('seasongame34').value
 				}).then(function() {
 					success();
 				}).catch(err => {
@@ -66,7 +66,7 @@ firebase.auth().onAuthStateChanged(user => {
 			} else {
 				week.set({
 					user: auth.currentUser.email,
-					game3: document.getElementById('seasongame33').value
+					game4: document.getElementById('seasongame34').value
 				}).then(() => {
 					// close the modal and reset form
 					//const modal = document.querySelector('#modal-create');
