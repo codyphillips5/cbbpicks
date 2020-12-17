@@ -41,7 +41,7 @@
 		"homeTeam" : 48,
 		"awayTeam" : 21,
 		"favorite" : 48,
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2020-12-18T01:00Z",
 		"channel": "ESPN+"
 	},
