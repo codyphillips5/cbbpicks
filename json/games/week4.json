@@ -65,11 +65,11 @@
 	},
 	{
 		"gameId" : 37,
-		"homeTeam" : 20,
-		"awayTeam" : 100,
-		"favorite" : 20,
+		"homeTeam" : 100,
+		"awayTeam" : 251,
+		"favorite" : 100,
 		"spread" : "-",
-		"gameTime" : "2020-12-19T21:30Z",
+		"gameTime" : "2020-12-19T21:15Z",
 		"channel": "CBS"
 	},
 	{
