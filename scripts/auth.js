@@ -34,8 +34,10 @@ firebase.auth().onAuthStateChanged(user => {
 	week.get()
 		.then((docSnapshot) => {
 			if (docSnapshot.data()) {
-				if (docSnapshot.data().game4 !== undefined) { 
-					document.getElementById("label-choice-seasongame34").innerHTML = `<label class="choice">${docSnapshot.data().game4} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+				if (docSnapshot.data().game5 !== undefined) { 
+					document.getElementById("label-choice-seasongame35").innerHTML = `<label class="choice">${docSnapshot.data().game5} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					document.getElementById("label-choice-seasongame36").innerHTML = `<label class="choice">${docSnapshot.data().game6} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					document.getElementById("label-choice-seasongame37").innerHTML = `<label class="choice">${docSnapshot.data().game7} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 					//console.log("Document data:", docSnapshot.data())
 				}
 			}
@@ -56,7 +58,9 @@ firebase.auth().onAuthStateChanged(user => {
 			if (docSnapshot.exists) {
 				week.update({
 					user: auth.currentUser.email,
-					game4: document.getElementById('seasongame34').value
+					game5: document.getElementById('seasongame35').value,
+					game6: document.getElementById('seasongame36').value,
+					game7: document.getElementById('seasongame37').value
 				}).then(function() {
 					success();
 				}).catch(err => {
@@ -66,7 +70,9 @@ firebase.auth().onAuthStateChanged(user => {
 			} else {
 				week.set({
 					user: auth.currentUser.email,
-					game4: document.getElementById('seasongame34').value
+					game5: document.getElementById('seasongame35').value,
+					game6: document.getElementById('seasongame36').value,
+					game7: document.getElementById('seasongame37').value
 				}).then(() => {
 					// close the modal and reset form
 					//const modal = document.querySelector('#modal-create');
