@@ -43,7 +43,10 @@
 		"favorite" : 48,
 		"spread" : 4.5,
 		"gameTime" : "2020-12-18T01:00Z",
-		"channel": "ESPN+"
+		"channel": "ESPN+",
+		"homeScore" : 80,
+		"awayScore" : 69,
+		"cover" : 48
 	},
 	{
 		"gameId" : 35,
