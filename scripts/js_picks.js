@@ -123,12 +123,12 @@ attempt = {
 	  }
 	  
 	  	// if current time is after start time of first game, lock
-		/*if (date1.getTime() > date2.getTime()) {
+		if (date1.getTime() > date2.getTime()) {
 			document.getElementById("saver").innerHTML = `<button type="submit" disabled id="savePicks" class='btn btn-primary'>Picks Locked</button>`;
 		}
 		else {
 			document.getElementById("saver").innerHTML = `<button type="submit" id="savePicks" class='btn btn-primary'>Save My Picks</button>`;
-		}*/
+		}/**/
 
   });
   
