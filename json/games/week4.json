@@ -53,7 +53,7 @@
 		"homeTeam" : 344,
 		"awayTeam" : 93,
 		"favorite" : 344,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2020-12-19T17:00Z",
 		"channel": "CBS"
 	},
@@ -62,7 +62,7 @@
 		"homeTeam" : 104,
 		"awayTeam" : 18,
 		"favorite" : 104,
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2020-12-19T17:00Z",
 		"channel": "ESPN2"
 	},
@@ -70,19 +70,19 @@
 		"gameId" : 37,
 		"homeTeam" : 100,
 		"awayTeam" : 251,
-		"favorite" : 100,
-		"spread" : "-",
+		"favorite" : 251,
+		"spread" : 1.5,
 		"gameTime" : "2020-12-19T21:15Z",
 		"channel": "CBS"
 	},
 	{
 		"gameId" : 38,
-		"homeTeam" : 78,
-		"awayTeam" : 25,
-		"favorite" : 78,
-		"spread" : "-",
+		"homeTeam" : 250,
+		"awayTeam" : 245,
+		"favorite" : 250,
+		"spread" : 2.5,
 		"gameTime" : "2020-12-20T01:00Z",
-		"channel": "FOX"
+		"channel": "PAC12"
 	},
 	{
 		"gameId" : 39,
