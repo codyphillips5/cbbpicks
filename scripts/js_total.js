@@ -112,9 +112,9 @@ $.when(getGames, getTeams, getTourney).then(function(){
 					percColor = color;
 				}
 				
-				if (winners.includes(teams[team][guess].team)) {
+				/*if (winners.includes(teams[team][guess].team)) {
 					color = "table-warning";
-				}
+				}*/
 				tableStart = tableStart + `<tr><td class="${color}">${teams[team][guess].team}</td><td class="${color}">${allTeams[1][j]}</td><td class="${color}">${wins}-${losses}</td><td class="${percColor}">${perc.toFixed(1)}</td>`;
 			}
 		}
