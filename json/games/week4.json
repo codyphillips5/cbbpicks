@@ -101,7 +101,7 @@
 		"homeTeam" : 2,
 		"awayTeam" : 71,
 		"favorite" : 71,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2020-12-20T17:00Z",
 		"channel": "FS1"
 	},
@@ -109,8 +109,8 @@
 		"gameId" : 40,
 		"homeTeam" : 103,
 		"awayTeam" : 91,
-		"favorite" : 103,
-		"spread" : "-",
+		"favorite" : 91,
+		"spread" : 1.5,
 		"gameTime" : "2020-12-20T18:00Z",
 		"channel": "ESPN2"
 	}
