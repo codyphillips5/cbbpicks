@@ -80,9 +80,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2020-12-19T21:15Z",
 		"channel": "CBS",
-		"homeScore" : 70,
-		"awayScore" : 77,
-		"cover" : 251
+		"homeScore" : 77,
+		"awayScore" : 70,
+		"cover" : 100
 	},
 	{
 		"gameId" : 38,
