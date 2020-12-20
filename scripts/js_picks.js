@@ -118,7 +118,7 @@ attempt = {
 			  //document.getElementsByClassName(badge.id)[i].appendChild(yourPick);
 
 		  }
-			var date2 = new Date(xFile[key][4].gameTime);
+			var date2 = new Date(xFile[key][8].gameTime);
 			console.log(date2);
 	  }
 	  
