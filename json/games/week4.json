@@ -55,7 +55,10 @@
 		"favorite" : 344,
 		"spread" : 3.5,
 		"gameTime" : "2020-12-19T17:00Z",
-		"channel": "CBS"
+		"channel": "CBS",
+		"homeScore" : 99,
+		"awayScore" : 88,
+		"cover" : 344
 	},
 	{
 		"gameId" : 36,
@@ -64,7 +67,10 @@
 		"favorite" : 104,
 		"spread" : 5.5,
 		"gameTime" : "2020-12-19T17:00Z",
-		"channel": "ESPN2"
+		"channel": "ESPN2",
+		"homeScore" : 85,
+		"awayScore" : 49,
+		"cover" : 104
 	},
 	{
 		"gameId" : 37,
@@ -73,7 +79,10 @@
 		"favorite" : 251,
 		"spread" : 1.5,
 		"gameTime" : "2020-12-19T21:15Z",
-		"channel": "CBS"
+		"channel": "CBS",
+		"homeScore" : 70,
+		"awayScore" : 77,
+		"cover" : 251
 	},
 	{
 		"gameId" : 38,
@@ -82,7 +91,10 @@
 		"favorite" : 250,
 		"spread" : 2.5,
 		"gameTime" : "2020-12-20T01:00Z",
-		"channel": "PAC12"
+		"channel": "PAC12",
+		"homeScore" : 78,
+		"awayScore" : 75,
+		"cover" : 250
 	},
 	{
 		"gameId" : 39,
