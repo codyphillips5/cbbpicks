@@ -103,7 +103,10 @@
 		"favorite" : 71,
 		"spread" : 3.5,
 		"gameTime" : "2020-12-20T17:00Z",
-		"channel": "FS1"
+		"channel": "FS1",
+		"homeScore" : 74,
+		"awayScore" : 76,
+		"cover" : 2
 	},
 	{
 		"gameId" : 40,
