@@ -115,7 +115,10 @@
 		"favorite" : 91,
 		"spread" : 1.5,
 		"gameTime" : "2020-12-20T18:00Z",
-		"channel": "ESPN2"
+		"channel": "ESPN2",
+		"homeScore" : 91,
+		"awayScore" : 88,
+		"cover" : 103
 	}
   ]
 }
