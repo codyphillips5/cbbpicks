@@ -28,9 +28,13 @@ attempt = {
   var required = "";
   var gog = "";
   
+  // week of year
+  var week = 5;
+document.getElementById("week-title").innerHTML = `<h2>Week ${week}</h2>`;
+  
   var xFile, yFile;
   
-  var requestX = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week5.json", function(json){
+  var requestX = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week" + week +".json", function(json){
 	  xFile = json;
   });
   
