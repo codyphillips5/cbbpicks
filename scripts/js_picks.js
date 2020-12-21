@@ -30,7 +30,7 @@ attempt = {
   
   var xFile, yFile;
   
-  var requestX = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week4.json", function(json){
+  var requestX = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week5.json", function(json){
 	  xFile = json;
   });
   
@@ -118,16 +118,23 @@ attempt = {
 			  //document.getElementsByClassName(badge.id)[i].appendChild(yourPick);
 
 		  }
-			var date2 = new Date(xFile[key][8].gameTime);
+			var date2 = new Date(xFile[key][0].gameTime);
+			var active = xFile[key][0].active;
 			console.log(date2);
+			console.log(active);
 	  }
 	  
 	  	// if current time is after start time of first game, lock
-		if (date1.getTime() > date2.getTime()) {
-			document.getElementById("saver").innerHTML = `<button type="submit" disabled id="savePicks" class='btn btn-primary'>Picks Locked</button>`;
+		if (!active) {
+			document.getElementById("saver").innerHTML = `<button type="submit" id="savePicks" disabled class='btn btn-primary'>Lines Not Locked</button>`;
 		}
 		else {
-			document.getElementById("saver").innerHTML = `<button type="submit" id="savePicks" class='btn btn-primary'>Save My Picks</button>`;
+			if (date1.getTime() > date2.getTime()) {
+				document.getElementById("saver").innerHTML = `<button type="submit" disabled id="savePicks" class='btn btn-primary'>Picks Locked</button>`;
+			}
+			else {
+				document.getElementById("saver").innerHTML = `<button type="submit" id="savePicks" class='btn btn-primary'>Save My Picks</button>`;
+			}
 		}/**/
 
   });
