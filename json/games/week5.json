@@ -5,20 +5,20 @@
 		"homeTeam" : 64,
 		"awayTeam" : 68,
 		"favorite" : 68,
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2020-12-23T00:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 42,
 		"homeTeam" : 62,
 		"awayTeam" : 69,
 		"favorite" : 62,
-		"spread" : 2.5,
+		"spread" : 1.5,
 		"gameTime" : "2020-12-23T02:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 43,
