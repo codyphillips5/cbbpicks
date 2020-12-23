@@ -34,9 +34,10 @@ firebase.auth().onAuthStateChanged(user => {
 	week.get()
 		.then((docSnapshot) => {
 			if (docSnapshot.data()) {
-				if (docSnapshot.data().game1 !== undefined) { 
-					document.getElementById("label-choice-seasongame41").innerHTML = `<label class="choice">${docSnapshot.data().game1} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
-					document.getElementById("label-choice-seasongame42").innerHTML = `<label class="choice">${docSnapshot.data().game2} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+				if (docSnapshot.data().game3 !== undefined) { 
+					document.getElementById("label-choice-seasongame43").innerHTML = `<label class="choice">${docSnapshot.data().game3} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					document.getElementById("label-choice-seasongame44").innerHTML = `<label class="choice">${docSnapshot.data().game4} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					document.getElementById("label-choice-seasongame45").innerHTML = `<label class="choice">${docSnapshot.data().game5} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 					//console.log("Document data:", docSnapshot.data())
 				}
 			}
@@ -57,8 +58,9 @@ firebase.auth().onAuthStateChanged(user => {
 			if (docSnapshot.exists) {
 				week.update({
 					user: auth.currentUser.email,
-					game1: document.getElementById('seasongame41').value,
-					game2: document.getElementById('seasongame42').value
+					game3: document.getElementById('seasongame43').value,
+					game4: document.getElementById('seasongame44').value,
+					game5: document.getElementById('seasongame45').value
 				}).then(function() {
 					success();
 				}).catch(err => {
@@ -68,8 +70,9 @@ firebase.auth().onAuthStateChanged(user => {
 			} else {
 				week.set({
 					user: auth.currentUser.email,
-					game1: document.getElementById('seasongame41').value,
-					game2: document.getElementById('seasongame42').value
+					game3: document.getElementById('seasongame43').value,
+					game4: document.getElementById('seasongame44').value,
+					game5: document.getElementById('seasongame45').value
 				}).then(() => {
 					// close the modal and reset form
 					//const modal = document.querySelector('#modal-create');
