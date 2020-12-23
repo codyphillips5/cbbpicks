@@ -122,13 +122,15 @@ document.getElementById("week-title").innerHTML = `<h2>Week ${week}</h2>`;
 			  //document.getElementsByClassName(badge.id)[i].appendChild(yourPick);
 
 		  }
-			var date2 = new Date(xFile[key][0].gameTime);
-			var active = xFile[key][0].active;
+			var first = 2;
+			var date2 = new Date(xFile[key][first].gameTime);
+			var active = xFile[key][first].active;
 			console.log(date2);
 			console.log(active);
 	  }
 	  
-	  	// if current time is after start time of first game, lock
+	  	// if current time is after start time of first 
+		, lock
 		if (!active) {
 			document.getElementById("saver").innerHTML = `<button type="submit" id="savePicks" disabled class='btn btn-primary'>Lines Not Locked</button>`;
 		}
