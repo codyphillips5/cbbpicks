@@ -8,7 +8,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2020-12-23T00:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"homeScore" : 67,
+		"awayScore" : 69,
+		"cover" : 64
 	},
 	{
 		"gameId" : 42,
@@ -18,14 +20,16 @@
 		"spread" : 1.5,
 		"gameTime" : "2020-12-23T02:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"homeScore" : 79,
+		"awayScore" : 65,
+		"cover" : 62
 	},
 	{
 		"gameId" : 43,
 		"homeTeam" : 71,
 		"awayTeam" : 79,
 		"favorite" : 71,
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2020-12-23T20:00Z",
 		"channel": "FS1",
 		"active" : false
@@ -35,7 +39,7 @@
 		"homeTeam" : 248,
 		"awayTeam" : 251,
 		"favorite" : 248,
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2020-12-23T20:00Z",
 		"channel": "ESPN2",
 		"active" : false
@@ -45,7 +49,7 @@
 		"homeTeam" : 74,
 		"awayTeam" : 78,
 		"favorite" : 78,
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2020-12-24T00:00Z",
 		"channel": "FS1",
 		"active" : false
