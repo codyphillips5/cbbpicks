@@ -36,7 +36,7 @@ if(createForm) {
 			if (docSnapshot.data()) {
 				if (docSnapshot.data().game5 !== undefined) { 
 					document.getElementById("label-choice-seasongame45").innerHTML = `<label class="choice">${docSnapshot.data().game5} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
-					document.getElementById("label-choice-seasongame46").innerHTML = `<label class="choice">${docSnapshot.data().game6} </span></label>`
+					document.getElementById("label-choice-seasongame46").innerHTML = `<label class="choice">${docSnapshot.data().game6} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 					document.getElementById("label-choice-seasongame47").innerHTML = `<label class="choice">${docSnapshot.data().game7} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 					//console.log("Document data:", docSnapshot.data())
 				}
