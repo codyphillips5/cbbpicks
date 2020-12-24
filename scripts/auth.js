@@ -34,10 +34,10 @@ if(createForm) {
 	week.get()
 		.then((docSnapshot) => {
 			if (docSnapshot.data()) {
-				if (docSnapshot.data().game3 !== undefined) { 
-					document.getElementById("label-choice-seasongame43").innerHTML = `<label class="choice">${docSnapshot.data().game3} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
-					document.getElementById("label-choice-seasongame44").innerHTML = `<label class="choice">CANCELED</span></label>`
-					document.getElementById("label-choice-seasongame45").innerHTML = `<label class="choice">${docSnapshot.data().game4} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+				if (docSnapshot.data().game5 !== undefined) { 
+					document.getElementById("label-choice-seasongame45").innerHTML = `<label class="choice">${docSnapshot.data().game5} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					document.getElementById("label-choice-seasongame46").innerHTML = `<label class="choice">${docSnapshot.data().game6} </span></label>`
+					document.getElementById("label-choice-seasongame47").innerHTML = `<label class="choice">${docSnapshot.data().game7} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 					//console.log("Document data:", docSnapshot.data())
 				}
 			}
@@ -56,9 +56,9 @@ if(createForm) {
 			if (docSnapshot.exists) {
 				week.update({
 					user: auth.currentUser.email,
-					game3: document.getElementById('seasongame43').value,
-					game4: document.getElementById('seasongame44').value,
-					game5: document.getElementById('seasongame45').value
+					game5: document.getElementById('seasongame45').value,
+					game6: document.getElementById('seasongame46').value,
+					game7: document.getElementById('seasongame47').value
 				}).then(function() {
 					success();
 				}).catch(err => {
@@ -68,14 +68,10 @@ if(createForm) {
 			} else {
 				week.set({
 					user: auth.currentUser.email,
-					game3: document.getElementById('seasongame43').value,
-					game4: document.getElementById('seasongame44').value,
-					game5: document.getElementById('seasongame45').value
+					game5: document.getElementById('seasongame45').value,
+					game6: document.getElementById('seasongame46').value,
+					game7: document.getElementById('seasongame47').value
 				}).then(() => {
-					// close the modal and reset form
-					//const modal = document.querySelector('#modal-create');
-					//M.Modal.getInstance(modal).close();
-					
 					success();
 				}).catch(err => {
 					console.log(err.message)
@@ -87,7 +83,6 @@ if(createForm) {
 }
 
 // signup
-//console.log(auth.currentUser.email);
 const signupForm = document.querySelector('#signup-form');
 firebase.auth().onAuthStateChanged(user => {
 	if(signupForm) {
