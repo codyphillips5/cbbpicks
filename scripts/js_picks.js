@@ -127,7 +127,7 @@ $.when(requestX, requestY).then(function(){
 	}
   
 	// if current time is after start time of first game, lock
-	if (!active) {
+	if (active !== undefined && !active) {
 		document.getElementById("saver").innerHTML = `<button type="submit" id="savePicks" disabled class='btn btn-primary'>Lines Not Locked</button>`;
 	}
 	else {
