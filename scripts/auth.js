@@ -19,40 +19,38 @@ auth.onAuthStateChanged(user => {
     }
 })
 
+var empty = false;
 var firstName;
 var users = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.json", function(json){
-	  usersFile = json;
-  });
+	usersFile = json;
+});
 
 // create new guide
 const createForm = document.querySelector('#save_picks');
 if(createForm) {
-firebase.auth().onAuthStateChanged(user => {
+	firebase.auth().onAuthStateChanged(user => {
 	var week = db.collection('week5').doc(auth.currentUser.email);
-	console.log(auth.currentUser.email);
 
 	week.get()
 		.then((docSnapshot) => {
 			if (docSnapshot.data()) {
 				if (docSnapshot.data().game3 !== undefined) { 
 					document.getElementById("label-choice-seasongame43").innerHTML = `<label class="choice">${docSnapshot.data().game3} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
-					document.getElementById("label-choice-seasongame44").innerHTML = `<label class="choice">${docSnapshot.data().game4} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
-					document.getElementById("label-choice-seasongame45").innerHTML = `<label class="choice">${docSnapshot.data().game5} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					document.getElementById("label-choice-seasongame44").innerHTML = `<label class="choice">CANCELED</span></label>`
+					document.getElementById("label-choice-seasongame45").innerHTML = `<label class="choice">${docSnapshot.data().game4} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 					//console.log("Document data:", docSnapshot.data())
 				}
 			}
 		});
 	});	
 	
-    createForm.addEventListener('submit', (e) => {
-    e.preventDefault();
+	createForm.addEventListener('submit', (e) => {
+	e.preventDefault();
 	if (auth.currentUser === null) {
 		createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-danger" role="alert">Pick NOT Saved. Please <a href='log.html'>Log In</a>.</div>`;
 	}
 	console.log(auth.currentUser.email);
 	var week = db.collection('week5').doc(auth.currentUser.email);
-
-	
 		week.get()
 		  .then((docSnapshot) => {
 			if (docSnapshot.exists) {
@@ -64,7 +62,7 @@ firebase.auth().onAuthStateChanged(user => {
 				}).then(function() {
 					success();
 				}).catch(err => {
-					console.log(err.message);
+					console.log("error: " + err.message);
 					createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-danger" role="alert">${err.message}</div>`;
 				});
 			} else {
