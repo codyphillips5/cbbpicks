@@ -56,7 +56,9 @@
 		"spread" : 0,
 		"gameTime" : "2020-12-25T17:30Z",
 		"channel": "FOX",
-		"active" : true
+		"homeScore" : 76,
+		"awayScore" : 85,
+		"cover" : 104
 	},
 	{
 		"gameId" : 46,
