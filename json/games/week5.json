@@ -89,20 +89,20 @@
 		"homeTeam" : 99,
 		"awayTeam" : 100,
 		"favorite" : 100,
-		"spread" : 3.5,
+		"spread" : 2.5,
 		"gameTime" : "2020-12-26T19:00Z",
 		"channel": "FS1",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 49,
 		"homeTeam" : 91,
 		"awayTeam" : 92,
 		"favorite" : 91,
-		"spread" : 7.5,
+		"spread" : 6.5,
 		"gameTime" : "2020-12-26T21:00Z",
 		"channel": "FS1",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 50,
@@ -112,7 +112,7 @@
 		"spread" : 6.5,
 		"gameTime" : "2020-12-26T21:00Z",
 		"channel": "CBS",
-		"active" : false
+		"active" : true
 	}
   ]
 }
