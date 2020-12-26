@@ -80,7 +80,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2020-12-26T01:00Z",
 		"channel": "B1G",
-		"active" : true
+		"homeScore" : 102,
+		"awayScore" : 95,
+		"cover" : 97
 	},
 	{
 		"gameId" : 48,
