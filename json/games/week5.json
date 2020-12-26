@@ -92,7 +92,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2020-12-26T19:00Z",
 		"channel": "FS1",
-		"active" : true
+		"homeScore" : 71,
+		"awayScore" : 70,
+		"cover" : 99
 	},
 	{
 		"gameId" : 49,
