@@ -3,7 +3,7 @@ var lastName = "";
 var coversNum = [];
 var coversTeam = [];
 
-var standings, usersList;
+var standings, usersList, weekList;
 
 var getStandings = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/standings.json", function(json) {
 		standings = json;
@@ -13,18 +13,24 @@ var getUsers= $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.jso
 		usersList = json;
 });
 
+var week = 5;
+for (var y = 1; y <= week; y++) {
+	weekList = weekList + `<th scope="col">Week ${y}</th>`;
+}
+
+var tableStart = `<div class="table-responsive"> <table class="table table-hover" id="standings-table"><thead><tr><th class="first-col" scope="col">Name</th>${weekList}<th scope="col" class="active">Total</th><th scope="col" class="active">Percent</th></tr></thead><tbody>`;
+
+
 $.when(getStandings, getUsers).then(function(){
-	var tableStart = `<div class="table-responsive"> <table class="table table-hover" id="standings-table"><thead><tr><th class="first-col" scope="col">Name</th><th scope="col">Week 1</th><th scope="col">Week 2</th><th scope="col">Week 3</th><th scope="col">Week 4</th><th scope="col" class="active">Total</th><th scope="col" class="active">Percent</th></tr></thead><tbody>`;
 
 	for (var key in standings) {
 		for (var i = 0; i < standings[key].length; i++) {
 			
 			// set starters
-			var week = 4;
 			var pointTotal = 0;
 			var isTop;
 			var weekTotal = 0;
-
+			
 			var user = standings[key][i].userId;
 
 			for (var k in usersList) {
