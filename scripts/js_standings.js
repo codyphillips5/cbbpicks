@@ -3,7 +3,8 @@ var lastName = "";
 var coversNum = [];
 var coversTeam = [];
 
-var standings, usersList, weekList;
+var standings, usersList;
+var weekList = "";
 
 var getStandings = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/standings.json", function(json) {
 		standings = json;
