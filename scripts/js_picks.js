@@ -29,7 +29,7 @@ var required = "";
 var gog = "";
   
 // week of year, first game
-var week = 5;
+var week = 6;
 document.getElementById("week-title").innerHTML = `<h2>Week ${week}</h2>`;
 
 var xFile, yFile;
@@ -120,9 +120,9 @@ $.when(requestX, requestY).then(function(){
 			//document.getElementsByClassName(badge.id)[i].appendChild(yourPick);
 		}
 		// set first game of the day
-		var first = 7;
-		var date2 = new Date(xFile[key][first].gameTime);
-		var active = xFile[key][first].active;
+		var first = 1;
+		var date2 = new Date(xFile[key][first - 1].gameTime);
+		var active = xFile[key][first - 1].active;
 		console.log(date2);
 		console.log(active);
 	}
