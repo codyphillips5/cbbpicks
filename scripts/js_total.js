@@ -8,7 +8,7 @@ var games = false;
 
 var standings, teams, resultsList, usersList;
 game = 0;
-week = 5;
+week = 6;
 
 for (var i = 1; i <= week; i++) {
 	var getGames = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week" + i + ".json", function(json){
