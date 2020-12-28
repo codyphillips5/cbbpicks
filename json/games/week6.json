@@ -26,7 +26,7 @@
 		"awayTeam" : 275,
 		"favorite" : 266,
 		"spread" : "-",
-		"gameTime" : "2020-12-29T02:00Z",
+		"gameTime" : "2020-12-30T02:00Z",
 		"channel": "SECN",
 		"active" : false
 	},
@@ -46,7 +46,7 @@
 		"awayTeam" : 95,
 		"favorite" : 94,
 		"spread" : "-",
-		"gameTime" : "2020-01-01T00:00Z",
+		"gameTime" : "2021-01-01T00:00Z",
 		"channel": "ESPN2",
 		"active" : false
 	},
