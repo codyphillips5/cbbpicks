@@ -19,6 +19,7 @@ auth.onAuthStateChanged(user => {
     }
 })
 
+var weekNum = 6;
 var empty = false;
 var firstName;
 var users = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.json", function(json){
@@ -29,7 +30,7 @@ var users = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.json"
 const createForm = document.querySelector('#save_picks');
 if(createForm) {
 	firebase.auth().onAuthStateChanged(user => {
-	var week = db.collection('week5').doc(auth.currentUser.email);
+	var week = db.collection('week' + weekNum).doc(auth.currentUser.email);
 
 	week.get()
 		.then((docSnapshot) => {
@@ -48,7 +49,7 @@ if(createForm) {
 		createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-danger" role="alert">Pick NOT Saved. Please <a href='log.html'>Log In</a>.</div>`;
 	}
 	console.log(auth.currentUser.email);
-	var week = db.collection('week6').doc(auth.currentUser.email);
+	var week = db.collection('week' + weekNum).doc(auth.currentUser.email);
 		week.get()
 		  .then((docSnapshot) => {
 			if (docSnapshot.exists) {
