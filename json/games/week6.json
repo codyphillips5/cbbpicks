@@ -2,16 +2,6 @@
   "games": [
 	{
 		"gameId" : 51,
-		"homeTeam" : 244,
-		"awayTeam" : 247,
-		"favorite" : 244,
-		"spread" : "-",
-		"gameTime" : "2020-12-29T02:30Z",
-		"channel": "PAC12",
-		"active" : false
-	},
-	{
-		"gameId" : 52,
 		"homeTeam" : 14,
 		"awayTeam" : 16,
 		"favorite" : 14,
@@ -21,7 +11,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 53,
+		"gameId" : 52,
 		"homeTeam" : 266,
 		"awayTeam" : 275,
 		"favorite" : 266,
@@ -31,7 +21,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 54,
+		"gameId" : 53,
 		"homeTeam" : 274,
 		"awayTeam" : 277,
 		"favorite" : 274,
@@ -41,12 +31,22 @@
 		"active" : false
 	},
 	{
-		"gameId" : 55,
+		"gameId" : 54,
 		"homeTeam" : 94,
 		"awayTeam" : 95,
 		"favorite" : 94,
 		"spread" : "-",
 		"gameTime" : "2021-01-01T00:00Z",
+		"channel": "ESPN2",
+		"active" : false
+	},
+	{
+		"gameId" : 55,
+		"homeTeam" : 252,
+		"awayTeam" : 247,
+		"favorite" : 252,
+		"spread" : "-",
+		"gameTime" : "2021-01-01T02:00Z",
 		"channel": "ESPN2",
 		"active" : false
 	},
