@@ -5,7 +5,7 @@
 		"homeTeam" : 14,
 		"awayTeam" : 16,
 		"favorite" : 14,
-		"spread" : 2.5,
+		"spread" : 1.5,
 		"gameTime" : "2020-12-30T00:00Z",
 		"channel": "ACCNX",
 		"active" : false
