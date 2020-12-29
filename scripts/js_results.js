@@ -6,12 +6,19 @@ var coversTeam = [];
 var picksList, teamsList, resultsList, usersList;
 var badge = document.createElement('div');
 badge.className = 'standings';
-var select = `<select class='form-control' id='results_by_week' onchange="getResultsByWeek(this.value);"><option value ='5'> Week 5 </option><option value ='4'> Week 4 </option><option value ='3'> Week 3 </option><option value ='2'> Week 2 </option><option value ='1'> Week 1 </option></select>`;
+var weekNum = 6;
+var weekList = "";
+
+for (var y = weekNum; y >= 1; y--) {
+	weekList = weekList + `<option value ='${y}'> Week ${y} </option>`;
+}
+
+var select = `<select class='form-control' id='results_by_week' onchange="getResultsByWeek(this.value);">${weekList}</select>`;
 badge.innerHTML = '<form>' + select + '</form>';		
 document.getElementById("weeks").appendChild(badge);
 
 
-getResultsByWeek(5);
+getResultsByWeek(weekNum);
 
 
 function getResultsByWeek(week) {
