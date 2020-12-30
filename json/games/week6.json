@@ -32,7 +32,7 @@
 		"spread" : 3.5,
 		"gameTime" : "2020-12-31T02:00Z",
 		"channel": "SECN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 54,
