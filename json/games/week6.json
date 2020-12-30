@@ -20,7 +20,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2020-12-30T02:00Z",
 		"channel": "SECN",
-		"active" : true
+		"homeScore" : 82,
+		"awayScore" : 64,
+		"cover" : 266
 	},
 	{
 		"gameId" : 53,
