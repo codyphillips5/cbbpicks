@@ -8,7 +8,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2020-12-30T00:00Z",
 		"channel": "ACCNX",
-		"active" : true
+		"homeScore" : 77,
+		"awayScore" : 67,
+		"cover" : 14
 	},
 	{
 		"gameId" : 52,
@@ -24,8 +26,8 @@
 		"gameId" : 53,
 		"homeTeam" : 274,
 		"awayTeam" : 277,
-		"favorite" : 274,
-		"spread" : "-",
+		"favorite" : 277,
+		"spread" : 3.5,
 		"gameTime" : "2020-12-31T02:00Z",
 		"channel": "SECN",
 		"active" : false
