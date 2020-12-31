@@ -1,108 +1,111 @@
 {
-  "games": [
+"games": [
 	{
-		"gameId" : 51,
-		"homeTeam" : 14,
-		"awayTeam" : 16,
-		"favorite" : 14,
-		"spread" : 1.5,
-		"gameTime" : "2020-12-30T00:00Z",
+		"gameId": 51,
+		"homeTeam": 14,
+		"awayTeam": 16,
+		"favorite": 14,
+		"spread": 1.5,
+		"gameTime": "2020-12-30T00:00Z",
 		"channel": "ACCNX",
-		"homeScore" : 77,
-		"awayScore" : 67,
-		"cover" : 14
+		"homeScore": 77,
+		"awayScore": 67,
+		"cover": 14
 	},
 	{
-		"gameId" : 52,
-		"homeTeam" : 266,
-		"awayTeam" : 275,
-		"favorite" : 266,
-		"spread" : 2.5,
-		"gameTime" : "2020-12-30T02:00Z",
+		"gameId": 52,
+		"homeTeam": 266,
+		"awayTeam": 275,
+		"favorite": 266,
+		"spread": 2.5,
+		"gameTime": "2020-12-30T02:00Z",
 		"channel": "SECN",
-		"homeScore" : 82,
-		"awayScore" : 64,
-		"cover" : 266
+		"homeScore": 82,
+		"awayScore": 64,
+		"cover": 266
 	},
 	{
-		"gameId" : 53,
-		"homeTeam" : 274,
-		"awayTeam" : 277,
-		"favorite" : 277,
-		"spread" : 3.5,
-		"gameTime" : "2020-12-31T02:00Z",
+		"gameId": 53,
+		"homeTeam": 274,
+		"awayTeam": 277,
+		"favorite": 277,
+		"spread": 3.5,
+		"gameTime": "2020-12-31T02:00Z",
 		"channel": "SECN",
-		"active" : true
+		"active": true,
+		"homeScore": 53,
+		"awayScore": 73,
+		"cover": 277
 	},
 	{
-		"gameId" : 54,
-		"homeTeam" : 94,
-		"awayTeam" : 95,
-		"favorite" : 94,
-		"spread" : "-",
-		"gameTime" : "2021-01-01T00:00Z",
+		"gameId": 54,
+		"homeTeam": 94,
+		"awayTeam": 95,
+		"favorite": 95,
+		"spread": 1.5,
+		"gameTime": "2021-01-01T00:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active": false
 	},
 	{
-		"gameId" : 55,
-		"homeTeam" : 252,
-		"awayTeam" : 247,
-		"favorite" : 252,
-		"spread" : "-",
-		"gameTime" : "2021-01-01T02:00Z",
+		"gameId": 55,
+		"homeTeam": 252,
+		"awayTeam": 247,
+		"favorite": 252,
+		"spread": 1.5,
+		"gameTime": "2021-01-01T02:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active": false
 	},
 	{
-		"gameId" : 56,
-		"homeTeam" : 267,
-		"awayTeam" : 274,
-		"favorite" : 267,
-		"spread" : "-",
-		"gameTime" : "2021-01-02T17:00Z",
+		"gameId": 56,
+		"homeTeam": 267,
+		"awayTeam": 274,
+		"favorite": 267,
+		"spread": "-",
+		"gameTime": "2021-01-02T17:00Z",
 		"channel": "CBS",
-		"active" : false
+		"active": false
 	},
 	{
-		"gameId" : 57,
-		"homeTeam" : 103,
-		"awayTeam" : 93,
-		"favorite" : 103,
-		"spread" : "-",
-		"gameTime" : "2021-01-02T19:00Z",
+		"gameId": 57,
+		"homeTeam": 103,
+		"awayTeam": 93,
+		"favorite": 103,
+		"spread": "-",
+		"gameTime": "2021-01-02T19:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active": false
 	},
 	{
-		"gameId" : 58,
-		"homeTeam" : 26,
-		"awayTeam" : 25,
-		"favorite" : 26,
-		"spread" : "-",
-		"gameTime" : "2021-01-02T21:00Z",
+		"gameId": 58,
+		"homeTeam": 26,
+		"awayTeam": 25,
+		"favorite": 26,
+		"spread": "-",
+		"gameTime": "2021-01-02T21:00Z",
 		"channel": "ACCN",
-		"active" : false
+		"active": false
 	},
 	{
-		"gameId" : 59,
-		"homeTeam" : 16,
-		"awayTeam" : 15,
-		"favorite" : 16,
-		"spread" : "-",
-		"gameTime" : "2021-01-03T01:00Z",
+		"gameId": 59,
+		"homeTeam": 16,
+		"awayTeam": 15,
+		"favorite": 16,
+		"spread": "-",
+		"gameTime": "2021-01-03T01:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active": false
 	},
 	{
-		"gameId" : 60,
-		"homeTeam" : 6,
-		"awayTeam" : 4,
-		"favorite" : 6,
-		"spread" : "-",
-		"gameTime" : "2021-01-04T00:00Z",
+		"gameId": 60,
+		"homeTeam": 6,
+		"awayTeam": 4,
+		"favorite": 6,
+		"spread": "-",
+		"gameTime": "2021-01-04T00:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active": false
 	}
-  ]
+]
 }
