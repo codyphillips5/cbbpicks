@@ -45,17 +45,17 @@
 		"spread": 1.5,
 		"gameTime": "2021-01-01T01:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId": 55,
 		"homeTeam": 252,
 		"awayTeam": 247,
 		"favorite": 252,
-		"spread": 1.5,
+		"spread": 2.5,
 		"gameTime": "2021-01-01T03:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId": 56,
