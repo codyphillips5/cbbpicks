@@ -32,7 +32,6 @@
 		"spread": 3.5,
 		"gameTime": "2020-12-31T02:00Z",
 		"channel": "SECN",
-		"active": true,
 		"homeScore": 53,
 		"awayScore": 73,
 		"cover": 277
@@ -45,7 +44,9 @@
 		"spread": 1.5,
 		"gameTime": "2021-01-01T01:00Z",
 		"channel": "ESPN",
-		"active": true
+		"homeScore": 73,
+		"awayScore": 84,
+		"cover": 95
 	},
 	{
 		"gameId": 55,
@@ -55,7 +56,9 @@
 		"spread": 2.5,
 		"gameTime": "2021-01-01T03:00Z",
 		"channel": "ESPN",
-		"active": true
+		"homeScore": 62,
+		"awayScore": 72,
+		"cover": 247
 	},
 	{
 		"gameId": 56,
