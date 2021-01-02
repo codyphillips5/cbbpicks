@@ -92,22 +92,22 @@
 	},
 	{
 		"gameId": 59,
-		"homeTeam": 16,
-		"awayTeam": 15,
-		"favorite": 16,
-		"spread": 1.5,
-		"gameTime": "2021-01-03T01:00Z",
-		"channel": "ESPN2",
-		"active": true
-	},
-	{
-		"gameId": 60,
 		"homeTeam": 6,
 		"awayTeam": 4,
 		"favorite": 6,
 		"spread": "-",
 		"gameTime": "2021-01-04T00:00Z",
 		"channel": "ESPN2",
+		"active": false
+	},
+	{
+		"gameId": 60,
+		"homeTeam": 95,
+		"awayTeam": 99,
+		"favorite": 95,
+		"spread": "-",
+		"gameTime": "2021-01-04T00:30Z",
+		"channel": "B1G",
 		"active": false
 	}
 ]
