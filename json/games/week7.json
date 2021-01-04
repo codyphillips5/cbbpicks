@@ -5,7 +5,7 @@
 		"homeTeam": 266,
 		"awayTeam": 269,
 		"favorite": 266,
-		"spread": "-",
+		"spread": 3.5,
 		"gameTime": "2021-01-06T00:00Z",
 		"channel": "ESPN2",
 		"active": false
