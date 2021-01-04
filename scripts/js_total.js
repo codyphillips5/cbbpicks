@@ -8,7 +8,7 @@ var games = false;
 
 var standings, teams, resultsList, usersList;
 game = 0;
-week = 6;
+week = 7;
 
 for (var i = 1; i <= week; i++) {
 	var getGames = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week" + i + ".json", function(json){
@@ -99,10 +99,10 @@ $.when(getGames, getTeams, getTourney).then(function(){
 				}
 				
 				perc = (wins / (wins + losses)) * 100;
-				if (perc >= 75.0) {
+				if (perc >= 70.0) {
 					percColor = "success";
 				}
-				else if (perc < 75.0 && perc >= 40.0) {
+				else if (perc < 70.0 && perc >= 40.0) {
 					percColor = "warning";
 				}
 				else if (perc < 40.0) {
