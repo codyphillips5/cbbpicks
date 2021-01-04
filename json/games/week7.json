@@ -68,7 +68,7 @@
 		"awayTeam": 67,
 		"favorite": 69,
 		"spread": "-",
-		"gameTime": "2021-01-09",
+		"gameTime": "2021-01-09T05:00Z",
 		"channel": "",
 		"active": false
     },
@@ -78,7 +78,7 @@
 		"awayTeam": 100,
 		"favorite": 103,
 		"spread": "-",
-		"gameTime": "2021-01-09",
+		"gameTime": "2021-01-09T05:00Z",
 		"channel": "",
 		"active": false
     },
@@ -88,7 +88,7 @@
 		"awayTeam": 14,
 		"favorite": 20,
 		"spread": "-",
-		"gameTime": "2021-01-09",
+		"gameTime": "2021-01-09T05:00Z",
 		"channel": "",
 		"active": false
     },
