@@ -64,22 +64,22 @@
     },
 	{
 		"gameId" : 67,
-		"homeTeam": 69,
-		"awayTeam": 67,
-		"favorite": 69,
-		"spread": "-",
-		"gameTime": "2021-01-09T05:00Z",
-		"channel": "",
-		"active": false
-    },
-	{
-		"gameId" : 68,
 		"homeTeam": 103,
 		"awayTeam": 100,
 		"favorite": 103,
 		"spread": "-",
-		"gameTime": "2021-01-09T05:00Z",
-		"channel": "",
+		"gameTime": "2021-01-09T17:00Z",
+		"channel": "B1G",
+		"active": false
+    },
+	{
+		"gameId" : 68,
+		"homeTeam": 69,
+		"awayTeam": 67,
+		"favorite": 69,
+		"spread": "-",
+		"gameTime": "2021-01-09T18:00Z",
+		"channel": "ESPN",
 		"active": false
     },
 	{
@@ -88,8 +88,8 @@
 		"awayTeam": 14,
 		"favorite": 20,
 		"spread": "-",
-		"gameTime": "2021-01-09T05:00Z",
-		"channel": "",
+		"gameTime": "2021-01-10T00:00Z",
+		"channel": "ESPN",
 		"active": false
     },
 	{
