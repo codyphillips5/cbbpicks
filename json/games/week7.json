@@ -17,7 +17,7 @@
 		"homeTeam": 18,
 		"awayTeam": 26,
 		"favorite": 18,
-		"spread": "-",
+		"spread": 4.5,
 		"gameTime": "2021-01-06T23:30Z",
 		"channel": "ACCN",
 		"active": false
@@ -27,19 +27,19 @@
 		"homeTeam": 277,
 		"awayTeam": 267,
 		"favorite": 277,
-		"spread": "-",
+		"spread": 7.5,
 		"gameTime": "2021-01-07T00:00Z",
 		"channel": "ESPN2",
 		"active": false
     },
 	{
 		"gameId" : 64,
-		"homeTeam": 60,
-		"awayTeam": 64,
-		"favorite": 60,
-		"spread": "-",
+		"homeTeam": 71,
+		"awayTeam": 76,
+		"favorite": 71,
+		"spread": 5.5,
 		"gameTime": "2021-01-07T02:00Z",
-		"channel": "ESPN2",
+		"channel": "FS1",
 		"active": false
 
     },
