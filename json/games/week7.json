@@ -20,7 +20,9 @@
 		"spread": 4.5,
 		"gameTime": "2021-01-06T23:30Z",
 		"channel": "ACCN",
-		"active": true
+		"homeScore": 73,
+		"awayScore": 71,
+		"cover": 26
     },
 	{
 		"gameId" : 63,
@@ -30,7 +32,9 @@
 		"spread": 8.5,
 		"gameTime": "2021-01-07T00:00Z",
 		"channel": "ESPN2",
-		"active": true
+		"homeScore": 79,
+		"awayScore": 74,
+		"cover": 267
     },
 	{
 		"gameId" : 64,
