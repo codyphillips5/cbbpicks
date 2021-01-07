@@ -51,6 +51,16 @@
     },
 	{
 		"gameId" : 65,
+		"homeTeam": 247,
+		"awayTeam": 248,
+		"favorite": 247,
+		"spread": 2.5,
+		"gameTime": "2021-01-07T22:00Z",
+		"channel": "FS1",
+		"active": true
+    },
+	{
+		"gameId" : 66,
 		"homeTeam": 104,
 		"awayTeam": 92,
 		"favorite": 104,
@@ -59,16 +69,6 @@
 		"channel": "FS1",
 		"active": true
 
-    },
-	{
-		"gameId" : 66,
-		"homeTeam": 247,
-		"awayTeam": 248,
-		"favorite": 247,
-		"spread": 2.5,
-		"gameTime": "2021-01-08T04:00Z",
-		"channel": "FS1",
-		"active": true
     },
 	{
 		"gameId" : 67,
