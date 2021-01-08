@@ -57,7 +57,9 @@
 		"spread": 2.5,
 		"gameTime": "2021-01-07T22:00Z",
 		"channel": "FS1",
-		"active": true
+		"homeScore": 79,
+		"awayScore": 72,
+		"cover": 247
     },
 	{
 		"gameId" : 66,
