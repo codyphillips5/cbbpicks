@@ -82,7 +82,9 @@
 		"spread": 3.5,
 		"gameTime": "2021-01-09T17:00Z",
 		"channel": "B1G",
-		"active": true
+		"homeScore": 68,
+		"awayScore": 79,
+		"cover": 100
     },
 	{
 		"gameId" : 68,
