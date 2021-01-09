@@ -58,10 +58,10 @@ if(createForm) {
 			if (docSnapshot.exists) {
 				week.update({
 					user: auth.currentUser.email,
-					game5: document.getElementById('seasongame67').value,
-					game6: document.getElementById('seasongame68').value,
-					game6: document.getElementById('seasongame69').value,
-					game6: document.getElementById('seasongame70').value
+					game7: document.getElementById('seasongame67').value,
+					game8: document.getElementById('seasongame68').value,
+					game9: document.getElementById('seasongame69').value,
+					game10: document.getElementById('seasongame70').value
 				}).then(function() {
 					success();
 				}).catch(err => {
@@ -71,10 +71,10 @@ if(createForm) {
 			} else {
 				week.set({
 					user: auth.currentUser.email,
-					game5: document.getElementById('seasongame67').value,
-					game6: document.getElementById('seasongame68').value,
-					game6: document.getElementById('seasongame69').value,
-					game6: document.getElementById('seasongame70').value
+					game7: document.getElementById('seasongame67').value,
+					game8: document.getElementById('seasongame68').value,
+					game9: document.getElementById('seasongame69').value,
+					game10: document.getElementById('seasongame70').value
 				}).then(() => {
 					success();
 				}).catch(err => {
