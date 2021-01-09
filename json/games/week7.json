@@ -99,7 +99,7 @@
 		"homeTeam": 269,
 		"awayTeam": 271,
 		"favorite": 269,
-		"spread": 2.5,
+		"spread": 4.5,
 		"gameTime": "2021-01-09T22:00Z",
 		"channel": "ESPN",
 		"active": false
