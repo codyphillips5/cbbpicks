@@ -106,7 +106,9 @@
 		"spread": 4.5,
 		"gameTime": "2021-01-09T22:00Z",
 		"channel": "ESPN",
-		"active": true
+		"homeScore": 58,
+		"awayScore": 76,
+		"cover": 271
     },
 	{
 		"gameId" : 70,
@@ -116,7 +118,9 @@
 		"spread": 2.5,
 		"gameTime": "2021-01-10T01:30Z",
 		"channel": "SECN",
-		"active": true
+		"homeScore": 61,
+		"awayScore": 75,
+		"cover": 272
     }
   ]
 }
