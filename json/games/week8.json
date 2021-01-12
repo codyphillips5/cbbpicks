@@ -54,22 +54,22 @@
     },
 	{
 		"gameId" : 76,
+		"homeTeam": 46,
+		"awayTeam": 50,
+		"favorite": 46,
+		"spread": "-",
+		"gameTime": "2021-01-16T18:00Z",
+		"channel": "CBSSN",
+		"active": false
+    },
+	{
+		"gameId" : 77,
 		"homeTeam": 97,
 		"awayTeam": 95,
 		"favorite": 97,
 		"spread": "-",
 		"gameTime": "2021-01-16T19:00Z",
 		"channel": "ESPN2",
-		"active": false
-    },
-	{
-		"gameId" : 77,
-		"homeTeam": 76,
-		"awayTeam": 79,
-		"favorite": 76,
-		"spread": "-",
-		"gameTime": "2021-01-16T20:30Z",
-		"channel": "CBSSN",
 		"active": false
     },
 	{
