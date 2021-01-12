@@ -5,19 +5,19 @@
 		"homeTeam": 26,
 		"awayTeam": 15,
 		"favorite": 26,
-		"spread": "-",
+		"spread": 0,
 		"gameTime": "2021-01-13T00:00Z",
 		"channel": "ACCN",
 		"active": false
     },
 	{
 		"gameId" : 72,
-		"homeTeam": 60,
-		"awayTeam": 69,
-		"favorite": 60,
-		"spread": "-",
-		"gameTime": "2021-01-13T02:00Z",
-		"channel": "ESPN2",
+		"homeTeam": 95,
+		"awayTeam": 104,
+		"favorite": 95,
+		"spread": 4.5,
+		"gameTime": "2021-01-13T00:00Z",
+		"channel": "ESPN",
 		"active": false
     },
 	{
