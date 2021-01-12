@@ -15,7 +15,7 @@
 		"homeTeam": 95,
 		"awayTeam": 104,
 		"favorite": 95,
-		"spread": 4.5,
+		"spread": 3.5,
 		"gameTime": "2021-01-13T00:00Z",
 		"channel": "ESPN",
 		"active": false
