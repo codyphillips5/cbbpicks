@@ -22,12 +22,12 @@
     },
 	{
 		"gameId" : 73,
-		"homeTeam": 272,
-		"awayTeam": 267,
-		"favorite": 272,
-		"spread": "-",
-		"gameTime": "2021-01-14T00:00Z",
-		"channel": "ESPN2",
+		"homeTeam": 20,
+		"awayTeam": 24,
+		"favorite": 20,
+		"spread": 3.5,
+		"gameTime": "2021-01-13T02:00Z",
+		"channel": "ACCN",
 		"active": false
     },
 	{
