@@ -32,6 +32,16 @@
     },
 	{
 		"gameId" : 74,
+		"homeTeam": 272,
+		"awayTeam": 267,
+		"favorite": 272,
+		"spread": "-",
+		"gameTime": "2021-01-14T00:00Z",
+		"channel": "ESPN2",
+		"active": false
+    },
+	{
+		"gameId" : 75,
 		"homeTeam": 67,
 		"awayTeam": 68,
 		"favorite": 67,
@@ -42,7 +52,7 @@
 
     },
 	{
-		"gameId" : 75,
+		"gameId" : 76,
 		"homeTeam": 93,
 		"awayTeam": 96,
 		"favorite": 93,
@@ -53,23 +63,13 @@
 
     },
 	{
-		"gameId" : 76,
+		"gameId" : 77,
 		"homeTeam": 46,
 		"awayTeam": 50,
 		"favorite": 46,
 		"spread": "-",
 		"gameTime": "2021-01-16T18:00Z",
 		"channel": "CBSSN",
-		"active": false
-    },
-	{
-		"gameId" : 77,
-		"homeTeam": 97,
-		"awayTeam": 95,
-		"favorite": 97,
-		"spread": "-",
-		"gameTime": "2021-01-16T19:00Z",
-		"channel": "ESPN2",
 		"active": false
     },
 	{
