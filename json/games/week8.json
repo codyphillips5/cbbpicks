@@ -41,20 +41,20 @@
 		"homeTeam": 272,
 		"awayTeam": 267,
 		"favorite": 272,
-		"spread": 2.5,
+		"spread": 1.5,
 		"gameTime": "2021-01-14T00:00Z",
 		"channel": "ESPN2",
-		"active": false
+		"active": true
     },
 	{
 		"gameId" : 75,
 		"homeTeam": 67,
 		"awayTeam": 68,
 		"favorite": 67,
-		"spread": 3.5,
+		"spread": 2.5,
 		"gameTime": "2021-01-14T02:00Z",
 		"channel": "ESPN2",
-		"active": false
+		"active": true
 
     },
 	{
