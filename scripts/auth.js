@@ -36,9 +36,8 @@ if(createForm) {
 		.then((docSnapshot) => {
 			if (docSnapshot.data()) {
 				if (docSnapshot.data().game1 !== undefined) { 
-					document.getElementById("label-choice-seasongame71").innerHTML = `<label class="choice">${docSnapshot.data().game1} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
-					document.getElementById("label-choice-seasongame72").innerHTML = `<label class="choice">${docSnapshot.data().game2} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
-					document.getElementById("label-choice-seasongame73").innerHTML = `<label class="choice">${docSnapshot.data().game3} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					document.getElementById("label-choice-seasongame74").innerHTML = `<label class="choice">${docSnapshot.data().game4} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					document.getElementById("label-choice-seasongame75").innerHTML = `<label class="choice">${docSnapshot.data().game5} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 					//console.log("Document data:", docSnapshot.data())
 				}
 			}
@@ -57,9 +56,8 @@ if(createForm) {
 			if (docSnapshot.exists) {
 				week.update({
 					user: auth.currentUser.email,
-					game1: document.getElementById('seasongame71').value,
-					game2: document.getElementById('seasongame72').value,
-					game3: document.getElementById('seasongame73').value
+					game4: document.getElementById('seasongame74').value,
+					game5: document.getElementById('seasongame75').value
 				}).then(function() {
 					success();
 				}).catch(err => {
@@ -69,9 +67,8 @@ if(createForm) {
 			} else {
 				week.set({
 					user: auth.currentUser.email,
-					game1: document.getElementById('seasongame71').value,
-					game2: document.getElementById('seasongame72').value,
-					game3: document.getElementById('seasongame73').value
+					game4: document.getElementById('seasongame74').value,
+					game5: document.getElementById('seasongame75').value
 				}).then(() => {
 					success();
 				}).catch(err => {
