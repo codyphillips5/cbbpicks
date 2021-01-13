@@ -32,7 +32,9 @@
 		"spread": 4.5,
 		"gameTime": "2021-01-13T02:00Z",
 		"channel": "ACCN",
-		"active": true
+		"homeScore": 81,
+		"awayScore": 75,
+		"cover": 20
     },
 	{
 		"gameId" : 74,
