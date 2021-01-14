@@ -56,7 +56,9 @@
 		"spread": 2.5,
 		"gameTime": "2021-01-14T02:00Z",
 		"channel": "ESPN2",
-		"active": true
+		"homeScore": 77,
+		"awayScore": 79,
+		"cover": 68
 
     },
 	{
