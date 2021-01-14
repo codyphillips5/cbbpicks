@@ -36,8 +36,7 @@ if(createForm) {
 		.then((docSnapshot) => {
 			if (docSnapshot.data()) {
 				if (docSnapshot.data().game4 !== undefined) { 
-					document.getElementById("label-choice-seasongame74").innerHTML = `<label class="choice">${docSnapshot.data().game4} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
-					document.getElementById("label-choice-seasongame75").innerHTML = `<label class="choice">${docSnapshot.data().game5} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					document.getElementById("label-choice-seasongame76").innerHTML = `<label class="choice">${docSnapshot.data().game6} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 					//console.log("Document data:", docSnapshot.data())
 				}
 			}
@@ -56,8 +55,7 @@ if(createForm) {
 			if (docSnapshot.exists) {
 				week.update({
 					user: auth.currentUser.email,
-					game4: document.getElementById('seasongame74').value,
-					game5: document.getElementById('seasongame75').value
+					game6: document.getElementById('seasongame76').value
 				}).then(function() {
 					success();
 				}).catch(err => {
@@ -67,8 +65,7 @@ if(createForm) {
 			} else {
 				week.set({
 					user: auth.currentUser.email,
-					game4: document.getElementById('seasongame74').value,
-					game5: document.getElementById('seasongame75').value
+					game6: document.getElementById('seasongame76').value
 				}).then(() => {
 					success();
 				}).catch(err => {
