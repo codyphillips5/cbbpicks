@@ -74,12 +74,12 @@
     },
 	{
 		"gameId" : 77,
-		"homeTeam": 46,
-		"awayTeam": 50,
-		"favorite": 46,
+		"homeTeam": 220,
+		"awayTeam": 217,
+		"favorite": 220,
 		"spread": "-",
-		"gameTime": "2021-01-16T18:00Z",
-		"channel": "CBSSN",
+		"gameTime": "2021-01-16T18:30Z",
+		"channel": "CBS",
 		"active": false
     },
 	{
