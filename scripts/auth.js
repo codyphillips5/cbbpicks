@@ -35,8 +35,11 @@ if(createForm) {
 	week.get()
 		.then((docSnapshot) => {
 			if (docSnapshot.data()) {
-				if (docSnapshot.data().game6 !== undefined) { 
-					document.getElementById("label-choice-seasongame76").innerHTML = `<label class="choice">${docSnapshot.data().game6} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+				if (docSnapshot.data().game7 !== undefined) { 
+					document.getElementById("label-choice-seasongame77").innerHTML = `<label class="choice">${docSnapshot.data().game7} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					document.getElementById("label-choice-seasongame78").innerHTML = `<label class="choice">${docSnapshot.data().game8} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					document.getElementById("label-choice-seasongame79").innerHTML = `<label class="choice">${docSnapshot.data().game9} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					document.getElementById("label-choice-seasongame80").innerHTML = `<label class="choice">${docSnapshot.data().game10} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 					//console.log("Document data:", docSnapshot.data())
 				}
 			}
@@ -55,7 +58,10 @@ if(createForm) {
 			if (docSnapshot.exists) {
 				week.update({
 					user: auth.currentUser.email,
-					game6: document.getElementById('seasongame76').value
+					game7: document.getElementById('seasongame77').value,
+					game8: document.getElementById('seasongame78').value,
+					game9: document.getElementById('seasongame79').value,
+					game10: document.getElementById('seasongame80').value
 				}).then(function() {
 					success();
 				}).catch(err => {
@@ -65,7 +71,10 @@ if(createForm) {
 			} else {
 				week.set({
 					user: auth.currentUser.email,
-					game6: document.getElementById('seasongame76').value
+					game7: document.getElementById('seasongame77').value,
+					game8: document.getElementById('seasongame78').value,
+					game9: document.getElementById('seasongame79').value,
+					game10: document.getElementById('seasongame80').value
 				}).then(() => {
 					success();
 				}).catch(err => {
