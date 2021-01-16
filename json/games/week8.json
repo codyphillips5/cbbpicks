@@ -79,40 +79,40 @@
 		"homeTeam": 220,
 		"awayTeam": 217,
 		"favorite": 220,
-		"spread": "-",
+		"spread": 3.5,
 		"gameTime": "2021-01-16T18:30Z",
 		"channel": "CBS",
-		"active": false
+		"active": true
     },
 	{
 		"gameId" : 78,
-		"homeTeam": 68,
-		"awayTeam": 60,
-		"favorite": 68,
-		"spread": "-",
-		"gameTime": "2021-01-16T21:00Z",
-		"channel": "ESPN",
-		"active": false
+		"homeTeam": 97,
+		"awayTeam": 95,
+		"favorite": 95,
+		"spread": 6.5,
+		"gameTime": "2021-01-16T19:00Z",
+		"channel": "ESPN2",
+		"active": true
     },
 	{
 		"gameId" : 79,
-		"homeTeam": 14,
-		"awayTeam": 25,
-		"favorite": 14,
-		"spread": "-",
-		"gameTime": "2021-01-16T23:00Z",
+		"homeTeam": 68,
+		"awayTeam": 60,
+		"favorite": 60,
+		"spread": 4.5,
+		"gameTime": "2021-01-16T21:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
     },
 	{
 		"gameId" : 80,
-		"homeTeam": 65,
-		"awayTeam": 64,
-		"favorite": 65,
-		"spread": "-",
-		"gameTime": "2021-01-17T01:00Z",
-		"channel": "ESPN2",
-		"active": false
+		"homeTeam": 14,
+		"awayTeam": 25,
+		"favorite": 25,
+		"spread": 1.5,
+		"gameTime": "2021-01-16T23:00Z",
+		"channel": "ESPN",
+		"active": true
     }
   ]
 }
