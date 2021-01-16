@@ -82,7 +82,9 @@
 		"spread": 3.5,
 		"gameTime": "2021-01-16T18:30Z",
 		"channel": "CBS",
-		"active": true
+		"homeScore": 64,
+		"awayScore": 59,
+		"cover": 220
     },
 	{
 		"gameId" : 78,
@@ -92,7 +94,9 @@
 		"spread": 6.5,
 		"gameTime": "2021-01-16T19:00Z",
 		"channel": "ESPN2",
-		"active": true
+		"homeScore": 75,
+		"awayScore": 57,
+		"cover": 97
     },
 	{
 		"gameId" : 79,
