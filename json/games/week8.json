@@ -117,8 +117,10 @@
 		"favorite": 25,
 		"spread": 1.5,
 		"gameTime": "2021-01-16T23:00Z",
-		"channel": "ESPN",
-		"active": true
+		"channel": "ESPN",  
+		"homeScore": 50,
+		"awayScore": 85,
+		"cover": 25
     }
   ]
 }
