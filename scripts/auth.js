@@ -19,7 +19,7 @@ auth.onAuthStateChanged(user => {
     }
 })
 
-var weekNum = 8;
+var weekNum = 9;
 var empty = false;
 var firstName;
 var users = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.json", function(json){
@@ -36,10 +36,7 @@ if(createForm) {
 		.then((docSnapshot) => {
 			if (docSnapshot.data()) {
 				if (docSnapshot.data().game7 !== undefined) { 
-					document.getElementById("label-choice-seasongame77").innerHTML = `<label class="choice">${docSnapshot.data().game7} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
-					document.getElementById("label-choice-seasongame78").innerHTML = `<label class="choice">${docSnapshot.data().game8} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
-					document.getElementById("label-choice-seasongame79").innerHTML = `<label class="choice">${docSnapshot.data().game9} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
-					document.getElementById("label-choice-seasongame80").innerHTML = `<label class="choice">${docSnapshot.data().game10} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					document.getElementById("label-choice-seasongame81").innerHTML = `<label class="choice">${docSnapshot.data().game1} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 					//console.log("Document data:", docSnapshot.data())
 				}
 			}
@@ -58,10 +55,7 @@ if(createForm) {
 			if (docSnapshot.exists) {
 				week.update({
 					user: auth.currentUser.email,
-					game7: document.getElementById('seasongame77').value,
-					game8: document.getElementById('seasongame78').value,
-					game9: document.getElementById('seasongame79').value,
-					game10: document.getElementById('seasongame80').value
+					game1: document.getElementById('seasongame81').value
 				}).then(function() {
 					success();
 				}).catch(err => {
@@ -71,10 +65,7 @@ if(createForm) {
 			} else {
 				week.set({
 					user: auth.currentUser.email,
-					game7: document.getElementById('seasongame77').value,
-					game8: document.getElementById('seasongame78').value,
-					game9: document.getElementById('seasongame79').value,
-					game10: document.getElementById('seasongame80').value
+					game1: document.getElementById('seasongame81').value
 				}).then(() => {
 					success();
 				}).catch(err => {
