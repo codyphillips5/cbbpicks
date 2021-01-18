@@ -5,7 +5,7 @@
 		"homeTeam" : 18,
 		"awayTeam" : 16,
 		"favorite" : 18,
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2021-01-19T00:00Z",
 		"channel": "ESPN",
 		"active": false
@@ -15,7 +15,7 @@
 		"homeTeam" : 60,
 		"awayTeam" : 62,
 		"favorite" : 60,
-		"spread" : "-",
+		"spread" : 9.5,
 		"gameTime" : "2021-01-19T02:00Z",
 		"channel": "ESPN",
 		"active": false
