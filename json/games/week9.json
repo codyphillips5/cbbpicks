@@ -52,22 +52,22 @@
 	},
 	{
 		"gameId" : 86,
-		"homeTeam" : 2,
-		"awayTeam" : 79,
-		"favorite" : 2,
+		"homeTeam" : 250,
+		"awayTeam" : 252,
+		"favorite" : 250,
 		"spread" : "-",
-		"gameTime" : "2021-01-21T01:30Z",
-		"channel": "CBSSN",
+		"gameTime" : "2021-01-21T22:00Z",
+		"channel": "FS1",
 		"active": false
 	},
 	{
 		"gameId" : 87,
-		"homeTeam" : 96,
-		"awayTeam" : 91,
-		"favorite" : 96,
+		"homeTeam" : 24,
+		"awayTeam" : 26,
+		"favorite" : 24,
 		"spread" : "-",
 		"gameTime" : "2021-01-23T17:00Z",
-		"channel": "FOX",
+		"channel": "",
 		"active": false
 	},	
 	{
