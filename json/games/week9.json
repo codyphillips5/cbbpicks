@@ -8,7 +8,7 @@
 		"spread" : 2.5,
 		"gameTime" : "2021-01-19T00:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 82,
@@ -18,7 +18,7 @@
 		"spread" : 9.5,
 		"gameTime" : "2021-01-19T02:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 83,
