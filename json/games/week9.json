@@ -42,6 +42,16 @@
 	},
 	{
 		"gameId" : 85,
+		"homeTeam" : 49,
+		"awayTeam" : 50,
+		"favorite" : 49,
+		"spread" : "-",
+		"gameTime" : "2021-01-20T23:00Z",
+		"channel": "CBSSN",
+		"active": false
+	},
+	{
+		"gameId" : 86,
 		"homeTeam" : 2,
 		"awayTeam" : 79,
 		"favorite" : 2,
@@ -51,7 +61,7 @@
 		"active": false
 	},
 	{
-		"gameId" : 86,
+		"gameId" : 87,
 		"homeTeam" : 96,
 		"awayTeam" : 91,
 		"favorite" : 96,
@@ -61,23 +71,13 @@
 		"active": false
 	},	
 	{
-		"gameId" : 87,
+		"gameId" : 88,
 		"homeTeam" : 65,
 		"awayTeam" : 60,
 		"favorite" : 65,
 		"spread" : "-",
 		"gameTime" : "2021-01-23T19:00Z",
 		"channel": "CBS",
-		"active": false
-	},
-	{
-		"gameId" : 88,
-		"homeTeam" : 16,
-		"awayTeam" : 14,
-		"favorite" : 16,
-		"spread" : "-",
-		"gameTime" : "2021-01-23T20:00Z",
-		"channel": "ABC",
 		"active": false
 	},
 	{
