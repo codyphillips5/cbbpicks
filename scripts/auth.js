@@ -35,7 +35,7 @@ if(createForm) {
 	week.get()
 		.then((docSnapshot) => {
 			if (docSnapshot.data()) {
-				if (docSnapshot.data().game7 !== undefined) { 
+				if (docSnapshot.data().game1 !== undefined) { 
 					document.getElementById("label-choice-seasongame81").innerHTML = `<label class="choice">${docSnapshot.data().game1} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 					document.getElementById("label-choice-seasongame82").innerHTML = `<label class="choice">${docSnapshot.data().game2} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 					//console.log("Document data:", docSnapshot.data())
