@@ -26,8 +26,8 @@
 		"gameId" : 83,
 		"homeTeam" : 269,
 		"awayTeam" : 277,
-		"favorite" : 269,
-		"spread" : "-",
+		"favorite" : 277,
+		"spread" : 5.5,
 		"gameTime" : "2021-01-20T00:00Z",
 		"channel": "ESPN",
 		"active": false
@@ -37,7 +37,7 @@
 		"homeTeam" : 272,
 		"awayTeam" : 266,
 		"favorite" : 272,
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2021-01-20T02:00Z",
 		"channel": "ESPN2",
 		"active": false
