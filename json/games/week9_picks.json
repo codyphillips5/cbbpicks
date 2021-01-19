@@ -107,7 +107,7 @@
 	{
 		"userId" : 9,
 		"game1" : "",
-		"game2" : "",
+		"game2" : "BU",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -158,8 +158,8 @@
     },
 	{
 		"userId" : 13,
-		"game1" : "",
-		"game2" : "",
+		"game1" : "FSU",
+		"game2" : "KU",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -249,8 +249,8 @@
     },
 	{
 		"userId" : 20,
-		"game1" : "",
-		"game2" : "",
+		"game1" : "FSU",
+		"game2" : "KU",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
