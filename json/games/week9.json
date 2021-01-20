@@ -51,7 +51,7 @@
 		"homeTeam" : 49,
 		"awayTeam" : 50,
 		"favorite" : 49,
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2021-01-20T23:00Z",
 		"channel": "CBSSN",
 		"active": false
