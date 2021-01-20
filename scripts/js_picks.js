@@ -120,7 +120,7 @@ $.when(requestX, requestY).then(function(){
 			//document.getElementsByClassName(badge.id)[i].appendChild(yourPick);
 		}
 		// set first game of the day
-		var first = 3;
+		var first = 5;
 		var date2 = new Date(xFile[key][first - 1].gameTime);
 		var active = xFile[key][first - 1].active;
 		console.log(date2);
