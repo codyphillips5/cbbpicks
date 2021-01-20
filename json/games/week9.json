@@ -32,8 +32,8 @@
 		"spread" : 6.5,
 		"gameTime" : "2021-01-20T00:00Z",
 		"channel": "ESPN",,
-		"homeScore": "more",
-		"awayScore": "less",
+		"homeScore": 75,
+		"awayScore": 49,
 		"cover": 269
 	},
 	{
