@@ -31,9 +31,9 @@
 		"favorite" : 277,
 		"spread" : 6.5,
 		"gameTime" : "2021-01-20T00:00Z",
-		"channel": "ESPN",,
-		"homeScore": 75,
-		"awayScore": 49,
+		"channel": "ESPN",
+		"homeScore": "more",
+		"awayScore": "less",
 		"cover": 269
 	},
 	{
