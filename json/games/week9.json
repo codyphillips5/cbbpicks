@@ -65,10 +65,10 @@
 		"homeTeam" : 250,
 		"awayTeam" : 252,
 		"favorite" : 252,
-		"spread" : 4.5,
+		"spread" : 5.5,
 		"gameTime" : "2021-01-21T22:00Z",
 		"channel": "FS1",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 87,
