@@ -36,7 +36,7 @@ if(createForm) {
 		.then((docSnapshot) => {
 			if (docSnapshot.data()) {
 				if (docSnapshot.data().game6 !== undefined) { 
-					document.getElementById("label-choice-seasongame86").innerHTML = `<label class="choice">${docSnapshot.data().game5} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					document.getElementById("label-choice-seasongame86").innerHTML = `<label class="choice">${docSnapshot.data().game6} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 					//console.log("Document data:", docSnapshot.data())
 				}
 			}
