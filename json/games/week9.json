@@ -72,16 +72,6 @@
 	},
 	{
 		"gameId" : 87,
-		"homeTeam" : 24,
-		"awayTeam" : 26,
-		"favorite" : 24,
-		"spread" : "-",
-		"gameTime" : "2021-01-23T17:00Z",
-		"channel": "ACCNX",
-		"active": false
-	},	
-	{
-		"gameId" : 88,
 		"homeTeam" : 65,
 		"awayTeam" : 60,
 		"favorite" : 65,
@@ -90,6 +80,16 @@
 		"channel": "CBS",
 		"active": false
 	},
+	{
+		"gameId" : 88,
+		"homeTeam" : 104,
+		"awayTeam" : 100,
+		"favorite" : 104,
+		"spread" : "-",
+		"gameTime" : "2021-01-23T21:00Z",
+		"channel": "CBS",
+		"active": false
+	},	
 	{
 		"gameId" : 89,
 		"homeTeam" : 250,
