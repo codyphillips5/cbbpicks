@@ -56,7 +56,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2021-01-20T23:00Z",
 		"channel": "CBSSN",
-		"active": true
+		"homeScore": 70,
+		"awayScore": 54,
+		"cover": 49
 	},
 	{
 		"gameId" : 86,
