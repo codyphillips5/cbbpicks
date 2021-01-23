@@ -80,7 +80,9 @@
 		"spread" : 8.5,
 		"gameTime" : "2021-01-23T19:00Z",
 		"channel": "CBS",
-		"active": true
+		"homeScore": 66,
+		"awayScore": 81,
+		"cover": 60
 	},
 	{
 		"gameId" : 88,
