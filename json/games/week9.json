@@ -68,47 +68,49 @@
 		"spread" : 4.5,
 		"gameTime" : "2021-01-23T00:00Z",
 		"channel": "FS1",
-		"active": true
+		"homeScore": ,
+		"awayScore": ,
+		"cover": 
 	},
 	{
 		"gameId" : 87,
 		"homeTeam" : 65,
 		"awayTeam" : 60,
-		"favorite" : 65,
-		"spread" : "-",
+		"favorite" : 60,
+		"spread" : 8.5,
 		"gameTime" : "2021-01-23T19:00Z",
 		"channel": "CBS",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 88,
 		"homeTeam" : 104,
 		"awayTeam" : 100,
 		"favorite" : 104,
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2021-01-23T21:00Z",
 		"channel": "CBS",
-		"active": false
+		"active": true
 	},	
 	{
 		"gameId" : 89,
 		"homeTeam" : 250,
 		"awayTeam" : 251,
-		"favorite" : 250,
-		"spread" : "-",
+		"favorite" : 251,
+		"spread" : 4.5,
 		"gameTime" : "2021-01-23T22:00Z",
 		"channel": "FOX",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 90,
 		"homeTeam" : 277,
 		"awayTeam" : 274,
 		"favorite" : 277,
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2021-01-24T01:30Z",
 		"channel": "SECN",
-		"active": false
+		"active": true
 	}
   ]
 }
