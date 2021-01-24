@@ -104,7 +104,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2021-01-23T22:00Z",
 		"channel": "FOX",
-		"active": true
+		"homeScore": 73,
+		"awayScore": 72,
+		"cover": 250
 	},
 	{
 		"gameId" : 90,
