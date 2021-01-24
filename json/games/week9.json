@@ -116,7 +116,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2021-01-24T01:30Z",
 		"channel": "SECN",
-		"active": true
+		"homeScore": 64,
+		"awayScore": 73,
+		"cover": 274
 	}
   ]
 }
