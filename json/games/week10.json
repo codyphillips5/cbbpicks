@@ -5,10 +5,10 @@
 		"homeTeam" : 25,
 		"awayTeam" : 24,
 		"favorite" : 25,
-		"spread" : 6.5,
+		"spread" : 7.5,
 		"gameTime" : "2021-01-26T00:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 92,
