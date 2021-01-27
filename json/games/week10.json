@@ -16,8 +16,8 @@
 		"gameId" : 92,
 		"homeTeam" : 213,
 		"awayTeam" : 212,
-		"favorite" : 213,
-		"spread" : "-",
+		"favorite" : 212,
+		"spread" : 2.5,
 		"gameTime" : "2021-01-28T02:00Z",
 		"channel": "CBSSN",
 		"active" : false
@@ -79,7 +79,7 @@
 		"favorite" : 272,
 		"spread" : "-",
 		"gameTime" : "2021-01-30T19:00Z",
-		"channel": "ESPN/ESPN2",
+		"channel": "ESPN2",
 		"active" : false
 	},
 	{
