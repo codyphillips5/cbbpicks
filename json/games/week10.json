@@ -84,22 +84,22 @@
 	},
 	{
 		"gameId" : 99,
-		"homeTeam" : 252,
-		"awayTeam" : 248,
-		"favorite" : 252,
-		"spread" : "-",
-		"gameTime" : "2021-01-30T22:30Z",
-		"channel": "FOX",
-		"active" : false
-	},
-	{
-		"gameId" : 100,
 		"homeTeam" : 277,
 		"awayTeam" : 62,
 		"favorite" : 277,
 		"spread" : "-",
 		"gameTime" : "2021-01-30T23:00Z",
 		"channel": "ESPN",
+		"active" : false
+	},
+	{
+		"gameId" : 100,
+		"homeTeam" : 102,
+		"awayTeam" : 97,
+		"favorite" : 102,
+		"spread" : "-",
+		"gameTime" : "2021-01-31T00:30Z",
+		"channel": "B1G",
 		"active" : false
 	}
   ]
