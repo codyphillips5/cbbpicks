@@ -56,7 +56,7 @@
 		"spread" : 1.5,
 		"gameTime" : "2021-01-29T23:30Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 96,
@@ -66,7 +66,7 @@
 		"spread" : 2.5,
 		"gameTime" : "2021-01-30T02:00Z",
 		"channel": "FS1",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 97,
