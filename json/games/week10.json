@@ -51,7 +51,7 @@
 		"homeTeam" : 46,
 		"awayTeam" : 48,
 		"favorite" : 46,
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2021-01-29T23:30Z",
 		"channel": "ESPN2",
 		"active" : false
@@ -61,7 +61,7 @@
 		"homeTeam" : 91,
 		"awayTeam" : 93,
 		"favorite" : 91,
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2021-01-30T02:00Z",
 		"channel": "FS1",
 		"active" : false
