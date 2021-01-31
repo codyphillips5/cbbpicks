@@ -14,7 +14,7 @@ var getUsers= $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.jso
 		usersList = json;
 });
 
-var week = 9;
+var week = 10;
 for (var y = 1; y <= week; y++) {
 	weekList = weekList + `<th scope="col">Week ${y}</th>`;
 }
