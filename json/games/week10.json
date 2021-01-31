@@ -116,7 +116,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2021-01-31T00:30Z",
 		"channel": "B1G",
-		"active" : true
+		"homeScore": 81,
+		"awayScore": 62,
+		"cover": 102
 	}
   ]
 }
