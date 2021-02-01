@@ -1,0 +1,104 @@
+{
+  "games": [
+	{
+		"gameId" : 101,
+		"homeTeam" : 68,
+		"awayTeam" : 64,
+		"favorite" : 68,
+		"spread" : "-",
+		"gameTime" : "2021-02-02T02:00Z",
+		"channel": "ESPN",
+		"active" : false
+	},	
+	{
+		"gameId" : 102,
+		"homeTeam" : 67,
+		"awayTeam" : 60,
+		"favorite" : 67,
+		"spread" : "-",
+		"gameTime" : "2021-02-0300:00Z",
+		"channel": "ESPN",
+		"active" : false
+	}, 
+	{
+		"gameId" : 103,
+		"homeTeam" : 250,
+		"awayTeam" : 252,
+		"favorite" : 250,
+		"spread" : "-",
+		"gameTime" : "2021-02-03T02:00Z",
+		"channel": "FS1",
+		"active" : false
+	},
+	{
+		"gameId" : 104,
+		"homeTeam" : 24,
+		"awayTeam" : 18,
+		"favorite" : 24,
+		"spread" : "-",
+		"gameTime" : "2021-02-04T00:00Z",
+		"channel": "ACCN",
+		"active" : false
+	},	
+	{
+		"gameId" : 105,
+		"homeTeam" : 103,
+		"awayTeam" : 97,
+		"favorite" : 103,
+		"spread" : "-",
+		"gameTime" : "2021-02-05T02:00Z",
+		"channel": "B1G",
+		"active" : false
+	},
+	{
+		"gameId" : 106,
+		"homeTeam" : 274,
+		"awayTeam" : 266,
+		"favorite" : 274,
+		"spread" : "-",
+		"gameTime" : "2021-02-06T17:00Z",
+		"channel": "ESPN",
+		"active" : false
+	},
+	{
+		"gameId" : 107,
+		"homeTeam" : 2,
+		"awayTeam" : 76,
+		"favorite" : 2,
+		"spread" : "-",
+		"gameTime" : "2021-02-06T17:00Z",
+		"channel": "FOX",
+		"active" : false
+	},
+	{
+		"gameId" : 108,
+		"homeTeam" : 48,
+		"awayTeam" : 49,
+		"favorite" : 48,
+		"spread" : "-",
+		"gameTime" : "2021-02-06T19:00Z",
+		"channel": "CBSSN",
+		"active" : false
+	},
+	{
+		"gameId" : 109,
+		"homeTeam" : 15,
+		"awayTeam" : 20,
+		"favorite" : 15,
+		"spread" : "-",
+		"gameTime" : "2021-02-06T23:00Z",
+		"channel": "ESPN",
+		"active" : false
+	},
+	{
+		"gameId" : 110,
+		"homeTeam" : 251,
+		"awayTeam" : 252,
+		"favorite" : 251,
+		"spread" : "-",
+		"gameTime" : "2021-02-07T03:00Z",
+		"channel": "",
+		"active" : false
+	}
+  ]
+}
