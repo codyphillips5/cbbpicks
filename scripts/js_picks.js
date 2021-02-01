@@ -29,7 +29,7 @@ var required = "";
 var gog = "";
   
 // week of year, first game
-var week = 10;
+var week = 11;
 document.getElementById("week-title").innerHTML = `<h2>Week ${week}</h2>`;
 
 var xFile, yFile;
