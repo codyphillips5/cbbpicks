@@ -56,7 +56,7 @@ if(createForm) {
 			if (docSnapshot.exists) {
 				week.update({
 					user: auth.currentUser.email,
-					game2: document.getElementById('seasongame102').value
+					game2: document.getElementById('seasongame102').value,
 					game3: document.getElementById('seasongame103').value
 				}).then(function() {
 					success();
@@ -67,7 +67,7 @@ if(createForm) {
 			} else {
 				week.set({
 					user: auth.currentUser.email,
-					game2: document.getElementById('seasongame102').value
+					game2: document.getElementById('seasongame102').value,
 					game3: document.getElementById('seasongame103').value
 				}).then(() => {
 					success();
