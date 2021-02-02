@@ -14,8 +14,8 @@
 		"gameId" : 102,
 		"homeTeam" : 67,
 		"awayTeam" : 60,
-		"favorite" : 67,
-		"spread" : "-",
+		"favorite" : 60,
+		"spread" : 5.5,
 		"gameTime" : "2021-02-03T00:00Z",
 		"channel": "ESPN",
 		"active" : false
@@ -24,8 +24,8 @@
 		"gameId" : 103,
 		"homeTeam" : 250,
 		"awayTeam" : 252,
-		"favorite" : 250,
-		"spread" : "-",
+		"favorite" : 252,
+		"spread" : 2.5,
 		"gameTime" : "2021-02-03T02:00Z",
 		"channel": "FS1",
 		"active" : false
