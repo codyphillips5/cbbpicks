@@ -41,7 +41,7 @@
 		"homeTeam" : 93,
 		"awayTeam" : 100,
 		"favorite" : 93,
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2021-02-05T00:00Z",
 		"channel": "ESPN",
 		"active" : false
@@ -51,9 +51,9 @@
 		"homeTeam" : 103,
 		"awayTeam" : 97,
 		"favorite" : 103,
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2021-02-05T02:00Z",
-		"channel": "B1G",
+		"channel": "FS1",
 		"active" : false
 	},
 	{
