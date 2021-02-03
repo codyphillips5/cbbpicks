@@ -38,16 +38,6 @@
 	},
 	{
 		"gameId" : 104,
-		"homeTeam" : 24,
-		"awayTeam" : 18,
-		"favorite" : 24,
-		"spread" : 2.5,
-		"gameTime" : "2021-02-04T00:00Z",
-		"channel": "ACCN",
-		"active" : true
-	},	
-	{
-		"gameId" : 105,
 		"homeTeam" : 93,
 		"awayTeam" : 100,
 		"favorite" : 93,
@@ -55,9 +45,9 @@
 		"gameTime" : "2021-02-05T00:00Z",
 		"channel": "ESPN",
 		"active" : false
-	},
+	},	
 	{
-		"gameId" : 106,
+		"gameId" : 105,
 		"homeTeam" : 103,
 		"awayTeam" : 97,
 		"favorite" : 103,
@@ -67,7 +57,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 107,
+		"gameId" : 106,
 		"homeTeam" : 274,
 		"awayTeam" : 266,
 		"favorite" : 274,
@@ -77,7 +67,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 108,
+		"gameId" : 107,
 		"homeTeam" : 2,
 		"awayTeam" : 76,
 		"favorite" : 2,
@@ -87,13 +77,23 @@
 		"active" : false
 	},
 	{
-		"gameId" : 109,
+		"gameId" : 108,
 		"homeTeam" : 48,
 		"awayTeam" : 49,
 		"favorite" : 48,
 		"spread" : "-",
 		"gameTime" : "2021-02-06T19:00Z",
 		"channel": "CBSSN",
+		"active" : false
+	},
+	{
+		"gameId" : 109,
+		"homeTeam" : 65,
+		"awayTeam" : 67,
+		"favorite" : 65,
+		"spread" : "-",
+		"gameTime" : "2021-02-06T20:00Z",
+		"channel": "ESPN",
 		"active" : false
 	},
 	{
