@@ -41,7 +41,7 @@
 		"homeTeam" : 24,
 		"awayTeam" : 18,
 		"favorite" : 24,
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2021-02-04T00:00Z",
 		"channel": "ACCN",
 		"active" : false
