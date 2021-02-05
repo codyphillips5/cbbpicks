@@ -36,8 +36,11 @@ if(createForm) {
 		.then((docSnapshot) => {
 			if (docSnapshot.data()) {
 				if (docSnapshot.data().game4 !== undefined) { 
-					document.getElementById("label-choice-seasongame104").innerHTML = `<label class="choice">${docSnapshot.data().game4} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
-					document.getElementById("label-choice-seasongame105").innerHTML = `<label class="choice">${docSnapshot.data().game5} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					document.getElementById("label-choice-seasongame106").innerHTML = `<label class="choice">${docSnapshot.data().game6} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					document.getElementById("label-choice-seasongame107").innerHTML = `<label class="choice">${docSnapshot.data().game7} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					document.getElementById("label-choice-seasongame108").innerHTML = `<label class="choice">${docSnapshot.data().game8} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					document.getElementById("label-choice-seasongame109").innerHTML = `<label class="choice">${docSnapshot.data().game9} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+					document.getElementById("label-choice-seasongame110").innerHTML = `<label class="choice">${docSnapshot.data().game10} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 					//console.log("Document data:", docSnapshot.data())
 				}
 			}
@@ -56,8 +59,11 @@ if(createForm) {
 			if (docSnapshot.exists) {
 				week.update({
 					user: auth.currentUser.email,
-					game4: document.getElementById('seasongame104').value,
-					game5: document.getElementById('seasongame105').value
+					game6: document.getElementById('seasongame106').value,
+					game7: document.getElementById('seasongame107').value,
+					game8: document.getElementById('seasongame108').value,
+					game9: document.getElementById('seasongame109').value,
+					game10: document.getElementById('seasongame110').value
 				}).then(function() {
 					success();
 				}).catch(err => {
@@ -67,8 +73,11 @@ if(createForm) {
 			} else {
 				week.set({
 					user: auth.currentUser.email,
-					game4: document.getElementById('seasongame104').value,
-					game5: document.getElementById('seasongame105').value
+					game6: document.getElementById('seasongame106').value,
+					game7: document.getElementById('seasongame107').value,
+					game8: document.getElementById('seasongame108').value,
+					game9: document.getElementById('seasongame109').value,
+					game10: document.getElementById('seasongame110').value
 				}).then(() => {
 					success();
 				}).catch(err => {
