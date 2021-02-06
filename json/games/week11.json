@@ -92,7 +92,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2021-02-06T19:00Z",
 		"channel": "CBSSN",
-		"active" : true
+		"homeScore": 70,
+		"awayScore": 59,
+		"cover": 48
 	},
 	{
 		"gameId" : 109,
