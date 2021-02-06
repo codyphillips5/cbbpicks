@@ -68,7 +68,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2021-02-06T17:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"homeScore": 68,
+		"awayScore": 65,
+		"cover": 274
 	},
 	{
 		"gameId" : 107,
@@ -78,7 +80,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2021-02-06T17:00Z",
 		"channel": "FOX",
-		"active" : true
+		"homeScore": 73,
+		"awayScore": 80,
+		"cover": 76
 	},
 	{
 		"gameId" : 108,
