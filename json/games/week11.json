@@ -104,7 +104,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2021-02-06T23:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"homeScore": 87,
+		"awayScore": 91,
+		"cover": 20
 	},
 	{
 		"gameId" : 110,
