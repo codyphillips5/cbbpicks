@@ -5,20 +5,20 @@
 		"homeTeam" : 62,
 		"awayTeam" : 65,
 		"favorite" : 62,
-		"spread" : 4.5,
+		"spread" : 5.5,
 		"gameTime" : "2021-02-09T02:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 112,
 		"homeTeam" : 343,
 		"awayTeam" : 344,
 		"favorite" : 344,
-		"spread" : 11.5,
+		"spread" : 10.5,
 		"gameTime" : "2021-02-09T04:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 113,
