@@ -8,7 +8,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2021-02-09T02:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"homeScore": 78,
+		"awayScore": 66,
+		"cover": 62
 	},
 	{
 		"gameId" : 112,
