@@ -25,7 +25,7 @@
 		"homeTeam" : 68,
 		"awayTeam" : 69,
 		"favorite" : 68,
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2021-02-10T02:00Z",
 		"channel": "ESPN",
 		"active" : false
