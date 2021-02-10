@@ -58,16 +58,6 @@
 	},
 	{
 		"gameId" : 116,
-		"homeTeam" : 14,
-		"awayTeam" : 17,
-		"favorite" : 14,
-		"spread" : "-",
-		"gameTime" : "2021-02-13T01:00Z",
-		"channel": "ACCN",
-		"active" : false
-	},
-	{
-		"gameId" : 117,
 		"homeTeam" : 202,
 		"awayTeam" : 206,
 		"favorite" : 202,
@@ -77,13 +67,23 @@
 		"active" : false
 	},
 	{
-		"gameId" : 118,
+		"gameId" : 117,
 		"homeTeam" : 79,
 		"awayTeam" : 2,
 		"favorite" : 79,
 		"spread" : "-",
 		"gameTime" : "2021-02-13T17:00Z",
 		"channel": "FOX",
+		"active" : false
+	},
+	{
+		"gameId" : 118,
+		"homeTeam" : 274,
+		"awayTeam" : 267,
+		"favorite" : 274,
+		"spread" : "-",
+		"gameTime" : "2021-02-13T21:00Z",
+		"channel": "ESPN2",
 		"active" : false
 	},
 	{
