@@ -40,8 +40,8 @@
 		"gameId" : 114,
 		"homeTeam" : 250,
 		"awayTeam" : 247,
-		"favorite" : 250,
-		"spread" : "-",
+		"favorite" : 247,
+		"spread" : 1.5,
 		"gameTime" : "2021-02-12T00:00Z",
 		"channel": "ESPNU",
 		"active" : false
