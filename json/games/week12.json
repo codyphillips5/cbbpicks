@@ -53,10 +53,10 @@
 		"homeTeam" : 50,
 		"awayTeam" : 49,
 		"favorite" : 50,
-		"spread" : 3.5,
+		"spread" : 2.5,
 		"gameTime" : "2021-02-13T00:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 116,
