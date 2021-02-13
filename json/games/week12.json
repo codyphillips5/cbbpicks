@@ -80,7 +80,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2021-02-13T17:00Z",
 		"channel": "FOX",
-		"active" : true
+		"homeScore": 72,
+		"awayScore": 80,
+		"cover": 2
 	},
 	{
 		"gameId" : 118,
