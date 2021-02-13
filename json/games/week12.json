@@ -68,7 +68,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2021-02-13T17:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"homeScore": 54,
+		"awayScore": 81,
+		"cover": 206
 	},
 	{
 		"gameId" : 117,
