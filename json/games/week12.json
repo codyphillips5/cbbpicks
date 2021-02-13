@@ -65,10 +65,10 @@
 		"homeTeam" : 202,
 		"awayTeam" : 206,
 		"favorite" : 206,
-		"spread" : 3.5,
+		"spread" : 4.5,
 		"gameTime" : "2021-02-13T17:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 117,
@@ -78,17 +78,17 @@
 		"spread" : 3.5,
 		"gameTime" : "2021-02-13T17:00Z",
 		"channel": "FOX",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 118,
 		"homeTeam" : 274,
 		"awayTeam" : 267,
 		"favorite" : 274,
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2021-02-13T21:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 119,
@@ -98,7 +98,7 @@
 		"spread" : 2.5,
 		"gameTime" : "2021-02-13T22:00Z",
 		"channel": "FOX",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 120,
@@ -108,7 +108,7 @@
 		"spread" : 6.5,
 		"gameTime" : "2021-02-13T23:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	}
   ]
 }
