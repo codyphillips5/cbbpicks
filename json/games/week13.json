@@ -6,7 +6,7 @@
 		"awayTeam" : 25,
 		"favorite" : 16,
 		"spread" : 1.5,
-		"gameTime" : "2020-02-16T00:00Z",
+		"gameTime" : "2021-02-16T00:00Z",
 		"channel": "ESPN",
 		"active" : false
 	},
@@ -16,7 +16,7 @@
 		"awayTeam" : 269,
 		"favorite" : 267,
 		"spread" : "-",
-		"gameTime" : "2020-02-17T00:00Z",
+		"gameTime" : "2021-02-17T00:00Z",
 		"channel": "ESPN2",
 		"active" : false
 	},
@@ -26,7 +26,7 @@
 		"awayTeam" : 67,
 		"favorite" : 64,
 		"spread" : "-",
-		"gameTime" : "2020-02-17T02:00Z",
+		"gameTime" : "2021-02-17T02:00Z",
 		"channel": "ESPN",
 		"active" : false
 	},
@@ -36,7 +36,7 @@
 		"awayTeam" : 97,
 		"favorite" : 92,
 		"spread" : "-",
-		"gameTime" : "2020-02-18T02:00Z",
+		"gameTime" : "2021-02-18T02:00Z",
 		"channel": "B1G",
 		"active" : false
 	},
@@ -46,7 +46,7 @@
 		"awayTeam" : 247,
 		"favorite" : 248,
 		"spread" : "-",
-		"gameTime" : "2020-02-19T04:00Z",
+		"gameTime" : "2021-02-19T04:00Z",
 		"channel": "ESPN2",
 		"active" : false
 	},
@@ -56,7 +56,7 @@
 		"awayTeam" : 220,
 		"favorite" : 212,
 		"spread" : "-",
-		"gameTime" : "2020-02-20T03:00Z",
+		"gameTime" : "2021-02-20T03:00Z",
 		"channel": "FS1",
 		"active" : false
 	},
@@ -66,7 +66,7 @@
 		"awayTeam" : 26,
 		"favorite" : 16,
 		"spread" : "-",
-		"gameTime" : "2020-02-20T17:00Z",
+		"gameTime" : "2021-02-20T17:00Z",
 		"channel": "ESPN2",
 		"active" : false
 	},
@@ -76,7 +76,7 @@
 		"awayTeam" : 91,
 		"favorite" : 97,
 		"spread" : "-",
-		"gameTime" : "2020-02-20T18:00Z",
+		"gameTime" : "2021-02-20T18:00Z",
 		"channel": "FS1",
 		"active" : false
 	},
@@ -86,7 +86,7 @@
 		"awayTeam" : 65,
 		"favorite" : 60,
 		"spread" : "-",
-		"gameTime" : "2020-02-20T21:00Z",
+		"gameTime" : "2021-02-20T21:00Z",
 		"channel": "ESPN2",
 		"active" : false
 	},
@@ -96,7 +96,7 @@
 		"awayTeam" : 95,
 		"favorite" : 100,
 		"spread" : "-",
-		"gameTime" : "2020-02-21T18:00Z",
+		"gameTime" : "2021-02-21T18:00Z",
 		"channel": "CBS",
 		"active" : false
 	}
