@@ -17,7 +17,7 @@
 		"homeTeam" : 267,
 		"awayTeam" : 269,
 		"favorite" : 267,
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2021-02-17T00:00Z",
 		"channel": "ESPN2",
 		"active" : false
@@ -28,8 +28,8 @@
 		"awayTeam" : 67,
 		"favorite" : 64,
 		"spread" : "-",
-		"gameTime" : "2021-02-17T02:00Z",
-		"channel": "ESPN",
+		"gameTime" : "2021-02-17T23:00Z",
+		"channel": "ESPN2",
 		"active" : false
 	},
 	{
