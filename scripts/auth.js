@@ -65,7 +65,7 @@ if(createForm) {
 			} else {
 				week.set({
 					user: auth.currentUser.email,
-					game2: document.getElementById('seasongame122').value
+					game3: document.getElementById('seasongame123').value
 				}).then(() => {
 					success();
 				}).catch(err => {
