@@ -20,26 +20,28 @@
 		"spread" : 4.5,
 		"gameTime" : "2021-02-17T00:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"homeScore": 75,
+		"awayScore": 64,
+		"cover": 267
 	},
 	{
 		"gameId" : 123,
-		"homeTeam" : 64,
-		"awayTeam" : 67,
-		"favorite" : 64,
-		"spread" : "-",
-		"gameTime" : "2021-02-17T23:00Z",
-		"channel": "ESPN2",
+		"homeTeam" : 92,
+		"awayTeam" : 97,
+		"favorite" : 92,
+		"spread" : 4.5,
+		"gameTime" : "2021-02-18T02:00Z",
+		"channel": "B1G",
 		"active" : false
 	},
 	{
 		"gameId" : 124,
-		"homeTeam" : 92,
-		"awayTeam" : 97,
-		"favorite" : 92,
+		"homeTeam" : 64,
+		"awayTeam" : 67,
+		"favorite" : 64,
 		"spread" : "-",
-		"gameTime" : "2021-02-18T02:00Z",
-		"channel": "B1G",
+		"gameTime" : "2021-02-18T23:00Z",
+		"channel": "ESPN2",
 		"active" : false
 	},
 	{
