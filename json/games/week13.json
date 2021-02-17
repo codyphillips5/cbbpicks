@@ -29,10 +29,10 @@
 		"homeTeam" : 92,
 		"awayTeam" : 97,
 		"favorite" : 92,
-		"spread" : 4.5,
+		"spread" : 6.5,
 		"gameTime" : "2021-02-18T02:00Z",
 		"channel": "B1G",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 124,
