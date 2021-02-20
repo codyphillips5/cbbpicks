@@ -68,7 +68,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2021-02-20T18:00Z",
 		"channel": "FOX",
-		"active" : true
+		"homeScore": 68,
+		"awayScore": 60,
+		"cover": 78
 	},
 	{
 		"gameId" : 127,
