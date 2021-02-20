@@ -63,7 +63,7 @@
 		"homeTeam" : 78,
 		"awayTeam" : 2,
 		"favorite" : 78,
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2021-02-20T18:00Z",
 		"channel": "FOX",
 		"active" : false
@@ -73,7 +73,7 @@
 		"homeTeam" : 67,
 		"awayTeam" : 69,
 		"favorite" : 67,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2021-02-20T20:00Z",
 		"channel": "ABC",
 		"active" : false
@@ -82,8 +82,8 @@
 		"gameId" : 128,
 		"homeTeam" : 97,
 		"awayTeam" : 91,
-		"favorite" : 97,
-		"spread" : "-",
+		"favorite" : 91,
+		"spread" : 5.5,
 		"gameTime" : "2021-02-20T20:30Z",
 		"channel": "FOX",
 		"active" : false
@@ -93,7 +93,7 @@
 		"homeTeam" : 20,
 		"awayTeam" : 18,
 		"favorite" : 20,
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2021-02-20T23:00Z",
 		"channel": "ESPN",
 		"active" : false
