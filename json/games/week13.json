@@ -68,7 +68,7 @@
 		"spread" : 6.5,
 		"gameTime" : "2021-02-20T18:00Z",
 		"channel": "FOX",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 127,
@@ -78,7 +78,7 @@
 		"spread" : 3.5,
 		"gameTime" : "2021-02-20T20:00Z",
 		"channel": "ABC",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 128,
@@ -88,7 +88,7 @@
 		"spread" : 5.5,
 		"gameTime" : "2021-02-20T20:30Z",
 		"channel": "FOX",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 129,
@@ -98,7 +98,7 @@
 		"spread" : 5.5,
 		"gameTime" : "2021-02-20T23:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 130,
