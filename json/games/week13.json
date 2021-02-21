@@ -111,7 +111,7 @@
 		"homeTeam" : 100,
 		"awayTeam" : 95,
 		"favorite" : 100,
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2021-02-21T18:00Z",
 		"channel": "CBS",
 		"active" : false
