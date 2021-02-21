@@ -80,7 +80,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2021-02-20T20:00Z",
 		"channel": "ABC",
-		"active" : true
+		"homeScore": 82,
+		"awayScore": 84,
+		"cover": 69
 	},
 	{
 		"gameId" : 128,
@@ -90,7 +92,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2021-02-20T20:30Z",
 		"channel": "FOX",
-		"active" : true
+		"homeScore": 63,
+		"awayScore": 94,
+		"cover": 91
 	},
 	{
 		"gameId" : 129,
