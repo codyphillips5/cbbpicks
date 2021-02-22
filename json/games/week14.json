@@ -5,7 +5,7 @@
 		"homeTeam" : 252,
 		"awayTeam" : 248,
 		"favorite" : 252,
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2021-02-23T02:00Z",
 		"channel": "FS1",
 		"active" : false
