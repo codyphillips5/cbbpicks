@@ -17,23 +17,13 @@
 		"homeTeam" : 267,
 		"awayTeam" : 266,
 		"favorite" : 267,
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2021-02-25T02:00Z",
 		"channel": "ESPN2",
 		"active" : false
 	},
 	{
 		"gameId" : 133,
-		"homeTeam" : 60,
-		"awayTeam" : 69,
-		"favorite" : 60,
-		"spread" : "-",
-		"gameTime" : "2021-02-25T22:00Z",
-		"channel": "ESPN2",
-		"active" : false
-	},
-	{
-		"gameId" : 134,
 		"homeTeam" : 4,
 		"awayTeam" : 148,
 		"favorite" : 4,
@@ -43,13 +33,23 @@
 		"active" : false
 	},
 	{
-		"gameId" : 135,
+		"gameId" : 134,
 		"homeTeam" : 217,
 		"awayTeam" : 212,
 		"favorite" : 217,
 		"spread" : "-",
 		"gameTime" : "2021-02-26T02:00Z",
 		"channel": "FS1",
+		"active" : false
+	},
+	{
+		"gameId" : 135,
+		"homeTeam" : 247,
+		"awayTeam" : 252,
+		"favorite" : 247,
+		"spread" : "-",
+		"gameTime" : "2021-02-26T02:00Z",
+		"channel": "ESPN2",
 		"active" : false
 	},
 	{
