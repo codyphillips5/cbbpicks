@@ -17,10 +17,10 @@
 		"homeTeam" : 267,
 		"awayTeam" : 266,
 		"favorite" : 267,
-		"spread" : 0,
+		"spread" : 1.5,
 		"gameTime" : "2021-02-25T02:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 133,
