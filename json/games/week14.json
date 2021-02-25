@@ -32,7 +32,7 @@
 		"spread" : 11.5,
 		"gameTime" : "2021-02-26T00:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 134,
@@ -42,17 +42,17 @@
 		"spread" : 6.5,
 		"gameTime" : "2021-02-26T02:00Z",
 		"channel": "FS1",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 135,
 		"homeTeam" : 247,
 		"awayTeam" : 252,
 		"favorite" : 247,
-		"spread" : 2.5,
+		"spread" : 3.5,
 		"gameTime" : "2021-02-26T02:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 136,
