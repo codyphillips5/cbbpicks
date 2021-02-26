@@ -32,7 +32,9 @@
 		"spread" : 11.5,
 		"gameTime" : "2021-02-26T00:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"homeScore": 81,
+		"awayScore": 57,
+		"cover": 4
 	},
 	{
 		"gameId" : 134,
