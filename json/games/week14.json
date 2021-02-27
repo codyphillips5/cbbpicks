@@ -75,40 +75,40 @@
 		"homeTeam" : 64,
 		"awayTeam" : 65,
 		"favorite" : 64,
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2021-02-27T20:00Z",
 		"channel": "ABC",
-		"active" : false
+		"active" : true
 	},
 		{
 		"gameId" : 138,
 		"homeTeam" : 79,
 		"awayTeam" : 71,
-		"favorite" : 79,
-		"spread" : "-",
+		"favorite" : 71,
+		"spread" : 4.5,
 		"gameTime" : "2021-02-27T22:00Z",
 		"channel": "FOX",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 139,
 		"homeTeam" : 62,
 		"awayTeam" : 60,
-		"favorite" : 62,
-		"spread" : "-",
+		"favorite" : 60,
+		"spread" : 5.5,
 		"gameTime" : "2021-02-28T01:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 140,
 		"homeTeam" : 247,
 		"awayTeam" : 251,
 		"favorite" : 247,
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2021-02-28T03:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	}
   ]
 }
