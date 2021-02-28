@@ -5,7 +5,7 @@
 		"homeTeam" : 65,
 		"awayTeam" : 64,
 		"favorite" : 65,
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2021-03-02T02:00Z",
 		"channel": "ESPN",
 		"active" : false
