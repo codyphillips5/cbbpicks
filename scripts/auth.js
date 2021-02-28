@@ -19,7 +19,7 @@ auth.onAuthStateChanged(user => {
     }
 })
 
-var weekNum = 14;
+var weekNum = 15;
 var empty = false;
 var firstName;
 var users = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.json", function(json){
@@ -35,11 +35,8 @@ if(createForm) {
 	week.get()
 		.then((docSnapshot) => {
 			if (docSnapshot.data()) {
-				if (docSnapshot.data().game7 !== undefined) { 
-					document.getElementById("label-choice-seasongame137").innerHTML = `<label class="choice">${docSnapshot.data().game7} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
-					document.getElementById("label-choice-seasongame138").innerHTML = `<label class="choice">${docSnapshot.data().game8} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
-					document.getElementById("label-choice-seasongame139").innerHTML = `<label class="choice">${docSnapshot.data().game9} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
-					document.getElementById("label-choice-seasongame140").innerHTML = `<label class="choice">${docSnapshot.data().game10} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+				if (docSnapshot.data().game1 !== undefined) { 
+					document.getElementById("label-choice-seasongame141").innerHTML = `<label class="choice">${docSnapshot.data().game1} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 				}
 			}
 		});
@@ -57,10 +54,7 @@ if(createForm) {
 			if (docSnapshot.exists) {
 				week.update({
 					user: auth.currentUser.email,
-					game7: document.getElementById('seasongame137').value,
-					game8: document.getElementById('seasongame138').value,
-					game9: document.getElementById('seasongame139').value,
-					game10: document.getElementById('seasongame140').value
+					game1: document.getElementById('seasongame141').value
 				}).then(function() {
 					success();
 				}).catch(err => {
@@ -70,10 +64,7 @@ if(createForm) {
 			} else {
 				week.set({
 					user: auth.currentUser.email,
-					game7: document.getElementById('seasongame137').value,
-					game8: document.getElementById('seasongame138').value,
-					game9: document.getElementById('seasongame139').value,
-					game10: document.getElementById('seasongame140').value
+					game1: document.getElementById('seasongame141').value
 				}).then(() => {
 					success();
 				}).catch(err => {
