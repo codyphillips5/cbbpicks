@@ -4,11 +4,11 @@
 		"gameId" : 141,
 		"homeTeam" : 65,
 		"awayTeam" : 64,
-		"favorite" : 65,
-		"spread" : 0,
+		"favorite" : 64,
+		"spread" : 1.5,
 		"gameTime" : "2021-03-02T02:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 142,
