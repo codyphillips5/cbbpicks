@@ -42,11 +42,11 @@
 	},
 	{
 		"gameId" : 145,
-		"homeTeam" : 78,
-		"awayTeam" : 71,
-		"favorite" : 78,
+		"homeTeam" : 76,
+		"awayTeam" : 2,
+		"favorite" : 76,
 		"spread" : "-",
-		"gameTime" : "2021-03-04T01:30Z",
+		"gameTime" : "2021-03-03T23:30Z",
 		"channel": "FS1",
 		"active" : false
 	},
