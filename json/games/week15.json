@@ -17,10 +17,10 @@
 		"homeTeam" : 95,
 		"awayTeam" : 91,
 		"favorite" : 95,
-		"spread" : 8.5,
+		"spread" : 7.5,
 		"gameTime" : "2021-03-03T00:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 143,
@@ -30,17 +30,17 @@
 		"spread" : 1.5,
 		"gameTime" : "2021-03-03T01:00Z",
 		"channel": "ACCN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 144,
 		"homeTeam" : 96,
 		"awayTeam" : 92,
 		"favorite" : 96,
-		"spread" : 3.5,
+		"spread" : 2.5,
 		"gameTime" : "2021-03-03T01:00Z",
 		"channel": "B1G",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 145,
