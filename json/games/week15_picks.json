@@ -2,7 +2,7 @@
   "picks": [
     {
 		"userId" : 1,
-		"game1" : "",
+		"game1" : "OKST",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -15,7 +15,7 @@
     },
     {
 		"userId" : 2,
-		"game1" : "",
+		"game1" : "OKST",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -28,7 +28,7 @@
     },
     {
 		"userId" : 3,
-		"game1" : "",
+		"game1" : "OKLA",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -41,7 +41,7 @@
     },
 	{
 		"userId" : 4,
-		"game1" : "",
+		"game1" : "OKST",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -54,7 +54,7 @@
     },
 	{
 		"userId" : 5,
-		"game1" : "",
+		"game1" : "OKST",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -67,7 +67,7 @@
     },
 	{
 		"userId" : 6,
-		"game1" : "",
+		"game1" : "OKST",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -80,7 +80,7 @@
     },    
 	{
 		"userId" : 7,
-		"game1" : "",
+		"game1" : "OKLA",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -93,7 +93,7 @@
     },
 	{
 		"userId" : 8,
-		"game1" : "",
+		"game1" : "OKLA",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -106,7 +106,7 @@
     },
 	{
 		"userId" : 9,
-		"game1" : "",
+		"game1" : "OKST",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -119,7 +119,7 @@
     },	
 	{
 		"userId" : 10,
-		"game1" : "",
+		"game1" : "OKST",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -132,7 +132,7 @@
     },
 	{
 		"userId" : 11,
-		"game1" : "",
+		"game1" : "OKLA",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -145,7 +145,7 @@
     },
 	{
 		"userId" : 12,
-		"game1" : "",
+		"game1" : "OKST",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -158,7 +158,7 @@
     },
 	{
 		"userId" : 13,
-		"game1" : "",
+		"game1" : "OKLA",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -171,7 +171,7 @@
     },
 	{
 		"userId" : 14,
-		"game1" : "",
+		"game1" : "OKLA",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -197,7 +197,7 @@
     },
 	{
 		"userId" : 16,
-		"game1" : "",
+		"game1" : "OKLA",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -210,7 +210,7 @@
     },
 	{
 		"userId" : 17,
-		"game1" : "",
+		"game1" : "OKLA",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -223,7 +223,7 @@
     },
 	{
 		"userId" : 18,
-		"game1" : "",
+		"game1" : "OKLA",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -236,7 +236,7 @@
     },
 	{
 		"userId" : 19,
-		"game1" : "",
+		"game1" : "OKST",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -249,7 +249,7 @@
     },
 	{
 		"userId" : 20,
-		"game1" : "",
+		"game1" : "OKLA",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -275,7 +275,7 @@
     },
 	{
 		"userId" : 22,
-		"game1" : "",
+		"game1" : "OKST",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -301,7 +301,7 @@
     },
 	{
 		"userId" : 24,
-		"game1" : "",
+		"game1" : "OKST",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -314,7 +314,7 @@
     },
 	{
 		"userId" : 25,
-		"game1" : "",
+		"game1" : "OKST",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -340,7 +340,7 @@
     },
 	{
 		"userId" : 27,
-		"game1" : "",
+		"game1" : "OKLA",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -353,7 +353,7 @@
     },
 	{
 		"userId" : 28,
-		"game1" : "",
+		"game1" : "OKST",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -366,7 +366,7 @@
     },
 	{
 		"userId" : 29,
-		"game1" : "",
+		"game1" : "OKST",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -379,7 +379,7 @@
     },
 	{
 		"userId" : 30,
-		"game1" : "",
+		"game1" : "OKLA",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -392,7 +392,7 @@
     },
 	{
 		"userId" : 31,
-		"game1" : "",
+		"game1" : "OKLA",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
