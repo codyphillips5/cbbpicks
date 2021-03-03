@@ -42,7 +42,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2021-03-03T01:00Z",
 		"channel": "B1G",
-		"active" : true
+		"homeScore": 64,
+		"awayScore": 58,
+		"cover": 96
 	},
 	{
 		"gameId" : 145,
