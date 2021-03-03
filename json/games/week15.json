@@ -20,7 +20,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2021-03-03T00:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"homeScore": 53,
+		"awayScore": 76,
+		"cover": 91
 	},
 	{
 		"gameId" : 143,
