@@ -99,10 +99,10 @@ $.when(getGames, getTeams, getTourney).then(function(){
 				}
 				
 				perc = (wins / (wins + losses)) * 100;
-				if (perc >= 70.0) {
+				if (perc >= 62.0) {
 					percColor = "success";
 				}
-				else if (perc < 70.0 && perc >= 40.0) {
+				else if (perc < 62.0 && perc >= 40.0) {
 					percColor = "warning";
 				}
 				else if (perc < 40.0) {
