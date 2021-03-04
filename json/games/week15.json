@@ -56,7 +56,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2021-03-03T23:30Z",
 		"channel": "FS1",
-		"active" : true
+		"homeScore": 58,
+		"awayScore": 69,
+		"cover": 2
 	},
 	{
 		"gameId" : 146,
