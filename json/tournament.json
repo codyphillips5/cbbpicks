@@ -2,47 +2,47 @@
   "auto": [
     {
 		"conf" : "MW",
-		"winner": "Utah State"
+		"winner": ""
 	},
 	{
 		"conf" :"OVC",
-		"winner" : "Belmont"	
+		"winner" : ""	
 	},
 	{
 		"conf" :"Big South",
-		"winner" : "Winthrop"
+		"winner" : ""
 	},
 	{
 		"conf" : "MVC",
-		"winner" : "Bradley"
+		"winner" : ""
 	},
 	{
 		"conf": "ASUN",
-		"winner" : "Liberty"
+		"winner" : ""
 	},
 	{
 		"conf" : "SoCon",
-		"winner" : "ETSU"
+		"winner" : ""
 	},
 	{
 		"conf" : "Colonial",
-		"winner" : "Hofstra"
+		"winner" : ""
     },
 	{
 		"conf" : "Horizon",
-		"winner" : "Northern Kentucky"
+		"winner" : ""
     },
 	{
 		"conf" : "Northeast",
-		"winner" : "Robert Morris"
+		"winner" : ""
     },
 	{
 		"conf" : "Summit",
-		"winner" : "NDSU"
+		"winner" : ""
     },
 	{
 		"conf" : "WCC",
-		"winner" : "Gonzaga"
+		"winner" : ""
     },
 	{
 		"conf" : "Patriot",
@@ -106,7 +106,7 @@
     },
 	{
 		"conf" : "Ivy",
-		"winner" : "Yale"
+		"winner" : ""
     },
 	{
 		"conf" : "A-10",
@@ -128,5 +128,143 @@
 		"conf" : "B1G",
 		"winner" : ""
     }
+	]
+	  "auto": [
+    {
+		"conf" : "MW",
+		"winner": ""
+	},
+	{
+		"conf" :"OVC",
+		"winner" : ""	
+	},
+	{
+		"conf" :"Big South",
+		"winner" : ""
+	},
+	{
+		"conf" : "MVC",
+		"winner" : ""
+	},
+	{
+		"conf": "ASUN",
+		"winner" : ""
+	},
+	{
+		"conf" : "SoCon",
+		"winner" : ""
+	},
+	{
+		"conf" : "Colonial",
+		"winner" : ""
+    },
+	{
+		"conf" : "Horizon",
+		"winner" : ""
+    },
+	{
+		"conf" : "Northeast",
+		"winner" : ""
+    },
+	{
+		"conf" : "Summit",
+		"winner" : ""
+    },
+	{
+		"conf" : "WCC",
+		"winner" : ""
+    },
+	{
+		"conf" : "Patriot",
+		"winner" : ""
+    },
+	{
+		"conf" : "America East",
+		"winner" : ""
+    },
+	{
+		"conf" : "MEAC",
+		"winner" : ""
+    },
+	{
+		"conf" : "MAAC",
+		"winner" : ""
+    },
+	{
+		"conf" : "Big 12",
+		"winner" : ""
+    },
+	{
+		"conf" : "SWAC",
+		"winner" : ""
+    },
+	{
+		"conf" : "Big East",
+		"winner" : ""
+    },
+	{
+		"conf" : "MAC",
+		"winner" : ""
+    },
+	{
+		"conf" : "Big Sky",
+		"winner" : ""
+    },
+	{
+		"conf" : "ACC",
+		"winner" : ""
+    },
+	{
+		"conf" : "C-USA",
+		"winner" : ""
+    },
+	{
+		"conf" : "Southland",
+		"winner" : ""
+    },
+	{
+		"conf" : "WAC",
+		"winner" : ""
+    },
+	{
+		"conf" : "PAC12",
+		"winner" : ""
+    },
+	{
+		"conf" : "Big West",
+		"winner" : ""
+    },
+	{
+		"conf" : "Ivy",
+		"winner" : ""
+    },
+	{
+		"conf" : "A-10",
+		"winner" : ""
+    },
+	{
+		"conf" : "SEC",
+		"winner" : ""
+    },
+	{
+		"conf" : "Sun Belt",
+		"winner" : ""
+    },
+	{
+		"conf" : "American",
+		"winner" : ""
+    },
+	{
+		"conf" : "B1G",
+		"winner" : ""
+    }
+	],
+	"at-large": [
+    {
+		"team": ""
+	},
+    {
+		"team": ""
+	}
 	]
 }
