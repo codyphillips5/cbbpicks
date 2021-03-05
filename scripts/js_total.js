@@ -5,6 +5,7 @@ var allTeams = [];
 var winners = [];
 var home, away, cover, week, game;
 var games = false;
+var tournTeam = ""
 
 var standings, teams, resultsList, usersList;
 game = 0;
@@ -38,6 +39,7 @@ var getTourney = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/tourna
 	for (var auto in tourney) {
 		for (var i = 0; i < tourney[auto].length; i++) {
 			winners.push(tourney[auto][i].winner);
+			console.log(winners);
 		}
 	}
 });
@@ -59,7 +61,13 @@ $.when(getGames, getTeams, getTourney).then(function(){
 		allTeams = homeTeams.concat(awayTeams);
 		allTeams = numbers(allTeams);
 		
-		document.getElementById("records").innerHTML = `<li>Records reflected through Game ${game} of Week ${week}.</li>`;
+		document.getElementById("records").innerHTML = `<dl>
+  <dt>Team Records</dt>
+  <dd><li>Records reflected through Game ${game} of Week ${week}.</li></dd>
+  <dt>Tourney Designations</dt>
+  <dd><li>Tournament teams are designated with a blue background.</li></dd> 
+  <dd><li>Auto qualifiers are listed in <b>bold</b> CAPS.</li></dd>
+  </dl>`;
 
 		coverTeams = numbers(coverTeams);
 		
@@ -112,10 +120,18 @@ $.when(getGames, getTeams, getTourney).then(function(){
 					percColor = color;
 				}
 				
-				/*if (winners.includes(teams[team][guess].team)) {
-					color = "table-warning";
-				}*/
-				tableStart = tableStart + `<tr><td class="${color}">${teams[team][guess].team}</td><td class="${color}">${allTeams[1][j]}</td><td class="${color}">${wins}-${losses}</td><td class="${percColor}">${perc.toFixed(1)}</td>`;
+				if (winners.includes(teams[team][guess].team)) {
+					tournColor = "info";
+					tournTeam = teams[team][guess].team;
+					tournTeam = tournTeam.toUpperCase();
+					tournTeam = tournTeam.bold();
+					console.log(tournTeam);
+				}
+				else {
+					tournColor = color;
+					tournTeam = teams[team][guess].team;
+				}
+				tableStart = tableStart + `<tr><td id="${teams[team][guess].team}" class="${tournColor}">${tournTeam}</td><td class="${color}">${allTeams[1][j]}</td><td class="${color}">${wins}-${losses}</td><td class="${percColor}">${perc.toFixed(1)}</td>`;
 			}
 		}
 		var tableEnd = `</tbody></table>`;	
