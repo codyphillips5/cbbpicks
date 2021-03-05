@@ -92,9 +92,9 @@
 	},
 	{
 		"gameId" : 149,
-		"homeTeam" : 0,
-		"awayTeam" : 0,
-		"favorite" : 0,
+		"homeTeam" : 124,
+		"awayTeam" : 114,
+		"favorite" : 124,
 		"spread" : "-",
 		"gameTime" : "2021-03-07T17:00Z",
 		"channel": "ESPN",
