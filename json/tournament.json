@@ -1,83 +1,7 @@
 {
   "auto": [
-    {
-		"conf" : "MW",
-		"winner": ""
-	},
 	{
-		"conf" :"OVC",
-		"winner" : ""	
-	},
-	{
-		"conf" :"Big South",
-		"winner" : ""
-	},
-	{
-		"conf" : "MVC",
-		"winner" : ""
-	},
-	{
-		"conf": "ASUN",
-		"winner" : ""
-	},
-	{
-		"conf" : "SoCon",
-		"winner" : ""
-	},
-	{
-		"conf" : "Colonial",
-		"winner" : ""
-    },
-	{
-		"conf" : "Horizon",
-		"winner" : ""
-    },
-	{
-		"conf" : "Northeast",
-		"winner" : ""
-    },
-	{
-		"conf" : "Summit",
-		"winner" : ""
-    },
-	{
-		"conf" : "WCC",
-		"winner" : ""
-    },
-	{
-		"conf" : "Patriot",
-		"winner" : ""
-    },
-	{
-		"conf" : "America East",
-		"winner" : ""
-    },
-	{
-		"conf" : "MEAC",
-		"winner" : ""
-    },
-	{
-		"conf" : "MAAC",
-		"winner" : ""
-    },
-	{
-		"conf" : "Big 12",
-		"winner" : ""
-    },
-	{
-		"conf" : "SWAC",
-		"winner" : ""
-    },
-	{
-		"conf" : "Big East",
-		"winner" : ""
-    },
-	{
-		"conf" : "MAC",
-		"winner" : ""
-    },
-	{
-		"conf" : "Big Sky",
+		"conf" : "AAC",
 		"winner" : ""
     },
 	{
@@ -85,27 +9,7 @@
 		"winner" : ""
     },
 	{
-		"conf" : "C-USA",
-		"winner" : ""
-    },
-	{
-		"conf" : "Southland",
-		"winner" : ""
-    },
-	{
-		"conf" : "WAC",
-		"winner" : ""
-    },
-	{
-		"conf" : "PAC12",
-		"winner" : ""
-    },
-	{
-		"conf" : "Big West",
-		"winner" : ""
-    },
-	{
-		"conf" : "Ivy",
+		"conf" : "America East",
 		"winner" : ""
     },
 	{
@@ -113,19 +17,115 @@
 		"winner" : ""
     },
 	{
+		"conf": "ASUN",
+		"winner" : "Liberty"
+	},
+	{
+		"conf" : "Big 12",
+		"winner" : ""
+    },
+	{
+		"conf" : "Big East",
+		"winner" : ""
+    },
+	{
+		"conf" : "Big Sky",
+		"winner" : ""
+    },
+	{
+		"conf" :"Big South",
+		"winner" : ""
+	},,
+	{
+		"conf" : "B1G",
+		"winner" : ""
+    }
+	{
+		"conf" : "Big West",
+		"winner" : ""
+    },
+	{
+		"conf" : "Colonial",
+		"winner" : ""
+    },
+	{
+		"conf" : "C-USA",
+		"winner" : ""
+    },
+	{
+		"conf" : "Horizon",
+		"winner" : ""
+    },
+	{
+		"conf" : "Ivy",
+		"winner" : ""
+    },
+	{
+		"conf" : "MAAC",
+		"winner" : ""
+    },
+	{
+		"conf" : "MAC",
+		"winner" : ""
+    },
+	{
+		"conf" : "MEAC",
+		"winner" : ""
+    },
+    {
+		"conf" : "MW",
+		"winner": ""
+	},
+	{
+		"conf" : "Northeast",
+		"winner" : ""
+    },
+	{
+		"conf" :"OVC",
+		"winner" : ""	
+	},
+	{
+		"conf" : "PAC12",
+		"winner" : ""
+    },
+	{
+		"conf" : "Patriot",
+		"winner" : ""
+    },
+	{
 		"conf" : "SEC",
 		"winner" : ""
     },
 	{
+		"conf" : "SoCon",
+		"winner" : ""
+	},
+	{
+		"conf" : "Southland",
+		"winner" : ""
+    },
+	{
+		"conf" : "SWAC",
+		"winner" : ""
+    },
+	{
+		"conf" : "Summit",
+		"winner" : ""
+    },,
+	{
 		"conf" : "Sun Belt",
 		"winner" : ""
-    },
+    }
 	{
-		"conf" : "American",
+		"conf" : "MVC",
+		"winner" : ""
+	},
+	{
+		"conf" : "WAC",
 		"winner" : ""
     },
 	{
-		"conf" : "B1G",
+		"conf" : "WCC",
 		"winner" : ""
     }
 	],
