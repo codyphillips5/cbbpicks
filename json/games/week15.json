@@ -102,9 +102,9 @@
 	},
 	{
 		"gameId" : 150,
-		"homeTeam" : 0,
+		"homeTeam" : 206,
 		"awayTeam" : 0,
-		"favorite" : 0,
+		"favorite" : 206,
 		"spread" : "-",
 		"gameTime" : "2021-03-07T19:00Z",
 		"channel": "CBS",
