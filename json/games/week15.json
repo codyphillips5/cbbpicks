@@ -111,7 +111,7 @@
 		"homeTeam" : 206,
 		"awayTeam" : 202,
 		"favorite" : 206,
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2021-03-07T19:00Z",
 		"channel": "CBS",
 		"active" : false
