@@ -116,7 +116,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2021-03-07T19:00Z",
 		"channel": "CBS",
-		"active" : true
+		"homeScore": 75,
+		"awayScore": 65,
+		"cover": 206
 	}
   ]
 }
