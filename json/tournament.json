@@ -73,6 +73,10 @@
 		"winner" : ""
 	},
 	{
+		"conf" : "MVC",
+		"winner" : ""
+	},
+	{
 		"conf" : "MW",
 		"winner": ""
 	},
@@ -82,7 +86,7 @@
 	},
 	{
 		"conf" :"OVC",
-		"winner" : ""	
+		"winner" : "Morehead State"	
 	},
 	{
 		"conf" : "PAC12",
@@ -114,10 +118,6 @@
 	},
 	{
 		"conf" : "Sun Belt",
-		"winner" : ""
-	},
-	{
-		"conf" : "MVC",
 		"winner" : ""
 	},
 	{
