@@ -68,7 +68,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2021-03-06T21:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"homeScore": 68,
+		"awayScore": 73,
+		"cover": 91
 	},
 	{
 		"gameId" : 147,
@@ -78,7 +80,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2021-03-06T21:00Z",
 		"channel": "CBS",
-		"active" : true
+		"homeScore": 63,
+		"awayScore": 64,
+		"cover": 251
 	},
 	{
 		"gameId" : 148,
@@ -88,14 +92,16 @@
 		"spread" : 2.5,
 		"gameTime" : "2021-03-06T23:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"homeScore": 91,
+		"awayScore": 73,
+		"cover": 20
 	},
 	{
 		"gameId" : 149,
 		"homeTeam" : 124,
 		"awayTeam" : 114,
 		"favorite" : 124,
-		"spread" : "-",
+		"spread" : 11.5,
 		"gameTime" : "2021-03-07T17:00Z",
 		"channel": "ESPN",
 		"active" : false
@@ -103,7 +109,7 @@
 	{
 		"gameId" : 150,
 		"homeTeam" : 206,
-		"awayTeam" : 0,
+		"awayTeam" : 202,
 		"favorite" : 206,
 		"spread" : "-",
 		"gameTime" : "2021-03-07T19:00Z",
