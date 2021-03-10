@@ -4,6 +4,9 @@ var coverTeams = [];
 var allTeams = [];
 var winners = [];
 var large = [];
+var autoTeams = 0;
+var largeTeams = 0;
+var tourneyTeams = 0;
 var home, away, cover, week, game;
 var games = false;
 var tournTeam = ""
@@ -37,7 +40,6 @@ var getTeams = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/teams.js
 
 var getTourney = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/tournament.json", function(json){
 	tourney = json;
-	console.log(tourney.auto.length);
 	for (var i = 0; i < tourney.auto.length; i++) {
 		var object = tourney.auto[i];
 		winners.push(object["winner"]);
@@ -53,7 +55,6 @@ var getTourney = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/tourna
 
 
 $.when(getGames, getTeams, getTourney).then(function(){
-	console.log("cover: " + coverTeams.length);
 	game = coverTeams.length - ((week-1)*10);
 	
 	if (game < 0) {
@@ -67,15 +68,6 @@ $.when(getGames, getTeams, getTourney).then(function(){
 		
 		allTeams = homeTeams.concat(awayTeams);
 		allTeams = numbers(allTeams);
-		
-		document.getElementById("records").innerHTML = `<dl>
-  <dt>Team Records</dt>
-  <dd><li>Records reflected through Game ${game} of Week ${week}.</li></dd>
-  <dt>Tourney Designations</dt>
-  <dd><li>Tournament teams are designated with a blue background.</li></dd> 
-  <dd><li>Auto qualifiers are listed in <b>bold</b> CAPS.</li></dd>
-  </dl>`;
-
 		coverTeams = numbers(coverTeams);
 		
 		var tableStart = `<div class="table-responsive"><table class="table table-bordered table-hover" id="results"><thead><tr><th scope="col">Team</th><th scope="col">Games</th><th scope="col">Record</th><th scope="col">Cover %</th></tr></thead><tbody>`;
@@ -132,16 +124,36 @@ $.when(getGames, getTeams, getTourney).then(function(){
 					tournTeam = teams[team][guess].team;
 					tournTeam = tournTeam.toUpperCase();
 					tournTeam = tournTeam.bold();
-					console.log(tournTeam);
+					autoTeams++;
+					console.log("auto tourney count: " + tourneyTeams);
+				}
+				else if (large.includes(teams[team][guess].team)) {
+					tournColor = "info";
+					tournTeam = teams[team][guess].team;
+					largeTeams++;
+					console.log("at large tourney count: " + tourneyTeams);
 				}
 				else {
 					tournColor = color;
 					tournTeam = teams[team][guess].team;
 				}
+				tourneyTeams = autoTeams + largeTeams;
 				tableStart = tableStart + `<tr><td id="${teams[team][guess].team}" class="${tournColor}">${tournTeam}</td><td class="${color}">${allTeams[1][j]}</td><td class="${color}">${wins}-${losses}</td><td class="${percColor}">${perc.toFixed(1)}</td>`;
 			}
 		}
+		console.log(tourneyTeams);
 		var tableEnd = `</tbody></table>`;	
+		document.getElementById("records").innerHTML = `<dl>
+			<dt>Team Records</dt>
+			<dd><li>Records reflected through Game ${game} of Week ${week}.</li></dd>
+			<dt>Dancin' Designations</dt>
+			<dd><li>Tournament teams are designated with a blue background.</li></dd> 
+			<dd><li>Auto qualifiers are listed in <b>bold</b> CAPS.</li></dd>
+			<dt>Picks in the Postseason</dt>
+			<dd><li>We selected <b>${tourneyTeams}</b> of the ${winners.length + large.length} total tournament teams.</li></dd>
+			<dd><li>We selected <b>${autoTeams}</b> of the ${winners.length} auto bids.</li></dd>
+			<dd><li>We selected <b>${largeTeams}</b> of the ${large.length} at-large bids.</li></dd>
+			</dl>`;
 		document.getElementById("standings").innerHTML = tableStart + tableEnd;
 		sortTable(4);
 		sortTable(2);		
