@@ -29,8 +29,13 @@ var required = "";
 var gog = "";
   
 // week of year, first game
-var week = 15;
-document.getElementById("week-title").innerHTML = `<h2>Week ${week}</h2>`;
+var week = 0;
+if (week === 0) {
+	document.getElementById("week-title").innerHTML = `<h2>March Madness</h2>`;
+}
+else {
+	document.getElementById("week-title").innerHTML = `<h2>Week ${week}</h2>`;
+}
 
 var xFile, yFile;
 
