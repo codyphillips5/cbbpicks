@@ -7,6 +7,9 @@ var large = [];
 var autoTeams = 0;
 var largeTeams = 0;
 var tourneyTeams = 0;
+var tourneyGames = 0;
+var totalGames = 0;
+var percTourney;
 var home, away, cover, week, game;
 var games = false;
 var tournTeam = ""
@@ -125,12 +128,14 @@ $.when(getGames, getTeams, getTourney).then(function(){
 					tournTeam = tournTeam.toUpperCase();
 					tournTeam = tournTeam.bold();
 					autoTeams++;
+					tourneyGames = tourneyGames + allTeams[1][j];
 					console.log("auto tourney count: " + tourneyTeams);
 				}
 				else if (large.includes(teams[team][guess].team)) {
 					tournColor = "info";
 					tournTeam = teams[team][guess].team;
 					largeTeams++;
+					tourneyGames = tourneyGames + allTeams[1][j];
 					console.log("at large tourney count: " + tourneyTeams);
 				}
 				else {
@@ -138,10 +143,14 @@ $.when(getGames, getTeams, getTourney).then(function(){
 					tournTeam = teams[team][guess].team;
 				}
 				tourneyTeams = autoTeams + largeTeams;
+				totalGames = totalGames + allTeams[1][j];
 				tableStart = tableStart + `<tr><td id="${teams[team][guess].team}" class="${tournColor}">${tournTeam}</td><td class="${color}">${allTeams[1][j]}</td><td class="${color}">${wins}-${losses}</td><td class="${percColor}">${perc.toFixed(1)}</td>`;
 			}
 		}
-		console.log(tourneyTeams);
+		console.log("total teams count: " + tourneyTeams);
+		console.log("tourney games count: " + tourneyGames);
+		console.log("total games count: " + totalGames);
+		percTourney = (tourneyGames / totalGames) * 100;
 		var tableEnd = `</tbody></table>`;	
 		document.getElementById("records").innerHTML = `<dl>
 			<dt>Team Records</dt>
@@ -153,6 +162,7 @@ $.when(getGames, getTeams, getTourney).then(function(){
 			<dd><li>We selected <b>${tourneyTeams}</b> of the ${winners.length + large.length} total tournament teams.</li></dd>
 			<dd><li>We selected <b>${autoTeams}</b> of the ${winners.length} auto bids.</li></dd>
 			<dd><li>We selected <b>${largeTeams}</b> of the ${large.length} at-large bids.</li></dd>
+			<dd><li><b>${tourneyGames} (${percTourney.toFixed(1)}%)</b> of our ${totalGames} selections were tournament eligible teams.</li></dd>
 			</dl>`;
 		document.getElementById("standings").innerHTML = tableStart + tableEnd;
 		sortTable(4);
