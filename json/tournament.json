@@ -46,7 +46,7 @@
 	},
 	{
 		"conf" : "Colonial",
-		"winner" : ""
+		"winner" : "Drexel"
 	},
 	{
 		"conf" : "C-USA",
@@ -54,7 +54,7 @@
 	},
 	{
 		"conf" : "Horizon",
-		"winner" : ""
+		"winner" : "Cleveland State"
 	},
 	{
 		"conf" : "Ivy",
@@ -82,7 +82,7 @@
 	},
 	{
 		"conf" : "Northeast",
-		"winner" : ""
+		"winner" : "Mount St. Mary's"
 	},
 	{
 		"conf" :"OVC",
@@ -114,7 +114,7 @@
 	},
 	{
 		"conf" : "Summit",
-		"winner" : ""
+		"winner" : "Oral Roberts"
 	},
 	{
 		"conf" : "Sun Belt",
@@ -126,12 +126,12 @@
 	},
 	{
 		"conf" : "WCC",
-		"winner" : ""
+		"winner" : "Gonzaga"
 	}
 	],
 	"at-large": [
 	{
-		"team": ""
+		"team": "BYU"
 	},
 	{
 		"team": ""
