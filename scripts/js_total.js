@@ -129,7 +129,6 @@ $.when(getGames, getTeams, getTourney).then(function(){
 					tournTeam = tournTeam.bold();
 					autoTeams++;
 					tourneyGames = tourneyGames + allTeams[1][j];
-					console.log("auto tourney count: " + tourneyTeams);
 				}
 				else if (large.includes(teams[team][guess].team)) {
 					tournColor = "info";
@@ -147,9 +146,6 @@ $.when(getGames, getTeams, getTourney).then(function(){
 				tableStart = tableStart + `<tr><td id="${teams[team][guess].team}" class="${tournColor}">${tournTeam}</td><td class="${color}">${allTeams[1][j]}</td><td class="${color}">${wins}-${losses}</td><td class="${percColor}">${perc.toFixed(1)}</td>`;
 			}
 		}
-		console.log("total teams count: " + tourneyTeams);
-		console.log("tourney games count: " + tourneyGames);
-		console.log("total games count: " + totalGames);
 		percTourney = (tourneyGames / totalGames) * 100;
 		var tableEnd = `</tbody></table>`;	
 		document.getElementById("records").innerHTML = `<dl>
