@@ -162,7 +162,7 @@ $.when(getGames, getTeams, getTourney).then(function(){
 			<dd><li>We selected <b>${tourneyTeams}</b> of the ${winners.length + large.length} total tournament teams.</li></dd>
 			<dd><li>We selected <b>${autoTeams}</b> of the ${winners.length} auto bids.</li></dd>
 			<dd><li>We selected <b>${largeTeams}</b> of the ${large.length} at-large bids.</li></dd>
-			<dd><li>A tournament team was featured in <b>${tourneyGames} (${percTourney.toFixed(1)}%)</b> of our ${totalGames} options.</li></dd>
+			<dd><li>A tournament team was offered in <b>${tourneyGames} (${percTourney.toFixed(1)}%)</b> of ${totalGames} options.</li></dd>
 			</dl>`;
 		document.getElementById("standings").innerHTML = tableStart + tableEnd;
 		sortTable(4);
