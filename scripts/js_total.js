@@ -3,6 +3,7 @@ var awayTeams = [];
 var coverTeams = [];
 var allTeams = [];
 var winners = [];
+var large = [];
 var home, away, cover, week, game;
 var games = false;
 var tournTeam = ""
@@ -36,12 +37,18 @@ var getTeams = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/teams.js
 
 var getTourney = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/tournament.json", function(json){
 	tourney = json;
-	for (var auto in tourney) {
-		for (var i = 0; i < tourney[auto].length; i++) {
-			winners.push(tourney[auto][i].winner);
-			console.log(winners);
-		}
+	console.log(tourney.auto.length);
+	for (var i = 0; i < tourney.auto.length; i++) {
+		var object = tourney.auto[i];
+		winners.push(object["winner"]);
 	}
+	
+	for (var i = 0; i < tourney.atlarge.length; i++) {
+		var object = tourney.atlarge[i];
+		large.push(object["team"]);
+	}
+	console.log(winners);
+	console.log(large);
 });
 
 
