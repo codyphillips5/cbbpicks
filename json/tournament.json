@@ -22,7 +22,7 @@
 	},
 	{
 		"conf" : "Big 12",
-		"winner" : ""
+		"winner" : "Texas"
 	},
 	{
 		"conf" : "Big East",
@@ -74,7 +74,7 @@
 	},
 	{
 		"conf" : "MW",
-		"winner": ""
+		"winner": "San Diego State"
 	},
 	{
 		"conf" : "Northeast",
@@ -106,7 +106,7 @@
 	},
 	{
 		"conf" : "SWAC",
-		"winner" : ""
+		"winner" : "Texas Southern"
 	},
 	{
 		"conf" : "Summit",
