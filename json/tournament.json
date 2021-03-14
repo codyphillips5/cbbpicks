@@ -2,7 +2,7 @@
   "auto": [
 	{
 		"conf" : "AAC",
-		"winner" : ""
+		"winner" : "Houston"
 	},
 	{
 		"conf" : "ACC",
@@ -38,7 +38,7 @@
 	},
 	{
 		"conf" : "B1G",
-		"winner" : ""
+		"winner" : "Illinois"
 	},
 	{
 		"conf" : "Big West",
@@ -127,115 +127,115 @@
 	],
 	"atlarge": [
 	{
-		"team": ""
+		"team": "Michigan"
 	},
 	{
-		"team": ""
+		"team": "Ohio State"
 	},
 	{
-		"team": ""
+		"team": "Iowa"
 	},
 	{
-		"team": ""
+		"team": "Arkansas"
 	},
 	{
-		"team": ""
+		"team": "West Virginia"
 	},
 	{
-		"team": ""
+		"team": "Kansas"
 	},
 	{
-		"team": ""
+		"team": "Florida State"
 	},
 	{
-		"team": ""
+		"team": "Purdue"
 	},
 	{
-		"team": ""
+		"team": "Oklahoma State"
 	},
 	{
-		"team": ""
+		"team": "Virginia"
 	},
 	{
-		"team": ""
+		"team": "Creighton"
 	},
 	{
-		"team": ""
+		"team": "Villanova"
 	},
 	{
-		"team": ""
+		"team": "Tennessee"
 	},
 	{
-		"team": ""
+		"team": "Colorado"
 	},
 	{
-		"team": ""
+		"team": "USC"
 	},
 	{
-		"team": ""
+		"team": "Texas Tech"
 	},
 	{
-		"team": ""
+		"team": "BYU"
 	},
 	{
-		"team": ""
+		"team": "San Diego State"
 	},
 	{
-		"team": ""
+		"team": "Oregon"
 	},
 	{
-		"team": ""
+		"team": "Connecticut"
 	},
 	{
-		"team": ""
+		"team": "Clemson"
 	},
 	{
-		"team": ""
+		"team": "Florida"
 	},
 	{
-		"team": ""
+		"team": "LSU"
 	},
 	{
-		"team": ""
+		"team": "North Carolina"
 	},
 	{
-		"team": ""
+		"team": "Oklahoma"
 	},
 	{
-		"team": ""
+		"team": "Missouri"
 	},
 	{
-		"team": ""
+		"team": "Wisconsin"
 	},
 	{
-		"team": ""
+		"team": "Maryland"
 	},
 	{
-		"team": ""
+		"team": "Virginia Tech"
 	},
 	{
-		"team": ""
+		"team": "VCU"
 	},
 	{
-		"team": ""
+		"team": "Rutgers"
 	},
 	{
-		"team": ""
+		"team": "Syracuse"
 	},
 	{
-		"team": ""
+		"team": "Utah State"
 	},
 	{
-		"team": ""
+		"team": "Michigan State"
 	},
 	{
-		"team": ""
+		"team": "UCLA"
 	},
 	{
-		"team": ""
+		"team": "Wichita State"
 	},
 	{
-		"team": ""
+		"team": "Drake"
 	}
 	]
 }
