@@ -6,7 +6,7 @@
 	},
 	{
 		"conf" : "ACC",
-		"winner" : ""
+		"winner" : "Georgia Tech"
 	},
 	{
 		"conf" : "America East",
@@ -30,7 +30,7 @@
 	},
 	{
 		"conf" : "Big Sky",
-		"winner" : ""
+		"winner" : "Eastern Washington"
 	},
 	{
 		"conf" :"Big South",
@@ -42,7 +42,7 @@
 	},
 	{
 		"conf" : "Big West",
-		"winner" : ""
+		"winner" : "UC Santa Barbara"
 	},
 	{
 		"conf" : "Colonial",
@@ -50,7 +50,7 @@
 	},
 	{
 		"conf" : "C-USA",
-		"winner" : ""
+		"winner" : "North Texas"
 	},
 	{
 		"conf" : "Horizon",
@@ -86,11 +86,11 @@
 	},
 	{
 		"conf" : "PAC12",
-		"winner" : ""
+		"winner" : "Oregon State"
 	},
 	{
 		"conf" : "Patriot",
-		"winner" : ""
+		"winner" : "Colgate"
 	},
 	{
 		"conf" : "SEC",
@@ -102,7 +102,7 @@
 	},
 	{
 		"conf" : "Southland",
-		"winner" : ""
+		"winner" : "Abilene Christian"
 	},
 	{
 		"conf" : "SWAC",
@@ -118,7 +118,7 @@
 	},
 	{
 		"conf" : "WAC",
-		"winner" : ""
+		"winner" : "Grand Canyon"
 	},
 	{
 		"conf" : "WCC",
