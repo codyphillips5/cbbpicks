@@ -2,20 +2,18 @@
   "games": [
     {
 		"gameId" : 1,
-		"homeTeam" : 245,
-		"awayTeam" : 45,
-		"favorite" : 245,
-		"spread" : 7.5,
-		"gameTime" : "2020-11-26T00:00Z",
+		"awayTeam" : 15,
+		"homeTeam" : 271,
+		"favorite" : 271,
+		"spread" : 1.5,
+		"gameTime" : "2021-11-09T00:00Z",
 		"channel": "ESPN",
-		"homeScore" : 94,
-		"awayScore" : 88,
-		"cover" : 45
+		"active" : true
     },
 	{
 		"gameId" : 2,
-		"homeTeam" : 14,
 		"awayTeam" : 273,
+		"homeTeam" : 14,
 		"favorite" : 14,
 		"spread" : 4.5,
 		"gameTime" : "2020-11-26T01:30Z",
@@ -26,8 +24,8 @@
     },
 	{
 		"gameId" : 3,
-		"homeTeam" : 217,
 		"awayTeam" : 251,
+		"homeTeam" : 217,
 		"favorite" : 251,
 		"spread" : 3.5,
 		"gameTime" : "2020-11-26T03:30Z",
@@ -38,8 +36,8 @@
     },
     {
 		"gameId" : 4,
-		"homeTeam" : 62,
 		"awayTeam" : 344,
+		"homeTeam" : 62,
 		"favorite" : 344,
 		"spread" : 4.5,
 		"gameTime" : "2020-11-26T18:30Z",
@@ -50,8 +48,8 @@
     },
     {
 		"gameId" : 5,
-		"homeTeam" : 69,
 		"awayTeam" : 148,
+		"homeTeam" : 69,
 		"favorite" : 69,
 		"spread" : 7.5,
 		"gameTime" : "2020-11-27T18:30Z",
@@ -62,8 +60,8 @@
     },
     {
 		"gameId" : 6,
-		"homeTeam" : 18,
 		"awayTeam" : 76,
+		"homeTeam" : 18,
 		"favorite" : 18,
 		"spread" : 6.5,
 		"gameTime" : "2020-11-27T21:00Z",
@@ -74,8 +72,8 @@
     },
     {
 		"gameId" : 7,
-		"homeTeam" : 48,
 		"awayTeam" : 272,
+		"homeTeam" : 48,
 		"favorite" : 48,
 		"spread" : 2.5,
 		"gameTime" : "2020-11-28T20:00Z",
@@ -86,8 +84,8 @@
     },
     {
 		"gameId" : 8,
-		"homeTeam" : 78,
 		"awayTeam" : 26,
+		"homeTeam" : 78,
 		"favorite" : 78,
 		"spread" : 8.5,
 		"gameTime" : "2020-11-29T01:00Z",
@@ -98,8 +96,8 @@
     },
     {
 		"gameId" : 9,
-		"homeTeam" : 271,
 		"awayTeam" : 46,
+		"homeTeam" : 271,
 		"favorite" : 271,
 		"spread" : 7.5,
 		"gameTime" : "2020-11-29T18:00Z",
@@ -110,8 +108,8 @@
     },
     {
 		"gameId" : 10,
-		"homeTeam" : 68,
 		"awayTeam" : 4,
+		"homeTeam" : 68,
 		"favorite" : 68,
 		"spread" : 2.5,
 		"gameTime" : "2020-11-29T22:30Z",
