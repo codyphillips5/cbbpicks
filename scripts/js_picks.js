@@ -96,13 +96,13 @@ $.when(requestX, requestY).then(function(){
 			}
 			//badge.className = 'games-layout';
 			//badge.id = 'games-layout';
-			var header = '<div class=\'p-3 border bg-light\'><span class=\'header\'><span class=\'header\'><h5 class=\'pb-2\'>' + awayTeam + ' vs ' + homeTeam + ' (' + homeSide + spread + ') </h5>';
-			var gameInfo = '<sub> '+ channel + " · " + date.toLocaleString([], {weekday: 'long', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit'}).replace(',',' ·') + '</sub><br>';
+			var header = '<div class=\'p-3 border bg-light\'><span class=\'header\'><h5 class=\'pb-2\ lh-1\' style=\'margin-bottom: 0px;\'>' + awayTeam + ' vs ' + homeTeam + ' (' + homeSide + spread + ') </h5>';
+			var gameInfo = '<small class=\'w-100\'> '+ channel + " · " + date.toLocaleString([], {weekday: 'long', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit'}).replace(',',' ·') + '</small>';
 			var fin = '';
 
 			if (xFile[key][i].cover) {
-				var awayScore = `<img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${awayTeamImage}.vresize.25.25.medium.2.png"> ${awayTeam} ${awayTeamMascot} - ${xFile[key][i].awayScore}`
-				var homeScore = `<br> <img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${homeTeamImage}.vresize.25.25.medium.2.png"> ${homeTeam} ${homeTeamMascot} - ${xFile[key][i].homeScore}`
+				var awayScore = `<span class='teamlist'><img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${awayTeamImage}.vresize.25.25.medium.2.png"> ${awayTeam} ${awayTeamMascot} - ${xFile[key][i].awayScore}</span>`
+				var homeScore = `<img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${homeTeamImage}.vresize.25.25.medium.2.png"> ${homeTeam} ${homeTeamMascot} - ${xFile[key][i].homeScore}`
 				if (xFile[key][i].cover == home)
 				homeScore = `${homeScore}   <span>💰</span>`;
 				else if (xFile[key][i].cover == away)
@@ -118,7 +118,7 @@ $.when(requestX, requestY).then(function(){
 				var select = '';	
 			}
 			else {
-				var select = '<br><select class=\'teamlist\' id=\'game' + gameId + '\' onchange=\"assignPointsByTeam(' + gameId +');\"><option value = \"\"> -- Select Team -- </option><option value=\"' + awayTeamVal + '\">' + awayTeam + ' ' + awaySide + spread + '</option><option value=\"' + homeTeamVal + '\">' + homeTeam + ' ' + homeSide + spread + '</option></select>'; 	
+				var select = '<select class=\'teamlist form-select form-select-sm\' style=\'width:auto;\' id=\'game' + gameId + '\' onchange=\"assignPointsByTeam(' + gameId +');\"><option value = \"\"> -- Select Team -- </option><option value=\"' + awayTeamVal + '\">' + awayTeam + ' ' + awaySide + spread + '</option><option value=\"' + homeTeamVal + '\">' + homeTeam + ' ' + homeSide + spread + '</option></select>'; 	
 			}
 			badge.innerHTML = '<form>' + header + gameInfo + select + fin + '</form></div>';
 			document.getElementById(key).appendChild(badge);
