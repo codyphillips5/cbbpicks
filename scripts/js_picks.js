@@ -161,35 +161,6 @@ function assignPointsByTeam(id) {
 	request.success(function(response){
 		game.spread = attempt.thisTeamImg;
 		document.getElementById("image" + id).innerHTML = `<img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${game.spread}.vresize.200.200.medium.2.png">`;
-		for (i = 0; i < choices.length; i++) {
-		  // only allow a team to be chosen once
-			if (game.team == choices[i].teamAbb) {
-				choices[i].teamAbb = "";
-				choices[i].fullTeam = "";
-				//document.getElementById(choices[i].pts).value = "";
-				document.getElementById("label-choice-" + choices[i].pts).innerHTML = `<label for="${choices[i].pts}" class="choice"></label>`;
-				document.getElementById("image" + choices[i].pts).innerHTML = ``;
-			}
-			if (id == choices[i].pts) {
-				if(choices[i].teamAbb != "") {
-					console.log("game.game = " + game.game);
-					if(choices[i].game != game.game) {
-						var inputs = document.getElementById("point_totals_game_" + choices[i].game).getElementsByTagName("input");
-						for (j = 0; j < inputs.length; j++) {
-							inputs[j].checked = false;
-						}
-					}
-				}
-				// The request is done, and we can do something else
-				choices[i].teamAbb = userPick;
-				choices[i].fullTeam = fullTeamName;
-				choices[i].game = id;
-				choices[i].spread = attempt.thisTeamImg;
-				console.log("logo: " + choices[i].spread);
-				document.getElementById("image" + id).innerHTML = `<img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${choices[i].spread}.vresize.200.200.medium.2.png">`;
-				game.game = id;
-			}
-		}
 	});
 	document.getElementById("seasongame" + id).value = game.team;
 }
