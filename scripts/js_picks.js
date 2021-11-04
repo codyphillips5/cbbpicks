@@ -101,15 +101,15 @@ $.when(requestX, requestY).then(function(){
 			var fin = '';
 
 			if (xFile[key][i].cover) {
-				var awayScore = `<span class='teamlist'><img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${awayTeamImage}.vresize.25.25.medium.2.png"> ${awayTeam} ${awayTeamMascot} - ${xFile[key][i].awayScore}</span>`
+				var awayScore = `<span class='teamlist'><img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${awayTeamImage}.vresize.25.25.medium.2.png"> ${awayTeam} ${awayTeamMascot} - ${xFile[key][i].awayScore}`
 				var homeScore = `<img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${homeTeamImage}.vresize.25.25.medium.2.png"> ${homeTeam} ${homeTeamMascot} - ${xFile[key][i].homeScore}`
 				if (xFile[key][i].cover == home)
-				homeScore = `${homeScore}   <span>💰</span>`;
+				homeScore = `${homeScore} 💰`;
 				else if (xFile[key][i].cover == away)
-				  awayScore = `${awayScore}   <span>💰</span>`;
-				select = awayScore + homeScore;
+				  awayScore = `${awayScore} 💰`;
+				select = awayScore + "<br>" + homeScore + "</span>";
 				gameInfo = '';
-				fin = '<br><sub><b>FINAL</b></sub>';
+				fin = '<sub><b>FINAL</b></sub>';
 				var yourPick = document.createElement('div');
 				yourPick.id = 'your-pick-game' + gameId;
 				yourPick.innerHTML = '';
