@@ -29,9 +29,9 @@ var required = "";
 var gog = "";
   
 // week of year, first game
-var week = 0;
+var week = 1;
 if (week === 0) {
-	document.getElementById("week-title").innerHTML = `<h2>March Madness</h2>`;
+	document.getElementById("week-title").innerHTML = `<h2>🏀 March Madness</h2>`;
 }
 else {
 	document.getElementById("week-title").innerHTML = `<h2>Week ${week}</h2>`;
@@ -94,19 +94,19 @@ $.when(requestX, requestY).then(function(){
 			  awaySide = "";
 			  spread = "PK";
 			}
-			badge.className = 'games-layout';
-			badge.id = 'games-layout';
-			var header = '<span class=\'header\'><h4>' + awayTeam + ' vs ' + homeTeam + ' (' + homeSide + spread + ') </h4>';
+			//badge.className = 'games-layout';
+			//badge.id = 'games-layout';
+			var header = '<div class=\'p-3 border bg-light\'><span class=\'header\'><span class=\'header\'><h5 class=\'pb-2\'>' + awayTeam + ' vs ' + homeTeam + ' (' + homeSide + spread + ') </h5>';
 			var gameInfo = '<sub> '+ channel + " · " + date.toLocaleString([], {weekday: 'long', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit'}).replace(',',' ·') + '</sub><br>';
 			var fin = '';
 
 			if (xFile[key][i].cover) {
-				var awayScore = `<br><img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${awayTeamImage}.vresize.25.25.medium.2.png"> ${awayTeam} ${awayTeamMascot} - ${xFile[key][i].awayScore}`
+				var awayScore = `<img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${awayTeamImage}.vresize.25.25.medium.2.png"> ${awayTeam} ${awayTeamMascot} - ${xFile[key][i].awayScore}`
 				var homeScore = `<br> <img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${homeTeamImage}.vresize.25.25.medium.2.png"> ${homeTeam} ${homeTeamMascot} - ${xFile[key][i].homeScore}`
 				if (xFile[key][i].cover == home)
-				homeScore = `${homeScore}   <span style="color:green" class="glyphicon glyphicon-piggy-bank"></span>`;
+				homeScore = `${homeScore}   <span>✅</span>`;
 				else if (xFile[key][i].cover == away)
-				  awayScore = `${awayScore}   <span style="color:green" class="glyphicon glyphicon-piggy-bank"></span>`;
+				  awayScore = `${awayScore}   <span>✅</span>`;
 				select = awayScore + homeScore;
 				gameInfo = '';
 				fin = '<br><sub><b>FINAL</b></sub>';
@@ -120,7 +120,7 @@ $.when(requestX, requestY).then(function(){
 			else {
 				var select = '<br><select class=\'teamlist\' id=\'game' + gameId + '\' onchange=\"assignPointsByTeam(' + gameId +');\"><option value = \"\"> -- Select Team -- </option><option value=\"' + awayTeamVal + '\">' + awayTeam + ' ' + awaySide + spread + '</option><option value=\"' + homeTeamVal + '\">' + homeTeam + ' ' + homeSide + spread + '</option></select>'; 	
 			}
-			badge.innerHTML = '<form>' + header + gameInfo + select + fin + '</form>';
+			badge.innerHTML = '<form>' + header + gameInfo + select + fin + '</form></div>';
 			document.getElementById(key).appendChild(badge);
 			//document.getElementsByClassName(badge.id)[i].appendChild(yourPick);
 		}
