@@ -6,7 +6,7 @@
     <title>CBB Picks | Games</title>
 	<link rel="stylesheet" href="styles.css"></link>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -14,49 +14,118 @@
 </head>
 
 <body>
-	<nav class="navbar navbar-light" style="background-color: #87CEFA;">
-		<div class="container-fluid">
-		<div class="navbar-header">
-		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-			<span class="icon-bar" style="background-color: #337ab7;"></span>
-			<span class="icon-bar" style="background-color: #337ab7;"></span>
-			<span class="icon-bar" style="background-color: #337ab7;"></span>                       
+	<nav class="navbar navbar-expand-lg navbar-light" style="background-color: #87CEFA;">
+	<div class="container-fluid">
+		<a class="navbar-brand" href="/cfbpicks">
+			<img src="https://raw.githubusercontent.com/codyphillips5/cfbpicks/master/cfb-pick.png" alt="picks" width="90" height="250" class="logo d-inline-block align-text-top px-2">
+		</a>
+		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
 		</button>
-		<a class="navbar-brand" href="/cbbpicks">CBB Picks</a>
-		</div>
-		<div class="collapse navbar-collapse" id="myNavbar">
-	<ul class="nav navbar-nav">
-		<li><a href="/cbbpicks">Home</a></li>
-		<li class="active"><a href="#">Games</a></li>
-		<li><a href="results.html">Results</a></li>
-		<li><a href="standings.html">Standings</a></li>
-		<li><a href="totals.html"><span class="glyphicon glyphicon-stats"></span> <span class="glyphicon glyphicon-eye-open"></span></a></li>
-	</ul>
-	<ul class="nav navbar-nav navbar-right">
-		<li class='account-details' style="display: none;"></li>
-		<li class="logged-in" style="display: none;"><a href="#" id="logout"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
-		<li class="logged-out" style="display: none;"><a href="log.html" id ="login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-		<!--<li class="logged-out" style="display: none;"><a href="signup.html"><span class="glyphicon glyphicon-plus"></span>  Signup</a></li>-->
-		</ul>
-		</div>
+    <div class="collapse navbar-collapse" id="navbarNav">
+		<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+			<div class="d-none"><li class="nav-item"><a class="nav-link" href="index.html">Home</a></li></div>
+			<li class="nav-item active"><a class="nav-link active" href="picks.html">Games</a></li>
+			<li class="nav-item"><a class="nav-link" href="results.html">Weekly Results</a></li>
+			<li class="nav-item"><a  class="nav-link" href="standings.html">Season Standings</a></li>
+        </ul>
+		<form class="form-inline">
+		<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+		<li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Profile
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+			<li class="logged-out nav-item" style="display: none;"><a class="dropdown-item" href="log.html" id ="login"></span>Login</a></li>
+			<li class="logged-out nav-item" style="display: none;"><a class="dropdown-item" href="signup.html"> Sign Up</a></li><div class="dropdown-divider"></div>
+			<li class="logged-in dropdown-item" style="display: none;"><a  class="dropdown-item" href="#" id="logout"><i class="bi bi-door-closed-fill"></i>Logout</a></li>
+          </ul>
+        </li></ul>
+		</form>
+	</div>
 	</div>
 </nav>
 
 <form action="" id="save_picks" class="form-inlin justify-content-center">
-<div class="container center_div"><div id='week-title'></div></div>
-<section class="picks">	
-	<div class="selection">
-            <span class='header'><input type="text" id="seasongame1" class="form-control choice" class='choice' required><br><h3>🏀 Enjoy the Madness 🏀</h3></span>
-            <span id='label-choice-seasongame1'></span>
-            <span id="image1" class='choice'></span>
+<div class="container center_div pt-4 text-center"><div id='week-title'></div></div>
+<section class="picks container pt-3">
+<div class="container">
+<div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
+    <div class="col col-6">	
+		<div class="p-3 border bg-light" id="50-point-maker">
+			<span class='header'><input type="text" label="hide"  id="seasongame1" class="form-control choice d-none" class='choice' required><h5 class="pt-3">Game 1</h5></span>
+			<span id='label-choice-seasongame1'></span>
+			<span id="image1" class='choice'></span>
+		</div>
 	</div>
-	<!--  style="color:white;"2️⃣🏀-->
+    <div class="col col-6">	
+		<div class="p-3 border bg-light" id="50-point-maker">
+			<span class='header'><input type="text" label="hide"  id="seasongame2" class="form-control choice d-none" class='choice' required><h5 class="pt-3">Game 2 </h5></span>
+			<span id='label-choice-seasongame2'></span>
+			<span id="image2" class='choice'></span>
+		</div>
+	</div>
+    <div class="col col-6">	
+		<div class="p-3 border bg-light" id="50-point-maker">
+			<span class='header'><input type="text" label="hide"  id="seasongame3" class="form-control choice d-none" class='choice' required><h5 class="pt-3">Game 3 </h5></span>
+			<span id='label-choice-seasongame3'></span>
+			<span id="image3" class='choice'></span>
+		</div>
+	</div>
+    <div class="col col-6">	
+		<div class="p-3 border bg-light" id="50-point-maker">
+			<span class='header'><input type="text" label="hide"  id="seasongame4" class="form-control choice d-none" class='choice' required><h5 class="pt-3">Game 4 </h5></span>
+			<span id='label-choice-seasongame4'></span>
+			<span id="image4" class='choice'></span>
+		</div>
+	</div>
+    <div class="col col-6">	
+		<div class="p-3 border bg-light" id="50-point-maker">
+			<span class='header'><input type="text" label="hide"  id="seasongame5" class="form-control choice d-none" class='choice' required><h5 class="pt-3">Game 5 </h5></span>
+			<span id='label-choice-seasongame5'></span>
+			<span id="image5" class='choice'></span>
+		</div>
+	</div>
+    <div class="col col-6">	
+		<div class="p-3 border bg-light" id="50-point-maker">
+			<span class='header'><input type="text" label="hide"  id="seasongame6" class="form-control choice d-none" class='choice' required><h5 class="pt-3">Game 6 </h5></span>
+			<span id='label-choice-seasongame6'></span>
+			<span id="image6" class='choice'></span>
+		</div>
+	</div>
+    <div class="col col-6">	
+		<div class="p-3 border bg-light" id="50-point-maker">
+			<span class='header'><input type="text" label="hide"  id="seasongame7" class="form-control choice d-none" class='choice' required><h5 class="pt-3">Game 7</h5></span>
+			<span id='label-choice-seasongame7'></span>
+			<span id="image7" class='choice'></span>
+		</div>
+	</div>
+    <div class="col col-6">	
+		<div class="p-3 border bg-light" id="50-point-maker">
+			<span class='header'><input type="text" label="hide"  id="seasongame8" class="form-control choice d-none" class='choice' required><h5 class="pt-3">Game 8</h5></span>
+			<span id='label-choice-seasongame8'></span>
+			<span id="image8" class='choice'></span>
+		</div>
+	</div>
+    <div class="col col-6">	
+		<div class="p-3 border bg-light" id="50-point-maker">
+			<span class='header'><input type="text" label="hide"  id="seasongame9" class="form-control choice d-none" class='choice' required><h5 class="pt-3">Game 9</h5></span>
+			<span id='label-choice-seasongame9'></span>
+			<span id="image9" class='choice'></span>
+		</div>
+	</div>
+    <div class="col col-6">	
+		<div class="p-3 border bg-light" id="50-point-maker">
+			<span class='header'><input type="text" label="hide"  id="seasongame10" class="form-control choice d-none" class='choice' required><h5 class="pt-3">Game 10</h5></span>
+			<span id='label-choice-seasongame10'></span>
+			<span id="image10" class='choice'></span>
+		</div>
+	</div>
 </section><br>
 	<p class="response"></p><div class="alert" role="alert"></div>
 
 	<section class="pick_button">
 		<div><div id="saver"></div>
-			<!--<button type="submit" id="savePicks" disabled class='btn btn-primary'>Lines Not Locked</button>-->
 		</div>
 	</section>
 </form>
@@ -64,7 +133,8 @@
 
 <br>
 <section class="games">
-		<div id="games"><p><a href='totals.html'>Year in Review ATS and Bracket Breakdown</a></p></div>
+	<div id="games" class="row row-cols row-cols-lg-2 g-2 g-lg-3">
+	</div>
 </section>
 
 </body>
@@ -102,6 +172,6 @@
 	<script src="scripts/index.js"></script>
 	<script src="scripts/auth.js"></script>
 	<script src="scripts/js_picks.js"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
 </body>
 </html>

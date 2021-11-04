@@ -20,7 +20,7 @@
     width: 80%;
     min-height: 180px;
     height: auto;
-    background: gray;
+    background: white;
     margin: auto;
     padding: 1px;
 }
@@ -33,6 +33,10 @@
     margin-right: auto;
     padding: 1px;
     text-align:center;
+}
+.logo{
+  max-width: 100%;
+  height: auto;
 }
 .response{
     text-align: center;
@@ -63,7 +67,7 @@
 
 .games-layout {
     width: 50%;
-    height: 160px;
+    height: 180px;
     background: white;
     float: left;
     border: .5px solid gray;
