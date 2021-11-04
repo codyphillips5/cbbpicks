@@ -104,9 +104,9 @@ $.when(requestX, requestY).then(function(){
 				var awayScore = `<img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${awayTeamImage}.vresize.25.25.medium.2.png"> ${awayTeam} ${awayTeamMascot} - ${xFile[key][i].awayScore}`
 				var homeScore = `<br> <img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${homeTeamImage}.vresize.25.25.medium.2.png"> ${homeTeam} ${homeTeamMascot} - ${xFile[key][i].homeScore}`
 				if (xFile[key][i].cover == home)
-				homeScore = `${homeScore}   <span>✅</span>`;
+				homeScore = `${homeScore}   <span>💰</span>`;
 				else if (xFile[key][i].cover == away)
-				  awayScore = `${awayScore}   <span>✅</span>`;
+				  awayScore = `${awayScore}   <span>💰</span>`;
 				select = awayScore + homeScore;
 				gameInfo = '';
 				fin = '<br><sub><b>FINAL</b></sub>';
