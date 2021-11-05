@@ -14,12 +14,12 @@ var getUsers= $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.jso
 		usersList = json;
 });
 
-var week = 15;
+var week = 1;
 for (var y = 1; y <= week; y++) {
-	weekList = weekList + `<th scope="col">Week ${y}</th>`;
+	weekList = weekList + `<th scope="col" class="bg-light text-center bg-gradient">Week ${y}</th>`;
 }
 
-var tableStart = `<div class="table-responsive"> <table class="table table-hover" id="standings-table"><thead><tr><th class="first-col" scope="col">Name</th>${weekList}<th scope="col" class="active">Total</th><th scope="col" class="active">Percent</th></tr></thead><tbody>`;
+var tableStart = `<div class="table-responsive"> <table class="table table-hover" id="standings-table"><thead><tr><th class="first-col bg-light" scope="col">Name</th>${weekList}<th scope="col" class="bg-light text-center bg-gradient">Total</th><th scope="col" class="bg-light text-center bg-gradient">Percent</th></tr></thead><tbody>`;
 
 
 $.when(getStandings, getUsers).then(function(){
@@ -42,23 +42,23 @@ $.when(getStandings, getUsers).then(function(){
 					}
 				}
 			}
-			var tableUser = tableUser + `<tr><th class="first-col">${firstName + " " + lastName}</th>`;
+			var tableUser = tableUser + `<tr><th class="first-col bg-light bg-gradient">${firstName + " " + lastName}</th>`;
 
 			for(var stand = 1; stand <= week; stand++) {
 				//tableUser = tableUser + `<td>${standings[key][i]["week_" + stand]}</td>`;
 				pointTotal = pointTotal + standings[key][i]["week_" + stand];
 				weekTotal++;
 				if(standings[key][i]["week_" + stand + "_top"]) {
-					tableUser = tableUser + `<td class='success'>${standings[key][i]["week_" + stand]}</td>`;
+					tableUser = tableUser + `<td class='table-success text-center'>${standings[key][i]["week_" + stand]}</td>`;
 				}
 				else {
-					tableUser = tableUser + `<td id='week ${stand}'>${standings[key][i]["week_" + stand]}</td>`;
+					tableUser = tableUser + `<td class="text-center" id='week ${stand}'>${standings[key][i]["week_" + stand]}</td>`;
 				}
 			}
 			//calculate score
 			var perc = (pointTotal / (week * 10)) * 100
-			tableUser = tableUser + `<td class="active">${pointTotal}</td>`;
-			tableUser = tableUser + `<td class="active"> ${perc.toFixed(2)}%</td></tr>`;
+			tableUser = tableUser + `<td class="bg-light first-col text-center">${pointTotal}</td>`;
+			tableUser = tableUser + `<td class="bg-light first-col text-center"> ${perc.toFixed(2)}%</td></tr>`;
 		}
 	}
 	tableUser = tableUser.replace("undefined","");
