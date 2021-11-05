@@ -58,7 +58,7 @@ $.when(requestX, requestY).then(function(){
 			var home = xFile[key][i].homeTeam;
 			for (var k in yFile) {
 				for (var j = 0; j < yFile[k].length; j++) {
-					if(home == yFile[k][j].teamId) {
+					if(home == yFile[k][j].teamValue) {
 						homeTeam = yFile[k][j].team;
 						homeTeamVal = yFile[k][j].teamValue;
 						homeTeamMascot = yFile[k][j].teamMascot;
@@ -70,7 +70,7 @@ $.when(requestX, requestY).then(function(){
 			var away = xFile[key][i].awayTeam;
 			for (var k in yFile) {
 				for (var j = 0; j < yFile[k].length; j++) {
-					if(away == yFile[k][j].teamId) {
+					if(away == yFile[k][j].teamValue) {
 						awayTeam = yFile[k][j].team;
 						awayTeamVal = yFile[k][j].teamValue;
 						awayTeamMascot = yFile[k][j].teamMascot;
@@ -128,6 +128,7 @@ $.when(requestX, requestY).then(function(){
 		var first = 1;
 		var date2 = new Date(xFile[key][first - 1].gameTime);
 		var active = xFile[key][first - 1].active;
+
 		console.log(date2);
 		console.log(active);
 	}
