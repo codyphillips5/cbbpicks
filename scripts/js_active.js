@@ -17,6 +17,7 @@ $.when(requestX, requestY).then(function(){
 	for (var key in xFile) {
 		for (var i = 0; i < xFile[key].length; i++) {
 			var gameId = xFile[key][i].gameId;
+			var active = xFile[key][i].active;
 			// set home team values
 			if (active) {
 				arrayActive.push(gameId);
