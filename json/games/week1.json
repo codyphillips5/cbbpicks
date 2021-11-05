@@ -47,7 +47,7 @@
 		"favorite" : "RICH",
 		"spread" : "-",
 		"gameTime" : "2021-11-12T23:00Z",
-		"channel" : "",
+		"channel" : "CBSSN",
 		"active" : false
     },
     {
@@ -87,7 +87,7 @@
 		"favorite" : "GONZ",
 		"spread" : "-",
 		"gameTime" : "2021-11-14T03:30Z",
-		"channel" : "",
+		"channel" : "ESPN2",
 		"active" : false
     },
     {
@@ -97,7 +97,7 @@
 		"favorite" : "FSU",
 		"spread" : "-",
 		"gameTime" : "2021-11-14T18:00Z",
-		"channel" : "",
+		"channel" : "ESPN",
 		"active" : false
     }
   ]
