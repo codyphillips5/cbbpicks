@@ -1,0 +1,104 @@
+{
+  "games": [
+	{
+		"gameId" : 1,
+		"awayTeam" : "KU",
+		"homeTeam" : "MSU",
+		"favorite" : "KU",
+		"spread" : 5.5,
+		"gameTime" : "2021-11-10T00:00Z",
+		"channel" : "ESPN",
+		"active" : false
+    },
+    {
+		"gameId" : 2,
+		"awayTeam" : "LT",
+		"homeTeam" : "ALA",
+		"favorite" : "ALA",
+		"spread" : "-",
+		"gameTime" : "2021-11-10T02:00Z",
+		"channel" : "SECN",
+		"active" : false
+    },
+	{
+		"gameId" : 3,
+		"awayTeam" : "UK",
+		"homeTeam" : "DUKE",
+		"favorite" : "DUKE",
+		"spread" : 1.5,
+		"gameTime" : "2021-11-10T02:30Z",
+		"channel": "ESPN",
+		"active" : false
+    },
+    {
+		"gameId" : 4,
+		"awayTeam" : "BUFF",
+		"homeTeam" : "MICH",
+		"favorite" : "MICH",
+		"spread" : "-",
+		"gameTime" : "2021-11-10T23:30Z",
+		"channel" : "BTN",
+		"active" : false
+    },
+    {
+		"gameId" : 5,
+		"awayTeam" : "USU",
+		"homeTeam" : "RICH",
+		"favorite" : "RICH",
+		"spread" : "-",
+		"gameTime" : "2021-11-12T23:00Z",
+		"channel" : "CBSSN",
+		"active" : false
+    },
+    {
+		"gameId" : 6,
+		"awayTeam" : "SDSU",
+		"homeTeam" : "BYU",
+		"favorite" : "BYU",
+		"spread" : "-",
+		"gameTime" : "2021-11-13T01:30Z",
+		"channel" : "BYUTV",
+		"active" : false
+    },
+    {
+		"gameId" : 7,
+		"awayTeam" : "SMU",
+		"homeTeam" : "ORE",
+		"favorite" : "ORE",
+		"spread" : "-",
+		"gameTime" : "2021-11-13T04:00Z",
+		"channel" : "PACN",
+		"active" : false
+    },
+    {
+		"gameId" : 8,
+		"awayTeam" : "NOVA",
+		"homeTeam" : "UCLA",
+		"favorite" : "UCLA",
+		"spread" : "-",
+		"gameTime" : "2021-11-13T04:30Z",
+		"channel" : "ESPN2",
+		"active" : false
+    },
+    {
+		"gameId" : 9,
+		"awayTeam" : "TEX",
+		"homeTeam" : "GONZ",
+		"favorite" : "GONZ",
+		"spread" : "-",
+		"gameTime" : "2021-11-14T03:30Z",
+		"channel" : "ESPN2",
+		"active" : false
+    },
+    {
+		"gameId" : 10,
+		"awayTeam" : "FSU",
+		"homeTeam" : "FLA",
+		"favorite" : "FSU",
+		"spread" : "-",
+		"gameTime" : "2021-11-14T18:00Z",
+		"channel" : "ESPN",
+		"active" : false
+    }
+  ]
+}
