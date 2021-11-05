@@ -8,17 +8,17 @@
 		"spread" : 5.5,
 		"gameTime" : "2021-11-10T00:00Z",
 		"channel" : "ESPN",
-		"active" : true
+		"active" : false
     },
     {
 		"gameId" : 2,
 		"awayTeam" : "LT",
 		"homeTeam" : "ALA",
 		"favorite" : "ALA",
-		"spread" : 0,
+		"spread" : "-",
 		"gameTime" : "2021-11-10T02:00Z",
 		"channel" : "SECN",
-		"active" : true
+		"active" : false
     },
 	{
 		"gameId" : 3,
@@ -28,7 +28,7 @@
 		"spread" : 1.5,
 		"gameTime" : "2021-11-10T02:30Z",
 		"channel": "ESPN",
-		"active" : true
+		"active" : false
     },
     {
 		"gameId" : 4,
