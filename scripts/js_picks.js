@@ -137,12 +137,8 @@ $.when(requestX, requestY).then(function(){
 		var date2 = new Date(xFile[key][first - 1].gameTime);
 		active = xFile[key][first - 1].active;
 
-		console.log(date2);
-		console.log(active);
-		console.log(arrayActive);
 		for(var i = 1; i < 11; i++) {
 			if (!arrayActive.includes(i)) {	
-				console.log(i);
 				var element = document.getElementById('game-' + i);
 				element.classList.add("bg-light");
 			}
@@ -204,5 +200,6 @@ function getTeamInfo(teamId) {
 function myFunction(arrayValues) {	
 	const note = document.querySelector('#game-' + arrayValues);
 	note.style.backgroundColor = '#e3f2fd';
-	console.log(note);
+	
+	document.getElementById("seasongame"+arrayValues).required = true;
 }

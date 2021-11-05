@@ -27,13 +27,13 @@ var users = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.json"
 	usersFile = json;
 });
 
-//$.getScript("https://codyphillips5.github.io/cbbpicks/scripts/js_picks.js", function() {
+$.getScript("https://codyphillips5.github.io/cbbpicks/scripts/js_picks.js", function() {
    console.log(arrayActive);
    startArray = arrayActive[0];
    lengthArray = arrayActive.length;
    console.log(startArray);
    console.log(lengthArray);
-//});
+});
 
 // create new guide
 const createForm = document.querySelector('#save_picks');
