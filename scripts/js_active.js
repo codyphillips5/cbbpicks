@@ -22,4 +22,5 @@ $.when(requestX, requestY).then(function(){
 				arrayActive.push(gameId);
 			}
 		}
+	}
 });
