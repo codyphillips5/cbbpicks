@@ -11,6 +11,8 @@ attempt = {
 	  thisTeamAbb : "",
 	  thisTeamImg : ""
 };
+
+const arrayActive = []; 
   
 var gameId = "";
 var home = "";
@@ -80,6 +82,8 @@ $.when(requestX, requestY).then(function(){
 			}
 			var spread = xFile[key][i].spread;
 			var fav = xFile[key][i].favorite;
+			var active = xFile[key][i].active;
+			var activeBg = "light";
 			var homeSide = "-";
 			var awaySide = "+";
 			var channel = xFile[key][i].channel;
@@ -94,9 +98,13 @@ $.when(requestX, requestY).then(function(){
 			  awaySide = "";
 			  spread = "PK";
 			}
+			if (active) {
+				arrayActive.push(gameId);
+				activeBg = "style='background-color: #e3f2fd;'";
+			}
 			//badge.className = 'games-layout';
 			//badge.id = 'games-layout';
-			var header = '<div class=\'p-3 border bg-light\'><span class=\'header\'><h5 class=\'pb-2\ lh-1\' style=\'margin-bottom: 0px;\'>' + awayTeam + ' vs ' + homeTeam + ' (' + homeSide + spread + ') </h5>';
+			var header = `<div class='p-3 border bg-${activeBg}' ${activeBg}><span class='header'><h5 class='pb-2 lh-1' style='margin-bottom: 0px;'>${awayTeam} vs ${homeTeam} (${homeSide}${spread}) </h5>`;
 			var gameInfo = '<small class=\'w-100\'> '+ channel + " · " + date.toLocaleString([], {weekday: 'long', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit'}).replace(',',' ·') + '</small>';
 			var fin = '';
 
@@ -127,10 +135,19 @@ $.when(requestX, requestY).then(function(){
 		// set first game of the day
 		var first = 1;
 		var date2 = new Date(xFile[key][first - 1].gameTime);
-		var active = xFile[key][first - 1].active;
+		active = xFile[key][first - 1].active;
 
 		console.log(date2);
 		console.log(active);
+		console.log(arrayActive);
+		for(var i = 1; i < 11; i++) {
+			if (!arrayActive.includes(i)) {	
+				console.log(i);
+				var element = document.getElementById('game-' + i);
+				element.classList.add("bg-light");
+			}
+		}
+		arrayActive.forEach(myFunction);
 	}
   
 	// if current time is after start time of first game, lock
@@ -182,4 +199,10 @@ function getTeamInfo(teamId) {
 			}
 		}
 	});	
+}
+
+function myFunction(arrayValues) {	
+	const note = document.querySelector('#game-' + arrayValues);
+	note.style.backgroundColor = '#e3f2fd';
+	console.log(note);
 }
