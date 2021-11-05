@@ -6,8 +6,9 @@ var coversTeam = [];
 var picksList, teamsList, resultsList, usersList;
 var badge = document.createElement('div');
 badge.className = 'standings';
-var weekNum = 15;
+var weekNum = 2;
 var weekList = "";
+var check = "";
 
 for (var y = weekNum; y >= 1; y--) {
 	weekList = weekList + `<option value ='${y}'> Week ${y} </option>`;
@@ -59,7 +60,7 @@ function getResultsByWeek(week) {
 	});
 	console.log(coversTeam);
 	$.when(getPicks, getResults, getTeams, getUsers).then(function(){
-		var tableStart = `<div class="table-responsive"> <table class="table table-hover" id="results"><thead><tr><th class="first-col small" scope="col">NAME</th>`;
+		var tableStart = `<div class="table-responsive"> <table class="table table-hover" id="results"><thead><tr><th class="first-col bg-light bg-gradient small" scope="col">NAME</th>`;
 		var tableGames;
 		var home, away;
 		// loop through week's game
@@ -82,7 +83,7 @@ function getResultsByWeek(week) {
 			}
 		}
 		
-		tableStart = tableStart + tableGames + `<th scope="col" class='small active text-center'><strong>TOTAL</strong></th></tr></thead><tbody>`;
+		tableStart = tableStart + tableGames + `<th scope="col" class='small bg-light active text-center'><strong>TOTAL</strong></th></tr></thead><tbody>`;
 	
 		for (var key in picksList) {
 			for (var i = 0; i < picksList[key].length; i++) {
@@ -101,7 +102,7 @@ function getResultsByWeek(week) {
 						}
 					}
 				}
-				var tableUser = tableUser + `<tr><th class="first-col">${firstName + " " + lastName}</th>`;
+				var tableUser = tableUser + `<tr><th class="first-col bg-light bg-gradient">${firstName + " " + lastName}</th>`;
 				// check user picks against results
 				for (var gameNum = 1; gameNum <= 10; gameNum++) {
 					var pick = picksList[key][i]["game"+gameNum];
@@ -114,7 +115,7 @@ function getResultsByWeek(week) {
 					}
 
 					if(coversTeam[gameNum-1] == pick) {
-						isCorrect = "success";
+						isCorrect = "success";							check = "✅";
 						pointTotal = pointTotal+1;
 					}
 					else if(gameNum > coversTeam.length) {
@@ -122,15 +123,15 @@ function getResultsByWeek(week) {
 					}
 					else {
 						isCorrect = "danger";				
+						check = "❌";			
 					}
 					if (teamImage)
-						pick = ` <div><img class='center' src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${teamImage}.vresize.75.75.medium.2.png"></div>`;
-						//pick = ` <center><img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${teamImage}.vresize.75.75.medium.2.png"></center>`;
-					tableUser = tableUser + `<td class="${isCorrect}">${pick}</td>`;
+						pick = ` <div class='text-center'><img class='mx-auto' src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${teamImage}.vresize.200.200.medium.2.png"> ${check}</div>`;
+					tableUser = tableUser + `<td class="table-${isCorrect}">${pick}</td>`;
 					teamImage = "";
 				}
 				//calculate score			
-				tableUser = tableUser + `<td class="active text-center">${pointTotal}</td></tr>`;
+				tableUser = tableUser + `<td class="bg-light active fw-bolder text-center">${pointTotal}</td></tr>`;
 			}
 		}
 		tableUser = tableUser.replace("undefined","");
