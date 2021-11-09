@@ -8,7 +8,7 @@
 		"spread" : 4.5,
 		"gameTime" : "2021-11-10T00:00Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 2,
@@ -18,17 +18,17 @@
 		"spread" : 11.5,
 		"gameTime" : "2021-11-10T02:00Z",
 		"channel" : "SECN",
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 3,
 		"awayTeam" : "UK",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2021-11-10T02:30Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 4,
