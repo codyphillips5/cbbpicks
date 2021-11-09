@@ -1849,3 +1849,22 @@ function success() {
 	document.getElementById("savePicks").disabled = true;
 	document.getElementById("savePicks").innerHTML = "Saved";
 }
+
+// forgot-password
+const forgotForm = document.querySelector('#forgot-form');
+if(forgotForm) {
+	console.log("here");
+    forgotForm.addEventListener('submit', (e) => {
+        e.preventDefault();
+        // get user info
+        const email = forgotForm['forgot-email'].value;
+    console.log(email);
+		auth.sendPasswordResetEmail(email).then(cred => {
+			forgotForm.reset();
+            forgotForm.querySelector('.response').innerHTML = `<br><div class="alert alert-success" role="alert">Reset Email Sent. Return to <a href='log.html'>Log In</a></div>`;
+		})
+		.catch(err => {
+			forgotForm.querySelector('.error').innerHTML = `<br><div class="alert alert-danger" role="alert">${err.message}</div>`;
+		});
+    });
+}
