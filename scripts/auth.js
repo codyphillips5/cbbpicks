@@ -33,12 +33,16 @@ var activeScript = $.getScript("https://codyphillips5.github.io/cbbpicks/scripts
    lengthArray = arrayActive.length;
    console.log(startArray);
    console.log(lengthArray);
+   startArray = 1;
+   lengthArray = 3;
+   console.log(startArray);
+   console.log(lengthArray);
 });
-
-   const createForm = document.querySelector('#save_picks');
 
 $.when(activeScript).then(function(){
 // create new guide
+   const createForm = document.querySelector('#save_picks');
+
 if(createForm) {
 	firebase.auth().onAuthStateChanged(user => {
 	var week = db.collection('week' + weekNum).doc(auth.currentUser.email);
