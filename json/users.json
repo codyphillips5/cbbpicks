@@ -223,6 +223,13 @@
 		"LastName" : "Heard",
 		"Email" : "jheard@fuse.net",
 		"paid" : false
+    },
+	{
+		"userId" : 33,
+		"FirstName" : "Cody",
+		"LastName" : "Klug",
+		"Email" : "codyquest@hotmail.com",
+		"paid" : false
     }
 	]
 }
