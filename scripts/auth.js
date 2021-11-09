@@ -33,9 +33,9 @@ var activeScript = $.getScript("https://codyphillips5.github.io/cbbpicks/scripts
    lengthArray = arrayActive.length;
    console.log(startArray);
    console.log(lengthArray);
+   const createForm = document.querySelector('#save_picks');
 });
 
-const createForm = document.querySelector('#save_picks');
 
 $.when(activeScript).then(function(){
 // create new guide
