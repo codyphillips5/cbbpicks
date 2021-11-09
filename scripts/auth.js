@@ -39,9 +39,10 @@ var activeScript = $.getScript("https://codyphillips5.github.io/cbbpicks/scripts
    console.log(lengthArray);
 });
 
+   const createForm = document.querySelector('#save_picks');
+
 $.when(activeScript).then(function(){
 // create new guide
-   const createForm = document.querySelector('#save_picks');
 
 if(createForm) {
 	firebase.auth().onAuthStateChanged(user => {
