@@ -16,7 +16,7 @@ var tournTeam = ""
 
 var standings, teams, resultsList, usersList;
 game = 0;
-week = 15;
+week = 1;
 
 for (var i = 1; i <= week; i++) {
 	var getGames = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week" + i + ".json", function(json){
@@ -52,8 +52,6 @@ var getTourney = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/tourna
 		var object = tourney.atlarge[i];
 		large.push(object["team"]);
 	}
-	console.log(winners);
-	console.log(large);
 });
 
 
@@ -79,6 +77,10 @@ $.when(getGames, getTeams, getTourney).then(function(){
 			for (var j = 0; j < allTeams[0].length; j++) {
 				// set starters
 				var guess = allTeams[0][j];
+				console.log(teams[team][j].teamValue);
+				if (teams[team][j].teamValue == guess) 
+					console.log(teams[team][j].team);
+				
 				var color = "";
 				var percColor = "";
 				switch(allTeams[1][j]) {
@@ -87,7 +89,7 @@ $.when(getGames, getTeams, getTourney).then(function(){
 					case 5:
 					case 3:
 					case 1:
-						color = "active";
+						color = "table-light";
 						break;
 					default:
 						color = "";
@@ -102,7 +104,8 @@ $.when(getGames, getTeams, getTourney).then(function(){
 					const isSameNumber = (element) => element == allTeams[0][j];
 					var spot = coverTeams[0].findIndex(isSameNumber);
 					wins = coverTeams[1][spot];
-					losses = allTeams[1][j] - wins;
+					losses = allTeams[1][j] - wins;	
+					console.log(wins);
 				}
 				else {
 					losses = allTeams[1][j];
@@ -110,19 +113,19 @@ $.when(getGames, getTeams, getTourney).then(function(){
 				
 				perc = (wins / (wins + losses)) * 100;
 				if (perc >= 62.0) {
-					percColor = "success";
+					percColor = "table-success";
 				}
 				else if (perc < 62.0 && perc >= 40.0) {
-					percColor = "warning";
+					percColor = "table-warning";
 				}
 				else if (perc < 40.0) {
-					percColor = "danger";
+					percColor = "table-danger";
 				}
 				else {
 					percColor = color;
 				}
 				
-				if (winners.includes(teams[team][guess].team)) {
+				if (winners.includes(guess)) {
 					tournColor = "info";
 					tournTeam = teams[team][guess].team;
 					tournTeam = tournTeam.toUpperCase();
@@ -130,7 +133,7 @@ $.when(getGames, getTeams, getTourney).then(function(){
 					autoTeams++;
 					tourneyGames = tourneyGames + allTeams[1][j];
 				}
-				else if (large.includes(teams[team][guess].team)) {
+				else if (large.includes(guess)) {
 					tournColor = "info";
 					tournTeam = teams[team][guess].team;
 					largeTeams++;
@@ -139,19 +142,19 @@ $.when(getGames, getTeams, getTourney).then(function(){
 				}
 				else {
 					tournColor = color;
-					tournTeam = teams[team][guess].team;
+					tournTeam = guess;
 				}
 				tourneyTeams = autoTeams + largeTeams;
 				totalGames = totalGames + allTeams[1][j];
-				tableStart = tableStart + `<tr><td id="${teams[team][guess].team}" class="${tournColor}">${tournTeam}</td><td class="${color}">${allTeams[1][j]}</td><td class="${color}">${wins}-${losses}</td><td class="${percColor}">${perc.toFixed(1)}</td>`;
+				tableStart = tableStart + `<tr><td id="${guess}" class="${tournColor}">${tournTeam}</td><td class="${color}">${allTeams[1][j]}</td><td class="${color}">${wins}-${losses}</td><td class="${percColor}">${perc.toFixed(1)}</td>`;
 			}
 		}
 		percTourney = (tourneyGames / totalGames) * 100;
 		var tableEnd = `</tbody></table>`;	
 		document.getElementById("records").innerHTML = `<dl>
 			<dt>Team Records</dt>
-			<dd><li>Records reflected through Game ${game} of Week ${week}.</li></dd>
-			<dt>Dancin' Designations</dt>
+			<dd><li>Records reflected through Game ${game} of Week ${week}.</li></dd>`;
+			/*`<dt>Dancin' Designations</dt>
 			<dd><li>Tournament teams are designated with a blue background.</li></dd> 
 			<dd><li>Auto qualifiers are listed in <b>bold</b> CAPS.</li></dd>
 			<dt>Picks in the Postseason</dt>
@@ -159,7 +162,7 @@ $.when(getGames, getTeams, getTourney).then(function(){
 			<dd><li>We selected <b>${autoTeams}</b> of the ${winners.length} auto bids.</li></dd>
 			<dd><li>We selected <b>${largeTeams}</b> of the ${large.length} at-large bids.</li></dd>
 			<dd><li>A tournament team was offered in <b>${tourneyGames} (${percTourney.toFixed(1)}%)</b> of ${totalGames} options.</li></dd>
-			</dl>`;
+			</dl>`;*/
 		document.getElementById("standings").innerHTML = tableStart + tableEnd;
 		sortTable(4);
 		sortTable(2);		
