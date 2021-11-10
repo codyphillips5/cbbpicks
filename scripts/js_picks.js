@@ -133,18 +133,24 @@ $.when(requestX, requestY).then(function(){
 			document.getElementById(key).appendChild(badge);
 			//document.getElementsByClassName(badge.id)[i].appendChild(yourPick);
 		}
+		
 		// set first game of the day
-		var first = 4;
-		var date2 = new Date(xFile[key][first - 1].gameTime);
-		active = xFile[key][first - 1].active;
+		var firstSet = [];
+		var first = 0;
 
 		for(var i = 1; i < 11; i++) {
+			if(typeof xFile[key][i-1].cover == 'undefined'){
+				if (first == 0)
+					first = i;
+			}
 			if (!arrayActive.includes(i)) {	
 				var element = document.getElementById('game-' + i);
 				element.classList.add("bg-light");
 			}
 		}
 		arrayActive.forEach(myFunction);
+		var date2 = new Date(xFile[key][first - 1].gameTime);
+		active = xFile[key][first - 1].active;
 	}
   
 	// if current time is after start time of first game, lock
