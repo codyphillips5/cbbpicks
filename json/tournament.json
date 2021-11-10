@@ -2,240 +2,240 @@
   "auto": [
 	{
 		"conf" : "AAC",
-		"winner" : "Houston"
+		"winner" : ""
 	},
 	{
 		"conf" : "ACC",
-		"winner" : "Georgia Tech"
+		"winner" : ""
 	},
 	{
 		"conf" : "America East",
-		"winner" : "Hartford"
+		"winner" : ""
 	},
 	{
 		"conf" : "A-10",
-		"winner" : "St. Bonaventure"
+		"winner" : ""
 	},
 	{
 		"conf": "ASUN",
-		"winner" : "Liberty"
+		"winner" : ""
 	},
 	{
 		"conf" : "Big 12",
-		"winner" : "Texas"
+		"winner" : ""
 	},
 	{
 		"conf" : "Big East",
-		"winner" : "Georgetown"
+		"winner" : ""
 	},
 	{
 		"conf" : "Big Sky",
-		"winner" : "Eastern Washington"
+		"winner" : ""
 	},
 	{
 		"conf" :"Big South",
-		"winner" : "Winthrop"
+		"winner" : ""
 	},
 	{
 		"conf" : "B1G",
-		"winner" : "Illinois"
+		"winner" : ""
 	},
 	{
 		"conf" : "Big West",
-		"winner" : "UC Santa Barbara"
+		"winner" : ""
 	},
 	{
 		"conf" : "Colonial",
-		"winner" : "Drexel"
+		"winner" : ""
 	},
 	{
 		"conf" : "C-USA",
-		"winner" : "North Texas"
+		"winner" : ""
 	},
 	{
 		"conf" : "Horizon",
-		"winner" : "Cleveland State"
+		"winner" : ""
 	},
 	{
 		"conf" : "MAAC",
-		"winner" : "Iona"
+		"winner" : ""
 	},
 	{
 		"conf" : "MAC",
-		"winner" : "Ohio"
+		"winner" : ""
 	},
 	{
 		"conf" : "MEAC",
-		"winner" : "Norfolk State"
+		"winner" : ""
 	},
 	{
 		"conf" : "MVC",
-		"winner" : "Loyola Chicago"
+		"winner" : ""
 	},
 	{
 		"conf" : "MW",
-		"winner": "San Diego State"
+		"winner": ""
 	},
 	{
 		"conf" : "Northeast",
-		"winner" : "Mount St. Mary's"
+		"winner" : ""
 	},
 	{
 		"conf" :"OVC",
-		"winner" : "Morehead State"	
+		"winner" : ""	
 	},
 	{
 		"conf" : "PAC12",
-		"winner" : "Oregon State"
+		"winner" : ""
 	},
 	{
 		"conf" : "Patriot",
-		"winner" : "Colgate"
+		"winner" : ""
 	},
 	{
 		"conf" : "SEC",
-		"winner" : "Alabama"
+		"winner" : ""
 	},
 	{
 		"conf" : "SoCon",
-		"winner" : "UNC Greensboro"
+		"winner" : ""
 	},
 	{
 		"conf" : "Southland",
-		"winner" : "Abilene Christian"
+		"winner" : ""
 	},
 	{
 		"conf" : "SWAC",
-		"winner" : "Texas Southern"
+		"winner" : ""
 	},
 	{
 		"conf" : "Summit",
-		"winner" : "Oral Roberts"
+		"winner" : ""
 	},
 	{
 		"conf" : "Sun Belt",
-		"winner" : "Appalachian State"
+		"winner" : ""
 	},
 	{
 		"conf" : "WAC",
-		"winner" : "Grand Canyon"
+		"winner" : ""
 	},
 	{
 		"conf" : "WCC",
-		"winner" : "Gonzaga"
+		"winner" : ""
 	}
 	],
 	"atlarge": [
 	{
-		"team": "Baylor"
+		"team": ""
 	},
 	{
-		"team": "Michigan"
+		"team": ""
 	},
 	{
-		"team": "Ohio State"
+		"team": ""
 	},
 	{
-		"team": "Iowa"
+		"team": ""
 	},
 	{
-		"team": "Arkansas"
+		"team": ""
 	},
 	{
-		"team": "West Virginia"
+		"team": ""
 	},
 	{
-		"team": "Kansas"
+		"team": ""
 	},
 	{
-		"team": "Florida State"
+		"team": ""
 	},
 	{
-		"team": "Purdue"
+		"team": ""
 	},
 	{
-		"team": "Oklahoma State"
+		"team": ""
 	},
 	{
-		"team": "Virginia"
+		"team": ""
 	},
 	{
-		"team": "Creighton"
+		"team": ""
 	},
 	{
-		"team": "Villanova"
+		"team": ""
 	},
 	{
-		"team": "Tennessee"
+		"team": ""
 	},
 	{
-		"team": "Colorado"
+		"team": ""
 	},
 	{
-		"team": "USC"
+		"team": ""
 	},
 	{
-		"team": "Texas Tech"
+		"team": ""
 	},
 	{
-		"team": "BYU"
+		"team": ""
 	},
 	{
-		"team": "Oregon"
+		"team": ""
 	},
 	{
-		"team": "Connecticut"
+		"team": ""
 	},
 	{
-		"team": "Clemson"
+		"team": ""
 	},
 	{
-		"team": "Florida"
+		"team": ""
 	},
 	{
-		"team": "LSU"
+		"team": ""
 	},
 	{
-		"team": "North Carolina"
+		"team": ""
 	},
 	{
-		"team": "Oklahoma"
+		"team": ""
 	},
 	{
-		"team": "Missouri"
+		"team": ""
 	},
 	{
-		"team": "Wisconsin"
+		"team": ""
 	},
 	{
-		"team": "Maryland"
+		"team": ""
 	},
 	{
-		"team": "Virginia Tech"
+		"team": ""
 	},
 	{
-		"team": "VCU"
+		"team": ""
 	},
 	{
-		"team": "Rutgers"
+		"team": ""
 	},
 	{
-		"team": "Syracuse"
+		"team": ""
 	},
 	{
-		"team": "Utah State"
+		"team": ""
 	},
 	{
-		"team": "Michigan State"
+		"team": ""
 	},
 	{
-		"team": "UCLA"
+		"team": ""
 	},
 	{
-		"team": "Wichita State"
+		"team": ""
 	},
 	{
-		"team": "Drake"
+		"team": ""
 	}
 	]
 }
