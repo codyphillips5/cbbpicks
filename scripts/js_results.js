@@ -34,7 +34,8 @@ function getResultsByWeek(week) {
 		// get results
 		for (var result in resultsList) {
 			for (var r = 0; r < resultsList[result].length; r++) {
-				coversNum.push(resultsList[result][r].cover);
+				if(resultsList[result][r].cover)
+					coversTeam.push(resultsList[result][r].cover);
 			}
 		}
 	});
@@ -47,18 +48,7 @@ function getResultsByWeek(week) {
 		usersList = json;
 	});
 
-	$.when(getResults, getTeams).then(function(){
-		for (var cov = 0; cov < coversNum.length; cov++) {
-			for (var team in teamsList) {
-				for (var t = 0; t < teamsList[team].length; t++) {
-					if (coversNum[cov] == teamsList[team][t].teamId) {
-						coversTeam.push(teamsList[team][t].teamValue);
-					}
-				}
-			}
-		}
-	});
-	console.log(coversTeam);
+
 	$.when(getPicks, getResults, getTeams, getUsers).then(function(){
 		var tableStart = `<div class="table-responsive"> <table class="table table-hover" id="results"><thead><tr><th class="first-col bg-light bg-gradient small" scope="col">NAME</th>`;
 		var tableGames;
@@ -115,11 +105,13 @@ function getResultsByWeek(week) {
 					}
 
 					if(coversTeam[gameNum-1] == pick) {
-						isCorrect = "success";							check = "✅";
+						isCorrect = "success";
+						check = "✅";
 						pointTotal = pointTotal+1;
 					}
 					else if(gameNum > coversTeam.length) {
 						isCorrect = "";
+						check = "";
 					}
 					else {
 						isCorrect = "danger";				
