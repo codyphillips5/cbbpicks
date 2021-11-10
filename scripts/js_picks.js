@@ -29,6 +29,7 @@ var homeSide = "";
 var awaySide = "";
 var required = "";
 var gog = "";
+var coversTeam = [];
   
 // week of year, first game
 var week = 1;
@@ -112,9 +113,9 @@ $.when(requestX, requestY).then(function(){
 				var awayScore = `<span class='teamlist'><img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${awayTeamImage}.vresize.25.25.medium.2.png"> ${awayTeam} ${awayTeamMascot} - ${xFile[key][i].awayScore}`
 				var homeScore = `<img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${homeTeamImage}.vresize.25.25.medium.2.png"> ${homeTeam} ${homeTeamMascot} - ${xFile[key][i].homeScore}`
 				if (xFile[key][i].cover == home)
-				homeScore = `${homeScore} 💰`;
+					homeScore = `${homeScore} 💰`;
 				else if (xFile[key][i].cover == away)
-				  awayScore = `${awayScore} 💰`;
+					awayScore = `${awayScore} 💰`;
 				select = awayScore + "<br>" + homeScore + "</span>";
 				gameInfo = '';
 				fin = '<sub><b>FINAL</b></sub>';
@@ -133,7 +134,7 @@ $.when(requestX, requestY).then(function(){
 			//document.getElementsByClassName(badge.id)[i].appendChild(yourPick);
 		}
 		// set first game of the day
-		var first = 1;
+		var first = 4;
 		var date2 = new Date(xFile[key][first - 1].gameTime);
 		active = xFile[key][first - 1].active;
 
