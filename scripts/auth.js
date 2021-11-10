@@ -20,12 +20,24 @@ auth.onAuthStateChanged(user => {
 })
 var startArray = 0;
 var lengthArray = 0;
+var coversTeam = [];
 var weekNum = 1;
 var empty = false;
 var firstName;
 var users = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.json", function(json){
 	usersFile = json;
 });
+
+var getResults = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week" + weekNum + ".json", function(json){
+		resultsList = json;
+		// get results
+		for (var result in resultsList) {
+			for (var r = 0; r < resultsList[result].length; r++) {
+				if(resultsList[result][r].cover)
+					coversTeam.push(resultsList[result][r].cover);
+			}
+		}
+	});
 
 var activeScript = $.getScript("https://codyphillips5.github.io/cbbpicks/scripts/js_active.js", function() {
    console.log(arrayActive);
@@ -41,9 +53,8 @@ var activeScript = $.getScript("https://codyphillips5.github.io/cbbpicks/scripts
 
    const createForm = document.querySelector('#save_picks');
 
-$.when(activeScript).then(function(){
+$.when(getResults, activeScript).then(function(){
 // create new guide
-
 if(createForm) {
 	firebase.auth().onAuthStateChanged(user => {
 	var week = db.collection('week' + weekNum).doc(auth.currentUser.email);
@@ -52,33 +63,213 @@ if(createForm) {
 		.then((docSnapshot) => {
 			if (docSnapshot.data()) {
 				if (docSnapshot.data().game1 !== undefined) { 
+					if (coversTeam.length >= 1) {
+						if (docSnapshot.data().game1 == coversTeam[0]) { 
+							var element = document.getElementById('game-1');
+							element.classList.remove("bg-light");
+							element.classList.add("bg-success");  
+							element.classList.add("p-2");
+							element.classList.add("text-dark");
+							element.classList.add("bg-opacity-25");
+						}
+						else {
+							var element = document.getElementById('game-1');
+							element.classList.remove("bg-light");
+							element.classList.add("bg-danger");
+							element.classList.add("p-2");
+							element.classList.add("text-dark");
+							element.classList.add("bg-opacity-25");
+						}
+					}						
 					document.getElementById("label-choice-seasongame1").innerHTML = `<label class="choice">${docSnapshot.data().game1} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 				}
 				if (docSnapshot.data().game2 !== undefined) { 
+					if (coversTeam.length >= 2) {
+						if (docSnapshot.data().game2 == coversTeam[1]) { 
+							var element = document.getElementById('game-2');
+							element.classList.remove("bg-light");
+							element.classList.add("bg-success");  
+							element.classList.add("p-2");
+							element.classList.add("text-dark");
+							element.classList.add("bg-opacity-25");
+						}
+						else {
+							var element = document.getElementById('game-2');
+							element.classList.remove("bg-light");
+							element.classList.add("bg-danger");
+							element.classList.add("p-2");
+							element.classList.add("text-dark");
+							element.classList.add("bg-opacity-25");
+						}
+					}
 					document.getElementById("label-choice-seasongame2").innerHTML = `<label class="choice">${docSnapshot.data().game2} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 				}
 				if (docSnapshot.data().game3 !== undefined) { 
+					if (coversTeam.length >= 3) {
+						if (docSnapshot.data().game3 == coversTeam[2]) { 
+							var element = document.getElementById('game-3');
+							element.classList.remove("bg-light");
+							element.classList.add("bg-success");  
+							element.classList.add("p-2");
+							element.classList.add("text-dark");
+							element.classList.add("bg-opacity-25");
+						}
+						else {
+							var element = document.getElementById('game-3');
+							element.classList.remove("bg-light");
+							element.classList.add("bg-danger");
+							element.classList.add("p-2");
+							element.classList.add("text-dark");
+							element.classList.add("bg-opacity-25");
+						}
+					}
 					document.getElementById("label-choice-seasongame3").innerHTML = `<label class="choice">${docSnapshot.data().game3} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 				}
 				if (docSnapshot.data().game4 !== undefined) { 
+					if (coversTeam.length >= 4) {
+						if (docSnapshot.data().game4 == coversTeam[3]) { 
+							var element = document.getElementById('game-4');
+							element.classList.remove("bg-light");
+							element.classList.add("bg-success");  
+							element.classList.add("p-2");
+							element.classList.add("text-dark");
+							element.classList.add("bg-opacity-25");
+						}
+						else {
+							var element = document.getElementById('game-4');
+							element.classList.remove("bg-light");
+							element.classList.add("bg-danger");
+							element.classList.add("p-2");
+							element.classList.add("text-dark");
+							element.classList.add("bg-opacity-25");
+						}
+					}
 					document.getElementById("label-choice-seasongame4").innerHTML = `<label class="choice">${docSnapshot.data().game4} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 				}
 				if (docSnapshot.data().game5 !== undefined) { 
+					if (coversTeam.length >= 5) {
+						if (docSnapshot.data().game5 == coversTeam[4]) { 
+							var element = document.getElementById('game-5');
+							element.classList.remove("bg-light");
+							element.classList.add("bg-success");  
+							element.classList.add("p-2");
+							element.classList.add("text-dark");
+							element.classList.add("bg-opacity-25");
+						}
+						else {
+							var element = document.getElementById('game-5');
+							element.classList.remove("bg-light");
+							element.classList.add("bg-danger");
+							element.classList.add("p-2");
+							element.classList.add("text-dark");
+							element.classList.add("bg-opacity-25");
+						}
+					}
 					document.getElementById("label-choice-seasongame5").innerHTML = `<label class="choice">${docSnapshot.data().game5} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 				}
 				if (docSnapshot.data().game6 !== undefined) { 
+					if (coversTeam.length >= 6) {
+						if (docSnapshot.data().game6 == coversTeam[5]) { 
+							var element = document.getElementById('game-6');
+							element.classList.remove("bg-light");
+							element.classList.add("bg-success");  
+							element.classList.add("p-2");
+							element.classList.add("text-dark");
+							element.classList.add("bg-opacity-25");
+						}
+						else {
+							var element = document.getElementById('game-6');
+							element.classList.remove("bg-light");
+							element.classList.add("bg-danger");
+							element.classList.add("p-2");
+							element.classList.add("text-dark");
+							element.classList.add("bg-opacity-25");
+						}
+					}
 					document.getElementById("label-choice-seasongame6").innerHTML = `<label class="choice">${docSnapshot.data().game6} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 				}
 				if (docSnapshot.data().game7 !== undefined) { 
+					if (coversTeam.length >= 7) {
+						if (docSnapshot.data().game7 == coversTeam[6]) { 
+							var element = document.getElementById('game-7');
+							element.classList.remove("bg-light");
+							element.classList.add("bg-success");  
+							element.classList.add("p-2");
+							element.classList.add("text-dark");
+							element.classList.add("bg-opacity-25");
+						}
+						else {
+							var element = document.getElementById('game-7');
+							element.classList.remove("bg-light");
+							element.classList.add("bg-danger");
+							element.classList.add("p-2");
+							element.classList.add("text-dark");
+							element.classList.add("bg-opacity-25");
+						}
+					}
 					document.getElementById("label-choice-seasongame7").innerHTML = `<label class="choice">${docSnapshot.data().game7} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 				}
 				if (docSnapshot.data().game8 !== undefined) { 
+					if (coversTeam.length >= 8) {
+						if (docSnapshot.data().game8 == coversTeam[7]) { 
+							var element = document.getElementById('game-8');
+							element.classList.remove("bg-light");
+							element.classList.add("bg-success");  
+							element.classList.add("p-2");
+							element.classList.add("text-dark");
+							element.classList.add("bg-opacity-25");
+						}
+						else {
+							var element = document.getElementById('game-8');
+							element.classList.remove("bg-light");
+							element.classList.add("bg-danger");
+							element.classList.add("p-2");
+							element.classList.add("text-dark");
+							element.classList.add("bg-opacity-25");
+						}
+					}
 					document.getElementById("label-choice-seasongame8").innerHTML = `<label class="choice">${docSnapshot.data().game8} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 				}
-				if (docSnapshot.data().game9 !== undefined) { 
+				if (docSnapshot.data().game9 !== undefined) {
+					if (coversTeam.length >= 9) {
+						if (docSnapshot.data().game9 == coversTeam[8]) { 
+							var element = document.getElementById('game-9');
+							element.classList.remove("bg-light");
+							element.classList.add("bg-success");  
+							element.classList.add("p-2");
+							element.classList.add("text-dark");
+							element.classList.add("bg-opacity-25");
+						}
+						else {
+							var element = document.getElementById('game-9');
+							element.classList.remove("bg-light");
+							element.classList.add("bg-danger");
+							element.classList.add("p-2");
+							element.classList.add("text-dark");
+							element.classList.add("bg-opacity-25");
+						}
+					} 
 					document.getElementById("label-choice-seasongame9").innerHTML = `<label class="choice">${docSnapshot.data().game9} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 				}
 				if (docSnapshot.data().game10 !== undefined) { 
+					if (coversTeam.length >= 10) {
+						if (docSnapshot.data().game10 == coversTeam[9]) { 
+							var element = document.getElementById('game-10');
+							element.classList.remove("bg-light");
+							element.classList.add("bg-success");  
+							element.classList.add("p-2");
+							element.classList.add("text-dark");
+							element.classList.add("bg-opacity-25");
+						}
+						else {
+							var element = document.getElementById('game-10');
+							element.classList.remove("bg-light");
+							element.classList.add("bg-danger");
+							element.classList.add("p-2");
+							element.classList.add("text-dark");
+							element.classList.add("bg-opacity-25");
+						}
+					}
 					document.getElementById("label-choice-seasongame10").innerHTML = `<label class="choice">${docSnapshot.data().game10} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 				}
 			}
