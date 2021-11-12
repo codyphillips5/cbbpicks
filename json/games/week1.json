@@ -41,7 +41,7 @@
 		"awayTeam" : "USU",
 		"homeTeam" : "RICH",
 		"favorite" : "RICH",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2021-11-12T23:00Z",
 		"channel" : "CBSSN",
 		"active" : false
@@ -51,7 +51,7 @@
 		"awayTeam" : "SDSU",
 		"homeTeam" : "BYU",
 		"favorite" : "BYU",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2021-11-13T02:00Z",
 		"channel" : "BYUTV",
 		"active" : false
@@ -61,7 +61,7 @@
 		"awayTeam" : "SMU",
 		"homeTeam" : "ORE",
 		"favorite" : "ORE",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2021-11-13T04:00Z",
 		"channel" : "PACN",
 		"active" : false
@@ -71,7 +71,7 @@
 		"awayTeam" : "NOVA",
 		"homeTeam" : "UCLA",
 		"favorite" : "UCLA",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2021-11-13T04:30Z",
 		"channel" : "ESPN2",
 		"active" : false
