@@ -68,7 +68,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2021-11-13T04:00Z",
 		"channel" : "PACN",
-		"active" : true
+		"awayScore" : 63,
+		"homeScore" : 86,
+		"cover" : "ORE"
     },
     {
 		"gameId" : 7,
