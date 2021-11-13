@@ -44,7 +44,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2021-11-12T23:00Z",
 		"channel" : "CBSSN",
-		"active" : true
+		"awayScore" : 85,
+		"homeScore" : 74,
+		"cover" : "USU"
     },
     {
 		"gameId" : 5,
@@ -54,7 +56,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2021-11-13T02:00Z",
 		"channel" : "BYUTV",
-		"active" : true
+		"awayScore" : 60,
+		"homeScore" : 66,
+		"cover" : "BYU"
     },
     {
 		"gameId" : 6,
