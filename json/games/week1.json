@@ -80,7 +80,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2021-11-13T04:30Z",
 		"channel" : "ESPN2",
-		"active" : true
+		"awayScore" : 77,
+		"homeScore" : 86,
+		"cover" : "UCLA"
     },
     {
 		"gameId" : 8,
