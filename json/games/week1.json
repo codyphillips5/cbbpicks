@@ -92,7 +92,9 @@
 		"spread" : 10.5,
 		"gameTime" : "2021-11-13T19:00Z",
 		"channel" : "ESPN+",
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 77,
+		"cover" : "COLG"
     },
     {
 		"gameId" : 9,
@@ -102,17 +104,19 @@
 		"spread" : 7.5,
 		"gameTime" : "2021-11-14T03:30Z",
 		"channel" : "ESPN2",
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 86,
+		"cover" : "GONZ"
     },
     {
 		"gameId" : 10,
 		"awayTeam" : "FSU",
 		"homeTeam" : "FLA",
 		"favorite" : "FSU",
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2021-11-14T18:00Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
     }
   ]
 }
