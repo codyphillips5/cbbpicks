@@ -77,7 +77,7 @@
 		"favorite" : "TBD",
 		"spread" : "-",
 		"gameTime" : "2021-11-21T17:00Z",
-		"channel" : "",
+		"channel" : "HOF Tip-Off",
 		"active" : false
     },
     {
@@ -87,7 +87,7 @@
 		"favorite" : "TBD",
 		"spread" : "-",
 		"gameTime" : "2021-11-21T17:00Z",
-		"channel" : "",
+		"channel" : "Roman Main Event",
 		"active" : false
     },
     {
@@ -97,7 +97,7 @@
 		"favorite" : "TBD",
 		"spread" : "-",
 		"gameTime" : "2021-11-21T17:00Z",
-		"channel" : "",
+		"channel" : "Charleston Classic",
 		"active" : false
     }
   ]
