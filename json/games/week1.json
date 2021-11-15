@@ -116,7 +116,9 @@
 		"spread" : 0,
 		"gameTime" : "2021-11-14T18:00Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 55,
+		"homeScore" : 71,
+		"cover" : "FLA"
     }
   ]
 }
