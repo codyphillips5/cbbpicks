@@ -31,14 +31,14 @@ function getResultsByWeek(week) {
 	
 	var getResults = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week" + week + ".json", function(json){
 		resultsList = json;
-		/*// get results
+		/**/// get results
 		for (var result in resultsList) {
 			for (var r = 0; r < resultsList[result].length; r++) {
 				if(resultsList[result][r].cover)
 					coversTeam.push(resultsList[result][r].cover);
 
 			}
-		}*/
+		}
 	});	
 	var getTeams = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/teams.json", function(json){
 		teamsList = json;
@@ -103,7 +103,9 @@ function getResultsByWeek(week) {
 							}
 						}
 					}
-
+					
+					console.log(coversTeam);
+					
 					if(coversTeam[gameNum-1] == pick) {
 						isCorrect = "success";
 						check = "✅";
