@@ -32,7 +32,7 @@ var gog = "";
 var coversTeam = [];
   
 // week of year, first game
-var week = 1;
+var week = 2;
 if (week === 0) {
 	document.getElementById("week-title").innerHTML = `<h2>🏀 March Madness</h2>`;
 }
