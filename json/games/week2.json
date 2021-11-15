@@ -1,0 +1,104 @@
+{
+  "games": [
+	{
+		"gameId" : 1,
+		"awayTeam" : "UVA",
+		"homeTeam" : "HOU",
+		"favorite" : "HOU",
+		"spread" : "-",
+		"gameTime" : "2021-11-17T01:00Z",
+		"channel" : "ESPN",
+		"active" : false
+    },
+    {
+		"gameId" : 2,
+		"awayTeam" : "SLU",
+		"homeTeam" : "MEM",
+		"favorite" : "MEM",
+		"spread" : "-",
+		"gameTime" : "2021-11-17T01:00Z",
+		"channel" : "ESPN+",
+		"active" : false
+    },
+	{
+		"gameId" : 3,
+		"awayTeam" : "SETON",
+		"homeTeam" : "MICH",
+		"favorite" : "MICH",
+		"spread" : "-",
+		"gameTime" : "2021-11-17T02:00Z",
+		"channel" : "FS1",
+		"active" : false
+    },
+    {
+		"gameId" : 4,
+		"awayTeam" : "STJOHN",
+		"homeTeam" : "IND",
+		"favorite" : "IND",
+		"spread" : "-",
+		"gameTime" : "2021-11-18T02:00Z",
+		"channel" : "FS1",
+		"active" : false
+    },
+    {
+		"gameId" : 5,
+		"awayTeam" : "OSU",
+		"homeTeam" : "XAV",
+		"favorite" : "XAV",
+		"spread" : "-",
+		"gameTime" : "2021-11-18T23:30Z",
+		"channel" : "FS1",
+		"active" : false
+    },
+    {
+		"gameId" : 6,
+		"awayTeam" : "NOVA",
+		"homeTeam" : "TENN",
+		"favorite" : "TENN",
+		"spread" : "-",
+		"gameTime" : "2021-11-20T18:00Z",
+		"channel" : "ESPNEWS",
+		"active" : false
+    },
+    {
+		"gameId" : 7,
+		"awayTeam" : "UNC",
+		"homeTeam" : "PURD",
+		"favorite" : "PURD",
+		"spread" : "-",
+		"gameTime" : "2021-11-20T21:00Z",
+		"channel" : "ESPNEWS",
+		"active" : false
+    },
+    {
+		"gameId" : 8,
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2021-11-21T17:00Z",
+		"channel" : "",
+		"active" : false
+    },
+    {
+		"gameId" : 9,
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2021-11-21T17:00Z",
+		"channel" : "",
+		"active" : false
+    },
+    {
+		"gameId" : 10,
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2021-11-21T17:00Z",
+		"channel" : "",
+		"active" : false
+    }
+  ]
+}
