@@ -14,8 +14,8 @@ var getUsers= $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.jso
 		usersList = json;
 });
 
-var week = 1;
-for (var y = 1; y <= week; y++) {
+var standWeek = 1;
+for (var y = 1; y <= standWeek; y++) {
 	weekList = weekList + `<th scope="col" class="bg-light text-center bg-gradient">Week ${y}</th>`;
 }
 
@@ -44,7 +44,7 @@ $.when(getStandings, getUsers).then(function(){
 			}
 			var tableUser = tableUser + `<tr><th class="first-col bg-light bg-gradient">${firstName + " " + lastName}</th>`;
 
-			for(var stand = 1; stand <= week; stand++) {
+			for(var stand = 1; stand <= standWeek; stand++) {
 				//tableUser = tableUser + `<td>${standings[key][i]["week_" + stand]}</td>`;
 				pointTotal = pointTotal + standings[key][i]["week_" + stand];
 				weekTotal++;
@@ -56,7 +56,7 @@ $.when(getStandings, getUsers).then(function(){
 				}
 			}
 			//calculate score
-			var perc = (pointTotal / (week * 10)) * 100
+			var perc = (pointTotal / (standWeek * 10)) * 100
 			tableUser = tableUser + `<td class="bg-light first-col text-center">${pointTotal}</td>`;
 			tableUser = tableUser + `<td class="bg-light first-col text-center"> ${perc.toFixed(2)}%</td></tr>`;
 		}
