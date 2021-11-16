@@ -5,29 +5,29 @@
 		"awayTeam" : "UVA",
 		"homeTeam" : "HOU",
 		"favorite" : "HOU",
-		"spread" : "-",
+		"spread" : 8.5,
 		"gameTime" : "2021-11-17T01:00Z",
 		"channel" : "ESPN",
 		"active" : false
     },
-    {
-		"gameId" : 2,
-		"awayTeam" : "SLU",
-		"homeTeam" : "MEM",
-		"favorite" : "MEM",
-		"spread" : "-",
-		"gameTime" : "2021-11-17T01:00Z",
-		"channel" : "ESPN+",
-		"active" : false
-    },
 	{
-		"gameId" : 3,
+		"gameId" : 2,
 		"awayTeam" : "SETON",
 		"homeTeam" : "MICH",
 		"favorite" : "MICH",
-		"spread" : "-",
+		"spread" : 8.5,
 		"gameTime" : "2021-11-17T02:00Z",
 		"channel" : "FS1",
+		"active" : false
+    },
+    {
+		"gameId" : 3,
+		"awayTeam" : "BYU",
+		"homeTeam" : "ORE",
+		"favorite" : "ORE",
+		"spread" : 4.5,
+		"gameTime" : "2021-11-17T01:00Z",
+		"channel" : "ESPN",
 		"active" : false
     },
     {
