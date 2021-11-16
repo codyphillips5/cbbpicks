@@ -12,1554 +12,1554 @@
 		"team" : "Cincinnati",
 		"teamMascot" : "Bearcats",
 		"teamValue" : "CINCY",
-		"teamImage" : 116
+		"teamImage" : "Cincinnati"
     },
 	{
 		"teamId" : 2,
 		"team" : "Connecticut",
 		"teamMascot" : "Huskies",
 		"teamValue" : "UCONN",
-		"teamImage" : 129
+		"teamImage" : "Connecticut"
     },
 	{
 		"teamId" : 3,
 		"team" : "East Carolina",
 		"teamMascot" : "Pirates",
 		"teamValue" : "ECU",
-		"teamImage" : 178
+		"teamImage" : "EastCarolina"
     },
 	{
 		"teamId" : 4,
 		"team" : "Houston",
 		"teamMascot" : "Cougars",
 		"teamValue" : "HOU",
-		"teamImage" : 254
+		"teamImage" : "Houston"
     },
 	{
 		"teamId" : 5,
 		"team" : "Memphis",
 		"teamMascot" : "Tigers",
 		"teamValue" : "MEM",
-		"teamImage" : 349
+		"teamImage" : "Memphis"
     },
 	{
 		"teamId" : 6,
 		"team" : "SMU",
 		"teamMascot" : "Mustangs",
 		"teamValue" : "SMU",
-		"teamImage" : 515
+		"teamImage" : "SMU"
     },
 	{
 		"teamId" : 7,
 		"team" : "South Florida",
 		"teamMascot" : "Bulls",
 		"teamValue" : "USF",
-		"teamImage" : 526
+		"teamImage" : "SouthFlorida"
     },
 	{
 		"teamId" : 8,
 		"team" : "Temple",
 		"teamMascot" : "Owls",
 		"teamValue" : "TEM",
-		"teamImage" : 577
+		"teamImage" : "Temple"
     },
 	{
 		"teamId" : 9,
 		"team" : "Tulane",
 		"teamMascot" : "Green Wave",
 		"teamValue" : "TUL",
-		"teamImage" : 598
+		"teamImage" : "Tulane"
     },
 	{
 		"teamId" : 10,
 		"team" : "Tulsa",
 		"teamMascot" : "Golden Hurricane",
 		"teamValue" : "TULSA",
-		"teamImage" : 599
+		"teamImage" : "Tulsa"
     },
 	{
 		"teamId" : 11,
 		"team" : "UCF",
 		"teamMascot" : "Knights",
 		"teamValue" : "UCF",
-		"teamImage" : 103
+		"teamImage" : "UCF"
     },
 	{
 		"teamId" : 12,
 		"team" : "Wichita State",
 		"teamMascot" : "Shockers",
 		"teamValue" : "WICHST",
-		"teamImage" : 648
+		"teamImage" : "WichitaState"
 	},
 	{
 		"teamId" : 13,
 		"team" : "Boston College",
 		"teamMascot" : "Eagles",
 		"teamValue" : "BC",
-		"teamImage" : 58
+		"teamImage" : "BostonCollege"
     },
 	{
 		"teamId" : 14,
 		"team" : "Clemson",
 		"teamMascot" : "Tigers",
 		"teamValue" : "CLEM",
-		"teamImage" : 120
+		"teamImage" : "Clemson"
     },
 	{
 		"teamId" : 15,
 		"team" : "Duke",
 		"teamMascot" : "Blue Devils",
 		"teamValue" : "DUKE",
-		"teamImage" : 173
+		"teamImage" : "Duke"
     },	
 	{
 		"teamId" : 16,
 		"team" : "Florida State",
 		"teamMascot" : "Seminoles",
 		"teamValue" : "FSU",
-		"teamImage" : 213
+		"teamImage" : "FloridaState"
     },
 	{
 		"teamId" : 17,
 		"team" : "Georgia Tech",
 		"teamMascot" : "Yellow Jackets",
-		"teamValue" : "TECH",
-		"teamImage" : 232
+		"teamValue" : "GT",
+		"teamImage" : "GeorgiaTech"
     },
 	{
 		"teamId" : 18,
 		"team" : "Louisville",
 		"teamMascot" : "Cardinals",
 		"teamValue" : "LOU",
-		"teamImage" : 314
+		"teamImage" : "Louisville"
     },
 	{
 		"teamId" : 19,
 		"team" : "Miami",
 		"teamMascot" : "Hurricanes",
 		"teamValue" : "MIA",
-		"teamImage" : 355
+		"teamImage" : "Miami"
     },	
 	{
 		"teamId" : 20,
 		"team" : "North Carolina",
 		"teamMascot" : "Tar Heels",
 		"teamValue" : "UNC",
-		"teamImage" : 413
+		"teamImage" : "NorthCarolina"
     },
 	{
 		"teamId" : 21,
 		"team" : "NC State",
 		"teamMascot" : "Wolfpack",
 		"teamValue" : "NCST",
-		"teamImage" : 411
+		"teamImage" : "NorthCarolinaState"
     },
 	{
 		"teamId" : 22,
 		"team" : "Notre Dame",
 		"teamMascot" : "Fighting Irish",
 		"teamValue" : "ND",
-		"teamImage" : 423
+		"teamImage" : "NotreDame"
     },
 	{
 		"teamId" : 23,
 		"team" : "Pittsburgh",
 		"teamMascot" : "Panthers",
 		"teamValue" : "PITT",
-		"teamImage" : 465
+		"teamImage" : "Pittsburgh"
     },
 	{
 		"teamId" : 24,
 		"team" : "Syracuse",
 		"teamMascot" : "Orange",
 		"teamValue" : "CUSE",
-		"teamImage" : 553
+		"teamImage" : "Syracuse"
     },
 	{
 		"teamId" : 25,
 		"team" : "Virginia",
 		"teamMascot" : "Cavaliers",
 		"teamValue" : "UVA",
-		"teamImage" : 618
+		"teamImage" : "Virginia"
     },
 	{
 		"teamId" : 26,
 		"team" : "Virginia Tech",
 		"teamMascot" : "Hokies",
 		"teamValue" : "VT",
-		"teamImage" : 620
+		"teamImage" : "VirginiaTech"
     },
 	{
 		"teamId" : 27,
 		"team" : "Wake Forest",
 		"teamMascot" : "Demon Deacons",
 		"teamValue" : "WAKE",
-		"teamImage" : 628
+		"teamImage" : "WakeForest"
     },
 	{
 		"teamId" : 28,
 		"team" : "Albany",
 		"teamMascot" : "Great Danes",
 		"teamValue" : "ALB",
-		"teamImage" : 1176
+		"teamImage" : "Albany"
     },	
 	{
 		"teamId" : 29,
 		"team" : "Binghamton",
 		"teamMascot" : "Bearcats",
 		"teamValue" : "BING",
-		"teamImage" : 1286
+		"teamImage" : "Binghamton"
     },
 	{
 		"teamId" : 30,
 		"team" : "Hartford",
 		"teamMascot" : "Hawks",
 		"teamValue" : "HART",
-		"teamImage" : 244
+		"teamImage" : "Hartford"
     },
 	{
 		"teamId" : 31,
 		"team" : "Maine",
 		"teamMascot" : "Black Bears",
 		"teamValue" : "MAINE",
-		"teamImage" : 334
+		"teamImage" : "Maine"
     },
 	{
 		"teamId" : 32,
 		"team" : "Massachusetts-Lowell",
 		"teamMascot" : "River Hawks",
 		"teamValue" : "MASS-LO",
-		"teamImage" : 1543
+		"teamImage" : "Massachusetts-Lowell"
     },
 	{
 		"teamId" : 33,
 		"team" : "New Hampshire",
 		"teamMascot" : "Wildcats",
 		"teamValue" : "UNH",
-		"teamImage" : 403
+		"teamImage" : "NewHampshire"
     },	
 	{
 		"teamId" : 34,
 		"team" : "Stony Brook",
 		"teamMascot" : "Seawolves",
 		"teamValue" : "STONY",
-		"teamImage" : 569
+		"teamImage" : "StonyBrook"
     },	
 	{
 		"teamId" : 35,
 		"team" : "UMBC",
 		"teamMascot" : "Retrievers",
 		"teamValue" : "UMBC",
-		"teamImage" : 346
+		"teamImage" : "UMBC"
     },	
 	{
 		"teamId" : 36,
 		"team" : "Vermont",
 		"teamMascot" : "Catamounts",
 		"teamValue" : "VERM",
-		"teamImage" : 616
+		"teamImage" : "Vermont"
     },	
 	{
 		"teamId" : 37,
 		"team" : "Davidson",
 		"teamMascot" : "Wildcats",
 		"teamValue" : "DAV",
-		"teamImage" : 156
+		"teamImage" : "Davidson"
     },	
 	{
 		"teamId" : 38,
 		"team" : "Dayton",
 		"teamMascot" : "Flyers",
 		"teamValue" : "DAY",
-		"teamImage" : 157
+		"teamImage" : "Dayton"
     },
 	{
 		"teamId" : 39,
 		"team" : "Duquense",
 		"teamMascot" : "Dukes",
 		"teamValue" : "DUQ",
-		"teamImage" : 174
+		"teamImage" : "Duquense"
     },
 	{
 		"teamId" : 40,
 		"team" : "Fordham",
 		"teamMascot" : "Rams",
 		"teamValue" : "FORD",
-		"teamImage" : 214
+		"teamImage" : "Fordham"
     },	
 	{
 		"teamId" : 41,
 		"team" : "George Mason",
 		"teamMascot" : "Patriots",
 		"teamValue" : "GMU",
-		"teamImage" : 228
+		"teamImage" : "GeorgeMason"
     },	
 	{
 		"teamId" : 42,
 		"team" : "George Washington",
 		"teamMascot" : "Colonials",
 		"teamValue" : "GWU",
-		"teamImage" : 227
+		"teamImage" : "GeorgeWashington"
     },
 	{
 		"teamId" : 43,
 		"team" : "La Salle",
 		"teamMascot" : "Explorers",
 		"teamValue" : "LASALLE",
-		"teamImage" : 301
+		"teamImage" : "LaSalle"
     },
 	{
 		"teamId" : 44,
 		"team" : "UMass",
 		"teamMascot" : "Minutemen",
 		"teamValue" : "UMASS",
-		"teamImage" : 344
+		"teamImage" : "Massachusetts"
     },	
 	{
 		"teamId" : 45,
 		"team" : "Rhode Island",
 		"teamMascot" : "Rams",
 		"teamValue" : "URI",
-		"teamImage" : 485
+		"teamImage" : "RhodeIsland"
     },	
 	{
 		"teamId" : 46,
 		"team" : "Richmond",
 		"teamMascot" : "Spiders",
 		"teamValue" : "RICH",
-		"teamImage" : 487
+		"teamImage" : "Richmond"
     },
 	{
 		"teamId" : 47,
 		"team" : "St. Joe's",
 		"teamMascot" : "Hawks",
 		"teamValue" : "STJOE",
-		"teamImage" : 535
+		"teamImage" : "SaintJoseph's(PA)"
     },
 	{
 		"teamId" : 48,
 		"team" : "SLU",
 		"teamMascot" : "Billikens",
 		"teamValue" : "SLU",
-		"teamImage" : 536
+		"teamImage" : "SaintLouis"
     },
 	{
 		"teamId" : 49,
 		"team" : "St. Bonaventure",
 		"teamMascot" : "Bonnies",
 		"teamValue" : "STBON",
-		"teamImage" : 531
+		"teamImage" : "St.Bonaventure"
     },
 	{
 		"teamId" : 50,
 		"team" : "VCU",
 		"teamMascot" : "Rams",
 		"teamValue" : "VCU",
-		"teamImage" : 613
+		"teamImage" : "VirginiaCommonwealth"
     },
 	{
 		"teamId" : 51,
 		"team" : "FGCU",
 		"teamMascot" : "Eagles",
 		"teamValue" : "FGCU",
-		"teamImage" : 1383
+		"teamImage" : "FloridaGulfCoast"
     },
 	{
 		"teamId" : 52,
 		"team" : "Jacksonville",
 		"teamMascot" : "Dolphins",
 		"teamValue" : "JAX",
-		"teamImage" : 281
+		"teamImage" : "Jacksonville"
     },	
 	{
 		"teamId" : 53,
 		"team" : "Kennesaw St.",
 		"teamMascot" : "Owls",
 		"teamValue" : "KENNST",
-		"teamImage" : 1374
+		"teamImage" : "KennesawState"
     },
 	{
 		"teamId" : 54,
 		"team" : "Liberty",
 		"teamMascot" : "Flames",
 		"teamValue" : "LIB",
-		"teamImage" : 306
+		"teamImage" : "Liberty"
     },
 	{
 		"teamId" : 55,
 		"team" : "Lipscomb",
 		"teamMascot" : "Bisons",
 		"teamValue" : "LIPS",
-		"teamImage" : 1281
+		"teamImage" : "Lipscomb"
     },
 	{
 		"teamId" : 56,
 		"team" : "NJIT",
 		"teamMascot" : "Highlanders",
 		"teamValue" : "NJIT",
-		"teamImage" : 1186
+		"teamImage" : "NJIT"
     },
 	{
 		"teamId" : 57,
 		"team" : "North Alabama",
 		"teamMascot" : "Lions",
 		"teamValue" : "NOALA",
-		"teamImage" : 1333
+		"teamImage" : "NorthAlabama"
     },
 	{
 		"teamId" : 58,
 		"team" : "North Florida",
 		"teamMascot" : "Ospreys",
 		"teamValue" : "NOFLA",
-		"teamImage" : 434
+		"teamImage" : "NorthFlorida"
     },
 	{
 		"teamId" : 59,
 		"team" : "Stetson",
 		"teamMascot" : "Hatters",
 		"teamValue" : "STET",
-		"teamImage" : 548
+		"teamImage" : "Stetson"
     },
 	{
 		"teamId" : 60,
 		"team" : "Baylor",
 		"teamMascot" : "Bears",
 		"teamValue" : "BU",
-		"teamImage" : 50
+		"teamImage" : "Baylor"
     },
 	{
 		"teamId" : 61,
 		"team" : "Iowa State",
 		"teamMascot" : "Cyclones",
 		"teamValue" : "ISU",
-		"teamImage" : 277
+		"teamImage" : "IowaState"
     },	
 	{
 		"teamId" : 62,
 		"team" : "Kansas",
 		"teamMascot" : "Jayhawks",
 		"teamValue" : "KU",
-		"teamImage" : 287
+		"teamImage" : "Kansas"
     },	
 	{
 		"teamId" : 63,
 		"team" : "Kansas State",
 		"teamMascot" : "Wildcats",
 		"teamValue" : "KSST",
-		"teamImage" : 288
+		"teamImage" : "KansasState"
     },	
 	{
 		"teamId" : 64,
 		"team" : "Oklahoma",
 		"teamMascot" : "Sooners",
 		"teamValue" : "OKLA",
-		"teamImage" : 444
+		"teamImage" : "Oklahoma"
     },	
 	{
 		"teamId" : 65,
 		"team" : "Oklahoma State",
 		"teamMascot" : "Cowboys",
 		"teamValue" : "OKST",
-		"teamImage" : 446
+		"teamImage" : "OklahomaState"
     },	
 	{
 		"teamId" : 66,
 		"team" : "TCU",
 		"teamMascot" : "Horned Frogs",
 		"teamValue" : "TCU",
-		"teamImage" : 576
+		"teamImage" : "TCU"
     },
 	{
 		"teamId" : 67,
 		"team" : "Texas",
 		"teamMascot" : "Longhorns",
 		"teamValue" : "TEX",
-		"teamImage" : 585
+		"teamImage" : "Texas"
     },
 	{
 		"teamId" : 68,
 		"team" : "Texas Tech",
 		"teamMascot" : "Red Raiders",
 		"teamValue" : "TTU",
-		"teamImage" : 592
+		"teamImage" : "TexasTech"
     },
 	{
 		"teamId" : 69,
 		"team" : "West Virginia",
 		"teamMascot" : "Mountaineers",
 		"teamValue" : "WVU",
-		"teamImage" : 636
+		"teamImage" : "WestVirginia"
     },	
 	{
 		"teamId" : 70,
 		"team" : "Butler",
 		"teamMascot" : "Bulldogs",
 		"teamValue" : "BUTLER",
-		"teamImage" : 67
+		"teamImage" : "Butler"
     },	
 	{
 		"teamId" : 71,
 		"team" : "Creighton",
 		"teamMascot" : "Bluejays",
 		"teamValue" : "CREIGH",
-		"teamImage" : 133
+		"teamImage" : "Creighton"
     },		
 	{
 		"teamId" : 72,
 		"team" : "DePaul",
 		"teamMascot" : "Blue Demons",
 		"teamValue" : "DEPAUL",
-		"teamImage" : 164
+		"teamImage" : "DePaul"
     },			
 	{
 		"teamId" : 73,
 		"team" : "Georgetown",
 		"teamMascot" : "Hoyas",
 		"teamValue" : "GTOWN",
-		"teamImage" : 229
+		"teamImage" : "Georgetown"
     },		
 	{
 		"teamId" : 74,
 		"team" : "Marquette",
 		"teamMascot" : "Golden Eagles",
 		"teamValue" : "MARQ",
-		"teamImage" : 339
+		"teamImage" : "Marquette"
     },			
 	{
 		"teamId" : 75,
 		"team" : "Providence",
 		"teamMascot" : "Friars",
 		"teamValue" : "PROV",
-		"teamImage" : 472
+		"teamImage" : "Providence"
     },			
 	{
 		"teamId" : 76,
 		"team" : "Seton Hall",
 		"teamMascot" : "Pirates",
 		"teamValue" : "SETON",
-		"teamImage" : 508
+		"teamImage" : "SetonHall"
     },		
 	{
 		"teamId" : 77,
 		"team" : "St. John's",
 		"teamMascot" : "Red Storm",
 		"teamValue" : "STJOHN",
-		"teamImage" : 534
+		"teamImage" : "St.John's"
     },		
 	{
 		"teamId" : 78,
 		"team" : "Villanova",
 		"teamMascot" : "Wildcats",
 		"teamValue" : "NOVA",
-		"teamImage" : 617
+		"teamImage" : "Villanova"
     },			
 	{
 		"teamId" : 79,
 		"team" : "Xavier",
 		"teamMascot" : "Musketeers",
 		"teamValue" : "XAV",
-		"teamImage" : 682
+		"teamImage" : "Xavier"
     },		
 	{
 		"teamId" : 80,
 		"team" : "Eastern Washington",
 		"teamMascot" : "Eagles",
 		"teamValue" : "EWU",
-		"teamImage" : 184
+		"teamImage" : "EasternWashington"
     },		
 	{
 		"teamId" : 81,
 		"team" : "Idaho",
 		"teamMascot" : "Vandals",
 		"teamValue" : "IDAHO",
-		"teamImage" : 263
+		"teamImage" : "Idaho"
     },		
 	{
 		"teamId" : 82,
 		"team" : "Idaho State",
 		"teamMascot" : "Bengals",
 		"teamValue" : "IDAST",
-		"teamImage" : 265
+		"teamImage" : "IdahoState"
     },			
 	{
 		"teamId" : 83,
 		"team" : "Montana",
 		"teamMascot" : "Grizzlies",
 		"teamValue" : "MONT",
-		"teamImage" : 372
+		"teamImage" : "Montana"
     },		
 	{
 		"teamId" : 84,
 		"team" : "Montana State",
 		"teamMascot" : "Bobcats",
 		"teamValue" : "MONTST",
-		"teamImage" : 373
+		"teamImage" : "MontanaState"
     },		
 	{
 		"teamId" : 85,
 		"team" : "Northern Arizona",
 		"teamMascot" : "Lumberjacks",
 		"teamValue" : "NOARI",
-		"teamImage" : 420
+		"teamImage" : "NorthernArizona"
     },			
 	{
 		"teamId" : 86,
 		"team" : "Northern Colorado",
 		"teamMascot" : "Bears",
 		"teamValue" : "NOCOLO",
-		"teamImage" : 425
+		"teamImage" : "NorthernColorado"
     },			
 	{
 		"teamId" : 87,
 		"team" : "Portland State",
 		"teamMascot" : "Vikings",
 		"teamValue" : "PORTST",
-		"teamImage" : 1033
+		"teamImage" : "PortlandState"
     },			
 	{
 		"teamId" : 88,
 		"team" : "Sacramento State",
 		"teamMascot" : "Hornets",
 		"teamValue" : "SACST",
-		"teamImage" : 494
+		"teamImage" : "SacramentoState"
     },		
 	{
 		"teamId" : 89,
 		"team" : "Sourthern Utah",
 		"teamMascot" : "Thunderbirds",
 		"teamValue" : "SOUTAH",
-		"teamImage" : 522
+		"teamImage" : "SourthernUtah"
     },		
 	{
 		"teamId" : 90,
 		"team" : "Weber State",
 		"teamMascot" : "Wildcats",
 		"teamValue" : "WEBST",
-		"teamImage" : 633
+		"teamImage" : "WeberState"
     },		
 	{
 		"teamId" : 91,
 		"team" : "Illinois",
 		"teamMascot" : "Fightin' Illini",
 		"teamValue" : "ILL",
-		"teamImage" : 267
+		"teamImage" : "Illinois"
     },	
 	{
 		"teamId" : 92,
 		"team" : "Indiana",
 		"teamMascot" : "Hoosiers",
 		"teamValue" : "IND",
-		"teamImage" : 271
+		"teamImage" : "Indiana"
     },	
 	{
 		"teamId" : 93,
 		"team" : "Iowa",
 		"teamMascot" : "Hawkeyes",
 		"teamValue" : "IOWA",
-		"teamImage" : 276
+		"teamImage" : "Iowa"
     },	
 	{
 		"teamId" : 94,
 		"team" : "Maryland",
 		"teamMascot" : "Terrapins",
 		"teamValue" : "MARY",
-		"teamImage" : 343
+		"teamImage" : "Maryland"
     },	
 	{
 		"teamId" : 95,
 		"team" : "Michigan",
 		"teamMascot" : "Wolverines",
 		"teamValue" : "MICH",
-		"teamImage" : 357
+		"teamImage" : "Michigan"
     },	
 	{
 		"teamId" : 96,
 		"team" : "Michigan State",
 		"teamMascot" : "Spartans",
 		"teamValue" : "MSU",
-		"teamImage" : 358
+		"teamImage" : "MichiganState"
     },	
 	{
 		"teamId" : 97,
 		"team" : "Minnesota",
 		"teamMascot" : "Golden Gophers",
 		"teamValue" : "MINN",
-		"teamImage" : 363
+		"teamImage" : "Minnesota"
     },
 	{
 		"teamId" : 98,
 		"team" : "Nebraska",
 		"teamMascot" : "Cornhuskers",
 		"teamValue" : "NEB",
-		"teamImage" : 400
+		"teamImage" : "Nebraska"
     },
 	{
 		"teamId" : 99,
 		"team" : "Northwestern",
 		"teamMascot" : "Wildcats",
 		"teamValue" : "NW",
-		"teamImage" : 421
+		"teamImage" : "Northwestern"
     },	
 	{
 		"teamId" : 100,
 		"team" : "Ohio State",
 		"teamMascot" : "Buckeyes",
 		"teamValue" : "OSU",
-		"teamImage" : 443
+		"teamImage" : "OhioState"
     },	
 	{
 		"teamId" : 101,
 		"team" : "Penn State",
 		"teamMascot" : "Nittany Lions",
 		"teamValue" : "PSU",
-		"teamImage" : 459
+		"teamImage" : "PennState"
     },	
 	{
 		"teamId" : 102,
 		"team" : "Purdue",
 		"teamMascot" : "Boilermakers",
 		"teamValue" : "PURD",
-		"teamImage" : 474
+		"teamImage" : "Purdue"
     },	
 	{
 		"teamId" : 103,
 		"team" : "Rutgers",
 		"teamMascot" : "Scarlet Knights",
 		"teamValue" : "RUTG",
-		"teamImage" : 492
+		"teamImage" : "Rutgers"
     },	
 	{
 		"teamId" : 104,
 		"team" : "Wisconsin",
 		"teamMascot" : "Badgers",
 		"teamValue" : "WIS",
-		"teamImage" : 657
+		"teamImage" : "Wisconsin"
     },	
 	{
 		"teamId" : 105,
 		"team" : "Cal Poly",
 		"teamMascot" : "Mustangs",
 		"teamValue" : "POLY",
-		"teamImage" : 94
+		"teamImage" : "CalPoly"
     },
 	{
 		"teamId" : 106,
 		"team" : "Cal State Fullerton",
 		"teamMascot" : "Titans",
 		"teamValue" : "CSFU",
-		"teamImage" : 219
+		"teamImage" : "CalStateFullerton"
     },	
 	{
 		"teamId" : 107,
 		"team" : "Cal State Northridge",
 		"teamMascot" : "Matadors",
 		"teamValue" : "CSUN",
-		"teamImage" : 419
+		"teamImage" : "CalStateNorthridge"
     },	
 	{
 		"teamId" : 108,
 		"team" : "Hawaii",
 		"teamMascot" : "Warriors",
 		"teamValue" : "HAW",
-		"teamImage" : 249
+		"teamImage" : "Hawaii"
     },	
 	{
 		"teamId" : 109,
 		"team" : "Long Beach State",
 		"teamMascot" : "49ers",
 		"teamValue" : "LBSU",
-		"teamImage" : 311
+		"teamImage" : "LongBeachState"
     },	
 	{
 		"teamId" : 110,
 		"team" : "UC Davis",
 		"teamMascot" : "Aggies",
 		"teamValue" : "UCDAV",
-		"teamImage" : 88
+		"teamImage" : "UCDavis"
     },	
 	{
 		"teamId" : 111,
 		"team" : "UC Irvine",
 		"teamMascot" : "Anteaters",
 		"teamValue" : "UCIRV",
-		"teamImage" : 89
+		"teamImage" : "UCIrvine"
     },	
 	{
 		"teamId" : 112,
 		"team" : "UC Riverside",
 		"teamMascot" : "Highlanders",
 		"teamValue" : "UCRIV",
-		"teamImage" : 1240
+		"teamImage" : "UCRiverside"
     },	
 	{
 		"teamId" : 113,
 		"team" : "UC Santa Barbara",
 		"teamMascot" : "Gauchos",
 		"teamValue" : "UCSB",
-		"teamImage" : 501
+		"teamImage" : "UCSantaBarbara"
     },	
 	{
 		"teamId" : 114,
 		"team" : "Campbell",
 		"teamMascot" : "Fighting Camels",
 		"teamValue" : "CAMP",
-		"teamImage" : 96
+		"teamImage" : "Campbell"
     },
 	{
 		"teamId" : 115,
 		"team" : "Charleston Southern",
 		"teamMascot" : "Buccaneers",
 		"teamValue" : "CHARSO",
-		"teamImage" : 111
+		"teamImage" : "CharlestonSouthern"
     },	
 	{
 		"teamId" : 116,
 		"team" : "Gardner-Webb",
 		"teamMascot" : "Runnin' Bulldogs",
 		"teamValue" : "GARDW",
-		"teamImage" : 1048
+		"teamImage" : "Gardner-Webb"
     },	
 	{
 		"teamId" : 117,
 		"team" : "Hampton",
 		"teamMascot" : "Pirates",
 		"teamValue" : "HAMP",
-		"teamImage" : 702
+		"teamImage" : "Hampton"
     },	
 	{
 		"teamId" : 118,
 		"team" : "High Point",
 		"teamMascot" : "Panthers",
 		"teamValue" : "HPU",
-		"teamImage" : 1112
+		"teamImage" : "HighPoint"
     },	
 	{
 		"teamId" : 119,
 		"team" : "Longwood",
 		"teamMascot" : "Lancers",
 		"teamValue" : "LONGW",
-		"teamImage" : 1219
+		"teamImage" : "Longwood"
     },	
 	{
 		"teamId" : 120,
 		"team" : "Presbyterian",
 		"teamMascot" : "Blue Hose",
 		"teamValue" : "PRES",
-		"teamImage" : 470
+		"teamImage" : "Presbyterian"
     },
 	{
 		"teamId" : 121,
 		"team" : "Radford",
 		"teamMascot" : "Highlanders",
 		"teamValue" : "RAD",
-		"teamImage" : 483
+		"teamImage" : "Radford"
     },
 	{
 		"teamId" : 122,
 		"team" : "UNC Ashville",
 		"teamMascot" : "Bulldogs",
 		"teamValue" : "UNCA",
-		"teamImage" : 393
+		"teamImage" : "UNCAshville"
     },	
 	{
 		"teamId" : 123,
 		"team" : "USC Upstate",
 		"teamMascot" : "Spartans",
 		"teamValue" : "USCU",
-		"teamImage" : 1203
+		"teamImage" : "USCUpstate"
     },	
 	{
 		"teamId" : 124,
 		"team" : "Winthrop",
 		"teamMascot" : "Eagles",
 		"teamValue" : "WINTH",
-		"teamImage" : 649
+		"teamImage" : "Winthrop"
     },
 	{
 		"teamId" : 125,
 		"team" : "Charleston",
 		"teamMascot" : "Cougars",
 		"teamValue" : "COFCH",
-		"teamImage" : 107
+		"teamImage" : "Charleston"
     },
 	{
 		"teamId" : 126,
 		"team" : "Delaware",
 		"teamMascot" : "Fightin Blue Hens",
 		"teamValue" : "DEL",
-		"teamImage" : 159
+		"teamImage" : "Delaware"
     },
 	{
 		"teamId" : 127,
 		"team" : "Drexel",
 		"teamMascot" : "Dragons",
 		"teamValue" : "DREX",
-		"teamImage" : 172
+		"teamImage" : "Drexel"
     },
 	{
 		"teamId" : 128,
 		"team" : "Elon",
 		"teamMascot" : "Phoenix",
 		"teamValue" : "ELON",
-		"teamImage" : 195
+		"teamImage" : "Elon"
     },
 	{
 		"teamId" : 129,
 		"team" : "Hofstra",
 		"teamMascot" : "Pride",
 		"teamValue" : "HOF",
-		"teamImage" : 252
+		"teamImage" : "Hofstra"
     },	
 	{
 		"teamId" : 130,
 		"team" : "James Madison",
 		"teamMascot" : "Dukes",
 		"teamValue" : "JMU",
-		"teamImage" : 282
+		"teamImage" : "JamesMadison"
     },
 	{
 		"teamId" : 131,
 		"team" : "UNC-Wilmington",
 		"teamMascot" : "Seahawks",
 		"teamValue" : "UNCW",
-		"teamImage" : 398
+		"teamImage" : "UNC-Wilmington"
     },
 	{
 		"teamId" : 132,
 		"team" : "Northeastern",
 		"teamMascot" : "Huskies",
 		"teamValue" : "NE",
-		"teamImage" : 416
+		"teamImage" : "Northeastern"
     },
 	{
 		"teamId" : 133,
 		"team" : "Towson",
 		"teamMascot" : "Tigers",
 		"teamValue" : "TOW",
-		"teamImage" : 595
+		"teamImage" : "Towson"
     },
 	{
 		"teamId" : 134,
 		"team" : "William & Mary",
 		"teamMascot" : "Tribe",
 		"teamValue" : "WMARY",
-		"teamImage" : 658
+		"teamImage" : "William&Mary"
     },
 	{
 		"teamId" : 135,
 		"team" : "Charlotte",
 		"teamMascot" : "49ers",
 		"teamValue" : "CHAR",
-		"teamImage" : 395
+		"teamImage" : "Charlotte"
     },	
 	{
 		"teamId" : 136,
 		"team" : "Florida Atlantic",
 		"teamMascot" : "Owls",
 		"teamValue" : "FAU",
-		"teamImage" : 221
+		"teamImage" : "FloridaAtlantic"
     },	
 	{
 		"teamId" : 137,
 		"team" : "FIU",
 		"teamMascot" : "Golden Panthers",
 		"teamValue" : "FIU",
-		"teamImage" : 212
+		"teamImage" : "FloridaInternational"
     },	
 	{
 		"teamId" : 138,
 		"team" : "Louisiana Tech",
 		"teamMascot" : "Bulldogs",
 		"teamValue" : "LT",
-		"teamImage" : 313
+		"teamImage" : "LouisianaTech"
     },	
 	{
 		"teamId" : 139,
 		"team" : "Marshall",
 		"teamMascot" : "Thundering Herd",
 		"teamValue" : "MARSH",
-		"teamImage" : 341
+		"teamImage" : "Marshall"
     },	
 	{
 		"teamId" : 140,
 		"team" : "Middle Tennessee",
 		"teamMascot" : "Blue Raiders",
 		"teamValue" : "MTSU",
-		"teamImage" : 359
+		"teamImage" : "MiddleTennessee"
     },	
 	{
 		"teamId" : 141,
 		"team" : "North Texas",
 		"teamMascot" : "Mean Green",
 		"teamValue" : "UNT",
-		"teamImage" : 415
+		"teamImage" : "NorthTexas"
     },	
 	{
 		"teamId" : 142,
 		"team" : "Old Dominion",
 		"teamMascot" : "Monarchs",
 		"teamValue" : "ODU",
-		"teamImage" : 447
+		"teamImage" : "OldDominion"
     },	
 	{
 		"teamId" : 143,
 		"team" : "Rice",
 		"teamMascot" : "Owls",
 		"teamValue" : "RICE",
-		"teamImage" : 486
+		"teamImage" : "Rice"
     },	
 	{
 		"teamId" : 144,
 		"team" : "Southern Miss",
 		"teamMascot" : "Golden Eagles",
 		"teamValue" : "SMISS",
-		"teamImage" : 521
+		"teamImage" : "SouthernMiss"
     },	
 	{
 		"teamId" : 145,
 		"team" : "UAB",
 		"teamMascot" : "Blazers",
 		"teamValue" : "UAB",
-		"teamImage" : 34
+		"teamImage" : "UAB"
     },	
 	{
 		"teamId" : 146,
 		"team" : "UTEP",
 		"teamMascot" : "Miners",
 		"teamValue" : "UTEP",
-		"teamImage" : 589
+		"teamImage" : "UTEP"
     },	
 	{
 		"teamId" : 147,
 		"team" : "UTSA",
 		"teamMascot" : "Roadrunners",
 		"teamValue" : "UTSA",
-		"teamImage" : 584
+		"teamImage" : "UTSA"
     },
 	{
 		"teamId" : 148,
 		"team" : "Western Kentucky",
 		"teamMascot" : "Hilltoppers",
 		"teamValue" : "WKU",
-		"teamImage" : 639
+		"teamImage" : "WesternKentucky"
     },
 	{
 		"teamId" : 149,
 		"team" : "Cleveland State",
 		"teamMascot" : "Vikings",
 		"teamValue" : "CLEST",
-		"teamImage" : 121
+		"teamImage" : "ClevelandState"
     },
 	{
 		"teamId" : 150,
 		"team" : "Detroit Mercy",
 		"teamMascot" : "Titans",
 		"teamValue" : "DETMER",
-		"teamImage" : 165
+		"teamImage" : "DetroitMercy"
     },
 	{
 		"teamId" : 151,
 		"team" : "Green Bay",
 		"teamMascot" : "Phoenix",
 		"teamValue" : "GB",
-		"teamImage" : 652
+		"teamImage" : "GreenBay"
     },	
 	{
 		"teamId" : 152,
 		"team" : "Illinois-Chicago",
 		"teamMascot" : "Flames",
 		"teamValue" : "UIC",
-		"teamImage" : 268
+		"teamImage" : "Illinois-Chicago"
     },	
 	{
 		"teamId" : 153,
 		"team" : "IUPUI",
 		"teamMascot" : "Jaguars",
 		"teamValue" : "IUPUI",
-		"teamImage" : 1090
+		"teamImage" : "IUPUI"
     },	
 	{
 		"teamId" : 154,
 		"team" : "Milwaukee",
 		"teamMascot" : "Panthers",
 		"teamValue" : "MIL",
-		"teamImage" : 654
+		"teamImage" : "Milwaukee"
     },	
 	{
 		"teamId" : 155,
 		"team" : "Northern Kentucky",
 		"teamMascot" : "Norse",
 		"teamValue" : "NKU",
-		"teamImage" : 1506
+		"teamImage" : "NorthernKentucky"
     },	
 	{
 		"teamId" : 156,
 		"team" : "Oakland",
 		"teamMascot" : "Golden Grizzlies",
 		"teamValue" : "OAK",
-		"teamImage" : 441
+		"teamImage" : "Oakland"
     },	
 	{
 		"teamId" : 157,
 		"team" : "Wright State",
 		"teamMascot" : "Raiders",
 		"teamValue" : "WRIGHT",
-		"teamImage" : 660
+		"teamImage" : "WrightState"
     },	
 	{
 		"teamId" : 158,
 		"team" : "Youngstown State",
 		"teamMascot" : "Penguins",
 		"teamValue" : "YSU",
-		"teamImage" : 685
+		"teamImage" : "YoungstownState"
     },	
 	{
 		"teamId" : 159,
 		"team" : "Brown",
 		"teamMascot" : "Bears",
 		"teamValue" : "BROWN",
-		"teamImage" : 64
+		"teamImage" : "Brown"
     },	
 	{
 		"teamId" : 160,
 		"team" : "Columbia",
 		"teamMascot" : "Lions",
 		"teamValue" : "COL",
-		"teamImage" : 127
+		"teamImage" : "Columbia"
     },	
 	{
 		"teamId" : 161,
 		"team" : "Cornell",
 		"teamMascot" : "Big Red",
 		"teamValue" : "CORN",
-		"teamImage" : 131
+		"teamImage" : "Cornell"
     },	
 	{
 		"teamId" : 162,
 		"team" : "Dartmouth",
 		"teamMascot" : "Big Green",
 		"teamValue" : "DART",
-		"teamImage" : 155
+		"teamImage" : "Dartmouth"
     },	
 	{
 		"teamId" : 163,
 		"team" : "Harvard",
 		"teamMascot" : "Crimson",
 		"teamValue" : "HARV",
-		"teamImage" : 245
+		"teamImage" : "Harvard"
     },	
 	{
 		"teamId" : 164,
 		"team" : "Penn",
 		"teamMascot" : "Quakers",
 		"teamValue" : "PENN",
-		"teamImage" : 460
+		"teamImage" : "Penn"
     },	
 	{
 		"teamId" : 165,
 		"team" : "Princeton",
 		"teamMascot" : "Tigers",
 		"teamValue" : "PRINCE",
-		"teamImage" : 471
+		"teamImage" : "Princeton"
     },	
 	{
 		"teamId" : 166,
 		"team" : "Yale",
 		"teamMascot" : "Bulldogs",
 		"teamValue" : "YALE",
-		"teamImage" : 684
+		"teamImage" : "Yale"
     },	
 	{
 		"teamId" : 167,
 		"team" : "Canisius",
 		"teamMascot" : "Golden Griffins",
 		"teamValue" : "CANIS",
-		"teamImage" : 97
+		"teamImage" : "Canisius"
     },	
 	{
 		"teamId" : 168,
 		"team" : "Fairfield",
 		"teamMascot" : "Stags",
 		"teamValue" : "FAIR",
-		"teamImage" : 201
+		"teamImage" : "Fairfield"
     },	
 	{
 		"teamId" : 169,
 		"team" : "Iona",
 		"teamMascot" : "Gaels",
 		"teamValue" : "IONA",
-		"teamImage" : 275
+		"teamImage" : "Iona"
     },	
 	{
 		"teamId" : 170,
 		"team" : "Manhattan",
 		"teamMascot" : "Jaspers",
 		"teamValue" : "MAN",
-		"teamImage" : 335
+		"teamImage" : "Manhattan"
     },	
 	{
 		"teamId" : 171,
 		"team" : "Marist",
 		"teamMascot" : "Red Foxes",
 		"teamValue" : "MARIST",
-		"teamImage" : 338
+		"teamImage" : "Marist"
     },		
 	{
 		"teamId" : 172,
 		"team" : "Monmouth",
 		"teamMascot" : "Hawks",
 		"teamValue" : "MON",
-		"teamImage" : 370
+		"teamImage" : "Monmouth"
     },		
 	{
 		"teamId" : 173,
 		"team" : "Niagra",
 		"teamMascot" : "Purple Eagles",
 		"teamValue" : "NIAGRA",
-		"teamImage" : 408
+		"teamImage" : "Niagra"
     },		
 	{
 		"teamId" : 174,
 		"team" : "Quinnipiac",
 		"teamMascot" : "Bobcats",
 		"teamValue" : "QUINN",
-		"teamImage" : 1115
+		"teamImage" : "Quinnipiac"
     },			
 	{
 		"teamId" : 175,
 		"team" : "Rider",
 		"teamMascot" : "Broncs",
 		"teamValue" : "RIDER",
-		"teamImage" : 488
+		"teamImage" : "Rider"
     },	
 	{
 		"teamId" : 176,
 		"team" : "Siena",
 		"teamMascot" : "Saints",
 		"teamValue" : "SIENA",
-		"teamImage" : 512
+		"teamImage" : "Siena"
     },	
 	{
 		"teamId" : 177,
 		"team" : "St. Peter's",
 		"teamMascot" : "Peacocks",
 		"teamValue" : "STPETE",
-		"teamImage" : 543
+		"teamImage" : "St.Peter's"
     },		
 	{
 		"teamId" : 178,
 		"team" : "Akron",
 		"teamMascot" : "Zips",
 		"teamValue" : "AKR",
-		"teamImage" : 3
+		"teamImage" : "Akron"
     },	
 	{
 		"teamId" : 179,
 		"team" : "Ball State",
 		"teamMascot" : "Cardinals",
 		"teamValue" : "BALL",
-		"teamImage" : 46
+		"teamImage" : "BallState"
     },	
 	{
 		"teamId" : 180,
 		"team" : "Bowling Green",
 		"teamMascot" : "Falcons",
 		"teamValue" : "BGSU",
-		"teamImage" : 61
+		"teamImage" : "BowlingGreen"
     },	
 	{
 		"teamId" : 181,
 		"team" : "Buffalo",
 		"teamMascot" : "Bulls",
 		"teamValue" : "BUFF",
-		"teamImage" : 71
+		"teamImage" : "Buffalo"
     },	
 	{
 		"teamId" : 182,
 		"team" : "Central Michigan",
 		"teamMascot" : "Chippewas",
 		"teamValue" : "CMU",
-		"teamImage" : 104
+		"teamImage" : "CentralMichigan"
     },	
 	{
 		"teamId" : 183,
 		"team" : "Eastern Michigan",
 		"teamMascot" : "Eagles",
 		"teamValue" : "EMU",
-		"teamImage" : 181
+		"teamImage" : "Eastern Michigan"
     },	
 	{
 		"teamId" : 184,
 		"team" : "Kent State",
 		"teamMascot" : "Golden Flash",
 		"teamValue" : "KENT",
-		"teamImage" : 291
+		"teamImage" : "KentState"
     },	
 	{
 		"teamId" : 185,
 		"team" : "Miami (OH)",
 		"teamMascot" : "Redhawks",
 		"teamValue" : "M-OH",
-		"teamImage" : 356
+		"teamImage" : "Miami(OH)"
     },	
 	{
 		"teamId" : 186,
 		"team" : "Northern Illinois",
 		"teamMascot" : "Huskies",
 		"teamValue" : "NILL",
-		"teamImage" : 417
+		"teamImage" : "NorthernIllinois"
     },	
 	{
 		"teamId" : 187,
 		"team" : "Ohio",
 		"teamMascot" : "Bobcats",
 		"teamValue" : "OHIO",
-		"teamImage" : 442
+		"teamImage" : "Ohio"
     },	
 	{
 		"teamId" : 188,
 		"team" : "Toledo",
 		"teamMascot" : "Rockets",
 		"teamValue" : "TOL",
-		"teamImage" : 594
+		"teamImage" : "Toledo"
     },	
 	{
 		"teamId" : 189,
 		"team" : "Western Michigan",
 		"teamMascot" : "Bronocos",
 		"teamValue" : "WMU",
-		"teamImage" : 640
+		"teamImage" : "WesternMichigan"
     },	
 	{
 		"teamId" : 190,
 		"team" : "Bethune-Cookman",
 		"teamMascot" : "Wildcats",
 		"teamValue" : "BETH",
-		"teamImage" : 52
+		"teamImage" : "Bethune-Cookman"
     },	
 	{
 		"teamId" : 191,
 		"team" : "Coppin State",
 		"teamMascot" : "Eagles",
 		"teamValue" : "COPP",
-		"teamImage" : 130
+		"teamImage" : "CoppinState"
     },	
 	{
 		"teamId" : 192,
 		"team" : "Delaware State",
 		"teamMascot" : "Hornets",
 		"teamValue" : "DELST",
-		"teamImage" : 160
+		"teamImage" : "DelawareState"
     },	
 	{
 		"teamId" : 193,
 		"team" : "Florida A&M",
 		"teamMascot" : "Rattlers",
 		"teamValue" : "FLAM",
-		"teamImage" : 211
+		"teamImage" : "FloridaA&M"
     },	
 	{
 		"teamId" : 194,
 		"team" : "Howard",
 		"teamMascot" : "Bison",
 		"teamValue" : "HOWARD",
-		"teamImage" : 256
+		"teamImage" : "Howard"
     },	
 	{
 		"teamId" : 195,
 		"team" : "Maryland-Eastern Shore",
 		"teamMascot" : "Hawks",
 		"teamValue" : "MESHORE",
-		"teamImage" : 347
+		"teamImage" : "Maryland-EasternShore"
     },	
 	{
 		"teamId" : 196,
 		"team" : "Morgan State",
 		"teamMascot" : "Bears",
 		"teamValue" : "MORST",
-		"teamImage" : 376
+		"teamImage" : "MorganState"
     },	
 	{
 		"teamId" : 197,
 		"team" : "Norfolk State",
 		"teamMascot" : "Spartans",
 		"teamValue" : "NORFST",
-		"teamImage" : 1052
+		"teamImage" : "NorfolkState"
     },	
 	{
 		"teamId" : 198,
 		"team" : "North Carolina A&T",
 		"teamMascot" : "Aggies",
 		"teamValue" : "NCAT",
-		"teamImage" : 410
+		"teamImage" : "NorthCarolinaA&T"
     },	
 	{
 		"teamId" : 199,
 		"team" : "North Carolina Central",
 		"teamMascot" : "Eagles",
 		"teamValue" : "NCC",
-		"teamImage" : 907
+		"teamImage" : "NorthCarolinaCentral"
     },	
 	{
 		"teamId" : 200,
 		"team" : "South Carolina State",
 		"teamMascot" : "Bulldogs",
 		"teamValue" : "SCST",
-		"teamImage" : 517
+		"teamImage" : "SouthCarolinaState"
     },	
 	{
 		"teamId" : 201,
 		"team" : "Bradley",
 		"teamMascot" : "Braves",
 		"teamValue" : "BRAD",
-		"teamImage" : 62
+		"teamImage" : "Bradley"
     },		
 	{
 		"teamId" : 202,
 		"team" : "Drake",
 		"teamMascot" : "Bulldogs",
 		"teamValue" : "DRAKE",
-		"teamImage" : 170
+		"teamImage" : "Drake"
     },		
 	{
 		"teamId" : 203,
 		"team" : "Evansville",
 		"teamMascot" : "Purple Aces",
 		"teamValue" : "EVANS",
-		"teamImage" : 193
+		"teamImage" : "Evansville"
     },		
 	{
 		"teamId" : 204,
 		"team" : "Illinois State",
 		"teamMascot" : "Redbirds",
 		"teamValue" : "ILLST",
-		"teamImage" : 269
+		"teamImage" : "IllinoisState"
     },		
 	{
 		"teamId" : 205,
 		"team" : "Indiana State",
 		"teamMascot" : "Sycamores",
 		"teamValue" : "INDST",
-		"teamImage" : 274
+		"teamImage" : "IndianaState"
     },		
 	{
 		"teamId" : 206,
 		"team" : "Loyola Chicago",
 		"teamMascot" : "Ramblers",
 		"teamValue" : "LOYCHI",
-		"teamImage" : 316
+		"teamImage" : "LoyolaChicago"
     },		
 	{
 		"teamId" : 207,
 		"team" : "Missouri State",
 		"teamMascot" : "Bears",
 		"teamValue" : "MIZST",
-		"teamImage" : 551
+		"teamImage" : "MissouriState"
     },	
 	{
 		"teamId" : 208,
 		"team" : "Northern Iowa",
 		"teamMascot" : "Panthers",
 		"teamValue" : "NOIOWA",
-		"teamImage" : 418
+		"teamImage" : "NorthernIowa"
     },	
 	{
 		"teamId" : 209,
 		"team" : "Southern Illinois",
 		"teamMascot" : "Salukis",
 		"teamValue" : "SOILL",
-		"teamImage" : 528
+		"teamImage" : "SouthernIllinois"
     },	
 	{
 		"teamId" : 210,
 		"team" : "Valparaiso",
 		"teamMascot" : "Crusaders",
 		"teamValue" : "VALPO",
-		"teamImage" : 614
+		"teamImage" : "Valparaiso"
     },	
 	{
 		"teamId" : 211,
 		"team" : "Air Force",
 		"teamMascot" : "Falcons",
 		"teamValue" : "AFA",
-		"teamImage" : 2
+		"teamImage" : "AirForce"
     },
 	{
 		"teamId" : 212,
 		"team" : "Boise State",
 		"teamMascot" : "Broncos",
 		"teamValue" : "BSU",
-		"teamImage" : 57
+		"teamImage" : "BoiseState"
     },
 	{
 		"teamId" : 213,
 		"team" : "Colorado State",
 		"teamMascot" : "Rams",
 		"teamValue" : "CSU",
-		"teamImage" : 126
+		"teamImage" : "ColoradoState"
     },
 	{
 		"teamId" : 214,
 		"team" : "Fresno State",
 		"teamMascot" : "Bulldogs",
 		"teamValue" : "FRES",
-		"teamImage" : 217
+		"teamImage" : "FresnoState"
     },
 	{
 		"teamId" : 215,
 		"team" : "Nevada",
 		"teamMascot" : "Wolf Pack",
 		"teamValue" : "NEV",
-		"teamImage" : 402
+		"teamImage" : "Nevada"
     },
 	{
 		"teamId" : 216,
 		"team" : "New Mexico",
 		"teamMascot" : "Lobos",
 		"teamValue" : "NMU",
-		"teamImage" : 404
+		"teamImage" : "NewMexico"
     },
 	{
 		"teamId" : 217,
 		"team" : "San Diego State",
 		"teamMascot" : "Aztecs",
 		"teamValue" : "SDSU",
-		"teamImage" : 498
+		"teamImage" : "SanDiegoState"
     },
 	{
 		"teamId" : 218,
 		"team" : "San Jose State",
 		"teamMascot" : "Spartans",
 		"teamValue" : "SJSU",
-		"teamImage" : 500
+		"teamImage" : "SanJoseState"
     },
 	{
 		"teamId" : 219,
 		"team" : "UNLV",
 		"teamMascot" : "Rebels",
 		"teamValue" : "UNLV",
-		"teamImage" : 401
+		"teamImage" : "UNLV"
     },
 	{
 		"teamId" : 220,
 		"team" : "Utah State",
 		"teamMascot" : "Aggies",
 		"teamValue" : "USU",
-		"teamImage" : 611
+		"teamImage" : "UtahState"
     },
 	{
 		"teamId" : 221,
 		"team" : "Wyoming",
 		"teamMascot" : "Cowboys",
 		"teamValue" : "WYO",
-		"teamImage" : 661
+		"teamImage" : "Wyoming"
     },
 	{
 		"teamId" : 222,
 		"team" : "Bryant",
 		"teamMascot" : "Bulldogs",
 		"teamValue" : "BRYANT",
-		"teamImage" : 1594
+		"teamImage" : "Bryant"
     },
 	{
 		"teamId" : 223,
@@ -1573,903 +1573,903 @@
 		"team" : "Fairleigh Dickinson",
 		"teamMascot" : "Knights",
 		"teamValue" : "FDU",
-		"teamImage" : 200
+		"teamImage" : "CentralConnecticutState"
     },
 	{
 		"teamId" : 225,
 		"team" : "LIU",
 		"teamMascot" : "Sharks",
 		"teamValue" : "LIUS",
-		"teamImage" : 0
+		"teamImage" : "LIU"
     },
 	{
 		"teamId" : 226,
 		"team" : "Merrimack",
 		"teamMascot" : "Warriors",
 		"teamValue" : "MERRI",
-		"teamImage" : 0
+		"teamImage" : "Merrimack"
     },	
 	{
 		"teamId" : 227,
 		"team" : "Mount St. Mary's",
 		"teamMascot" : "Mountaineers",
 		"teamValue" : "MSM",
-		"teamImage" : 378
+		"teamImage" : "MountSt.Mary's"
     },	
 	{
 		"teamId" : 228,
 		"team" : "Robert Morris",
 		"teamMascot" : "Colonials",
 		"teamValue" : "RMU",
-		"teamImage" : 489
+		"teamImage" : "RobertMorris"
     },	
 	{
 		"teamId" : 229,
 		"team" : "Sacred Heart",
 		"teamMascot" : "Pioneers",
 		"teamValue" : "SHU",
-		"teamImage" : 1118
+		"teamImage" : "SacredHeart"
     },	
 	{
 		"teamId" : 230,
 		"team" : "St. Francis (BK)",
 		"teamMascot" : "Terriers",
 		"teamValue" : "STFBK",
-		"teamImage" : 532
+		"teamImage" : "St.Francis(BKN)"
     },	
 	{
 		"teamId" : 231,
 		"team" : "St. Francis (PA)",
 		"teamMascot" : "Red Flash",
 		"teamValue" : "STFPA",
-		"teamImage" : 533
+		"teamImage" : "St.Francis(PA)"
     },		
 	{
 		"teamId" : 232,
 		"team" : "Wagner",
 		"teamMascot" : "Seahawks",
 		"teamValue" : "WAGNER",
-		"teamImage" : 627
+		"teamImage" : "Wagner"
     },	
 	{
 		"teamId" : 233,
 		"team" : "Austin Peay",
 		"teamMascot" : "Governors",
 		"teamValue" : "APU",
-		"teamImage" : 32
+		"teamImage" : "AustinPeay"
     },		
 	{
 		"teamId" : 234,
 		"team" : "Belmont",
 		"teamMascot" : "Bruins",
 		"teamValue" : "BEL",
-		"teamImage" : 47
+		"teamImage" : "Belmont"
 	},		
 	{
 		"teamId" : 235,
 		"team" : "Eastern Illinois",
 		"teamMascot" : "Panthers",
 		"teamValue" : "EIU",
-		"teamImage" : 179
+		"teamImage" : "EasternIllinois"
 	},		
 	{
 		"teamId" : 236,
 		"team" : "Jacksonville State",
 		"teamMascot" : "Gamecocks",
 		"teamValue" : "JSU",
-		"teamImage" : 180
+		"teamImage" : "JacksonvilleState"
 	},		
 	{
 		"teamId" : 237,
 		"team" : "Morehead State",
 		"teamMascot" : "Eagles",
 		"teamValue" : "MOREST",
-		"teamImage" : 284
+		"teamImage" : "MoreheadState"
 	},		
 	{
 		"teamId" : 238,
 		"team" : "Murray State",
 		"teamMascot" : "Racers",
 		"teamValue" : "MURR",
-		"teamImage" : 375
+		"teamImage" : "MurrayState"
 	},		
 	{
 		"teamId" : 239,
 		"team" : "SIU-Edwardsville",
 		"teamMascot" : "Cougars",
 		"teamValue" : "SIUE",
-		"teamImage" : 381
+		"teamImage" : "SIU-Edwardsville"
 	},		
 	{
 		"teamId" : 240,
 		"team" : "Southeast Missouri St.",
 		"teamMascot" : "Redhawks",
 		"teamValue" : "SEMST",
-		"teamImage" : 1196
+		"teamImage" : "SoutheastMissouriState"
 	},	
 	{
 		"teamId" : 241,
 		"team" : "Tennessee State",
 		"teamMascot" : "Tigers",
 		"teamValue" : "TENNST",
-		"teamImage" : 582
+		"teamImage" : "TennesseeState"
 	},		
 	{
 		"teamId" : 242,
 		"team" : "Tennessee Tech",
 		"teamMascot" : "Golden Eagles",
 		"teamValue" : "TNTECH",
-		"teamImage" : 583
+		"teamImage" : "TennesseeTech"
     },		
 	{
 		"teamId" : 243,
 		"team" : "Tennessee-Martin",
 		"teamMascot" : "Skyhawks",
 		"teamValue" : "TMU",
-		"teamImage" : 578
+		"teamImage" : "Tennessee-Martin"
 	},	
 	{
 		"teamId" : 244,
 		"team" : "Arizona",
 		"teamMascot" : "Wildcats",
 		"teamValue" : "ZONA",
-		"teamImage" : 17
+		"teamImage" : "Arizona"
 	},
 	{
 		"teamId" : 245,
 		"team" : "Arizona State",
 		"teamMascot" : "Sun Devils",
 		"teamValue" : "AZST",
-		"teamImage" : 18
+		"teamImage" : "ArizonaState"
 	},
 	{
 		"teamId" : 246,
 		"team" : "Cal",
 		"teamMascot" : "Golden Bears",
 		"teamValue" : "CAL",
-		"teamImage" : 95
+		"teamImage" : "California"
 	},
 	{
 		"teamId" : 247,
 		"team" : "Colorado",
 		"teamMascot" : "Buffaloes",
 		"teamValue" : "COLO",
-		"teamImage" : 125
+		"teamImage" : "Colorado"
 	},
 	{
 		"teamId" : 248,
 		"team" : "Oregon",
 		"teamMascot" : "Ducks",
 		"teamValue" : "ORE",
-		"teamImage" : 449
+		"teamImage" : "Oregon"
 	},	
 	{
 		"teamId" : 249,
 		"team" : "Oregon State",
 		"teamMascot" : "Beavers",
 		"teamValue" : "OREST",
-		"teamImage" : 450
+		"teamImage" : "OregonState"
 	},
 	{
 		"teamId" : 250,
 		"team" : "Stanford",
 		"teamMascot" : "Cardinal",
 		"teamValue" : "STAN",
-		"teamImage" : 545
+		"teamImage" : "Stanford"
 	},
 	{
 		"teamId" : 251,
 		"team" : "UCLA",
 		"teamMascot" : "Bruins",
 		"teamValue" : "UCLA",
-		"teamImage" : 606
+		"teamImage" : "UCLA"
 	},
 	{
 		"teamId" : 252,
 		"team" : "USC",
 		"teamMascot" : "Trojans",
 		"teamValue" : "USC",
-		"teamImage" : 609
+		"teamImage" : "USC"
 	},
 	{
 		"teamId" : 253,
 		"team" : "Utah",
 		"teamMascot" : "Utes",
 		"teamValue" : "UTAH",
-		"teamImage" : 610
+		"teamImage" : "Utah"
 	},
 	{
 		"teamId" : 254,
 		"team" : "Washington",
 		"teamMascot" : "Huskies",
 		"teamValue" : "WASH",
-		"teamImage" : 630
+		"teamImage" : "Washington"
 	},
 	{
 		"teamId" : 255,
 		"team" : "Washington State",
 		"teamMascot" : "Cougars",
 		"teamValue" : "WSU",
-		"teamImage" : 632
+		"teamImage" : "WashingtonState"
 	},
 	{
 		"teamId" : 256,
 		"team" : "American",
 		"teamMascot" : "Eagles",
 		"teamValue" : "AMER",
-		"teamImage" : 14
+		"teamImage" : "American"
     },		
 	{
 		"teamId" : 257,
 		"team" : "Army",
 		"teamMascot" : "Black Knights",
 		"teamValue" : "ARMY",
-		"teamImage" : 24
+		"teamImage" : "Army"
     },		
 	{
 		"teamId" : 258,
 		"team" : "Boston",
 		"teamMascot" : "Terriers",
 		"teamValue" : "BOSTU",
-		"teamImage" : 59
+		"teamImage" : "BostonUniversity"
     },		
 	{
 		"teamId" : 259,
 		"team" : "Bucknell",
 		"teamMascot" : "Bison",
 		"teamValue" : "BUCK",
-		"teamImage" : 66
+		"teamImage" : "Bucknell"
     },		
 	{
 		"teamId" : 260,
 		"team" : "Colgate",
 		"teamMascot" : "Raiders",
 		"teamValue" : "COLG",
-		"teamImage" : 124
+		"teamImage" : "Colgate"
     },		
 	{
 		"teamId" : 261,
 		"team" : "Holy Cross",
 		"teamMascot" : "Crusaders",
 		"teamValue" : "HOLY",
-		"teamImage" : 253
+		"teamImage" : "HolyCross"
     },	
 	{
 		"teamId" : 262,
 		"team" : "Lafayette",
 		"teamMascot" : "Leopards",
 		"teamValue" : "LAF",
-		"teamImage" : 298
+		"teamImage" : "Lafayette"
     },	
 	{
 		"teamId" : 263,
 		"team" : "Lehigh",
 		"teamMascot" : "Mountain Hawks",
 		"teamValue" : "LEH",
-		"teamImage" : 303
+		"teamImage" : "Lehigh"
     },	
 	{
 		"teamId" : 264,
 		"team" : "Loyola (MD)",
 		"teamMascot" : "Greyhounds",
 		"teamValue" : "LOYMD",
-		"teamImage" : 318
+		"teamImage" : "Loyola(MD)"
     },	
 	{
 		"teamId" : 265,
 		"team" : "Navy",
 		"teamMascot" : "Midshipmen",
 		"teamValue" : "NAVY",
-		"teamImage" : 392
+		"teamImage" : "Navy"
     },	
 	{
 		"teamId" : 266,
 		"team" : "Alabama",
 		"teamMascot" : "Crimson Tide",
 		"teamValue" : "ALA",
-		"teamImage" : 6
+		"teamImage" : "Alabama"
 	},
 	{
 		"teamId" : 267,
 		"team" : "Arkansas",
 		"teamMascot" : "Razorbacks",
 		"teamValue" : "ARK",
-		"teamImage" : 19
+		"teamImage" : "Arkansas"
     },
 	{
 		"teamId" : 268,
 		"team" : "Auburn",
 		"teamMascot" : "Tigers",
 		"teamValue" : "AUB",
-		"teamImage" : 28
+		"teamImage" : "Auburn"
     },	
 	{
 		"teamId" : 269,
 		"team" : "Florida",
 		"teamMascot" : "Gators",
 		"teamValue" : "FLA",
-		"teamImage" : 210
+		"teamImage" : "Florida"
     },
 	{
 		"teamId" : 270,
 		"team" : "Georgia",
 		"teamMascot" : "Bulldogs",
 		"teamValue" : "UGA",
-		"teamImage" : 230
+		"teamImage" : "Georgia"
     },
 	{
 		"teamId" : 271,
 		"team" : "Kentucky",
 		"teamMascot" : "Wildcats",
 		"teamValue" : "UK",
-		"teamImage" : 292
+		"teamImage" : "Kentucky"
     },
 	{
 		"teamId" : 272,
 		"team" : "LSU",
 		"teamMascot" : "Tigers",
 		"teamValue" : "LSU",
-		"teamImage" : 319
+		"teamImage" : "LSU"
     },	
 	{
 		"teamId" : 273,
 		"team" : "Mississippi State",
 		"teamMascot" : "Bulldogs",
 		"teamValue" : "MSST",
-		"teamImage" : 366
+		"teamImage" : "MississippiState"
     },	
 	{
 		"teamId" : 274,
 		"team" : "Missouri",
 		"teamMascot" : "Tigers",
 		"teamValue" : "MIZ",
-		"teamImage" : 367
+		"teamImage" : "Missouri"
     },	
 	{
 		"teamId" : 275,
 		"team" : "Ole Miss",
 		"teamMascot" : "Rebels",
 		"teamValue" : "MISS",
-		"teamImage" : 365
+		"teamImage" : "OleMiss"
     },
 	{
 		"teamId" : 276,
 		"team" : "South Carolina",
 		"teamMascot" : "Gamecocks",
 		"teamValue" : "SC",
-		"teamImage" : 525
+		"teamImage" : "SouthCarolina"
     },
 	{
 		"teamId" : 277,
 		"team" : "Tennessee",
 		"teamMascot" : "Volunteers",
 		"teamValue" : "TENN",
-		"teamImage" : 580
+		"teamImage" : "Tennessee"
     },
 	{
 		"teamId" : 278,
 		"team" : "Texas A&M",
 		"teamMascot" : "Aggies",
 		"teamValue" : "TXAM",
-		"teamImage" : 587
+		"teamImage" : "TexasA&M"
     },
 	{
 		"teamId" : 279,
 		"team" : "Vanderbilt",
 		"teamMascot" : "Commodores",
 		"teamValue" : "VU",
-		"teamImage" : 615
+		"teamImage" : "Vanderbilt"
     },		
 	{
 		"teamId" : 280,
 		"team" : "Abilene Christian",
 		"teamMascot" : "Wildcats",
 		"teamValue" : "ABCHR",
-		"teamImage" : 36
+		"teamImage" : "AbileneChristian"
     },	
 	{
 		"teamId" : 281,
 		"team" : "Central Arkansas",
 		"teamMascot" : "Bears",
 		"teamValue" : "CENARK",
-		"teamImage" : 1262
+		"teamImage" : "CentralArkansas"
     },		
 	{
 		"teamId" : 282,
 		"team" : "Houston Baptist",
 		"teamMascot" : "Huskies",
 		"teamValue" : "HOUBAP",
-		"teamImage" : 255
+		"teamImage" : "HoustonBaptist"
     },	
 	{
 		"teamId" : 283,
 		"team" : "Incarnate Word",
 		"teamMascot" : "Cardinals",
 		"teamValue" : "INCWD",
-		"teamImage" : 1528
+		"teamImage" : "IncarnateWord"
     },	
 	{
 		"teamId" : 284,
 		"team" : "Lamar",
 		"teamMascot" : "Cardinals",
 		"teamValue" : "LAMAR",
-		"teamImage" : 299
+		"teamImage" : "Lamar"
     },		
 	{
 		"teamId" : 285,
 		"team" : "McNeese State",
 		"teamMascot" : "Cowboys",
 		"teamValue" : "MCNST",
-		"teamImage" : 345
+		"teamImage" : "McNeeseState"
     },	
 	{
 		"teamId" : 286,
 		"team" : "New Orleans",
 		"teamMascot" : "Privateers",
 		"teamValue" : "NOLA",
-		"teamImage" : 406
+		"teamImage" : "NewOrleans"
     },	
 	{
 		"teamId" : 287,
 		"team" : "Nicholls State",
 		"teamMascot" : "Colonels",
 		"teamValue" : "NICHST",
-		"teamImage" : 409
+		"teamImage" : "NichollsState"
     },		
 	{
 		"teamId" : 288,
 		"team" : "Northwestern St.",
 		"teamMascot" : "Demons",
 		"teamValue" : "NWST",
-		"teamImage" : 422
+		"teamImage" : "NorthwesternState"
     },	
 	{
 		"teamId" : 289,
 		"team" : "Sam Houston St.",
 		"teamMascot" : "Bearkats",
 		"teamValue" : "SHSU",
-		"teamImage" : 495
+		"teamImage" : "SamHoustonState"
     },	
 	{
 		"teamId" : 290,
 		"team" : "Southeastern LA",
 		"teamMascot" : "Lions",
 		"teamValue" : "SELA",
-		"teamImage" : 506
+		"teamImage" : "SoutheasternLouisiana"
     },		
 	{
 		"teamId" : 291,
 		"team" : "Stephen F. Austin",
 		"teamMascot" : "Lumberjacks",
 		"teamValue" : "SFA",
-		"teamImage" : 547
+		"teamImage" : "StephenF.Austin"
     },	
 	{
 		"teamId" : 292,
 		"team" : "Texas A&M-CC",
 		"teamMascot" : "Islanders",
 		"teamValue" : "TAMCC",
-		"teamImage" : 1231
+		"teamImage" : "TexasA&M-CC"
     },	
 	{
 		"teamId" : 293,
 		"team" : "Chattanooga",
 		"teamMascot" : "Mocs",
 		"teamValue" : "CHATT",
-		"teamImage" : 581
+		"teamImage" : "Chattanooga"
     },		
 	{
 		"teamId" : 294,
 		"team" : "Citadel",
 		"teamMascot" : "Bulldogs",
 		"teamValue" : "CIT",
-		"teamImage" : 134
+		"teamImage" : "Citadel"
     },	
 	{
 		"teamId" : 295,
 		"team" : "ETSU",
 		"teamMascot" : "Buccaneers",
 		"teamValue" : "ETSU",
-		"teamImage" : 176
+		"teamImage" : "EastTennesseeState"
     },	
 	{
 		"teamId" : 296,
 		"team" : "Furman",
 		"teamMascot" : "Paladins",
 		"teamValue" : "FURMAN",
-		"teamImage" : 220
+		"teamImage" : "Furman"
     },		
 	{
 		"teamId" : 297,
 		"team" : "Mercer",
 		"teamMascot" : "Bears",
 		"teamValue" : "MERCER",
-		"teamImage" : 350
+		"teamImage" : "Mercer"
     },	
 	{
 		"teamId" : 298,
 		"team" : "Samford",
 		"teamMascot" : "Bulldogs",
 		"teamValue" : "SAMF",
-		"teamImage" : 496
+		"teamImage" : "Samford"
     },	
 	{
 		"teamId" : 299,
 		"team" : "UNC Greensboro",
 		"teamMascot" : "Spartans",
 		"teamValue" : "UNCG",
-		"teamImage" : 396
+		"teamImage" : "UNCGreensboro"
     },		
 	{
 		"teamId" : 300,
 		"team" : "Virginia Military",
 		"teamMascot" : "Keydets",
 		"teamValue" : "VMI",
-		"teamImage" : 621
+		"teamImage" : "VirginiaMilitary"
     },	
 	{
 		"teamId" : 301,
 		"team" : "Western Carolina",
 		"teamMascot" : "Catamounts",
 		"teamValue" : "WCU",
-		"teamImage" : 644
+		"teamImage" : "WesternCarolina"
     },	
 	{
 		"teamId" : 302,
 		"team" : "Wofford",
 		"teamMascot" : "Terriers",
 		"teamValue" : "WOF",
-		"teamImage" : 659
+		"teamImage" : "Wofford"
     },		
 	{
 		"teamId" : 303,
 		"team" : "Denver",
 		"teamMascot" : "Pioneers",
 		"teamValue" : "DENV",
-		"teamImage" : 163
+		"teamImage" : "Denver"
     },	
 	{
 		"teamId" : 304,
 		"team" : "Omaha",
 		"teamMascot" : "Mavericks",
 		"teamValue" : "OMAHA",
-		"teamImage" : 1337
+		"teamImage" : "Nebraska-Omaha"
     },	
 	{
 		"teamId" : 305,
 		"team" : "North Dakota",
 		"teamMascot" : "Fighting Hawks",
 		"teamValue" : "NDU",
-		"teamImage" : 1279
+		"teamImage" : "NorthDakota"
     },		
 	{
 		"teamId" : 306,
 		"team" : "NDSU",
 		"teamMascot" : "Bison",
 		"teamValue" : "NDSU",
-		"teamImage" : 1455
+		"teamImage" : "NorthDakotaState"
     },	
 	{
 		"teamId" : 307,
 		"team" : "Oral Roberts",
 		"teamMascot" : "Golden Eagles",
 		"teamValue" : "ORU",
-		"teamImage" : 448
+		"teamImage" : "OralRoberts"
     },	
 	{
 		"teamId" : 308,
-		"team" : "Purdue FW",
+		"team" : "Purdue Fort Wayne",
 		"teamMascot" : "Mastodons",
 		"teamValue" : "PURFW",
-		"teamImage" : 932
+		"teamImage" : "PurdueFortWayne"
     },		
 	{
 		"teamId" : 309,
 		"team" : "South Dakota",
 		"teamMascot" : "Coyotes",
 		"teamValue" : "SDU",
-		"teamImage" : 1458
+		"teamImage" : "SouthDakota"
     },	
 	{
 		"teamId" : 310,
 		"team" : "South Dakota St.",
 		"teamMascot" : "Jackrabbits",
 		"teamValue" : "SDAKST",
-		"teamImage" : 1472
+		"teamImage" : "SouthDakotaState"
     },	
 	{
 		"teamId" : 311,
 		"team" : "Western Illinois",
 		"teamMascot" : "Leathernecks",
 		"teamValue" : "WILL",
-		"teamImage" : 638
+		"teamImage" : "WesternIllinois"
     },		
 	{
 		"teamId" : 312,
 		"team" : "Appalachian State",
 		"teamMascot" : "Mountaineers",
 		"teamValue" : "APP",
-		"teamImage" : 16
+		"teamImage" : "AppalachianState"
     },
 	{
 		"teamId" : 313,
 		"team" : "Arkansas State",
 		"teamMascot" : "Red Wolves",
 		"teamValue" : "ARST",
-		"teamImage" : 22
+		"teamImage" : "ArkansasState"
     },	
 	{
 		"teamId" : 314,
 		"team" : "Arkansas-Little Rock",
 		"teamMascot" : "Trojans",
 		"teamValue" : "ARLR",
-		"teamImage" : 20
+		"teamImage" : "Arkansas-LittleRock"
     },		
 	{
 		"teamId" : 315,
 		"team" : "Coastal Carolina",
 		"teamMascot" : "Chanticleers",
 		"teamValue" : "CCU",
-		"teamImage" : 122
+		"teamImage" : "CoastalCarolina"
     },	
 	{
 		"teamId" : 316,
 		"team" : "Georgia Southern",
 		"teamMascot" : "Eagles",
 		"teamValue" : "GASOU",
-		"teamImage" : 226
+		"teamImage" : "GeorgiaSouthern"
     },
 	{
 		"teamId" : 317,
 		"team" : "Georgia State",
 		"teamMascot" : "Panthers",
 		"teamValue" : "GAST",
-		"teamImage" : 231
+		"teamImage" : "GeorgiaState"
     },
 	{
 		"teamId" : 318,
 		"team" : "Louisiana",
 		"teamMascot" : "Ragin' Cajuns",
 		"teamValue" : "ULL",
-		"teamImage" : 550
+		"teamImage" : "Louisiana-Lafayette"
     },
 	{
 		"teamId" : 319,
 		"team" : "Louisiana-Monroe",
 		"teamMascot" : "Warhawks",
 		"teamValue" : "LAMON",
-		"teamImage" : 399
+		"teamImage" : ""
     },
 	{
 		"teamId" : 320,
 		"team" : "South Alabama",
 		"teamMascot" : "Jaguars",
 		"teamValue" : "USA",
-		"teamImage" : 399
+		"teamImage" : "SouthAlabama"
     },
 	{
 		"teamId" : 321,
 		"team" : "Texas State",
 		"teamMascot" : "Bobcats",
 		"teamValue" : "TXST",
-		"teamImage" : 524
+		"teamImage" : "TexasState"
     },		
 	{
 		"teamId" : 322,
 		"team" : "Texas-Arlington",
 		"teamMascot" : "Mavericks",
 		"teamValue" : "TEX-AR",
-		"teamImage" : 552
+		"teamImage" : "Texas-Arlington"
     },		
 	{
 		"teamId" : 323,
 		"team" : "Troy",
 		"teamMascot" : "Trojans",
 		"teamValue" : "TROY",
-		"teamImage" : 596
+		"teamImage" : "Troy"
     },	
 	{
 		"teamId" : 324,
 		"team" : "Alabama A&M",
 		"teamMascot" : "Bulldogs",
 		"teamValue" : "ALAM",
-		"teamImage" : 1037
+		"teamImage" : "AlabamaA&M"
     },		
 	{
 		"teamId" : 325,
 		"team" : "Alabama State",
 		"teamMascot" : "Hornets",
 		"teamValue" : "ALAST",
-		"teamImage" : 8
+		"teamImage" : "AlabamaState"
     },		
 	{
 		"teamId" : 326,
 		"team" : "Alcorn State",
 		"teamMascot" : "Braves",
 		"teamValue" : "ALCST",
-		"teamImage" : 10
+		"teamImage" : "AlcornState"
     },		
 	{
 		"teamId" : 327,
 		"team" : "Arkansas-Pine Bluff",
 		"teamMascot" : "Golden Lions",
 		"teamValue" : "APB",
-		"teamImage" : 35
+		"teamImage" : "Arkansas-PineBluff"
     },	
 	{
 		"teamId" : 328,
 		"team" : "Grambling State",
 		"teamMascot" : "Tigers",
 		"teamValue" : "GRAMB",
-		"teamImage" : 234
+		"teamImage" : "GramblingState"
     },		
 	{
 		"teamId" : 329,
 		"team" : "Jackson State",
 		"teamMascot" : "Tigers",
 		"teamValue" : "JACST",
-		"teamImage" : 280
+		"teamImage" : "JacksonState"
     },		
 	{
 		"teamId" : 330,
 		"team" : "Miss Valley St",
 		"teamMascot" : "Delta Devils",
 		"teamValue" : "MSVST",
-		"teamImage" : 364
+		"teamImage" : "MississippiValleyState"
     },		
 	{
 		"teamId" : 331,
 		"team" : "Prairie View A&M",
 		"teamMascot" : "Panthers",
 		"teamValue" : "PVAM",
-		"teamImage" : 468
+		"teamImage" : "PrairieViewA&M"
     },		
 	{
 		"teamId" : 332,
 		"team" : "Southern",
 		"teamMascot" : "Jaguars",
 		"teamValue" : "SOUTH",
-		"teamImage" : 241
+		"teamImage" : "SouthernUniversity"
     },		
 	{
 		"teamId" : 333,
 		"team" : "Texas Southern",
 		"teamMascot" : "Tigers",
 		"teamValue" : "TXSO",
-		"teamImage" : 591
+		"teamImage" : "TexasSouthern"
     },		
 	{
 		"teamId" : 334,
 		"team" : "Cal St Bakersfield",
 		"teamMascot" : "Roadrunners",
 		"teamValue" : "CALSTB",
-		"teamImage" : 1105
+		"teamImage" : "CalStateBakersfield"
     },		
 	{
 		"teamId" : 335,
 		"team" : "California Baptist",
 		"teamMascot" : "Lancers",
 		"teamValue" : "CALBAP",
-		"teamImage" : 1009
+		"teamImage" : "CaliforniaBaptist"
     },	
 	{
 		"teamId" : 336,
 		"team" : "Chicago State",
 		"teamMascot" : "Cougars",
 		"teamValue" : "CHIST",
-		"teamImage" : 112
+		"teamImage" : "ChicagoState"
     },		
 	{
 		"teamId" : 337,
 		"team" : "Grand Canyon",
 		"teamMascot" : "Cougars",
 		"teamValue" : "GCU",
-		"teamImage" : 237
+		"teamImage" : "GrandCanyon"
     },	
 	{
 		"teamId" : 338,
 		"team" : "Kansas City",
 		"teamMascot" : "Roos",
 		"teamValue" : "KCITY",
-		"teamImage" : 368
+		"teamImage" : "KansasCity"
     },		
 	{
 		"teamId" : 339,
 		"team" : "New Mexico State",
 		"teamMascot" : "Aggies",
 		"teamValue" : "NMSU",
-		"teamImage" : 405
+		"teamImage" : "NewMexicoState"
     },
 	{
 		"teamId" : 340,
 		"team" : "Seattle",
 		"teamMascot" : "Redhawks",
 		"teamValue" : "SEA",
-		"teamImage" : 507
+		"teamImage" : "Seattle"
     },	
 	{
 		"teamId" : 341,
 		"team" : "TRGV",
 		"teamMascot" : "Vaqueros",
 		"teamValue" : "TRGV",
-		"teamImage" : 601
+		"teamImage" : "TexasRioGrandeValley"
     },		
 	{
 		"teamId" : 342,
 		"team" : "Utah Valley",
 		"teamMascot" : "Wolverines",
 		"teamValue" : "UTVAL",
-		"teamImage" : 1424
+		"teamImage" : "UtahValley"
     },
 	{
 		"teamId" : 343,
 		"team" : "BYU",
 		"teamMascot" : "Cougars",
 		"teamValue" : "BYU",
-		"teamImage" : 68
+		"teamImage" : "BYU"
     },	
 	{
 		"teamId" : 344,
 		"team" : "Gonzaga",
 		"teamMascot" : "Bulldogs",
 		"teamValue" : "GONZ",
-		"teamImage" : 233
+		"teamImage" : "Gonzaga"
     },		
 	{
 		"teamId" : 345,
 		"team" : "Loyola Marymount",
 		"teamMascot" : "Lions",
 		"teamValue" : "LOYMAR",
-		"teamImage" : 317
+		"teamImage" : "LoyolaMarymount"
     },	
 	{
 		"teamId" : 346,
 		"team" : "Pacific",
 		"teamMascot" : "Tigers",
 		"teamValue" : "PAC",
-		"teamImage" : 455
+		"teamImage" : "Pacific"
     },		
 	{
 		"teamId" : 347,
 		"team" : "Pepperdine",
 		"teamMascot" : "Waves",
 		"teamValue" : "PEPP",
-		"teamImage" : 461
+		"teamImage" : "Pepperdine"
     },	
 	{
 		"teamId" : 348,
 		"team" : "Portland",
 		"teamMascot" : "Pilots",
 		"teamValue" : "PORT",
-		"teamImage" : 467
+		"teamImage" : "Portland"
     },		
 	{
 		"teamId" : 349,
 		"team" : "Saint Mary's",
 		"teamMascot" : "Gaels",
 		"teamValue" : "STMARY",
-		"teamImage" : 538
+		"teamImage" : "SaintMary's"
     },		
 	{
 		"teamId" : 350,
 		"team" : "San Diego",
 		"teamMascot" : "Toreros",
 		"teamValue" : "SAND",
-		"teamImage" : 497
+		"teamImage" : "SanDiego"
     },		
 	{
 		"teamId" : 351,
 		"team" : "San Francisco",
 		"teamMascot" : "Dons",
 		"teamValue" : "DONS",
-		"teamImage" : 499
+		"teamImage" : "SanFrancisco"
     },
 	{
 		"teamId" : 352,
 		"team" : "Santa Clara",
 		"teamMascot" : "Broncos",
 		"teamValue" : "SANCL",
-		"teamImage" : 502
+		"teamImage" : "SantaClara"
     }
   ]
 }
