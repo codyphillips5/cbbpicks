@@ -6,7 +6,7 @@ var coversTeam = [];
 var picksList, teamsList, resultsList, usersList;
 var badge = document.createElement('div');
 badge.className = 'standings';
-var weekNum = 1;
+var weekNum = 2;
 var weekList = "";
 var check = "";
 
@@ -14,7 +14,7 @@ for (var y = weekNum; y >= 1; y--) {
 	weekList = weekList + `<option value ='${y}'> Week ${y} </option>`;
 }
 
-var select = `<select class='form-control' id='results_by_week' onchange="getResultsByWeek(this.value);">${weekList}</select>`;
+var select = `<select class='form-control form-select' id='results_by_week' onchange="getResultsByWeek(this.value);">${weekList}</select>`;
 badge.innerHTML = '<form>' + select + '</form>';		
 document.getElementById("weeks").appendChild(badge);
 
