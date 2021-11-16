@@ -176,7 +176,7 @@ function assignPointsByTeam(id) {
 	fullTeamSpread = fullTeamName.replace(/[^\d+.-]/g, '');
 	game.team = userPick;
 	document.getElementById("seasongame" + id).value = game.team;
-	document.getElementById("label-choice-seasongame" + id).innerHTML = `<label for="${id}" class="choice">${game.team} ${fullTeamSpread}</label>`;
+	document.getElementById("label-choice-seasongame" + id).innerHTML = `<label for="${id}" class="choice pb-1">${game.team} ${fullTeamSpread}</label>`;
 	getTeamInfo(userPick);
 
 	request.success(function(response){
