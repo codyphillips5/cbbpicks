@@ -110,8 +110,8 @@ $.when(requestX, requestY).then(function(){
 			var fin = '';
 
 			if (xFile[key][i].cover) {
-				var awayScore = `<span class='teamlist'><img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${awayTeamImage}.vresize.25.25.medium.2.png"> ${awayTeam} ${awayTeamMascot} - ${xFile[key][i].awayScore}`
-				var homeScore = `<img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${homeTeamImage}.vresize.25.25.medium.2.png"> ${homeTeam} ${homeTeamMascot} - ${xFile[key][i].homeScore}`
+				var awayScore = `<span class='teamlist'><img src="https://b.fssta.com/uploads/application/college/team-logos/${awayTeamImage}.vresize.25.25.medium.2.png"> ${awayTeam} ${awayTeamMascot} - ${xFile[key][i].awayScore}`
+				var homeScore = `<img src="https://b.fssta.com/uploads/application/college/team-logos/${homeTeamImage}.vresize.25.25.medium.2.png"> ${homeTeam} ${homeTeamMascot} - ${xFile[key][i].homeScore}`
 				if (xFile[key][i].cover == home)
 					homeScore = `${homeScore} 💰`;
 				else if (xFile[key][i].cover == away)
@@ -181,7 +181,7 @@ function assignPointsByTeam(id) {
 
 	request.success(function(response){
 		game.spread = attempt.thisTeamImg;
-		document.getElementById("image" + id).innerHTML = `<img src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${game.spread}.vresize.200.200.medium.2.png">`;
+		document.getElementById("image" + id).innerHTML = `<img src="https://b.fssta.com/uploads/application/college/team-logos/${game.spread}.vresize.200.200.medium.2.png">`;
 	});
 	document.getElementById("seasongame" + id).value = game.team;
 }

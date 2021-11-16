@@ -120,7 +120,7 @@ function getResultsByWeek(week) {
 						check = "❌";			
 					}
 					if (teamImage)
-						pick = ` <div class='text-center'><img class='mx-auto' src="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/global/dev/static_resources/cbk/teams/retina/${teamImage}.vresize.200.200.medium.2.png"> ${check}</div>`;
+						pick = ` <div class='text-center'><img class='mx-auto' src="https://b.fssta.com/uploads/application/college/team-logos/${teamImage}.vresize.200.200.medium.2.png"> ${check}</div>`;
 					tableUser = tableUser + `<td class="table-${isCorrect}">${pick}</td>`;
 					teamImage = "";
 				}
