@@ -16,7 +16,7 @@ var tournTeam = ""
 
 var standings, teams, resultsList, usersList;
 game = 0;
-week = 1;
+week = 2;
 
 for (var i = 1; i <= week; i++) {
 	var getGames = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week" + i + ".json", function(json){
