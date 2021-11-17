@@ -32,7 +32,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2021-11-17T03:00Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 81,
+		"homeScore" : 49,
+		"cover" : "BYU"
     },
     {
 		"gameId" : 4,
