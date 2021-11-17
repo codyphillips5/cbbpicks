@@ -1,7 +1,7 @@
 var firtName = "";
 var lastName = "";
 var coversNum = [];
-var coversTeam = [];
+var coversResultsTeam = [];
 
 var picksList, teamsList, resultsList, usersList;
 var badge = document.createElement('div');
@@ -24,7 +24,7 @@ getResultsByWeek(weekNum);
 
 function getResultsByWeek(week) {
 	coversNum = [];
-	coversTeam = [];
+	coversResultsTeam = [];
 	var getPicks = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week"+ week +"_picks.json", function(json){
 		picksList = json;
 	});
@@ -35,8 +35,7 @@ function getResultsByWeek(week) {
 		for (var result in resultsList) {
 			for (var r = 0; r < resultsList[result].length; r++) {
 				if(resultsList[result][r].cover)
-					coversTeam.push(resultsList[result][r].cover);
-
+					coversResultsTeam.push(resultsList[result][r].cover);
 			}
 		}
 	});	
@@ -104,14 +103,12 @@ function getResultsByWeek(week) {
 						}
 					}
 					
-					console.log(coversTeam);
-					
-					if(coversTeam[gameNum-1] == pick) {
+					if(coversResultsTeam[gameNum-1] == pick) {
 						isCorrect = "success";
 						check = "✅";
 						pointTotal = pointTotal+1;
 					}
-					else if(gameNum > coversTeam.length) {
+					else if(gameNum > coversResultsTeam.length) {
 						isCorrect = "";
 						check = "";
 					}
