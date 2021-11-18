@@ -53,10 +53,10 @@
 		"awayTeam" : "OSU",
 		"homeTeam" : "XAV",
 		"favorite" : "OSU",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2021-11-18T23:30Z",
 		"channel" : "FS1",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 6,
