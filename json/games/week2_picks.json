@@ -340,10 +340,10 @@
     },
 	{
 		"userId" : 27,
-		"game1" : "",
-		"game2" : "",
-		"game3" : "",
-		"game4" : "",
+		"game1" : "HOU",
+		"game2" : "SETON",
+		"game3" : "ORE",
+		"game4" : "SJU",
 		"game5" : "",
 		"game6" : "",
 		"game7" : "",
@@ -367,19 +367,6 @@
 	{
 		"userId" : 29,
 		"game1" : "HOU",
-		"game2" : "SETON",
-		"game3" : "ORE",
-		"game4" : "SJU",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
-    },
-	{
-		"userId" : 30,
-		"game1" : "HOU",
 		"game2" : "MICH",
 		"game3" : "BYU",
 		"game4" : "IND",
@@ -391,7 +378,7 @@
 		"game10" : ""
     },
 	{
-		"userId" : 31,
+		"userId" : 30,
 		"game1" : "HOU",
 		"game2" : "MICH",
 		"game3" : "ORE",
@@ -404,7 +391,7 @@
 		"game10" : ""
     },
 	{
-		"userId" : 32,
+		"userId" : 31,
 		"game1" : "UVA",
 		"game2" : "MICH",
 		"game3" : "ORE",
@@ -417,7 +404,7 @@
 		"game10" : ""
     },
 	{
-		"userId" : 33,
+		"userId" : 32,
 		"game1" : "HOU",
 		"game2" : "SETON",
 		"game3" : "ORE",
