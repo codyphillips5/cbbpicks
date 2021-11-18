@@ -107,30 +107,26 @@
     },	
 	{
 		"userId" : 27,
-		"week_1" : 2
+		"week_1" : 4
     },	
 	{
 		"userId" : 28,
-		"week_1" : 4
-    },	
-	{
-		"userId" : 29,
 		"week_1" : 2
     },	
 	{
-		"userId" : 30,
+		"userId" : 29,
 		"week_1" : 5
     },	
 	{
-		"userId" : 31,
+		"userId" : 30,
 		"week_1" : 3
     },	
 	{
-		"userId" : 32,
+		"userId" : 31,
 		"week_1" : 4
     },	
 	{
-		"userId" : 33,
+		"userId" : 32,
 		"week_1" : 9,
 		"week_1_top" : true
     }
