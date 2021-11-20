@@ -92,22 +92,22 @@
     },
     {
 		"gameId" : 9,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "MARQ",
+		"homeTeam" : "STBON",
+		"favorite" : "STBON",
 		"spread" : "-",
 		"gameTime" : "2021-11-22T00:30Z",
-		"channel" : "Charleston Classic",
+		"channel" : "ESPN",
 		"active" : false
     },
     {
 		"gameId" : 10,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "ZONA",
+		"homeTeam" : "MICH",
+		"favorite" : "MICH",
 		"spread" : "-",
 		"gameTime" : "2021-11-22T02:30Z",
-		"channel" : "Roman Main Event",
+		"channel" : "ESPN",
 		"active" : false
     }
   ]
