@@ -64,8 +64,8 @@
 		"gameId" : 6,
 		"awayTeam" : "NOVA",
 		"homeTeam" : "TENN",
-		"favorite" : "TENN",
-		"spread" : "-",
+		"favorite" : "NOVA",
+		"spread" : 2.5,
 		"gameTime" : "2021-11-20T18:00Z",
 		"channel" : "ESPNEWS",
 		"active" : false
@@ -75,7 +75,7 @@
 		"awayTeam" : "UNC",
 		"homeTeam" : "PURD",
 		"favorite" : "PURD",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2021-11-20T21:00Z",
 		"channel" : "ESPNEWS",
 		"active" : false
