@@ -68,7 +68,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2021-11-20T18:00Z",
 		"channel" : "ESPNEWS",
-		"active" : true
+		"awayScore" : 71,
+		"homeScore" : 53,
+		"cover" : "NOVA"
     },
     {
 		"gameId" : 7,
@@ -78,16 +80,18 @@
 		"spread" : 6.5,
 		"gameTime" : "2021-11-20T21:00Z",
 		"channel" : "ESPNEWS",
-		"active" : true
+		"awayScore" : 84,
+		"homeScore" : 93,
+		"cover" : "PURD"
     },
     {
 		"gameId" : 8,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "PURD",
+		"homeTeam" : "NOVA",
+		"favorite" : "NOVA",
 		"spread" : "-",
 		"gameTime" : "2021-11-21T18:00Z",
-		"channel" : "HOF Tip-Off",
+		"channel" : "ABC",
 		"active" : false
     },
     {
@@ -95,7 +99,7 @@
 		"awayTeam" : "MARQ",
 		"homeTeam" : "STBON",
 		"favorite" : "STBON",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2021-11-22T00:30Z",
 		"channel" : "ESPN",
 		"active" : false
@@ -105,7 +109,7 @@
 		"awayTeam" : "ZONA",
 		"homeTeam" : "MICH",
 		"favorite" : "MICH",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2021-11-22T02:30Z",
 		"channel" : "ESPN",
 		"active" : false
