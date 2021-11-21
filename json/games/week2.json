@@ -88,21 +88,21 @@
 		"gameId" : 8,
 		"awayTeam" : "PURD",
 		"homeTeam" : "NOVA",
-		"favorite" : "NOVA",
-		"spread" : "-",
+		"favorite" : "PURD",
+		"spread" : 2.5,
 		"gameTime" : "2021-11-21T18:00Z",
 		"channel" : "ABC",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 9,
 		"awayTeam" : "MARQ",
 		"homeTeam" : "STBON",
 		"favorite" : "STBON",
-		"spread" : 4.5,
+		"spread" : 3.5,
 		"gameTime" : "2021-11-22T00:30Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
@@ -112,7 +112,7 @@
 		"spread" : 3.5,
 		"gameTime" : "2021-11-22T02:30Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
     }
   ]
 }
