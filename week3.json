@@ -1,0 +1,104 @@
+{
+  "games": [
+	{
+		"gameId" : 1,
+		"awayTeam" : "OSU",
+		"homeTeam" : "SETON",
+		"favorite" : "SETON",
+		"spread" : 1.5,
+		"gameTime" : "2021-11-22T23:00Z",
+		"channel" : "FS1",
+		"active" : true
+    },
+	{
+		"gameId" : 2,
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2021-11-24T01:30Z",
+		"channel" : "ESPN2",
+		"active" : false
+    },
+	{
+		"gameId" : 3,
+		"awayTeam" : "GONZ",
+		"homeTeam" : "UCLA",
+		"favorite" : "UCLA",
+		"spread" : "-",
+		"gameTime" : "2021-11-24T03:00Z",
+		"channel" : "ESPN",
+		"active" : false
+    },
+    {
+		"gameId" : 4,
+		"awayTeam" : "UCONN",
+		"homeTeam" : "AUB",
+		"favorite" : "AUB",
+		"spread" : "-",
+		"gameTime" : "2021-11-24T19:30Z",
+		"channel" : "ESPN",
+		"active" : false
+    },
+    {
+		"gameId" : 5,
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2021-11-24T22:00Z",
+		"channel" : "Maui Jim Maui Final",
+		"active" : false
+    },
+    {
+		"gameId" : 6,
+		"awayTeam" : "MEM",
+		"homeTeam" : "VT",
+		"favorite" : "VT",
+		"spread" : "-",
+		"gameTime" : "2021-11-25T02:30Z",
+		"channel" : "ESPN2",
+		"active" : false
+    },
+    {
+		"gameId" : 7,
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2021-11-26T17:00Z",
+		"channel" : "NIT Tip Off",
+		"active" : false
+    },
+    {
+		"gameId" : 8,
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2021-11-26T17:00Z",
+		"channel" : "Battle 4 Atlantis",
+		"active" : false
+    },
+    {
+		"gameId" : 9,
+		"awayTeam" : "DUKE",
+		"homeTeam" : "GONZ",
+		"favorite" : "GONZ",
+		"spread" : "-",
+		"gameTime" : "2021-11-27T03:30Z",
+		"channel" : "ESPN",
+		"active" : false
+    },
+    {
+		"gameId" : 10,
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2021-11-28T18:00Z",
+		"channel" : "ESPN Events Inv",
+		"active" : false
+    }
+  ]
+}
