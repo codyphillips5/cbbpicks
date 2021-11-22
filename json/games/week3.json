@@ -5,7 +5,7 @@
 		"awayTeam" : "OSU",
 		"homeTeam" : "SETON",
 		"favorite" : "SETON",
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2021-11-22T23:00Z",
 		"channel" : "FS1",
 		"active" : false
@@ -47,7 +47,7 @@
 		"favorite" : "VT",
 		"spread" : "-",
 		"gameTime" : "2021-11-25T02:30Z",
-		"channel" : "",
+		"channel" : "ESPN2",
 		"active" : false
     },
     {
