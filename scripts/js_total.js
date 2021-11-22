@@ -13,6 +13,7 @@ var percTourney;
 var home, away, cover, week, game;
 var games = false;
 var tournTeam = ""
+var fullNameTeam = "";
 
 var standings, teams, resultsList, usersList;
 game = 0;
@@ -77,6 +78,7 @@ $.when(getGames, getTeams, getTourney).then(function(){
 			for (var j = 0; j < allTeams[0].length; j++) {
 				// set starters
 				var guess = allTeams[0][j];
+				getFullTeamName(guess);
 				console.log(teams[team][j].teamValue);
 				if (teams[team][j].teamValue == guess) 
 					console.log(teams[team][j].team);
@@ -142,7 +144,7 @@ $.when(getGames, getTeams, getTourney).then(function(){
 				}
 				else {
 					tournColor = color;
-					tournTeam = guess;
+					tournTeam = fullNameTeam;
 				}
 				tourneyTeams = autoTeams + largeTeams;
 				totalGames = totalGames + allTeams[1][j];
@@ -240,4 +242,14 @@ function sortTable(n) {
       }
     }
   }
+}
+
+function getFullTeamName(theTeam) {
+	console.log(theTeam);
+	for (var team in teams) {
+		for (var n = 0; n < teams[team].length; n++) {
+			if (teams[team][n].teamValue == theTeam) 
+				fullNameTeam = teams[team][n].team;	
+		}
+	}
 }
