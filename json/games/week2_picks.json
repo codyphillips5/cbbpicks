@@ -9,9 +9,9 @@
 		"game5" : "XAV",
 		"game6" : "TENN",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "PURD",
+		"game9" : "MARQ",
+		"game10" : "MICH"
     },
     {
 		"userId" : 2,
@@ -22,9 +22,9 @@
 		"game5" : "XAV",
 		"game6" : "TENN",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "NOVA",
+		"game9" : "STBON",
+		"game10" : "MICH"
     },
     {
 		"userId" : 3,
@@ -35,9 +35,9 @@
 		"game5" : "OSU",
 		"game6" : "NOVA",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "NOVA",
+		"game9" : "STBON",
+		"game10" : "MICH"
     },
 	{
 		"userId" : 4,
@@ -48,9 +48,9 @@
 		"game5" : "XAV",
 		"game6" : "TENN",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "PURD",
+		"game9" : "STBON",
+		"game10" : "MICH"
     },
 	{
 		"userId" : 5,
@@ -61,9 +61,9 @@
 		"game5" : "OSU",
 		"game6" : "NOVA",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "NOVA",
+		"game9" : "MARQ",
+		"game10" : "MICH"
     },
 	{
 		"userId" : 6,
@@ -74,9 +74,9 @@
 		"game5" : "OSU",
 		"game6" : "",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "NOVA",
+		"game9" : "MARQ",
+		"game10" : "ZONA"
     },    
 	{
 		"userId" : 7,
@@ -87,9 +87,9 @@
 		"game5" : "XAV",
 		"game6" : "TENN",
 		"game7" : "UNC",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "NOVA",
+		"game9" : "MARQ",
+		"game10" : "MICH"
     },
 	{
 		"userId" : 8,
@@ -100,9 +100,9 @@
 		"game5" : "XAV",
 		"game6" : "TENN",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "NOVA",
+		"game9" : "MARQ",
+		"game10" : "MICH"
     },
 	{
 		"userId" : 9,
@@ -113,9 +113,9 @@
 		"game5" : "",
 		"game6" : "TENN",
 		"game7" : "UNC",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "PURD",
+		"game9" : "STBON",
+		"game10" : "MICH"
     },	
 	{
 		"userId" : 10,
@@ -126,9 +126,9 @@
 		"game5" : "OSU",
 		"game6" : "TENN",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "PURD",
+		"game9" : "STBON",
+		"game10" : "MICH"
     },
 	{
 		"userId" : 11,
@@ -139,9 +139,9 @@
 		"game5" : "XAV",
 		"game6" : "TENN",
 		"game7" : "UNC",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "NOVA",
+		"game9" : "STBON",
+		"game10" : "MICH"
     },
 	{
 		"userId" : 12,
@@ -152,9 +152,9 @@
 		"game5" : "XAV",
 		"game6" : "NOVA",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "PURD",
+		"game9" : "STBON",
+		"game10" : "ZONA"
     },
 	{
 		"userId" : 13,
@@ -165,9 +165,9 @@
 		"game5" : "OSU",
 		"game6" : "NOVA",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "NOVA",
+		"game9" : "STBON",
+		"game10" : "MICH"
     },
 	{
 		"userId" : 14,
@@ -191,9 +191,9 @@
 		"game5" : "OSU",
 		"game6" : "NOVA",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "PURD",
+		"game9" : "STBON",
+		"game10" : "ZONA"
     },
 	{
 		"userId" : 16,
@@ -204,9 +204,9 @@
 		"game5" : "OSU",
 		"game6" : "NOVA",
 		"game7" : "UNC",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "NOVA",
+		"game9" : "MARQ",
+		"game10" : "MICH"
     },
 	{
 		"userId" : 17,
@@ -217,9 +217,9 @@
 		"game5" : "XAV",
 		"game6" : "TENN",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "NOVA",
+		"game9" : "MARQ",
+		"game10" : "MICH"
     },
 	{
 		"userId" : 18,
@@ -230,9 +230,9 @@
 		"game5" : "XAV",
 		"game6" : "TENN",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "PURD",
+		"game9" : "STBON",
+		"game10" : "ZONA"
     },
 	{
 		"userId" : 19,
@@ -243,9 +243,9 @@
 		"game5" : "XAV",
 		"game6" : "TENN",
 		"game7" : "UNC",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "NOVA",
+		"game9" : "STBON",
+		"game10" : "MICH"
     },
 	{
 		"userId" : 20,
@@ -256,9 +256,9 @@
 		"game5" : "XAV",
 		"game6" : "TENN",
 		"game7" : "UNC",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "NOVA",
+		"game9" : "MARQ",
+		"game10" : "MICH"
     },
 	{
 		"userId" : 21,
@@ -269,9 +269,9 @@
 		"game5" : "OSU",
 		"game6" : "NOVA",
 		"game7" : "UNC",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "PURD",
+		"game9" : "MARQ",
+		"game10" : "MICH"
     },
 	{
 		"userId" : 22,
@@ -282,9 +282,9 @@
 		"game5" : "OSU",
 		"game6" : "NOVA",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "NOVA",
+		"game9" : "MARQ",
+		"game10" : "MICH"
     },
 	{
 		"userId" : 23,
@@ -295,9 +295,9 @@
 		"game5" : "XAV",
 		"game6" : "TENN",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "PURD",
+		"game9" : "MARQ",
+		"game10" : "MICH"
     },
 	{
 		"userId" : 24,
@@ -308,9 +308,9 @@
 		"game5" : "OSU",
 		"game6" : "TENN",
 		"game7" : "UNC",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "NOVA",
+		"game9" : "STBON",
+		"game10" : "ZONA"
     },
 	{
 		"userId" : 25,
@@ -334,9 +334,9 @@
 		"game5" : "XAV",
 		"game6" : "",
 		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "NOVA",
+		"game9" : "MARQ",
+		"game10" : "MICH"
     },
 	{
 		"userId" : 27,
@@ -347,9 +347,9 @@
 		"game5" : "XAV",
 		"game6" : "NOVA",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "PURD",
+		"game9" : "STBON",
+		"game10" : "ZONA"
     },
 	{
 		"userId" : 28,
@@ -360,9 +360,9 @@
 		"game5" : "OSU",
 		"game6" : "NOVA",
 		"game7" : "UNC",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "PURD",
+		"game9" : "MARQ",
+		"game10" : "MICH"
     },
 	{
 		"userId" : 29,
@@ -386,9 +386,9 @@
 		"game5" : "XAV",
 		"game6" : "",
 		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "PURD",
+		"game9" : "STBON",
+		"game10" : "MICH"
     },
 	{
 		"userId" : 31,
@@ -412,9 +412,9 @@
 		"game5" : "OSU",
 		"game6" : "TENN",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "PURD",
+		"game9" : "MARQ",
+		"game10" : "MICH"
     }
 	]
 }

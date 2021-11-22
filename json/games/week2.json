@@ -92,7 +92,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2021-11-21T18:00Z",
 		"channel" : "ABC",
-		"active" : true
+		"awayScore" : 80,
+		"homeScore" : 74,
+		"cover" : "PURD"
     },
     {
 		"gameId" : 9,
