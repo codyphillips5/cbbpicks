@@ -82,16 +82,6 @@
     },
     {
 		"gameId" : 9,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
-		"spread" : "-",
-		"gameTime" : "2021-11-26T17:00Z",
-		"channel" : "Wooden Classic",
-		"active" : false
-    },
-    {
-		"gameId" : 10,
 		"awayTeam" : "DUKE",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
@@ -101,7 +91,7 @@
 		"active" : false
     },
     {
-		"gameId" : 11,
+		"gameId" : 10,
 		"awayTeam" : "TBD",
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
