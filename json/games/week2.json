@@ -104,7 +104,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2021-11-22T00:30Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 54,
+		"homeScore" : 70,
+		"cover" : "STBON"
     },
     {
 		"gameId" : 10,
