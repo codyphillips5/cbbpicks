@@ -36,6 +36,12 @@ var week = 3;
 if (week === 0) {
 	document.getElementById("week-title").innerHTML = `<h2>🏀 March Madness</h2>`;
 }
+else if (week === 3) {
+	document.getElementById("week-title").innerHTML = `<h2>🦃 Feast Week 🦃</h2>`;
+}
+else if (week === 7) {
+	document.getElementById("week-title").innerHTML = `<h2>🎅 Week 7 🎄</h2>`;
+}
 else {
 	document.getElementById("week-title").innerHTML = `<h2>Week ${week}</h2>`;
 }
