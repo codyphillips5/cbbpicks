@@ -17,7 +17,7 @@
 		"awayTeam" : "CINCY",
 		"homeTeam" : "ARK",
 		"favorite" : "ARK",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2021-11-24T02:30Z",
 		"channel" : "ESPN2",
 		"active" : false
@@ -26,8 +26,8 @@
 		"gameId" : 3,
 		"awayTeam" : "GONZ",
 		"homeTeam" : "UCLA",
-		"favorite" : "UCLA",
-		"spread" : "-",
+		"favorite" : "GONZ",
+		"spread" : 5.5,
 		"gameTime" : "2021-11-24T03:00Z",
 		"channel" : "ESPN",
 		"active" : false
@@ -49,7 +49,7 @@
 		"favorite" : "TBD",
 		"spread" : "-",
 		"gameTime" : "2021-11-24T22:00Z",
-		"channel" : "Maui Jim Maui Final",
+		"channel" : "ESPN",
 		"active" : false
     },
     {
@@ -68,8 +68,8 @@
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
 		"spread" : "-",
-		"gameTime" : "2021-11-26T17:00Z",
-		"channel" : "NIT Tip Off",
+		"gameTime" : "2021-11-26T16:00Z",
+		"channel" : "ESPN",
 		"active" : false
     },
     {
@@ -78,8 +78,8 @@
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
 		"spread" : "-",
-		"gameTime" : "2021-11-26T17:00Z",
-		"channel" : "Battle 4 Atlantis",
+		"gameTime" : "2021-11-27T02:00Z",
+		"channel" : "ESPN2",
 		"active" : false
     },
     {
@@ -99,7 +99,7 @@
 		"favorite" : "TBD",
 		"spread" : "-",
 		"gameTime" : "2021-11-28T18:00Z",
-		"channel" : "ESPN Events Inv",
+		"channel" : "ESPN",
 		"active" : false
     }
   ]
