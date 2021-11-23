@@ -8,15 +8,17 @@
 		"spread" : 1.5,
 		"gameTime" : "2021-11-22T23:00Z",
 		"channel" : "FS1",
-		"active" : true
+		"awayScore" : 79,
+		"homeScore" : 76,
+		"cover" : "OSU" 
     },
 	{
 		"gameId" : 2,
-		"awayTeam" : "TBD",
+		"awayTeam" : "CINCY",
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
 		"spread" : "-",
-		"gameTime" : "2021-11-24T01:30Z",
+		"gameTime" : "2021-11-24T02:30Z",
 		"channel" : "ESPN2",
 		"active" : false
     },
