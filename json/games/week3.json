@@ -44,17 +44,17 @@
 		"spread" : 3.5,
 		"gameTime" : "2021-11-24T19:30Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 5,
-		"awayTeam" : "STMARY",
-		"homeTeam" : "WIS",
+		"awayTeam" : "WIS",
+		"homeTeam" : "STMARY",
 		"favorite" : "WIS",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2021-11-24T22:00Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 6,
@@ -64,7 +64,7 @@
 		"spread" : 2.5,
 		"gameTime" : "2021-11-25T02:30Z",
 		"channel" : "ESPN2",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 7,
