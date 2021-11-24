@@ -57,7 +57,7 @@ $.when(getStandings, getUsers).then(function(){
 			}
 			//calculate score
 			var perc = (pointTotal / (standWeek * 10)) * 100
-			tableUser = tableUser + `<td class="bg-light first-col text-center">${pointTotal}</td>`;
+			tableUser = tableUser + `<td class="bg-light first-col active fw-bolder text-center">${pointTotal}</td>`;
 			tableUser = tableUser + `<td class="bg-light first-col text-center"> ${perc.toFixed(2)}%</td></tr>`;
 		}
 	}
