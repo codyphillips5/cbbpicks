@@ -20,7 +20,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2021-11-24T02:30Z",
 		"channel" : "ESPN2",
-		"active" : true
+		"awayScore" : 67,
+		"homeScore" : 73,
+		"cover" : "ARK" 
     },
 	{
 		"gameId" : 3,
