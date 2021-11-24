@@ -10,7 +10,7 @@
 		"channel" : "FS1",
 		"awayScore" : 79,
 		"homeScore" : 76,
-		"cover" : "OSU" 
+		"cover" : "OSU"
     },
 	{
 		"gameId" : 2,
@@ -22,7 +22,7 @@
 		"channel" : "ESPN2",
 		"awayScore" : 67,
 		"homeScore" : 73,
-		"cover" : "ARK" 
+		"cover" : "ARK"
     },
 	{
 		"gameId" : 3,
@@ -32,7 +32,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2021-11-24T03:00Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 83,
+		"homeScore" : 63,
+		"cover" : "GONZ"
     },
     {
 		"gameId" : 4,
