@@ -37,7 +37,7 @@
 		"awayTeam" : "UCONN",
 		"homeTeam" : "AUB",
 		"favorite" : "AUB",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2021-11-24T19:30Z",
 		"channel" : "ESPN",
 		"active" : false
