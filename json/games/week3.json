@@ -44,7 +44,11 @@
 		"spread" : 3.5,
 		"gameTime" : "2021-11-24T19:30Z",
 		"channel" : "ESPN",
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 2,
+		"awayScore" : 115,
+		"homeScore" : 109,
+		"cover" : "UCONN"
     },
     {
 		"gameId" : 5,
