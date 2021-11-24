@@ -30,6 +30,8 @@ var awaySide = "";
 var required = "";
 var gog = "";
 var coversTeam = [];
+var overtime = "";
+var numOT = "";
   
 // week of year, first game
 var week = 3;
@@ -124,7 +126,16 @@ $.when(requestX, requestY).then(function(){
 					awayScore = `${awayScore} 💰`;
 				select = awayScore + "<br>" + homeScore + "</span>";
 				gameInfo = '';
-				fin = '<sub><b>FINAL</b></sub>';
+				if (xFile[key][i].overtime) {
+					if (xFile[key][i].numberOfOT > 1) {
+						numOT = xFile[key][i].numberOfOT.toString();
+						numOT = `(${numOT})`;
+					}
+					fin = `<sub><b>FINAL / OT ${numOT}</b></sub>`;
+				}
+				else {
+					fin = '<sub><b>FINAL</b></sub>';
+				}
 				var yourPick = document.createElement('div');
 				yourPick.id = 'your-pick-game' + gameId;
 				yourPick.innerHTML = '';
