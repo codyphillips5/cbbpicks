@@ -70,7 +70,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2021-11-25T02:30Z",
 		"channel" : "ESPN2",
-		"active" : true
+		"awayScore" : 69,
+		"homeScore" : 61,
+		"cover" : "MEM"
     },
     {
 		"gameId" : 7,
