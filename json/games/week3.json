@@ -82,9 +82,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2021-11-26T16:00Z",
 		"channel" : "ESPN",
-		"awayScore" : 0,
-		"homeScore" : 0,
-		"cover" : ""
+		"awayScore" : 58,
+		"homeScore" : 75,
+		"cover" : "BU"
     },
     {
 		"gameId" : 8,
