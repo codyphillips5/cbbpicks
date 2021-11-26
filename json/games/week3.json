@@ -76,9 +76,9 @@
     },
     {
 		"gameId" : 7,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "MSU",
+		"homeTeam" : "BU",
+		"favorite" : "BU",
 		"spread" : "-",
 		"gameTime" : "2021-11-26T16:00Z",
 		"channel" : "ESPN",
@@ -86,12 +86,12 @@
     },
     {
 		"gameId" : 8,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "XAV",
+		"homeTeam" : "VT",
+		"favorite" : "VT",
 		"spread" : "-",
-		"gameTime" : "2021-11-27T02:00Z",
-		"channel" : "ESPN2",
+		"gameTime" : "2021-11-27T00:00Z",
+		"channel" : "ESPNU",
 		"active" : false
     },
     {
@@ -99,7 +99,7 @@
 		"awayTeam" : "DUKE",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2021-11-27T03:30Z",
 		"channel" : "ESPN",
 		"active" : false
