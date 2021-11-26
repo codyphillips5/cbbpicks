@@ -82,7 +82,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2021-11-26T16:00Z",
 		"channel" : "ESPN",
-		"active" : false
+		"awayScore" : 00,
+		"homeScore" : 00,
+		"cover" : ""
     },
     {
 		"gameId" : 8,
