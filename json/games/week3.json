@@ -89,7 +89,7 @@
 		"awayTeam" : "XAV",
 		"homeTeam" : "VT",
 		"favorite" : "VT",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2021-11-27T00:00Z",
 		"channel" : "ESPNU",
 		"active" : false
