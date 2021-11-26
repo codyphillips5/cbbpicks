@@ -79,7 +79,7 @@
 		"awayTeam" : "MSU",
 		"homeTeam" : "BU",
 		"favorite" : "BU",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2021-11-26T16:00Z",
 		"channel" : "ESPN",
 		"active" : false
