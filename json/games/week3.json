@@ -94,7 +94,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2021-11-27T00:00Z",
 		"channel" : "ESPNU",
-		"active" : true
+		"awayScore" : 59,
+		"homeScore" : 58,
+		"cover" : "XAV"
     },
     {
 		"gameId" : 9,
@@ -104,16 +106,18 @@
 		"spread" : 7.5,
 		"gameTime" : "2021-11-27T03:30Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 84,
+		"homeScore" : 81,
+		"cover" : "DUKE"
     },
     {
 		"gameId" : 10,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "DAY",
+		"homeTeam" : "BEL",
+		"favorite" : "BEL",
 		"spread" : "-",
-		"gameTime" : "2021-11-28T18:00Z",
-		"channel" : "ESPN",
+		"gameTime" : "2021-11-28T21:00Z",
+		"channel" : "ESPN2",
 		"active" : false
     }
   ]
