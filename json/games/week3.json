@@ -115,10 +115,10 @@
 		"awayTeam" : "DAY",
 		"homeTeam" : "BEL",
 		"favorite" : "BEL",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2021-11-28T21:00Z",
 		"channel" : "ESPN2",
-		"active" : false
+		"active" : true
     }
   ]
 }
