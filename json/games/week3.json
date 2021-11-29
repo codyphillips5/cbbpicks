@@ -118,7 +118,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2021-11-28T21:00Z",
 		"channel" : "ESPN2",
-		"active" : true
+		"awayScore" : 63,
+		"homeScore" : 61,
+		"cover" : "DAY"
     }
   ]
 }
