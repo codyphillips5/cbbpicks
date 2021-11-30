@@ -8,14 +8,16 @@
 		"spread" : 3.5,
 		"gameTime" : "2021-11-30T02:00Z",
 		"channel" : "ESPN2",
-		"active" : true
+		"awayScore" : 72,
+		"homeScore" : 82,
+		"cover" : "ILL"
 	},
 	{
 		"gameId" : 2,
 		"awayTeam" : "DUKE",
 		"homeTeam" : "OSU",
 		"favorite" : "OSU",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2021-12-01T02:30Z",
 		"channel" : "ESPN",
 		"active" : false
@@ -72,6 +74,16 @@
 	},
 	{
 		"gameId" : 8,
+		"awayTeam" : "MARQ",
+		"homeTeam" : "WIS",
+		"favorite" : "WIS",
+		"spread" : "-",
+		"gameTime" : "2021-12-02T00:30Z",
+		"channel" : "",
+		"active" : false
+	},
+	{
+		"gameId" : 9,
 		"awayTeam" : "USC",
 		"homeTeam" : "WSU",
 		"favorite" : "WSU",
@@ -81,23 +93,13 @@
 		"active" : false
 	},
 	{
-		"gameId" : 9,
+		"gameId" : 10,
 		"awayTeam" : "ALA",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
 		"spread" : "-",
 		"gameTime" : "2021-12-05T01:00Z",
 		"channel" : "ESPN2",
-		"active" : false
-	},
-	{
-		"gameId" : 10,
-		"awayTeam" : "NW",
-		"homeTeam" : "MARY",
-		"favorite" : "MARY",
-		"spread" : "-",
-		"gameTime" : "2021-12-05T17:00Z",
-		"channel" : "B1G",
 		"active" : false
 	}
   ]
