@@ -20,14 +20,16 @@
 		"spread" : 2.5,
 		"gameTime" : "2021-12-01T02:30Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 66,
+		"homeScore" : 71,
+		"cover" : "OSU"
 	},
 	{
 		"gameId" : 3,
 		"awayTeam" : "FLA",
 		"homeTeam" : "OKLA",
 		"favorite" : "OKLA",
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2021-12-02T01:00Z",
 		"channel" : "BALLY",
 		"active" : false
@@ -37,7 +39,7 @@
 		"awayTeam" : "MICH",
 		"homeTeam" : "UNC",
 		"favorite" : "UNC",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2021-12-02T02:15Z",
 		"channel" : "ESPN",
 		"active" : false
