@@ -32,7 +32,9 @@
 		"spread" : 0,
 		"gameTime" : "2021-12-02T01:00Z",
 		"channel" : "BALLY",
-		"active" : true
+		"awayScore" : 67,
+		"homeScore" : 74,
+		"cover" : "OKLA"
 	},
 	{
 		"gameId" : 4,
@@ -42,14 +44,16 @@
 		"spread" : 2.5,
 		"gameTime" : "2021-12-02T02:15Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 51,
+		"homeScore" : 72,
+		"cover" : "UNC"
 	},
 	{
 		"gameId" : 5,
 		"awayTeam" : "STMARY",
 		"homeTeam" : "USU",
 		"favorite" : "USU",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2021-12-03T02:00Z",
 		"channel" : "CBSSN",
 		"active" : false
