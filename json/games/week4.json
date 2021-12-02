@@ -53,10 +53,10 @@
 		"awayTeam" : "STMARY",
 		"homeTeam" : "USU",
 		"favorite" : "USU",
-		"spread" : 1.5,
+		"spread" : 0,
 		"gameTime" : "2021-12-03T02:00Z",
 		"channel" : "CBSSN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 6,
