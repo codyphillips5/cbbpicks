@@ -68,7 +68,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2021-12-04T00:00Z",
 		"channel" : "FS1",
-		"active" : true
+		"awayScore" : 95,
+		"homeScore" : 75,
+		"cover" : "KU"
 	},
 	{
 		"gameId" : 7,
@@ -78,37 +80,39 @@
 		"spread" : 12.5,
 		"gameTime" : "2021-12-04T02:00Z",
 		"channel" : "B1G",
-		"active" : true
+		"awayScore" : 70,
+		"homeScore" : 77,
+		"cover" : "IOWA"
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "MARQ",
 		"homeTeam" : "WIS",
 		"favorite" : "WIS",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2021-12-04T17:30Z",
 		"channel" : "FOX",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "USC",
 		"homeTeam" : "WSU",
 		"favorite" : "WSU",
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2021-12-04T23:00Z",
 		"channel" : "PACN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "ALA",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
-		"spread" : "-",
+		"spread" : 9.5,
 		"gameTime" : "2021-12-05T01:00Z",
 		"channel" : "ESPN2",
-		"active" : false
+		"active" : true
 	}
   ]
 }
