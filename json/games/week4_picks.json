@@ -9,9 +9,9 @@
 		"game5" : "STMARY",
 		"game6" : "KU",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "MARQ",
+		"game9" : "USC",
+		"game10" : "ILL"
     },
     {
 		"userId" : 2,
@@ -48,9 +48,9 @@
 		"game5" : "",
 		"game6" : "SJU",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "WIS",
+		"game9" : "USC",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 5,
@@ -61,9 +61,9 @@
 		"game5" : "STMARY",
 		"game6" : "KU",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "MARQ",
+		"game9" : "USC",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 6,
@@ -74,9 +74,9 @@
 		"game5" : "STMARY",
 		"game6" : "SJU",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "WIS",
+		"game9" : "USC",
+		"game10" : "GONZ"
     },    
 	{
 		"userId" : 7,
@@ -100,9 +100,9 @@
 		"game5" : "USU",
 		"game6" : "KU",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "MARQ",
+		"game9" : "USC",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 9,
@@ -113,9 +113,9 @@
 		"game5" : "STMARY",
 		"game6" : "KU",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "WIS",
+		"game9" : "USC",
+		"game10" : "GONZ"
     },	
 	{
 		"userId" : 10,
@@ -126,9 +126,9 @@
 		"game5" : "STMARY",
 		"game6" : "KU",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "WIS",
+		"game9" : "USC",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 11,
@@ -139,9 +139,9 @@
 		"game5" : "USU",
 		"game6" : "KU",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "WIS",
+		"game9" : "WSU",
+		"game10" : "ALA"
     },
 	{
 		"userId" : 12,
@@ -152,9 +152,9 @@
 		"game5" : "STMARY",
 		"game6" : "SJU",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "MARQ",
+		"game9" : "USC",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 13,
@@ -165,9 +165,9 @@
 		"game5" : "STMARY",
 		"game6" : "KU",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "MARQ",
+		"game9" : "USC",
+		"game10" : "ALA"
     },
 	{
 		"userId" : 14,
@@ -191,9 +191,9 @@
 		"game5" : "USU",
 		"game6" : "SJU",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "WIS",
+		"game9" : "USC",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 16,
@@ -204,9 +204,9 @@
 		"game5" : "STMARY",
 		"game6" : "KU",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "WIS",
+		"game9" : "WSU",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 17,
@@ -217,9 +217,9 @@
 		"game5" : "STMARY",
 		"game6" : "KU",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "MARQ",
+		"game9" : "USC",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 18,
@@ -230,9 +230,9 @@
 		"game5" : "STMARY",
 		"game6" : "KU",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "WIS",
+		"game9" : "WSU",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 19,
@@ -256,9 +256,9 @@
 		"game5" : "USU",
 		"game6" : "SJU",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "MARQ",
+		"game9" : "WSU",
+		"game10" : "ALA"
     },
 	{
 		"userId" : 21,
@@ -269,9 +269,9 @@
 		"game5" : "USU",
 		"game6" : "SJU",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "WIS",
+		"game9" : "WSU",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 22,
@@ -321,9 +321,9 @@
 		"game5" : "STMARY",
 		"game6" : "KU",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "WIS",
+		"game9" : "USC",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 26,
@@ -334,9 +334,9 @@
 		"game5" : "STMARY",
 		"game6" : "KU",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "MARQ",
+		"game9" : "USC",
+		"game10" : "ALA"
     },
 	{
 		"userId" : 27,
@@ -347,9 +347,9 @@
 		"game5" : "STMARY",
 		"game6" : "KU",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "WIS",
+		"game9" : "USC",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 28,
@@ -360,9 +360,9 @@
 		"game5" : "STMARY",
 		"game6" : "SJU",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "WIS",
+		"game9" : "USC",
+		"game10" : "ALA"
     },
 	{
 		"userId" : 29,
@@ -386,9 +386,9 @@
 		"game5" : "USU",
 		"game6" : "KU",
 		"game7" : "IOWA",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "WIS",
+		"game9" : "USC",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 31,
@@ -399,9 +399,9 @@
 		"game5" : "STMARY",
 		"game6" : "SJU",
 		"game7" : "PURD",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game8" : "WIS",
+		"game9" : "USC",
+		"game10" : "GONZ"
     },
 	{
 		"userId" : 32,
