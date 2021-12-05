@@ -92,7 +92,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2021-12-04T17:30Z",
 		"channel" : "FOX",
-		"active" : true
+		"awayScore" : 76,
+		"homeScore" : 89,
+		"cover" : "WIS"
 	},
 	{
 		"gameId" : 9,
@@ -102,7 +104,9 @@
 		"spread" : 0,
 		"gameTime" : "2021-12-04T23:00Z",
 		"channel" : "PACN",
-		"active" : true
+		"awayScore" : 63,
+		"homeScore" : 61,
+		"cover" : "USC"
 	},
 	{
 		"gameId" : 10,
@@ -112,7 +116,9 @@
 		"spread" : 9.5,
 		"gameTime" : "2021-12-05T01:00Z",
 		"channel" : "ESPN2",
-		"active" : true
+		"awayScore" : 91,
+		"homeScore" : 82,
+		"cover" : "ALA"
 	}
   ]
 }
