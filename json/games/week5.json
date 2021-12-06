@@ -93,8 +93,8 @@
 	{
 		"gameId" : 10,
 		"awayTeam" : "NOVA",
-		"homeTeam" : "BAY",
-		"favorite" : "BAY",
+		"homeTeam" : "BU",
+		"favorite" : "BU",
 		"spread" : "-",
 		"gameTime" : "2021-12-12T20:00Z",
 		"channel": "ABC",
