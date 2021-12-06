@@ -1,0 +1,94 @@
+{
+  "games": [
+	{
+		"gameId" : 1,
+		"awayTeam" : "TTU",
+		"homeTeam" : "TENN",
+		"favorite" : "TENN",
+		"spread" : "-",
+		"gameTime" : "2021-12-08T00:00Z",
+		"channel": "ESPN"
+	},
+	{
+		"gameId" : 2,
+		"awayTeam" : "BEL",
+		"homeTeam" : "SLU",
+		"favorite" : "SLU",
+		"spread" : "-",
+		"gameTime" : "2021-12-08T01:00Z",
+		"channel": "NBC Sports"
+	},
+	{
+		"gameId" : 3,
+		"awayTeam" : "UCONN",
+		"homeTeam" : "WVU",
+		"favorite" : "WVU",
+		"spread" : "-",
+		"gameTime" : "2021-12-09T00:00Z",
+		"channel": "ESPN2"
+	},
+	{
+		"gameId" : 4,
+		"awayTeam" : "TEX",
+		"homeTeam" : "SETON",
+		"favorite" : "SETON",
+		"spread" : "-",
+		"gameTime" : "2021-12-09T23:30Z",
+		"channel": "FS1"
+	},
+	{
+		"gameId" : 5,
+		"awayTeam" : "IOWA",
+		"homeTeam" : "ISU",
+		"favorite" : "ISU",
+		"spread" : "-",
+		"gameTime" : "2021-12-10T02:00Z",
+		"channel": "ESPN2"
+	},
+	{
+		"gameId" : 6,
+		"awayTeam" : "ARK",
+		"homeTeam" : "OKLA",
+		"favorite" : "OKLA",
+		"spread" : "-",
+		"gameTime" : "2021-12-11T18:30Z",
+		"channel": "ESPN2"
+	},
+	{
+		"gameId" : 7,
+		"awayTeam" : "ZONA",
+		"homeTeam" : "ILL",
+		"favorite" : "ILL",
+		"spread" : "-",
+		"gameTime" : "2021-12-11T22:00Z",
+		"channel": "FOX"
+	},
+	{
+		"gameId" : 8,
+		"awayTeam" : "CINCY",
+		"homeTeam" : "XAV",
+		"favorite" : "XAV",
+		"spread" : "-",
+		"gameTime" : "2021-12-12T01:30Z",
+		"channel": "FS1"
+	},
+	{
+		"gameId" : 9,
+		"awayTeam" : "HOU",
+		"homeTeam" : "ALA",
+		"favorite" : "ALA",
+		"spread" : "-",
+		"gameTime" : "2021-12-12T03:00Z",
+		"channel": "ESPN2"
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "NOVA",
+		"homeTeam" : "BAY",
+		"favorite" : "BAY",
+		"spread" : "-",
+		"gameTime" : "2021-12-12T20:00Z",
+		"channel": "ABC"
+	}
+  ]
+}
