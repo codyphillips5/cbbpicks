@@ -5,7 +5,7 @@
 		"awayTeam" : "TTU",
 		"homeTeam" : "TENN",
 		"favorite" : "TENN",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2021-12-08T00:00Z",
 		"channel": "ESPN",
 		"active" : false
@@ -15,7 +15,7 @@
 		"awayTeam" : "BEL",
 		"homeTeam" : "SLU",
 		"favorite" : "SLU",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2021-12-08T01:00Z",
 		"channel": "NBC Sports",
 		"active" : false
