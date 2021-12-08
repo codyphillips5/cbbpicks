@@ -34,7 +34,7 @@
 		"spread" : 2.5,
 		"gameTime" : "2021-12-09T00:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 4,
