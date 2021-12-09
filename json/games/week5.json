@@ -52,8 +52,8 @@
 		"gameId" : 5,
 		"awayTeam" : "IOWA",
 		"homeTeam" : "ISU",
-		"favorite" : "ISU",
-		"spread" : "-",
+		"favorite" : "IOWA",
+		"spread" : 3.5,
 		"gameTime" : "2021-12-10T02:00Z",
 		"channel": "ESPN2",
 		"active" : false
