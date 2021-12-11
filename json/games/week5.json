@@ -67,40 +67,40 @@
 		"awayTeam" : "ARK",
 		"homeTeam" : "OKLA",
 		"favorite" : "OKLA",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2021-12-11T18:30Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "ZONA",
 		"homeTeam" : "ILL",
 		"favorite" : "ILL",
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2021-12-11T22:00Z",
 		"channel": "FOX",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "CINCY",
 		"homeTeam" : "XAV",
 		"favorite" : "XAV",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2021-12-12T01:30Z",
 		"channel": "FS1",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "HOU",
 		"homeTeam" : "ALA",
 		"favorite" : "ALA",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2021-12-12T03:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
