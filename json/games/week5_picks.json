@@ -7,10 +7,10 @@
 		"game3" : "UCONN",
 		"game4" : "SETON",
 		"game5" : "ISU",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "OKLA",
+		"game7" : "ILL",
+		"game8" : "CINCY",
+		"game9" : "HOU",
 		"game10" : ""
     },
     {
@@ -46,10 +46,10 @@
 		"game3" : "WVU",
 		"game4" : "TEX",
 		"game5" : "ISU",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "OKLA",
+		"game7" : "ZONA",
+		"game8" : "XAV",
+		"game9" : "ALA",
 		"game10" : ""
     },
 	{
@@ -59,10 +59,10 @@
 		"game3" : "UCONN",
 		"game4" : "SETON",
 		"game5" : "ISU",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "ARK",
+		"game7" : "ILL",
+		"game8" : "CINCY",
+		"game9" : "ALA",
 		"game10" : ""
     },
 	{
@@ -72,10 +72,10 @@
 		"game3" : "UCONN",
 		"game4" : "TEX",
 		"game5" : "ISU",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "ARK",
+		"game7" : "ZONA",
+		"game8" : "CINCY",
+		"game9" : "HOU",
 		"game10" : ""
     },    
 	{
@@ -98,10 +98,10 @@
 		"game3" : "UCONN",
 		"game4" : "SETON",
 		"game5" : "IOWA",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "ARK",
+		"game7" : "ILL",
+		"game8" : "XAV",
+		"game9" : "HOU",
 		"game10" : ""
     },
 	{
@@ -111,10 +111,10 @@
 		"game3" : "WVU",
 		"game4" : "TEX",
 		"game5" : "ISU",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "OKLA",
+		"game7" : "ILL",
+		"game8" : "CINCY",
+		"game9" : "HOU",
 		"game10" : ""
     },	
 	{
@@ -137,10 +137,10 @@
 		"game3" : "UCONN",
 		"game4" : "SETON",
 		"game5" : "ISU",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "OKLA",
+		"game7" : "ILL",
+		"game8" : "CINCY",
+		"game9" : "ALA",
 		"game10" : ""
     },
 	{
@@ -150,10 +150,10 @@
 		"game3" : "WVU",
 		"game4" : "TEX",
 		"game5" : "ISU",
-		"game6" : "",
-		"game7" : "",
+		"game6" : "OKLA",
+		"game7" : "ILL",
 		"game8" : "",
-		"game9" : "",
+		"game9" : "ALA",
 		"game10" : ""
     },
 	{
@@ -163,10 +163,10 @@
 		"game3" : "",
 		"game4" : "SETON",
 		"game5" : "ISU",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "OKLA",
+		"game7" : "ZONA",
+		"game8" : "CINCY",
+		"game9" : "ALA",
 		"game10" : ""
     },
 	{
@@ -176,10 +176,10 @@
 		"game3" : "WVU",
 		"game4" : "SETON",
 		"game5" : "IOWA",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "ARK",
+		"game7" : "ILL",
+		"game8" : "XAV",
+		"game9" : "ALA",
 		"game10" : ""
     },
 	{
@@ -189,10 +189,10 @@
 		"game3" : "WVU",
 		"game4" : "SETON",
 		"game5" : "ISU",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "OKLA",
+		"game7" : "ILL",
+		"game8" : "XAV",
+		"game9" : "HOU",
 		"game10" : ""
     },
 	{
@@ -202,10 +202,10 @@
 		"game3" : "WVU",
 		"game4" : "TEX",
 		"game5" : "IOWA",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "ARK",
+		"game7" : "ILL",
+		"game8" : "XAV",
+		"game9" : "ALA",
 		"game10" : ""
     },
 	{
@@ -215,10 +215,10 @@
 		"game3" : "WVU",
 		"game4" : "SETON",
 		"game5" : "IOWA",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "OKLA",
+		"game7" : "ZONA",
+		"game8" : "CINCY",
+		"game9" : "ALA",
 		"game10" : ""
     },
 	{
@@ -228,10 +228,10 @@
 		"game3" : "UCONN",
 		"game4" : "TEX",
 		"game5" : "IOWA",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "OKLA",
+		"game7" : "ZONA",
+		"game8" : "CINCY",
+		"game9" : "ALA",
 		"game10" : ""
     },
 	{
@@ -241,10 +241,10 @@
 		"game3" : "WVU",
 		"game4" : "SETON",
 		"game5" : "ISU",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "OKLA",
+		"game7" : "ILL",
+		"game8" : "CINCY",
+		"game9" : "HOU",
 		"game10" : ""
     },
 	{
@@ -254,10 +254,10 @@
 		"game3" : "UCONN",
 		"game4" : "TEX",
 		"game5" : "ISU",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "ARK",
+		"game7" : "ZONA",
+		"game8" : "XAV",
+		"game9" : "HOU",
 		"game10" : ""
     },
 	{
@@ -267,10 +267,10 @@
 		"game3" : "UCONN",
 		"game4" : "TEX",
 		"game5" : "ISU",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "OKLA",
+		"game7" : "ZONA",
+		"game8" : "XAV",
+		"game9" : "HOU",
 		"game10" : ""
     },
 	{
@@ -280,10 +280,10 @@
 		"game3" : "WVU",
 		"game4" : "TEX",
 		"game5" : "IOWA",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "OKLA",
+		"game7" : "ILL",
+		"game8" : "CINCY",
+		"game9" : "HOU",
 		"game10" : ""
     },
 	{
@@ -293,10 +293,10 @@
 		"game3" : "WVU",
 		"game4" : "SETON",
 		"game5" : "ISU",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "ARK",
+		"game7" : "ILL",
+		"game8" : "CINCY",
+		"game9" : "HOU",
 		"game10" : ""
     },
 	{
@@ -306,10 +306,10 @@
 		"game3" : "WVU",
 		"game4" : "TEX",
 		"game5" : "ISU",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "OKLA",
+		"game7" : "ILL",
+		"game8" : "CINCY",
+		"game9" : "HOU",
 		"game10" : ""
     },
 	{
@@ -319,10 +319,10 @@
 		"game3" : "WVU",
 		"game4" : "TEX",
 		"game5" : "IOWA",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "OKLA",
+		"game7" : "ZONA",
+		"game8" : "CINCY",
+		"game9" : "HOU",
 		"game10" : ""
     },
 	{
@@ -332,10 +332,10 @@
 		"game3" : "UCONN",
 		"game4" : "TEX",
 		"game5" : "ISU",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "ARK",
+		"game7" : "ILL",
+		"game8" : "XAV",
+		"game9" : "HOU",
 		"game10" : ""
     },
 	{
@@ -358,10 +358,10 @@
 		"game3" : "WVU",
 		"game4" : "SETON",
 		"game5" : "ISU",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "OKLA",
+		"game7" : "ZONA",
+		"game8" : "CINCY",
+		"game9" : "ALA",
 		"game10" : ""
     },
 	{
@@ -371,10 +371,10 @@
 		"game3" : "UCONN",
 		"game4" : "TEX",
 		"game5" : "ISU",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "OKLA",
+		"game7" : "ILL",
+		"game8" : "XAV",
+		"game9" : "ALA",
 		"game10" : ""
     },
 	{
@@ -384,10 +384,10 @@
 		"game3" : "WVU",
 		"game4" : "SETON",
 		"game5" : "IOWA",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "OKLA",
+		"game7" : "ILL",
+		"game8" : "CINCY",
+		"game9" : "ALA",
 		"game10" : ""
     },
 	{
@@ -397,10 +397,10 @@
 		"game3" : "WVU",
 		"game4" : "SETON",
 		"game5" : "ISU",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "OKLA",
+		"game7" : "ILL",
+		"game8" : "XAV",
+		"game9" : "ALA",
 		"game10" : ""
     },
 	{
@@ -410,10 +410,10 @@
 		"game3" : "WVU",
 		"game4" : "SETON",
 		"game5" : "IOWA",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game6" : "ARK",
+		"game7" : "ILL",
+		"game8" : "CINCY",
+		"game9" : "ALA",
 		"game10" : ""
     }
 	]

@@ -70,7 +70,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2021-12-11T18:30Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 66,
+		"homeScore" : 88,
+		"cover" : "OKLA"
 	},
 	{
 		"gameId" : 7,
@@ -80,7 +82,9 @@
 		"spread" : 0,
 		"gameTime" : "2021-12-11T22:00Z",
 		"channel": "FOX",
-		"active" : true
+		"awayScore" : 83,
+		"homeScore" : 79,
+		"cover" : "ZONA"
 	},
 	{
 		"gameId" : 8,
