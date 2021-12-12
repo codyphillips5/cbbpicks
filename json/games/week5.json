@@ -106,7 +106,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2021-12-12T03:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 82,
+		"homeScore" : 83,
+		"cover" : "HOU"
 	},
 	{
 		"gameId" : 10,
