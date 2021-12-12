@@ -113,7 +113,7 @@
 		"awayTeam" : "NOVA",
 		"homeTeam" : "BU",
 		"favorite" : "BU",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2021-12-12T20:00Z",
 		"channel": "ABC",
 		"active" : false
