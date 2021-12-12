@@ -118,7 +118,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2021-12-12T20:00Z",
 		"channel": "ABC",
-		"active" : true
+		"awayScore" : 36,
+		"homeScore" : 57,
+		"cover" : "BU"
 	}
   ]
 }
