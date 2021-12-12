@@ -94,7 +94,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2021-12-12T01:30Z",
 		"channel": "FS1",
-		"active" : true
+		"awayScore" : 63,
+		"homeScore" : 83,
+		"cover" : "XAV"
 	},
 	{
 		"gameId" : 9,
