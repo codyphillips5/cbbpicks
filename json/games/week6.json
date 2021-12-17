@@ -17,7 +17,7 @@
 		"awayTeam" : "STBON",
 		"homeTeam" : "VT",
 		"favorite" : "VT",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2021-12-17T21:00Z",
 		"channel": "ESPN2",
 		"active" : false
@@ -26,14 +26,24 @@
 		"gameId" : 3,
 		"awayTeam" : "NOVA",
 		"homeTeam" : "CREIGH",
-		"favorite" : "CREIGH",
-		"spread" : "-",
+		"favorite" : "NOVA",
+		"spread" : 6.5,
 		"gameTime" : "2021-12-18T01:00Z",
 		"channel": "FS1",
 		"active" : false
 	},
 	{
 		"gameId" : 4,
+		"awayTeam" : "MEM",
+		"homeTeam" : "TENN",
+		"favorite" : "TENN",
+		"spread" : "-",
+		"gameTime" : "2021-12-18T17:00Z",
+		"channel": "CBS",
+		"active" : false
+	},
+	{
+		"gameId" : 5,
 		"awayTeam" : "GONZ",
 		"homeTeam" : "TTU",
 		"favorite" : "TTU",
@@ -43,23 +53,13 @@
 		"active" : false
 	},
 	{
-		"gameId" : 5,
+		"gameId" : 6,
 		"awayTeam" : "UCLA",
 		"homeTeam" : "UNC",
 		"favorite" : "UNC",
 		"spread" : "-",
 		"gameTime" : "2021-12-18T20:00Z",
 		"channel": "CBS",
-		"active" : false
-	},
-	{
-		"gameId" : 6,
-		"awayTeam" : "IONA",
-		"homeTeam" : "SETON",
-		"favorite" : "SETON",
-		"spread" : "-",
-		"gameTime" : "2021-12-18T20:00Z",
-		"channel": "FS2",
 		"active" : false
 	},
 	{
@@ -83,16 +83,6 @@
 		"active" : false
 	},
 	{
-		"gameId" : 9,
-		"awayTeam" : "OSU",
-		"homeTeam" : "UK",
-		"favorite" : "UK",
-		"spread" : "-",
-		"gameTime" : "2021-12-18T22:15Z",
-		"channel": "CBS",
-		"active" : false
-	},
-	{
 		"gameId" : 10,
 		"awayTeam" : "AUB",
 		"homeTeam" : "SLU",
@@ -100,6 +90,16 @@
 		"spread" : "-",
 		"gameTime" : "2021-12-19T02:00Z",
 		"channel": "CBSSN",
+		"active" : false
+	},
+	{
+		"gameId" : 9,
+		"awayTeam" : "BU",
+		"homeTeam" : "ORE",
+		"favorite" : "ORE",
+		"spread" : "-",
+		"gameTime" : "2021-12-19T03:00Z",
+		"channel": "ESPN2",
 		"active" : false
 	}
   ]
