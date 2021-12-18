@@ -20,7 +20,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2021-12-17T21:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 49,
+		"homeScore" : 86,
+		"cover" : "VT"
 	},
 	{
 		"gameId" : 3,
@@ -30,7 +32,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2021-12-18T01:00Z",
 		"channel": "FS1",
-		"active" : true
+		"awayScore" : 59,
+		"homeScore" : 79,
+		"cover" : "CREIGH"
 	},
 	{
 		"gameId" : 4,
