@@ -20,9 +20,7 @@
 		"spread" : 2.5,
 		"gameTime" : "2021-12-17T21:00Z",
 		"channel": "ESPN2",
-		"awayScore" : 49,
-		"homeScore" : 86,
-		"cover" : "VT"
+		"active" : true
 	},
 	{
 		"gameId" : 3,
@@ -32,9 +30,7 @@
 		"spread" : 6.5,
 		"gameTime" : "2021-12-18T01:00Z",
 		"channel": "FS1",
-		"awayScore" : 59,
-		"homeScore" : 79,
-		"cover" : "CREIGH"
+		"active" : true
 	},
 	{
 		"gameId" : 4,
@@ -87,7 +83,7 @@
 		"active" : true
 	},
 	{
-		"gameId" : 10,
+		"gameId" : 9,
 		"awayTeam" : "AUB",
 		"homeTeam" : "SLU",
 		"favorite" : "AUB",
@@ -97,7 +93,7 @@
 		"active" : true
 	},
 	{
-		"gameId" : 9,
+		"gameId" : 10,
 		"awayTeam" : "BU",
 		"homeTeam" : "ORE",
 		"favorite" : "BU",
