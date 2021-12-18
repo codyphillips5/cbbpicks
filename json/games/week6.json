@@ -37,57 +37,57 @@
 		"awayTeam" : "MEM",
 		"homeTeam" : "TENN",
 		"favorite" : "TENN",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2021-12-18T17:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 5,
 		"awayTeam" : "GONZ",
 		"homeTeam" : "TTU",
-		"favorite" : "TTU",
-		"spread" : "-",
+		"favorite" : "GONZ",
+		"spread" : 8.5,
 		"gameTime" : "2021-12-18T18:00Z",
 		"channel": "CBS",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 6,
 		"awayTeam" : "UK",
 		"homeTeam" : "UNC",
-		"favorite" : "UNC",
-		"spread" : "-",
+		"favorite" : "UK",
+		"spread" : 2.5,
 		"gameTime" : "2021-12-18T20:00Z",
 		"channel": "CBS",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "WVU",
 		"homeTeam" : "UAB",
 		"favorite" : "UAB",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2021-12-18T22:00Z",
 		"channel": "CBSSN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "PROV",
 		"homeTeam" : "UCONN",
 		"favorite" : "UCONN",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2021-12-18T22:00Z",
 		"channel": "FOX",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "AUB",
 		"homeTeam" : "SLU",
-		"favorite" : "SLU",
-		"spread" : "-",
+		"favorite" : "AUB",
+		"spread" : 6.5,
 		"gameTime" : "2021-12-19T02:00Z",
 		"channel": "CBSSN",
 		"active" : false
@@ -96,8 +96,8 @@
 		"gameId" : 9,
 		"awayTeam" : "BU",
 		"homeTeam" : "ORE",
-		"favorite" : "ORE",
-		"spread" : "-",
+		"favorite" : "BU",
+		"spread" : 7.5,
 		"gameTime" : "2021-12-19T03:00Z",
 		"channel": "ESPN2",
 		"active" : false
