@@ -88,7 +88,8 @@
 		"week_3" : 5,
 		"week_4" : 5,
 		"week_5" : 4,
-		"week_6" : 7
+		"week_6" : 9,
+		"week_6_top" : true
     },
 	{
 		"userId" : 11,
