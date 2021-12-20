@@ -68,7 +68,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2021-12-18T22:30Z",
 		"channel": "CBS",
-		"active" : true
+		"awayScore" : 98,
+		"homeScore" : 69,
+		"cover" : "UK"
 	},
 	{
 		"gameId" : 7,
@@ -78,7 +80,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2021-12-18T22:00Z",
 		"channel": "CBSSN",
-		"active" : true
+		"awayScore" : 65,
+		"homeScore" : 59,
+		"cover" : "WVU"
 	},
 	{
 		"gameId" : 8,
@@ -88,7 +92,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2021-12-18T22:00Z",
 		"channel": "FOX",
-		"active" : true
+		"awayScore" : 57,
+		"homeScore" : 53,
+		"cover" : "PROV"
 	},
 	{
 		"gameId" : 9,
@@ -98,7 +104,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2021-12-19T02:00Z",
 		"channel": "CBSSN",
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 70,
+		"cover" : "SLU"
 	},
 	{
 		"gameId" : 10,
@@ -108,7 +116,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2021-12-19T03:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 78,
+		"homeScore" : 70,
+		"cover" : "BU"
 	}
   ]
 }
