@@ -1,7 +1,7 @@
 const arrayActive = []; 
 
 // week of year, first game
-var week = 6;
+var week = 7;
 
 var xFile, yFile;
 
