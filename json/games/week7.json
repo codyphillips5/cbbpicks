@@ -2,16 +2,6 @@
   "games": [
 	{
 		"gameId" : 1,
-		"awayTeam" : "DAV",
-		"homeTeam" : "ALA",
-		"favorite" : "ALA",
-		"spread" : 10.5,
-		"gameTime" : "2021-12-22T00:00Z",
-		"channel": "SECN+",
-		"active" : false
-	},
-	{
-		"gameId" : 2,
 		"awayTeam" : "XAV",
 		"homeTeam" : "NOVA",
 		"favorite" : "NOVA",
@@ -21,7 +11,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 3,
+		"gameId" : 2,
 		"awayTeam" : "UCONN",
 		"homeTeam" : "MARQ",
 		"favorite" : "MARQ",
@@ -31,17 +21,17 @@
 		"active" : false
 	},
 	{
-		"gameId" : 4,
+		"gameId" : 3,
 		"awayTeam" : "KU",
 		"homeTeam" : "COLO",
-		"favorite" : "COLO",
+		"favorite" : "KU",
 		"spread" : 10.5,
 		"gameTime" : "2021-12-22T02:00Z",
 		"channel": "ESPN2",
 		"active" : false
 	},
 	{
-		"gameId" : 5,
+		"gameId" : 4,
 		"awayTeam" : "WKU",
 		"homeTeam" : "UK",
 		"favorite" : "UK",
@@ -51,7 +41,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 6,
+		"gameId" : 5,
 		"awayTeam" : "MURR",
 		"homeTeam" : "AUB",
 		"favorite" : "AUB",
@@ -61,7 +51,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 7,
+		"gameId" : 6,
 		"awayTeam" : "ZONA",
 		"homeTeam" : "TENN",
 		"favorite" : "TENN",
@@ -71,7 +61,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 8,
+		"gameId" : 7,
 		"awayTeam" : "BSU",
 		"homeTeam" : "WSU",
 		"favorite" : "WSU",
@@ -81,7 +71,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 9,
+		"gameId" : 8,
 		"awayTeam" : "CLEM",
 		"homeTeam" : "UVA",
 		"favorite" : "UVA",
@@ -91,12 +81,22 @@
 		"active" : false
 	},
 	{
-		"gameId" : 10,
+		"gameId" : 9,
 		"awayTeam" : "VT",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
 		"spread" : "-",
 		"gameTime" : "2021-12-23T02:00Z",
+		"channel": "ESPN2",
+		"active" : false
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2021-12-26T01:30Z",
 		"channel": "ESPN2",
 		"active" : false
 	}
