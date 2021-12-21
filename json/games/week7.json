@@ -79,7 +79,7 @@
 		"gameTime" : "2021-12-23T01:00Z",
 		"channel": "PACN",
 		"active" : false
-	},,
+	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "CLEM",
@@ -89,7 +89,7 @@
 		"gameTime" : "2021-12-23T01:00Z",
 		"channel": "ACCN",
 		"active" : false
-	}
+	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "VT",
