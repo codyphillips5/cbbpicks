@@ -8,7 +8,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2021-12-22T00:00Z",
 		"channel": "FS1",
-		"active" : true
+		"awayScore" : 58,
+		"homeScore" : 71,
+		"cover" : "NOVA"
 	},
 	{
 		"gameId" : 2,
