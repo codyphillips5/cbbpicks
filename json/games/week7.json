@@ -32,7 +32,9 @@
 		"spread" : 11.5,
 		"gameTime" : "2021-12-22T23:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 60,
+		"homeScore" : 95,
+		"cover" : "UK"
 	},
 	{
 		"gameId" : 4,
@@ -42,7 +44,9 @@
 		"spread" : 12.5,
 		"gameTime" : "2021-12-22T23:00Z",
 		"channel": "SECN",
-		"active" : true
+		"awayScore" : 58,
+		"homeScore" : 71,
+		"cover" : "AUB"
 	},
 	{
 		"gameId" : 5,
@@ -52,7 +56,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2021-12-23T00:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 73,
+		"homeScore" : 77,
+		"cover" : "TENN"
 	},
 	{
 		"gameId" : 6,
