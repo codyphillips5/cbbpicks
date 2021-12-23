@@ -92,7 +92,9 @@
 		"spread" : 9.5,
 		"gameTime" : "2021-12-23T02:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 65,
+		"homeScore" : 76,
+		"cover" : "DUKE"
 	},
 	{
 		"gameId" : 9,
