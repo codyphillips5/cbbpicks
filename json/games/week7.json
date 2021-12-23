@@ -101,10 +101,10 @@
 		"awayTeam" : "GMU",
 		"homeTeam" : "WIS",
 		"favorite" : "WIS",
-		"spread" : "-",
+		"spread" : 10.5,
 		"gameTime" : "2021-12-24T00:00Z",
 		"channel": "B1G",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
