@@ -68,7 +68,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2021-12-23T01:00Z",
 		"channel": "PACN",
-		"active" : true
+		"awayScore" : 58,
+		"homeScore" : 52,
+		"cover" : "BSU"
 	},
 	{
 		"gameId" : 7,
