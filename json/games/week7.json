@@ -78,7 +78,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2021-12-23T01:00Z",
 		"channel": "ACCN",
-		"active" : true
+		"awayScore" : 67,
+		"homeScore" : 50,
+		"cover" : "CLEM"
 	},
 	{
 		"gameId" : 8,
