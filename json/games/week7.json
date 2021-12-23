@@ -98,12 +98,12 @@
 	},
 	{
 		"gameId" : 9,
-		"awayTeam" : "GMU",
-		"homeTeam" : "WIS",
-		"favorite" : "WIS",
-		"spread" : 10.5,
-		"gameTime" : "2021-12-24T00:00Z",
-		"channel": "B1G",
+		"awayTeam" : "VU",
+		"homeTeam" : "BYU",
+		"favorite" : "BYU",
+		"spread" : 5.5,
+		"gameTime" : "2021-12-24T03:00Z",
+		"channel": "ESPN2",
 		"active" : true
 	},
 	{
