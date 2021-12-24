@@ -104,13 +104,15 @@
 		"spread" : 5.5,
 		"gameTime" : "2021-12-24T03:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 69,
+		"homeScore" : 67,
+		"cover" : "VU"
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "STAN",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"homeTeam" : "VU",
+		"favorite" : "VU",
 		"spread" : "-",
 		"gameTime" : "2021-12-26T01:30Z",
 		"channel": "ESPN2",
