@@ -42,16 +42,6 @@
 	},
 	{
 		"gameId" : 5,
-		"awayTeam" : "ZONA",
-		"homeTeam" : "UCLA",
-		"favorite" : "UCLA",
-		"spread" : "-",
-		"gameTime" : "2021-12-31T02:00Z",
-		"channel": "ESPN2",
-		"active" : false
-	},
-	{
-		"gameId" : 6,
 		"awayTeam" : "WVU",
 		"homeTeam" : "TEX",
 		"favorite" : "TEX",
@@ -61,7 +51,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 7,
+		"gameId" : 6,
 		"awayTeam" : "MEM",
 		"homeTeam" : "WICHST",
 		"favorite" : "WICHST",
@@ -71,7 +61,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 8,
+		"gameId" : 7,
 		"awayTeam" : "BU",
 		"homeTeam" : "ISU",
 		"favorite" : "ISU",
@@ -81,7 +71,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 9,
+		"gameId" : 8,
 		"awayTeam" : "DONS",
 		"homeTeam" : "STMARY",
 		"favorite" : "STMARY",
@@ -91,12 +81,22 @@
 		"active" : false
 	},
 	{
-		"gameId" : 10,
+		"gameId" : 9,
 		"awayTeam" : "MSU",
-		"homeTeam" : "NU",
-		"favorite" : "NU",
+		"homeTeam" : "NW",
+		"favorite" : "NW",
 		"spread" : "-",
 		"gameTime" : "2022-01-02T19:00Z",
+		"channel": "B1G",
+		"active" : false
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "ILL",
+		"homeTeam" : "MINN",
+		"favorite" : "MINN",
+		"spread" : "-",
+		"gameTime" : "2022-01-02T23:00Z",
 		"channel": "B1G",
 		"active" : false
 	}
