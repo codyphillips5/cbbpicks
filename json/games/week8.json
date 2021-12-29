@@ -5,7 +5,7 @@
 		"awayTeam" : "LSU",
 		"homeTeam" : "AUB",
 		"favorite" : "AUB",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2021-12-30T00:00Z",
 		"channel": "ESPNU",
 		"active" : false
@@ -15,7 +15,7 @@
 		"awayTeam" : "SETON",
 		"homeTeam" : "PROV",
 		"favorite" : "PROV",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2021-12-30T00:00Z",
 		"channel": "FS1",
 		"active" : false
@@ -25,7 +25,7 @@
 		"awayTeam" : "WAKE",
 		"homeTeam" : "LOU",
 		"favorite" : "LOU",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2021-12-30T01:00Z",
 		"channel": "ACCN",
 		"active" : false
