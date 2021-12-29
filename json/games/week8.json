@@ -8,27 +8,27 @@
 		"spread" : 4.5,
 		"gameTime" : "2021-12-30T00:00Z",
 		"channel": "ESPNU",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 2,
 		"awayTeam" : "SETON",
 		"homeTeam" : "PROV",
 		"favorite" : "PROV",
-		"spread" : 1.5,
+		"spread" : 0,
 		"gameTime" : "2021-12-30T00:00Z",
 		"channel": "FS1",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 3,
 		"awayTeam" : "WAKE",
 		"homeTeam" : "LOU",
 		"favorite" : "LOU",
-		"spread" : 5.5,
+		"spread" : 4.5,
 		"gameTime" : "2021-12-30T01:00Z",
 		"channel": "ACCN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 4,
