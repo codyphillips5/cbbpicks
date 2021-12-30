@@ -44,7 +44,7 @@
 		"spread" : 3.5,
 		"gameTime" : "2021-12-31T00:00Z",
 		"channel": "ESPNU",
-		"active" : false
+		"active" :  true
 	},
 	{
 		"gameId" : 5,
