@@ -56,7 +56,9 @@
 		"spread" : 8.5,
 		"gameTime" : "2022-01-01T17:00Z",
 		"channel": "ESPNU",
-		"active" : true
+		"awayScore" : 59,
+		"homeScore" : 74,
+		"cover" : "TEX"
 	},
 	{
 		"gameId" : 6,
@@ -66,7 +68,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-01-01T17:00Z",
 		"channel": "CBS",
-		"active" : true
+		"awayScore" : 82,
+		"homeScore" : 64,
+		"cover" : "MEM"
 	},
 	{
 		"gameId" : 7,
@@ -76,7 +80,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2022-01-01T19:00Z",
 		"channel": "ESPNU",
-		"active" : true
+		"awayScore" : 77,
+		"homeScore" : 72,
+		"cover" : "BU"
 	},
 	{
 		"gameId" : 8,
@@ -86,27 +92,29 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-01-01T20:00Z",
 		"channel": "FOX",
-		"active" : true
+		"awayScore" : 70,
+		"homeScore" : 53,
+		"cover" : "PROV"
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "MSU",
 		"homeTeam" : "NW",
-		"favorite" : "NW",
-		"spread" : "-",
+		"favorite" : "MSU",
+		"spread" : 2.5,
 		"gameTime" : "2022-01-02T19:00Z",
 		"channel": "B1G",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
-		"awayTeam" : "ILL",
-		"homeTeam" : "MINN",
-		"favorite" : "MINN",
-		"spread" : "-",
-		"gameTime" : "2022-01-02T23:00Z",
+		"awayTeam" : "IND",
+		"homeTeam" : "PSU",
+		"favorite" : "IND",
+		"spread" : 2.5,
+		"gameTime" : "2022-01-02T21:00Z",
 		"channel": "B1G",
-		"active" : false
+		"active" : true
 	}
   ]
 }
