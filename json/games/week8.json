@@ -104,7 +104,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-01-02T19:00Z",
 		"channel": "B1G",
-		"active" : true
+		"awayScore" : 73,
+		"homeScore" : 67,
+		"cover" : "MSU"
 	},
 	{
 		"gameId" : 10,
@@ -114,7 +116,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-01-02T21:00Z",
 		"channel": "B1G",
-		"active" : true
+		"awayScore" : 58,
+		"homeScore" : 61,
+		"cover" : "PSU"
 	}
   ]
 }
