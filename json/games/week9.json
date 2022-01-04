@@ -5,20 +5,20 @@
 		"awayTeam" : "UK",
 		"homeTeam" : "LSU",
 		"favorite" : "LSU",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2022-01-05T00:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 2,
 		"awayTeam" : "ILL",
 		"homeTeam" : "MINN",
 		"favorite" : "ILL",
-		"spread" : 7.5,
+		"spread" : 6.5,
 		"gameTime" : "2022-01-05T00:00Z",
 		"channel": "B1G",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 3,
