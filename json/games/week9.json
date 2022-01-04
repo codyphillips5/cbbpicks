@@ -5,7 +5,7 @@
 		"awayTeam" : "UK",
 		"homeTeam" : "LSU",
 		"favorite" : "LSU",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2022-01-05T00:00Z",
 		"channel": "ESPN",
 		"active" : false
@@ -14,8 +14,8 @@
 		"gameId" : 2,
 		"awayTeam" : "ILL",
 		"homeTeam" : "MINN",
-		"favorite" : "MINN",
-		"spread" : "-",
+		"favorite" : "ILL",
+		"spread" : 7.5,
 		"gameTime" : "2022-01-05T00:00Z",
 		"channel": "B1G",
 		"active" : false
@@ -42,6 +42,16 @@
 	},
 	{
 		"gameId" : 5,
+		"awayTeam" : "DONS",
+		"homeTeam" : "LOYCHI",
+		"favorite" : "LOYCHI",
+		"spread" : "-",
+		"gameTime" : "2022-01-06T19:00Z",
+		"channel": "",
+		"active" : false
+	},
+	{
+		"gameId" : 6,
 		"awayTeam" : "IOWA",
 		"homeTeam" : "WIS",
 		"favorite" : "WIS",
@@ -51,7 +61,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 6,
+		"gameId" : 7,
 		"awayTeam" : "CSU",
 		"homeTeam" : "BSU",
 		"favorite" : "BSU",
@@ -61,22 +71,12 @@
 		"active" : false
 	},
 	{
-		"gameId" : 7,
+		"gameId" : 8,
 		"awayTeam" : "KU",
 		"homeTeam" : "TTU",
 		"favorite" : "TTU",
 		"spread" : "-",
 		"gameTime" : "2022-01-08T21:00Z",
-		"channel": "ESPN2",
-		"active" : false
-	},
-	{
-		"gameId" : 8,
-		"awayTeam" : "TENN",
-		"homeTeam" : "LSU",
-		"favorite" : "LSU",
-		"spread" : "-",
-		"gameTime" : "2022-01-08T23:00Z",
 		"channel": "ESPN2",
 		"active" : false
 	},
