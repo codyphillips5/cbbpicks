@@ -32,17 +32,17 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-01-06T00:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 4,
 		"awayTeam" : "TTU",
 		"homeTeam" : "ISU",
 		"favorite" : "ISU",
-		"spread" : 2.5,
+		"spread" : 3.5,
 		"gameTime" : "2022-01-06T02:00Z",
 		"channel": "ESPNU",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 5,
