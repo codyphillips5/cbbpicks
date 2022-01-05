@@ -8,7 +8,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-01-05T00:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 60,
+		"homeScore" : 65,
+		"cover" : "LSU"
 	},
 	{
 		"gameId" : 2,
@@ -18,7 +20,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-01-05T00:00Z",
 		"channel": "B1G",
-		"active" : true
+		"awayScore" : 76,
+		"homeScore" : 53,
+		"cover" : "ILL"
 	},
 	{
 		"gameId" : 3,
