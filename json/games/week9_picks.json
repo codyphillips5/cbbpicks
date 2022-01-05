@@ -80,8 +80,8 @@
     },    
 	{
 		"userId" : 7,
-		"game1" : "LSU",
-		"game2" : "MINN",
+		"game1" : "",
+		"game2" : "",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
