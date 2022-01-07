@@ -68,25 +68,27 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-01-07T02:00Z",
 		"channel": "FS1",
-		"active" : true
+		"awayScore" : 78,
+		"homeScore" : 87,
+		"cover" : "WIS"
 	},
 	{
 		"gameId" : 7,
-		"awayTeam" : "CSU",
-		"homeTeam" : "BSU",
-		"favorite" : "BSU",
-		"spread" : "-",
-		"gameTime" : "2022-01-08T03:30Z",
-		"channel": "FS1",
-		"active" : false
-	},
-	{
-		"gameId" : 8,
 		"awayTeam" : "KU",
 		"homeTeam" : "TTU",
 		"favorite" : "TTU",
 		"spread" : "-",
 		"gameTime" : "2022-01-08T21:00Z",
+		"channel": "ESPN2",
+		"active" : false
+	},
+	{
+		"gameId" : 8,
+		"awayTeam" : "TENN",
+		"homeTeam" : "LSU",
+		"favorite" : "LSU",
+		"spread" : "-",
+		"gameTime" : "2022-01-08T23:00Z",
 		"channel": "ESPN2",
 		"active" : false
 	},
