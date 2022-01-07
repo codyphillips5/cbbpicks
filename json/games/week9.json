@@ -84,12 +84,12 @@
 	},
 	{
 		"gameId" : 8,
-		"awayTeam" : "TENN",
-		"homeTeam" : "LSU",
-		"favorite" : "LSU",
+		"awayTeam" : "CSU",
+		"homeTeam" : "SDSU",
+		"favorite" : "SDSU",
 		"spread" : "-",
-		"gameTime" : "2022-01-08T23:00Z",
-		"channel": "ESPN2",
+		"gameTime" : "2022-01-08T21:00Z",
+		"channel": "CBS",
 		"active" : false
 	},
 	{
