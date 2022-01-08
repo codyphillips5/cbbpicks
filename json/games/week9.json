@@ -76,8 +76,8 @@
 		"gameId" : 7,
 		"awayTeam" : "KU",
 		"homeTeam" : "TTU",
-		"favorite" : "TTU",
-		"spread" : "-",
+		"favorite" : "KU",
+		"spread" : 4.5,
 		"gameTime" : "2022-01-08T21:00Z",
 		"channel": "ESPN2",
 		"active" : false
@@ -87,7 +87,7 @@
 		"awayTeam" : "CSU",
 		"homeTeam" : "SDSU",
 		"favorite" : "SDSU",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2022-01-08T21:00Z",
 		"channel": "CBS",
 		"active" : false
@@ -97,7 +97,7 @@
 		"awayTeam" : "LOU",
 		"homeTeam" : "FSU",
 		"favorite" : "FSU",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2022-01-09T01:00Z",
 		"channel": "ESPNU",
 		"active" : false
@@ -107,7 +107,7 @@
 		"awayTeam" : "STMARY",
 		"homeTeam" : "BYU",
 		"favorite" : "BYU",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2022-01-09T03:00Z",
 		"channel": "ESPN2",
 		"active" : false
