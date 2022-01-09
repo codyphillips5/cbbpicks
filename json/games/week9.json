@@ -80,7 +80,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2022-01-08T21:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 67,
+		"homeScore" : 75,
+		"cover" : "TTU"
 	},
 	{
 		"gameId" : 8,
@@ -90,7 +92,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-01-08T21:00Z",
 		"channel": "CBS",
-		"active" : true
+		"awayScore" : 49,
+		"homeScore" : 79,
+		"cover" : "SDSU"
 	},
 	{
 		"gameId" : 9,
