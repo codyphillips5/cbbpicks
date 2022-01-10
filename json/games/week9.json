@@ -104,7 +104,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2022-01-09T01:00Z",
 		"channel": "ESPNU",
-		"active" : true
+		"awayScore" : 70,
+		"homeScore" : 79,
+		"cover" : "FSU"
 	},
 	{
 		"gameId" : 10,
@@ -114,7 +116,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-01-09T03:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 43,
+		"homeScore" : 52,
+		"cover" : "BYU"
 	}
   ]
 }
