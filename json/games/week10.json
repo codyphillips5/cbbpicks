@@ -2,22 +2,22 @@
   "games": [
 	{
 		"gameId" : 1,
-		"awayTeam" : "TTU",
-		"homeTeam" : "BU",
-		"favorite" : "BU",
-		"spread" : "-",
-		"gameTime" : "2022-01-12T00:00Z",
-		"channel": "ESPN2",
+		"awayTeam" : "OKLA",
+		"homeTeam" : "TEX",
+		"favorite" : "TEX",
+		"spread" : 6.5,
+		"gameTime" : "2022-01-12T01:30Z",
+		"channel": "LHN",
 		"active" : false
 	},
 	{
 		"gameId" : 2,
-		"awayTeam" : "OKLA",
-		"homeTeam" : "TEX",
-		"favorite" : "TEX",
+		"awayTeam" : "AUB",
+		"homeTeam" : "ALA",
+		"favorite" : "ALA",
 		"spread" : "-",
-		"gameTime" : "2022-01-12T01:30Z",
-		"channel": "LHN",
+		"gameTime" : "2022-01-12T02:00Z",
+		"channel": "ESPN",
 		"active" : false
 	},
 	{
@@ -79,25 +79,25 @@
 		"gameTime" : "2022-01-15T18:30Z",
 		"channel": "CBS",
 		"active" : false
-	},
+	},,
 	{
 		"gameId" : 9,
+		"awayTeam" : "ARK",
+		"homeTeam" : "LSU",
+		"favorite" : "LSU",
+		"spread" : "-",
+		"gameTime" : "2022-01-15T19:00Z",
+		"channel": "ESPN2",
+		"active" : false
+	}
+	{
+		"gameId" : 10,
 		"awayTeam" : "MURR",
 		"homeTeam" : "BEL",
 		"favorite" : "BEL",
 		"spread" : "-",
 		"gameTime" : "2022-01-15T22:00Z",
 		"channel": "ESPN+",
-		"active" : false
-	},
-	{
-		"gameId" : 10,
-		"awayTeam" : "ALA",
-		"homeTeam" : "MSST",
-		"favorite" : "MSST",
-		"spread" : "-",
-		"gameTime" : "2022-01-15T23:00Z",
-		"channel": "SECN",
 		"active" : false
 	}
   ]
