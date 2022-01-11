@@ -79,7 +79,7 @@
 		"gameTime" : "2022-01-15T18:30Z",
 		"channel": "CBS",
 		"active" : false
-	},,
+	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "ARK",
@@ -89,7 +89,7 @@
 		"gameTime" : "2022-01-15T19:00Z",
 		"channel": "ESPN2",
 		"active" : false
-	}
+	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "MURR",
