@@ -15,7 +15,7 @@
 		"awayTeam" : "AUB",
 		"homeTeam" : "ALA",
 		"favorite" : "ALA",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2022-01-12T02:00Z",
 		"channel": "ESPN",
 		"active" : false
