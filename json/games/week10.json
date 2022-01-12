@@ -29,10 +29,10 @@
 		"awayTeam" : "DUKE",
 		"homeTeam" : "WAKE",
 		"favorite" : "DUKE",
-		"spread" : 4.5,
+		"spread" : 5.5,
 		"gameTime" : "2022-01-13T00:00Z",
 		"channel": "ACCN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 4,
