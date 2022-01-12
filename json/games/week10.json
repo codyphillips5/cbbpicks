@@ -8,7 +8,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-01-12T01:30Z",
 		"channel": "LHN",
-		"active" : true
+		"awayScore" : 52,
+		"homeScore" : 66,
+		"cover" : "TEX"
 	},
 	{
 		"gameId" : 2,
@@ -18,16 +20,18 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-01-12T02:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 81,
+		"homeScore" : 77,
+		"cover" : "AUB"
 	},
 	{
 		"gameId" : 3,
-		"awayTeam" : "USU",
-		"homeTeam" : "CSU",
-		"favorite" : "CSU",
-		"spread" : "-",
-		"gameTime" : "2022-01-13T01:00Z",
-		"channel": "CBSSN",
+		"awayTeam" : "DUKE",
+		"homeTeam" : "WAKE",
+		"favorite" : "DUKE",
+		"spread" : 4.5,
+		"gameTime" : "2022-01-13T00:00Z",
+		"channel": "ACCN",
 		"active" : false
 	},
 	{
@@ -52,16 +56,6 @@
 	},
 	{
 		"gameId" : 6,
-		"awayTeam" : "COLO",
-		"homeTeam" : "ZONA",
-		"favorite" : "ZONA",
-		"spread" : "-",
-		"gameTime" : "2022-01-14T04:00Z",
-		"channel": "FS1",
-		"active" : false
-	},
-	{
-		"gameId" : 7,
 		"awayTeam" : "VCU",
 		"homeTeam" : "STBON",
 		"favorite" : "STBON",
@@ -71,7 +65,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 8,
+		"gameId" : 7,
 		"awayTeam" : "WVU",
 		"homeTeam" : "KU",
 		"favorite" : "KU",
@@ -81,7 +75,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 9,
+		"gameId" : 8,
 		"awayTeam" : "ARK",
 		"homeTeam" : "LSU",
 		"favorite" : "LSU",
@@ -91,13 +85,23 @@
 		"active" : false
 	},
 	{
-		"gameId" : 10,
+		"gameId" : 9,
 		"awayTeam" : "MURR",
 		"homeTeam" : "BEL",
 		"favorite" : "BEL",
 		"spread" : "-",
 		"gameTime" : "2022-01-15T22:00Z",
 		"channel": "ESPN+",
+		"active" : false
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "BYU",
+		"homeTeam" : "DONS",
+		"favorite" : "DONS",
+		"spread" : "-",
+		"gameTime" : "2022-01-16T04:00Z",
+		"channel": "CBSSN",
 		"active" : false
 	}
   ]
