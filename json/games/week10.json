@@ -48,22 +48,22 @@
 	},
 	{
 		"gameId" : 5,
-		"awayTeam" : "BYU",
-		"homeTeam" : "GONZ",
-		"favorite" : "GONZ",
-		"spread" : 14.5,
-		"gameTime" : "2022-01-14T04:00Z",
-		"channel": "ESPN2",
-		"active" : false
-	},
-	{
-		"gameId" : 6,
 		"awayTeam" : "VCU",
 		"homeTeam" : "STBON",
 		"favorite" : "STBON",
 		"spread" : "-",
 		"gameTime" : "2022-01-15T00:30Z",
 		"channel": "ESPN2",
+		"active" : false
+	},
+	{
+		"gameId" : 6,
+		"awayTeam" : "TENN",
+		"homeTeam" : "UK",
+		"favorite" : "UK",
+		"spread" : "-",
+		"gameTime" : "2022-01-15T18:00Z",
+		"channel": "ESPN",
 		"active" : false
 	},
 	{
