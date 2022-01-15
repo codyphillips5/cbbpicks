@@ -68,7 +68,7 @@
 		"spread" : 5.5,
 		"gameTime" : "2022-01-15T18:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
@@ -78,7 +78,7 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-01-15T19:00Z",
 		"channel": "ESPN+",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
@@ -88,17 +88,17 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-01-15T20:00Z",
 		"channel": "CBSSN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "MURR",
 		"homeTeam" : "BEL",
 		"favorite" : "BEL",
-		"spread" : 5.5,
+		"spread" : 6.5,
 		"gameTime" : "2022-01-15T22:00Z",
 		"channel": "ESPN+",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
@@ -108,7 +108,7 @@
 		"spread" : 4.5,
 		"gameTime" : "2022-01-16T04:00Z",
 		"channel": "CBSSN",
-		"active" : false
+		"active" : true
 	}
   ]
 }
