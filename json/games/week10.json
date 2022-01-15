@@ -56,7 +56,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-01-15T00:30Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 53,
+		"homeScore" : 73,
+		"cover" : "STBON"
 	},
 	{
 		"gameId" : 6,
