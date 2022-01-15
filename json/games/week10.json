@@ -71,6 +71,16 @@
 		"active" : false
 	},
 	{
+		"gameId" : 9,
+		"awayTeam" : "TEX",
+		"homeTeam" : "ISU",
+		"favorite" : "TEX",
+		"spread" : 2.5,
+		"gameTime" : "2022-01-15T19:00Z",
+		"channel": "ESPN+",
+		"active" : false
+	},
+	{
 		"gameId" : 7,
 		"awayTeam" : "FURMAN",
 		"homeTeam" : "CHATT",
@@ -88,16 +98,6 @@
 		"spread" : 5.5,
 		"gameTime" : "2022-01-15T22:00Z",
 		"channel": "ESPN+",
-		"active" : false
-	},
-	{
-		"gameId" : 9,
-		"awayTeam" : "ORE",
-		"homeTeam" : "USC",
-		"favorite" : "USC",
-		"spread" : 6.5,
-		"gameTime" : "2022-01-15T18:30Z",
-		"channel": "FS1",
 		"active" : false
 	},
 	{
