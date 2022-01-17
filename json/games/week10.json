@@ -73,19 +73,19 @@
 		"cover" : "UK"
 	},
 	{
-		"gameId" : 9,
+		"gameId" : 7,
 		"awayTeam" : "TEX",
 		"homeTeam" : "ISU",
 		"favorite" : "TEX",
 		"spread" : 2.5,
 		"gameTime" : "2022-01-15T19:00Z",
 		"channel": "ESPN+",
-		"awayScore" : 79,
-		"homeScore" : 70,
+		"awayScore" : 70,
+		"homeScore" : 79,
 		"cover" : "ISU"
 	},
 	{
-		"gameId" : 7,
+		"gameId" : 8,
 		"awayTeam" : "FURMAN",
 		"homeTeam" : "CHATT",
 		"favorite" : "CHATT",
@@ -97,7 +97,7 @@
 		"cover" : "FURMAN"
 	},
 	{
-		"gameId" : 8,
+		"gameId" : 9,
 		"awayTeam" : "MURR",
 		"homeTeam" : "BEL",
 		"favorite" : "BEL",
