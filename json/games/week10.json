@@ -68,7 +68,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2022-01-15T18:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 79,
+		"homeScore" : 107,
+		"cover" : "UK"
 	},
 	{
 		"gameId" : 9,
@@ -78,7 +80,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-01-15T19:00Z",
 		"channel": "ESPN+",
-		"active" : true
+		"awayScore" : 79,
+		"homeScore" : 70,
+		"cover" : "ISU"
 	},
 	{
 		"gameId" : 7,
@@ -88,7 +92,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-01-15T20:00Z",
 		"channel": "CBSSN",
-		"active" : true
+		"awayScore" : 69,
+		"homeScore" : 71,
+		"cover" : "FURMAN"
 	},
 	{
 		"gameId" : 8,
@@ -98,7 +104,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-01-15T22:00Z",
 		"channel": "ESPN+",
-		"active" : true
+		"awayScore" : 82,
+		"homeScore" : 60,
+		"cover" : "MURR"
 	},
 	{
 		"gameId" : 10,
@@ -108,7 +116,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2022-01-16T04:00Z",
 		"channel": "CBSSN",
-		"active" : true
+		"awayScore" : 71,
+		"homeScore" : 69,
+		"cover" : "BYU"
 	}
   ]
 }
