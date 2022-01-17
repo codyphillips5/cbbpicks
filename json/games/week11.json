@@ -1,0 +1,104 @@
+{
+  "games": [
+	{
+		"gameId" : 1,
+		"awayTeam" : "KU",
+		"homeTeam" : "OKLA",
+		"favorite" : "OKLA",
+		"spread" : "-",
+		"gameTime" : "2022-01-19T00:00Z",
+		"channel": "ESPN",
+		"active" : false
+	},
+	{
+		"gameId" : 2,
+		"awayTeam" : "MSST",
+		"homeTeam" : "FLA",
+		"favorite" : "FLA",
+		"spread" : "-",
+		"gameTime" : "2022-01-19T23:30Z",
+		"channel": "SECN",
+		"active" : false
+	},
+	{
+		"gameId" : 3,
+		"awayTeam" : "UK",
+		"homeTeam" : "TXAM",
+		"favorite" : "TXAM",
+		"spread" : "-",
+		"gameTime" : "2022-01-20T01:30Z",
+		"channel": "SECN",
+		"active" : false
+	},
+	{
+		"gameId" : 4,
+		"awayTeam" : "MSU",
+		"homeTeam" : "WIS",
+		"favorite" : "WIS",
+		"spread" : "-",
+		"gameTime" : "2022-01-22T02:00Z",
+		"channel": "FS1",
+		"active" : false
+	},
+	{
+		"gameId" : 5,
+		"awayTeam" : "UK",
+		"homeTeam" : "AUB",
+		"favorite" : "AUB",
+		"spread" : "-",
+		"gameTime" : "2022-01-22T17:00Z",
+		"channel": "",
+		"active" : false
+	},
+	{
+		"gameId" : 6,
+		"awayTeam" : "WVU",
+		"homeTeam" : "TTU",
+		"favorite" : "TTU",
+		"spread" : "-",
+		"gameTime" : "2022-01-22T17:00Z",
+		"channel": "",
+		"active" : false
+	},
+	{
+		"gameId" : 7,
+		"awayTeam" : "UAB",
+		"homeTeam" : "LT",
+		"favorite" : "LT",
+		"spread" : "-",
+		"gameTime" : "2022-01-22T21:00Z",
+		"channel": "",
+		"active" : false
+	},
+	{
+		"gameId" : 8,
+		"awayTeam" : "TCU",
+		"homeTeam" : "ISU",
+		"favorite" : "ISU",
+		"spread" : "-",
+		"gameTime" : "2022-01-22T21:00Z",
+		"channel": "",
+		"active" : false
+	},
+	{
+		"gameId" : 9,
+		"awayTeam" : "UNC",
+		"homeTeam" : "WAKE",
+		"favorite" : "WAKE",
+		"spread" : "-",
+		"gameTime" : "2022-01-23T01:00Z",
+		"channel": "",
+		"active" : false
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "XAV",
+		"homeTeam" : "MARQ",
+		"favorite" : "MARQ",
+		"spread" : "-",
+		"gameTime" : "2022-01-23T19:00Z",
+		"channel": "FS1",
+		"active" : false
+	}
+  ]
+}
