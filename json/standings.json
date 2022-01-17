@@ -10,7 +10,8 @@
 		"week_6" : 7,
 		"week_7" : 5,
 		"week_8" : 4,
-		"week_9" : 4
+		"week_9" : 4,
+		"week_10" : 3
     },
 	{
 		"userId" : 2,
@@ -22,7 +23,8 @@
 		"week_6" : 2,
 		"week_7" : 0,
 		"week_8" : 0,
-		"week_9" : 0
+		"week_9" : 0,
+		"week_10" : 0
     },		
 	{
 		"userId" : 3,
@@ -34,7 +36,8 @@
 		"week_6" : 5,
 		"week_7" : 1,
 		"week_8" : 3,
-		"week_9" : 0
+		"week_9" : 0,
+		"week_10" : 1
     },	
 	{
 		"userId" : 4,
@@ -47,7 +50,8 @@
 		"week_7" : 5,
 		"week_8" : 1,
 		"week_9" : 9,
-		"week_9_top" : true
+		"week_9_top" : true,
+		"week_10" : 6
     },
 	{
 		"userId" : 5,
@@ -59,7 +63,8 @@
 		"week_6" : 5,
 		"week_7" : 2,
 		"week_8" : 4,
-		"week_9" : 6
+		"week_9" : 6,
+		"week_10" : 4
     },	
 	{
 		"userId" : 6,
@@ -71,7 +76,8 @@
 		"week_6" : 4,
 		"week_7" : 4,
 		"week_8" : 5,
-		"week_9" : 4
+		"week_9" : 4,
+		"week_10" : 4
     },	
 	{
 		"userId" : 7,
@@ -83,7 +89,8 @@
 		"week_6" : 2,
 		"week_7" : 3,
 		"week_8" : 0,
-		"week_9" : 0
+		"week_9" : 0,
+		"week_10" : 0
     },	
     {
 		"userId" : 8,
@@ -95,7 +102,8 @@
 		"week_6" : 7,
 		"week_7" : 6,
 		"week_8" : 6,
-		"week_9" : 8
+		"week_9" : 8,
+		"week_10" : 6
     },
     {
 		"userId" : 9,
@@ -107,7 +115,8 @@
 		"week_6" : 6,
 		"week_7" : 1,
 		"week_8" : 2,
-		"week_9" : 3
+		"week_9" : 3,
+		"week_10" : 4
     },
 	{
 		"userId" : 10,
@@ -120,7 +129,8 @@
 		"week_6_top" : true,
 		"week_7" : 3,
 		"week_8" : 4,
-		"week_9" : 4
+		"week_9" : 4,
+		"week_10" : 6
     },
 	{
 		"userId" : 11,
@@ -134,7 +144,8 @@
 		"week_6" : 7,
 		"week_7" : 3,
 		"week_8" : 3,
-		"week_9" : 5
+		"week_9" : 5,
+		"week_10" : 5
 	},
 	{
 		"userId" : 12,
@@ -146,7 +157,8 @@
 		"week_6" : 5,
 		"week_7" : 5,
 		"week_8" : 1,
-		"week_9" : 4
+		"week_9" : 4,
+		"week_10" : 3
     },
 	{
 		"userId" : 13,
@@ -158,7 +170,9 @@
 		"week_6" : 2,
 		"week_7" : 5,
 		"week_8" : 5,
-		"week_9" : 6
+		"week_9" : 6,
+		"week_10" : 9,
+		"week_10_top" : true
     },   
 	{
 		"userId" : 14,
@@ -171,7 +185,8 @@
 		"week_6" : 3,
 		"week_7" : 6,
 		"week_8" : 4,
-		"week_9" : 6
+		"week_9" : 6,
+		"week_10" : 5
 	},
 	{
 		"userId" : 15,
@@ -184,7 +199,8 @@
 		"week_6" : 6,
 		"week_7" : 4,
 		"week_8" : 6,
-		"week_9" : 8
+		"week_9" : 8,
+		"week_10" : 6
     },
 	{
 		"userId" : 16,
@@ -196,7 +212,8 @@
 		"week_6" : 7,
 		"week_7" : 4,
 		"week_8" : 5,
-		"week_9" : 5
+		"week_9" : 5,
+		"week_10" : 5
     },	
 	{
 		"userId" : 17,
@@ -208,7 +225,8 @@
 		"week_6" : 2,
 		"week_7" : 1,
 		"week_8" : 4,
-		"week_9" : 3
+		"week_9" : 3,
+		"week_10" : 7
     },
 	{
 		"userId" : 18,
@@ -220,7 +238,8 @@
 		"week_6" : 4,
 		"week_7" : 6,
 		"week_8" : 5,
-		"week_9" : 5
+		"week_9" : 5,
+		"week_10" : 4
     },
 	{
 		"userId" : 19,
@@ -233,7 +252,8 @@
 		"week_6_top" : true,
 		"week_7" : 5,
 		"week_8" : 4,
-		"week_9" : 4
+		"week_9" : 4,
+		"week_10" : 6
     },
 	{
 		"userId" : 20,
@@ -245,7 +265,8 @@
 		"week_6" : 4,
 		"week_7" : 5,
 		"week_8" : 6,
-		"week_9" : 4
+		"week_9" : 4,
+		"week_10" : 4
 	},
 	{
 		"userId" : 21,
@@ -258,7 +279,8 @@
 		"week_6" : 4,
 		"week_7" : 5,
 		"week_8" : 6,
-		"week_9" : 5
+		"week_9" : 5,
+		"week_10" : 3
     },	
 	{
 		"userId" : 22,
@@ -270,7 +292,8 @@
 		"week_6" : 5,
 		"week_7" : 1,
 		"week_8" : 6,
-		"week_9" : 8
+		"week_9" : 8,
+		"week_10" : 3
     },	
 	{
 		"userId" : 23,
@@ -282,7 +305,8 @@
 		"week_6" : 3,
 		"week_7" : 1,
 		"week_8" : 0,
-		"week_9" : 4
+		"week_9" : 4,
+		"week_10" : 2
     },
 	{
 		"userId" : 24,
@@ -294,7 +318,8 @@
 		"week_6" : 8,
 		"week_7" : 5,
 		"week_8" : 3,
-		"week_9" : 5
+		"week_9" : 5,
+		"week_10" : 6
     },		
 	{
 		"userId" : 25,
@@ -306,7 +331,8 @@
 		"week_6" : 5,
 		"week_7" : 5,
 		"week_8" : 5,
-		"week_9" : 6
+		"week_9" : 6,
+		"week_10" : 4
     },
 	{
 		"userId" : 26,
@@ -319,7 +345,8 @@
 		"week_7" : 4,
 		"week_8" : 7,
 		"week_8_top" : true,
-		"week_9" : 6
+		"week_9" : 6,
+		"week_10" : 5
     },	
 	{
 		"userId" : 27,
@@ -331,7 +358,9 @@
 		"week_6" : 5,
 		"week_7" : 4,
 		"week_8" : 5,
-		"week_9" : 5
+		"week_9" : 5,
+		"week_10" : 9,
+		"week_10_top" : true
     },	
 	{
 		"userId" : 28,
@@ -344,7 +373,8 @@
 		"week_6" : 4,
 		"week_7" : 5,
 		"week_8" : 3,
-		"week_9" : 8
+		"week_9" : 8,
+		"week_10" : 6
     },
 	{
 		"userId" : 29,
@@ -356,7 +386,8 @@
 		"week_6" : 7,
 		"week_7" : 6,
 		"week_8" : 5,
-		"week_9" : 7
+		"week_9" : 7,
+		"week_10" : 6
     },
 	{
 		"userId" : 30,
@@ -368,7 +399,8 @@
 		"week_6" : 3,
 		"week_7" : 6,
 		"week_8" : 5,
-		"week_9" : 5
+		"week_9" : 5,
+		"week_10" : 6
     }, 
 	{
 		"userId" : 31,
@@ -380,7 +412,8 @@
 		"week_6" : 6,
 		"week_7" : 6,
 		"week_8" : 6,
-		"week_9" : 7
+		"week_9" : 7,
+		"week_10" : 6
     },
 	{
 		"userId" : 32,
@@ -392,7 +425,8 @@
 		"week_6" : 3,
 		"week_7" : 4,
 		"week_8" : 1,
-		"week_9" : 1
+		"week_9" : 1,
+		"week_10" : 2
     }
 	]
 }
