@@ -4,8 +4,8 @@
 		"gameId" : 1,
 		"awayTeam" : "KU",
 		"homeTeam" : "OKLA",
-		"favorite" : "OKLA",
-		"spread" : "-",
+		"favorite" : "KU",
+		"spread" : 3.5,
 		"gameTime" : "2022-01-19T00:00Z",
 		"channel": "ESPN",
 		"active" : false
@@ -14,8 +14,8 @@
 		"gameId" : 2,
 		"awayTeam" : "DUKE",
 		"homeTeam" : "FSU",
-		"favorite" : "FSU",
-		"spread" : "-",
+		"favorite" : "DUKE",
+		"spread" : 4.5,
 		"gameTime" : "2022-01-19T02:00Z",
 		"channel": "ESPN",
 		"active" : false
