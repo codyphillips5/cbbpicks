@@ -8,17 +8,17 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-01-19T00:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 2,
 		"awayTeam" : "DUKE",
 		"homeTeam" : "FSU",
 		"favorite" : "DUKE",
-		"spread" : 4.5,
+		"spread" : 5.5,
 		"gameTime" : "2022-01-19T02:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 3,
