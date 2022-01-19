@@ -7,8 +7,10 @@
 		"favorite" : "KU",
 		"spread" : 3.5,
 		"gameTime" : "2022-01-19T00:00Z",
-		"channel": "ESPN",
-		"active" : true
+		"channel": "ESPN"
+		"awayScore" : 67,
+		"homeScore" : 64,
+		"cover" : "OKLA"
 	},
 	{
 		"gameId" : 2,
@@ -18,14 +20,18 @@
 		"spread" : 5.5,
 		"gameTime" : "2022-01-19T02:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 78,
+		"homeScore" : 79,
+		"cover" : "FSU"
 	},
 	{
 		"gameId" : 3,
 		"awayTeam" : "MSST",
 		"homeTeam" : "FLA",
 		"favorite" : "FLA",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2022-01-19T23:30Z",
 		"channel": "SECN",
 		"active" : false
