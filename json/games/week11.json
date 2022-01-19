@@ -31,10 +31,10 @@
 		"awayTeam" : "MSST",
 		"homeTeam" : "FLA",
 		"favorite" : "FLA",
-		"spread" : 4.5,
+		"spread" : 5.5,
 		"gameTime" : "2022-01-19T23:30Z",
 		"channel": "SECN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 4,
