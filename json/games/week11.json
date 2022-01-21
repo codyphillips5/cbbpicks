@@ -52,6 +52,16 @@
 	},
 	{
 		"gameId" : 5,
+		"awayTeam" : "TOL",
+		"homeTeam" : "OHIO",
+		"favorite" : "OHIO",
+		"spread" : 4.5,
+		"gameTime" : "2022-01-21T23:00Z",
+		"channel": "CBSSN",
+		"active" : false
+	},
+	{
+		"gameId" : 6,
 		"awayTeam" : "MSU",
 		"homeTeam" : "WIS",
 		"favorite" : "WIS",
@@ -61,7 +71,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 6,
+		"gameId" : 7,
 		"awayTeam" : "WVU",
 		"homeTeam" : "TTU",
 		"favorite" : "TTU",
@@ -71,7 +81,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 7,
+		"gameId" : 8,
 		"awayTeam" : "UK",
 		"homeTeam" : "AUB",
 		"favorite" : "AUB",
@@ -81,7 +91,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 8,
+		"gameId" : 9,
 		"awayTeam" : "UAB",
 		"homeTeam" : "LT",
 		"favorite" : "LT",
@@ -91,23 +101,13 @@
 		"active" : false
 	},
 	{
-		"gameId" : 9,
+		"gameId" : 10,
 		"awayTeam" : "TCU",
 		"homeTeam" : "ISU",
 		"favorite" : "ISU",
 		"spread" : "-",
 		"gameTime" : "2022-01-22T21:00Z",
 		"channel": "ESPN2",
-		"active" : false
-	},
-	{
-		"gameId" : 10,
-		"awayTeam" : "UNC",
-		"homeTeam" : "WAKE",
-		"favorite" : "WAKE",
-		"spread" : "-",
-		"gameTime" : "2022-01-23T01:00Z",
-		"channel": "ACCN",
 		"active" : false
 	}
   ]
