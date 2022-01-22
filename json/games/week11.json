@@ -79,40 +79,40 @@
 		"awayTeam" : "WVU",
 		"homeTeam" : "TTU",
 		"favorite" : "TTU",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2022-01-22T17:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "UK",
 		"homeTeam" : "AUB",
 		"favorite" : "AUB",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2022-01-22T18:00Z",
 		"channel": "CBS",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "UAB",
 		"homeTeam" : "LT",
-		"favorite" : "LT",
-		"spread" : "-",
+		"favorite" : "UAB",
+		"spread" : 1.5,
 		"gameTime" : "2022-01-22T21:00Z",
 		"channel": "STADIUM",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "TCU",
 		"homeTeam" : "ISU",
 		"favorite" : "ISU",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2022-01-22T21:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	}
   ]
 }
