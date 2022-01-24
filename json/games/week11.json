@@ -82,7 +82,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2022-01-22T17:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 65,
+		"homeScore" : 78,
+		"cover" : "TTU"
 	},
 	{
 		"gameId" : 8,
@@ -92,7 +94,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-01-22T18:00Z",
 		"channel": "CBS",
-		"active" : true
+		"awayScore" : 71,
+		"homeScore" : 80,
+		"cover" : "AUB"
 	},
 	{
 		"gameId" : 9,
@@ -102,7 +106,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-01-22T21:00Z",
 		"channel": "STADIUM",
-		"active" : true
+		"awayScore" : 83,
+		"homeScore" : 76,
+		"cover" : "UAB"
 	},
 	{
 		"gameId" : 10,
@@ -112,7 +118,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-01-22T21:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 59,
+		"homeScore" : 44,
+		"cover" : "TCU"
 	}
   ]
 }
