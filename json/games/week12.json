@@ -22,17 +22,17 @@
 		"spread" : 5.5,
 		"gameTime" : "2022-01-26T00:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 3,
 		"awayTeam" : "ZONA",
 		"homeTeam" : "UCLA",
 		"favorite" : "ZONA",
-		"spread" : 2.5,
+		"spread" : 3.5,
 		"gameTime" : "2022-01-26T04:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 4,
