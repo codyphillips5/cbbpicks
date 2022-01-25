@@ -19,7 +19,7 @@
 		"awayTeam" : "MSU",
 		"homeTeam" : "ILL",
 		"favorite" : "ILL",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2022-01-26T00:00Z",
 		"channel": "ESPN",
 		"active" : false
@@ -28,8 +28,8 @@
 		"gameId" : 3,
 		"awayTeam" : "ZONA",
 		"homeTeam" : "UCLA",
-		"favorite" : "UCLA",
-		"spread" : "-",
+		"favorite" : "ZONA",
+		"spread" : 2.5,
 		"gameTime" : "2022-01-26T04:00Z",
 		"channel": "ESPN",
 		"active" : false
