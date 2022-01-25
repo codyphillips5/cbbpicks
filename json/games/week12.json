@@ -8,7 +8,11 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-01-25T02:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 2,
+		"awayScore" : 91,
+		"homeScore" : 94,
+		"cover" : "TTU"
 	},
 	{
 		"gameId" : 2,
