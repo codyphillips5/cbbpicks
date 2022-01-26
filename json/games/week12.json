@@ -43,10 +43,10 @@
 		"awayTeam" : "VCU",
 		"homeTeam" : "DAV",
 		"favorite" : "DAV",
-		"spread" : 4.5,
+		"spread" : 3.5,
 		"gameTime" : "2022-01-27T01:30Z",
 		"channel": "CBSSN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 5,
