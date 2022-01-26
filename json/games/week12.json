@@ -34,7 +34,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-01-26T04:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 59,
+		"homeScore" : 75,
+		"cover" : "UCLA"
 	},
 	{
 		"gameId" : 4,
