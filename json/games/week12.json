@@ -22,7 +22,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2022-01-26T00:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 55,
+		"homeScore" : 56,
+		"cover" : "MSU"
 	},
 	{
 		"gameId" : 3,
@@ -39,7 +41,7 @@
 		"awayTeam" : "VCU",
 		"homeTeam" : "DAV",
 		"favorite" : "DAV",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2022-01-27T01:30Z",
 		"channel": "CBSSN",
 		"active" : false
