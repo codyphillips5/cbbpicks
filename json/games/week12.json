@@ -66,48 +66,48 @@
 		"gameId" : 6,
 		"awayTeam" : "LSU",
 		"homeTeam" : "TCU",
-		"favorite" : "TCU",
-		"spread" : "-",
+		"favorite" : "LSU",
+		"spread" : 2.5,
 		"gameTime" : "2022-01-29T17:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "XAV",
 		"homeTeam" : "CREIGH",
-		"favorite" : "CREIGH",
-		"spread" : "-",
+		"favorite" : "XAV",
+		"spread" : 1.5,
 		"gameTime" : "2022-01-29T19:00Z",
 		"channel": "FS1",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "BU",
 		"homeTeam" : "ALA",
-		"favorite" : "ALA",
-		"spread" : "-",
+		"favorite" : "BU",
+		"spread" : 3.5,
 		"gameTime" : "2022-01-29T21:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "UK",
 		"homeTeam" : "KU",
 		"favorite" : "KU",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2022-01-29T23:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "HOU",
 		"homeTeam" : "UCF",
-		"favorite" : "UCF",
-		"spread" : "-",
+		"favorite" : "HOU",
+		"spread" : 7.5,
 		"gameTime" : "2022-01-30T01:00Z",
 		"channel": "ESPN2",
 		"active" : false
