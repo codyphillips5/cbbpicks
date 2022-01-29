@@ -241,11 +241,11 @@
 		"game3" : "UCLA",
 		"game4" : "VCU",
 		"game5" : "PURD",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game6" : "TCU",
+		"game7" : "CREIGH",
+		"game8" : "BU",
+		"game9" : "KU",
+		"game10" : "TENN"
     },
 	{
 		"userId" : 20,
@@ -293,11 +293,11 @@
 		"game3" : "UCLA",
 		"game4" : "DAV",
 		"game5" : "IOWA",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game6" : "LSU",
+		"game7" : "CREIGH",
+		"game8" : "BU",
+		"game9" : "UK",
+		"game10" : "TENN"
     },
 	{
 		"userId" : 24,
@@ -306,11 +306,11 @@
 		"game3" : "UCLA",
 		"game4" : "DAV",
 		"game5" : "IOWA",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game6" : "LSU",
+		"game7" : "XAV",
+		"game8" : "BU",
+		"game9" : "UK",
+		"game10" : "TENN"
     },
 	{
 		"userId" : 25,
