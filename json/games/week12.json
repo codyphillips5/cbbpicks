@@ -70,7 +70,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-01-29T17:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 68,
+		"homeScore" : 77,
+		"cover" : "TCU"
 	},
 	{
 		"gameId" : 7,
