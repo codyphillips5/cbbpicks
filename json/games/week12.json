@@ -82,7 +82,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-01-29T19:00Z",
 		"channel": "FS1",
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 64,
+		"cover" : "XAV"
 	},
 	{
 		"gameId" : 8,
@@ -92,7 +94,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-01-29T21:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 78,
+		"homeScore" : 87,
+		"cover" : "ALA"
 	},
 	{
 		"gameId" : 9,
@@ -102,7 +106,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2022-01-29T23:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 80,
+		"homeScore" : 62,
+		"cover" : "UK"
 	},
 	{
 		"gameId" : 10,
