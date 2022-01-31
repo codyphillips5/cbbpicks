@@ -1,0 +1,104 @@
+{
+  "games": [
+	{
+		"gameId" : 1,
+		"awayTeam" : "CSU",
+		"homeTeam" : "WYO",
+		"favorite" : "CSU",
+		"spread" : 0,
+		"gameTime" : "2022-02-01T01:00Z",
+		"channel": "FS1",
+		"active" : false
+	},
+	{
+		"gameId" : 2,
+		"awayTeam" : "TEX",
+		"homeTeam" : "TTU",
+		"favorite" : "TTU",
+		"spread" : "-",
+		"gameTime" : "2022-02-02T02:00Z",
+		"channel": "ESPN2",
+		"active" : false
+	},
+	{
+		"gameId" : 3,
+		"awayTeam" : "WIS",
+		"homeTeam" : "ILL",
+		"favorite" : "ILL",
+		"spread" : "-",
+		"gameTime" : "2022-02-03T02:00Z",
+		"channel": "B1G",
+		"active" : false
+	},
+	{
+		"gameId" : 4,
+		"awayTeam" : "NOVA",
+		"homeTeam" : "MARQ",
+		"favorite" : "MARQ",
+		"spread" : "-",
+		"gameTime" : "2022-02-03T03:00Z",
+		"channel": "FS1",
+		"active" : false
+	},
+	{
+		"gameId" : 5,
+		"awayTeam" : "UCLA",
+		"homeTeam" : "ZONA",
+		"favorite" : "ZONA",
+		"spread" : "-",
+		"gameTime" : "2022-02-04T01:00Z",
+		"channel": "ESPN",
+		"active" : false
+	},
+	{
+		"gameId" : 6,
+		"awayTeam" : "CREIGH",
+		"homeTeam" : "SETON",
+		"favorite" : "SETON",
+		"spread" : "-",
+		"gameTime" : "2022-02-05T00:00Z",
+		"channel": "FS1",
+		"active" : false
+	},
+	{
+		"gameId" : 7,
+		"awayTeam" : "BU",
+		"homeTeam" : "KU",
+		"favorite" : "KU",
+		"spread" : "-",
+		"gameTime" : "2022-02-05T21:00Z",
+		"channel": "ESPN",
+		"active" : false
+	},
+	{
+		"gameId" : 8,
+		"awayTeam" : "USC",
+		"homeTeam" : "ZONA",
+		"favorite" : "ZONA",
+		"spread" : "-",
+		"gameTime" : "2022-02-05T22:00Z",
+		"channel": "FOX",
+		"active" : false
+	},
+	{
+		"gameId" : 9,
+		"awayTeam" : "DUKE",
+		"homeTeam" : "UNC",
+		"favorite" : "UNC",
+		"spread" : "-",
+		"gameTime" : "2022-02-05T23:00Z",
+		"channel": "",
+		"active" : false
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "MSST",
+		"homeTeam" : "ARK",
+		"favorite" : "ARK",
+		"spread" : "-",
+		"gameTime" : "2022-02-06T01:30Z",
+		"channel": "SECN",
+		"active" : false
+	}
+  ]
+}
