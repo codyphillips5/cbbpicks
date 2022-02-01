@@ -8,14 +8,18 @@
 		"spread" : 0,
 		"gameTime" : "2022-02-01T01:00Z",
 		"channel": "FS1",
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 78,
+		"homeScore" : 84,
+		"cover" : "WYO"
 	},
 	{
 		"gameId" : 2,
 		"awayTeam" : "TEX",
 		"homeTeam" : "TTU",
 		"favorite" : "TTU",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2022-02-02T02:00Z",
 		"channel": "ESPN2",
 		"active" : false
