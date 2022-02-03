@@ -58,7 +58,7 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-02-04T01:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 6,
