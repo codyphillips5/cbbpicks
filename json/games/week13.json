@@ -58,14 +58,16 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-02-04T01:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 66,
+		"homeScore" : 76,
+		"cover" : "ZONA"
 	},
 	{
 		"gameId" : 6,
 		"awayTeam" : "CREIGH",
 		"homeTeam" : "SETON",
 		"favorite" : "SETON",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2022-02-05T00:00Z",
 		"channel": "FS1",
 		"active" : false
