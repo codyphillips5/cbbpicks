@@ -70,47 +70,49 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-02-05T00:00Z",
 		"channel": "FS1",
-		"active" : true
+		"awayScore" : 55,
+		"homeScore" : 74,
+		"cover" : "SETON"
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "BU",
 		"homeTeam" : "KU",
 		"favorite" : "KU",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2022-02-05T21:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "USC",
 		"homeTeam" : "ZONA",
 		"favorite" : "ZONA",
-		"spread" : "-",
+		"spread" : 11.5,
 		"gameTime" : "2022-02-05T22:00Z",
 		"channel": "FOX",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "DUKE",
 		"homeTeam" : "UNC",
-		"favorite" : "UNC",
-		"spread" : "-",
+		"favorite" : "DUKE",
+		"spread" : 2.5,
 		"gameTime" : "2022-02-05T23:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "MSST",
 		"homeTeam" : "ARK",
 		"favorite" : "ARK",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2022-02-06T01:30Z",
 		"channel": "SECN",
-		"active" : false
+		"active" : true
 	}
   ]
 }
