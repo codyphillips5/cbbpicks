@@ -106,7 +106,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-02-05T23:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 87,
+		"homeScore" : 67,
+		"cover" : "DUKE"
 	},
 	{
 		"gameId" : 10,
