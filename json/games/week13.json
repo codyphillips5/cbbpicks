@@ -82,7 +82,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-02-05T21:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 59,
+		"homeScore" : 83,
+		"cover" : "KU"
 	},
 	{
 		"gameId" : 8,
@@ -92,7 +94,9 @@
 		"spread" : 11.5,
 		"gameTime" : "2022-02-05T22:00Z",
 		"channel": "FOX",
-		"active" : true
+		"awayScore" : 63,
+		"homeScore" : 72,
+		"cover" : "USC"
 	},
 	{
 		"gameId" : 9,
