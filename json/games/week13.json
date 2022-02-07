@@ -118,7 +118,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2022-02-06T01:30Z",
 		"channel": "SECN",
-		"active" : true
+		"awayScore" : 55,
+		"homeScore" : 63,
+		"cover" : "ARK"
 	}
   ]
 }
