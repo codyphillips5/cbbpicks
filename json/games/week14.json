@@ -1,0 +1,104 @@
+{
+  "games": [
+	{
+		"gameId" : 1,
+		"awayTeam" : "ILL",
+		"homeTeam" : "PURD",
+		"favorite" : "PURD",
+		"spread" : 6.5,
+		"gameTime" : "2022-02-09T02:00Z",
+		"channel": "ESPN",
+		"active" : false
+	},
+	{
+		"gameId" : 2,
+		"awayTeam" : "UCLA",
+		"homeTeam" : "STAN",
+		"favorite" : "UCLA",
+		"spread" : 7.5,
+		"gameTime" : "2022-02-09T04:00Z",
+		"channel": "ESPN2",
+		"active" : false
+	},
+	{
+		"gameId" : 3,
+		"awayTeam" : "HOU",
+		"homeTeam" : "SMU",
+		"favorite" : "SMU",
+		"spread" : "-",
+		"gameTime" : "2022-02-10T00:00Z",
+		"channel": "ESPN2",
+		"active" : false
+	},
+	{
+		"gameId" : 4,
+		"awayTeam" : "ZONA",
+		"homeTeam" : "WSU",
+		"favorite" : "WSU",
+		"spread" : "-",
+		"gameTime" : "2022-02-11T02:00Z",
+		"channel": "FS1",
+		"active" : false
+	},
+	{
+		"gameId" : 5,
+		"awayTeam" : "UCONN",
+		"homeTeam" : "XAV",
+		"favorite" : "XAV",
+		"spread" : "-",
+		"gameTime" : "2022-02-12T00:00Z",
+		"channel": "FS1",
+		"active" : false
+	},
+	{
+		"gameId" : 6,
+		"awayTeam" : "CHATT",
+		"homeTeam" : "FURMAN",
+		"favorite" : "FURMAN",
+		"spread" : "-",
+		"gameTime" : "2022-02-12T19:00Z",
+		"channel": "ESPN+",
+		"active" : false
+	},
+	{
+		"gameId" : 7,
+		"awayTeam" : "MIA",
+		"homeTeam" : "WAKE",
+		"favorite" : "WAKE",
+		"spread" : "-",
+		"gameTime" : "2022-02-12T20:00Z",
+		"channel": "ACCN+",
+		"active" : false
+	},
+	{
+		"gameId" : 8,
+		"awayTeam" : "FLA",
+		"homeTeam" : "UK",
+		"favorite" : "UK",
+		"spread" : "-",
+		"gameTime" : "2022-02-12T21:00Z",
+		"channel": "ESPN",
+		"active" : false
+	},
+	{
+		"gameId" : 9,
+		"awayTeam" : "UCLA",
+		"homeTeam" : "USC",
+		"favorite" : "USC",
+		"spread" : "-",
+		"gameTime" : "2022-02-13T03:00Z",
+		"channel": "ESPN2",
+		"active" : false
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "CSU",
+		"homeTeam" : "BSU",
+		"favorite" : "BSU",
+		"spread" : "-",
+		"gameTime" : "2022-02-13T21:00Z",
+		"channel": "",
+		"active" : false
+	}
+  ]
+}
