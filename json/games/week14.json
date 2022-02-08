@@ -8,7 +8,7 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-02-09T02:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 2,
@@ -18,7 +18,7 @@
 		"spread" : 7.5,
 		"gameTime" : "2022-02-09T04:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 3,
