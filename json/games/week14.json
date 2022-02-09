@@ -8,7 +8,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-02-09T02:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 68,
+		"homeScore" : 84,
+		"cover" : "PURD"
 	},
 	{
 		"gameId" : 2,
@@ -24,8 +26,8 @@
 		"gameId" : 3,
 		"awayTeam" : "HOU",
 		"homeTeam" : "SMU",
-		"favorite" : "SMU",
-		"spread" : "-",
+		"favorite" : "HOU",
+		"spread" : 6.5,
 		"gameTime" : "2022-02-10T00:00Z",
 		"channel": "ESPN2",
 		"active" : false
