@@ -74,12 +74,12 @@
 	},
 	{
 		"gameId" : 8,
-		"awayTeam" : "FLA",
-		"homeTeam" : "UK",
-		"favorite" : "UK",
+		"awayTeam" : "IND",
+		"homeTeam" : "MSU",
+		"favorite" : "MSU",
 		"spread" : "-",
-		"gameTime" : "2022-02-12T21:00Z",
-		"channel": "ESPN",
+		"gameTime" : "2022-02-12T20:30Z",
+		"channel": "FOX",
 		"active" : false
 	},
 	{
