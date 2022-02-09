@@ -20,7 +20,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2022-02-09T04:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 79,
+		"homeScore" : 70,
+		"cover" : "UCLA"
 	},
 	{
 		"gameId" : 3,
