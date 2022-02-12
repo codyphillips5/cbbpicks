@@ -68,7 +68,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2022-02-12T19:00Z",
 		"channel": "ESPN+",
-		"active" : true
+		"awayScore" : 64,
+		"homeScore" : 58,
+		"cover" : "CHATT"
 	},
 	{
 		"gameId" : 7,
@@ -78,7 +80,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2022-02-12T20:00Z",
 		"channel": "ACCN+",
-		"active" : true
+		"awayScore" : 76,
+		"homeScore" : 72,
+		"cover" : "MIA"
 	},
 	{
 		"gameId" : 8,
