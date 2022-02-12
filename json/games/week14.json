@@ -56,14 +56,16 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-02-12T00:00Z",
 		"channel": "FS1",
-		"active" : true
+		"awayScore" : 68,
+		"homeScore" : 74,
+		"cover" : "XAV"
 	},
 	{
 		"gameId" : 6,
 		"awayTeam" : "CHATT",
 		"homeTeam" : "FURMAN",
 		"favorite" : "FURMAN",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2022-02-12T19:00Z",
 		"channel": "ESPN+",
 		"active" : false
@@ -73,7 +75,7 @@
 		"awayTeam" : "MIA",
 		"homeTeam" : "WAKE",
 		"favorite" : "WAKE",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2022-02-12T20:00Z",
 		"channel": "ACCN+",
 		"active" : false
@@ -83,7 +85,7 @@
 		"awayTeam" : "IND",
 		"homeTeam" : "MSU",
 		"favorite" : "MSU",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2022-02-12T20:30Z",
 		"channel": "FOX",
 		"active" : false
@@ -92,8 +94,8 @@
 		"gameId" : 9,
 		"awayTeam" : "UCLA",
 		"homeTeam" : "USC",
-		"favorite" : "USC",
-		"spread" : "-",
+		"favorite" : "UCLA",
+		"spread" : 2.5,
 		"gameTime" : "2022-02-13T03:00Z",
 		"channel": "ESPN2",
 		"active" : false
