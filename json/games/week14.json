@@ -92,7 +92,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2022-02-12T20:30Z",
 		"channel": "FOX",
-		"active" : true
+		"awayScore" : 61,
+		"homeScore" : 76,
+		"cover" : "MSU"
 	},
 	{
 		"gameId" : 9,
@@ -102,17 +104,19 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-02-13T03:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 64,
+		"homeScore" : 67,
+		"cover" : "USC"
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "CSU",
 		"homeTeam" : "BSU",
 		"favorite" : "BSU",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2022-02-13T21:00Z",
 		"channel": "FS1",
-		"active" : false
+		"active" : true
 	}
   ]
 }
