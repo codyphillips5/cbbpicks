@@ -1,0 +1,104 @@
+{
+  "games": [
+	{
+		"gameId" : 1,
+		"awayTeam" : "NOVA",
+		"homeTeam" : "PROV",
+		"favorite" : "NOVA",
+		"spread" : 4.5,
+		"gameTime" : "2022-02-16T01:00Z",
+		"channel": "CBSSN",
+		"active" : false
+	},
+	{
+		"gameId" : 2,
+		"awayTeam" : "UK",
+		"homeTeam" : "TENN",
+		"favorite" : "TENN",
+		"spread" : 1.5,
+		"gameTime" : "2022-02-16T02:00Z",
+		"channel": "ESPN",
+		"active" : false
+	},
+	{
+		"gameId" : 3,
+		"awayTeam" : "SETON",
+		"homeTeam" : "UCONN",
+		"favorite" : "UCONN",
+		"spread" : "-",
+		"gameTime" : "2022-02-17T01:30Z",
+		"channel": "CBSSN",
+		"active" : false
+	},
+	{
+		"gameId" : 4,
+		"awayTeam" : "BU",
+		"homeTeam" : "TTU",
+		"favorite" : "TTU",
+		"spread" : "-",
+		"gameTime" : "2022-02-17T02:00Z",
+		"channel": "ESPN2",
+		"active" : false
+	},
+	{
+		"gameId" : 5,
+		"awayTeam" : "DONS",
+		"homeTeam" : "STMARY",
+		"favorite" : "STMARY",
+		"spread" : "-",
+		"gameTime" : "2022-02-18T03:00Z",
+		"channel": "NBCSBA",
+		"active" : false
+	},
+	{
+		"gameId" : 6,
+		"awayTeam" : "ND",
+		"homeTeam" : "WAKE",
+		"favorite" : "WAKE",
+		"spread" : "-",
+		"gameTime" : "2022-02-19T18:00Z",
+		"channel": "ESPN+",
+		"active" : false
+	},
+	{
+		"gameId" : 7,
+		"awayTeam" : "IOWA",
+		"homeTeam" : "OSU",
+		"favorite" : "OSU",
+		"spread" : "-",
+		"gameTime" : "2022-02-19T19:30Z",
+		"channel": "FOX",
+		"active" : false
+	},
+	{
+		"gameId" : 8,
+		"awayTeam" : "KU",
+		"homeTeam" : "WVU",
+		"favorite" : "WVU",
+		"spread" : "-",
+		"gameTime" : "2022-02-20T01:00Z",
+		"channel": "ESPN",
+		"active" : false
+	},
+	{
+		"gameId" : 9,
+		"awayTeam" : "ORE",
+		"homeTeam" : "ZONA",
+		"favorite" : "ZONA",
+		"spread" : "-",
+		"gameTime" : "2022-02-20T03:00Z",
+		"channel": "ESPN",
+		"active" : false
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "MEM",
+		"homeTeam" : "SMU",
+		"favorite" : "SMU",
+		"spread" : "-",
+		"gameTime" : "2022-02-20T20:00Z",
+		"channel": "ESPN",
+		"active" : false
+	}
+  ]
+}
