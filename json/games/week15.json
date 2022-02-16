@@ -32,7 +32,7 @@
 		"spread" : 5.5,
 		"gameTime" : "2022-02-17T01:30Z",
 		"channel": "CBSSN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 4,
@@ -42,7 +42,7 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-02-17T02:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 5,
