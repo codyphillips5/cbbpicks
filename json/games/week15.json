@@ -76,21 +76,21 @@
 	},
 	{
 		"gameId" : 8,
+		"awayTeam" : "UNT",
+		"homeTeam" : "UAB",
+		"favorite" : "UAB",
+		"spread" : "-",
+		"gameTime" : "2022-02-19T21:00Z",
+		"channel": "STADIUM",
+		"active" : false
+	},
+	{
+		"gameId" : 9,
 		"awayTeam" : "KU",
 		"homeTeam" : "WVU",
 		"favorite" : "WVU",
 		"spread" : "-",
 		"gameTime" : "2022-02-20T01:00Z",
-		"channel": "ESPN",
-		"active" : false
-	},
-	{
-		"gameId" : 9,
-		"awayTeam" : "ORE",
-		"homeTeam" : "ZONA",
-		"favorite" : "ZONA",
-		"spread" : "-",
-		"gameTime" : "2022-02-20T03:00Z",
 		"channel": "ESPN",
 		"active" : false
 	},
