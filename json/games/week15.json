@@ -46,12 +46,12 @@
 	},
 	{
 		"gameId" : 5,
-		"awayTeam" : "DONS",
-		"homeTeam" : "STMARY",
-		"favorite" : "STMARY",
+		"awayTeam" : "TOW",
+		"homeTeam" : "UNCW",
+		"favorite" : "UNCW",
 		"spread" : "-",
-		"gameTime" : "2022-02-18T03:00Z",
-		"channel": "NBCSBA",
+		"gameTime" : "2022-02-17T23:00Z",
+		"channel": "CBSSN",
 		"active" : false
 	},
 	{
@@ -61,7 +61,7 @@
 		"favorite" : "WAKE",
 		"spread" : "-",
 		"gameTime" : "2022-02-19T18:00Z",
-		"channel": "ESPN+",
+		"channel": "ACCNX / ESPN+",
 		"active" : false
 	},
 	{
