@@ -48,8 +48,8 @@
 		"gameId" : 5,
 		"awayTeam" : "TOW",
 		"homeTeam" : "UNCW",
-		"favorite" : "UNCW",
-		"spread" : "-",
+		"favorite" : "TOW",
+		"spread" : 3.5,
 		"gameTime" : "2022-02-17T23:00Z",
 		"channel": "CBSSN",
 		"active" : false
