@@ -32,7 +32,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2022-02-17T01:30Z",
 		"channel": "CBSSN",
-		"active" : true
+		"awayScore" : 65,
+		"homeScore" : 70,
+		"cover" : "SETON"
 	},
 	{
 		"gameId" : 4,
@@ -42,7 +44,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-02-17T02:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 73,
+		"homeScore" : 83,
+		"cover" : "TTU"
 	},
 	{
 		"gameId" : 5,
