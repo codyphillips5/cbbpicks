@@ -56,7 +56,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-02-17T23:00Z",
 		"channel": "CBSSN",
-		"active" : true
+		"awayScore" : 79,
+		"homeScore" : 55,
+		"cover" : "TOW"
 	},
 	{
 		"gameId" : 6,
