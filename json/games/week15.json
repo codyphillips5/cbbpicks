@@ -68,7 +68,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2022-02-19T18:00Z",
 		"channel": "ACCNX / ESPN+",
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 79,
+		"cover" : "ND"
 	},
 	{
 		"gameId" : 7,
