@@ -65,7 +65,7 @@
 		"awayTeam" : "ND",
 		"homeTeam" : "WAKE",
 		"favorite" : "WAKE",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2022-02-19T18:00Z",
 		"channel": "ACCNX / ESPN+",
 		"active" : false
@@ -75,7 +75,7 @@
 		"awayTeam" : "IOWA",
 		"homeTeam" : "OSU",
 		"favorite" : "OSU",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2022-02-19T19:30Z",
 		"channel": "FOX",
 		"active" : false
@@ -85,7 +85,7 @@
 		"awayTeam" : "UNT",
 		"homeTeam" : "UAB",
 		"favorite" : "UAB",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2022-02-19T21:00Z",
 		"channel": "STADIUM",
 		"active" : false
@@ -94,8 +94,8 @@
 		"gameId" : 9,
 		"awayTeam" : "KU",
 		"homeTeam" : "WVU",
-		"favorite" : "WVU",
-		"spread" : "-",
+		"favorite" : "KU",
+		"spread" : 4.5,
 		"gameTime" : "2022-02-20T01:00Z",
 		"channel": "ESPN",
 		"active" : false
