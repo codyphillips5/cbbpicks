@@ -68,7 +68,7 @@
 		"spread" : 5.5,
 		"gameTime" : "2022-02-19T18:00Z",
 		"channel": "ACCNX / ESPN+",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
@@ -78,7 +78,7 @@
 		"spread" : 5.5,
 		"gameTime" : "2022-02-19T19:30Z",
 		"channel": "FOX",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
@@ -88,7 +88,7 @@
 		"spread" : 4.5,
 		"gameTime" : "2022-02-19T21:00Z",
 		"channel": "STADIUM",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
@@ -98,7 +98,7 @@
 		"spread" : 4.5,
 		"gameTime" : "2022-02-20T01:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
