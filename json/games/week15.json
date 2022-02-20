@@ -80,7 +80,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2022-02-19T19:30Z",
 		"channel": "FOX",
-		"active" : true
+		"awayScore" : 75,
+		"homeScore" : 62,
+		"cover" : "IOWA"
 	},
 	{
 		"gameId" : 8,
@@ -90,7 +92,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2022-02-19T21:00Z",
 		"channel": "STADIUM",
-		"active" : true
+		"awayScore" : 58,
+		"homeScore" : 57,
+		"cover" : "UNT"
 	},
 	{
 		"gameId" : 9,
