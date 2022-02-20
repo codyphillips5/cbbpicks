@@ -116,7 +116,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-02-20T20:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 57,
+		"homeScore" : 73,
+		"cover" : "SMU"
 	}
   ]
 }

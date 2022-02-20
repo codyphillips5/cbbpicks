@@ -11,7 +11,7 @@
 		"game7" : "IOWA",
 		"game8" : "UAB",
 		"game9" : "KU",
-		"game10" : ""
+		"game10" : "SMU"
     },
     {
 		"userId" : 2,
@@ -50,7 +50,7 @@
 		"game7" : "OSU",
 		"game8" : "UAB",
 		"game9" : "KU",
-		"game10" : ""
+		"game10" : "SMU"
     },
 	{
 		"userId" : 5,
@@ -63,7 +63,7 @@
 		"game7" : "IOWA",
 		"game8" : "UAB",
 		"game9" : "KU",
-		"game10" : ""
+		"game10" : "SMU"
     },
 	{
 		"userId" : 6,
@@ -76,7 +76,7 @@
 		"game7" : "OSU",
 		"game8" : "UNT",
 		"game9" : "KU",
-		"game10" : ""
+		"game10" : "SMU"
     },    
 	{
 		"userId" : 7,
@@ -102,7 +102,7 @@
 		"game7" : "OSU",
 		"game8" : "UNT",
 		"game9" : "KU",
-		"game10" : ""
+		"game10" : "SMU"
     },
 	{
 		"userId" : 9,
@@ -115,7 +115,7 @@
 		"game7" : "IOWA",
 		"game8" : "UNT",
 		"game9" : "KU",
-		"game10" : ""
+		"game10" : "SMU"
     },	
 	{
 		"userId" : 10,
@@ -128,7 +128,7 @@
 		"game7" : "OSU",
 		"game8" : "UAB",
 		"game9" : "KU",
-		"game10" : ""
+		"game10" : "SMU"
     },
 	{
 		"userId" : 11,
@@ -141,7 +141,7 @@
 		"game7" : "IOWA",
 		"game8" : "UNT",
 		"game9" : "WVU",
-		"game10" : ""
+		"game10" : "SMU"
     },
 	{
 		"userId" : 12,
@@ -167,7 +167,7 @@
 		"game7" : "OSU",
 		"game8" : "UNT",
 		"game9" : "KU",
-		"game10" : ""
+		"game10" : "SMU"
     },
 	{
 		"userId" : 14,
@@ -180,7 +180,7 @@
 		"game7" : "OSU",
 		"game8" : "UAB",
 		"game9" : "KU",
-		"game10" : ""
+		"game10" : "MEM"
     },
 	{
 		"userId" : 15,
@@ -193,7 +193,7 @@
 		"game7" : "IOWA",
 		"game8" : "UAB",
 		"game9" : "KU",
-		"game10" : ""
+		"game10" : "MEM"
     },
 	{
 		"userId" : 16,
@@ -206,7 +206,7 @@
 		"game7" : "OSU",
 		"game8" : "UAB",
 		"game9" : "KU",
-		"game10" : ""
+		"game10" : "SMU"
     },
 	{
 		"userId" : 17,
@@ -219,7 +219,7 @@
 		"game7" : "OSU",
 		"game8" : "UNT",
 		"game9" : "WVU",
-		"game10" : ""
+		"game10" : "MEM"
     },
 	{
 		"userId" : 18,
@@ -245,7 +245,7 @@
 		"game7" : "IOWA",
 		"game8" : "UAB",
 		"game9" : "WVU",
-		"game10" : ""
+		"game10" : "SMU"
     },
 	{
 		"userId" : 20,
@@ -258,7 +258,7 @@
 		"game7" : "OSU",
 		"game8" : "UAB",
 		"game9" : "KU",
-		"game10" : ""
+		"game10" : "SMU"
     },
 	{
 		"userId" : 21,
@@ -284,7 +284,7 @@
 		"game7" : "IOWA",
 		"game8" : "UNT",
 		"game9" : "WVU",
-		"game10" : ""
+		"game10" : "SMU"
     },
 	{
 		"userId" : 23,
@@ -297,7 +297,7 @@
 		"game7" : "IOWA",
 		"game8" : "UAB",
 		"game9" : "WVU",
-		"game10" : ""
+		"game10" : "SMU"
     },
 	{
 		"userId" : 24,
@@ -310,7 +310,7 @@
 		"game7" : "OSU",
 		"game8" : "UAB",
 		"game9" : "KU",
-		"game10" : ""
+		"game10" : "SMU"
     },
 	{
 		"userId" : 25,
@@ -323,7 +323,7 @@
 		"game7" : "OSU",
 		"game8" : "UAB",
 		"game9" : "WVU",
-		"game10" : ""
+		"game10" : "SMU"
     },
 	{
 		"userId" : 26,
@@ -336,7 +336,7 @@
 		"game7" : "IOWA",
 		"game8" : "UNT",
 		"game9" : "WVU",
-		"game10" : ""
+		"game10" : "SMU"
     },
 	{
 		"userId" : 27,
@@ -349,7 +349,7 @@
 		"game7" : "OSU",
 		"game8" : "UAB",
 		"game9" : "KU",
-		"game10" : ""
+		"game10" : "MEM"
     },
 	{
 		"userId" : 28,
@@ -362,7 +362,7 @@
 		"game7" : "OSU",
 		"game8" : "UAB",
 		"game9" : "KU",
-		"game10" : ""
+		"game10" : "SMU"
     },
 	{
 		"userId" : 29,
@@ -375,7 +375,7 @@
 		"game7" : "OSU",
 		"game8" : "UNT",
 		"game9" : "KU",
-		"game10" : ""
+		"game10" : "SMU"
     },
 	{
 		"userId" : 30,
@@ -388,7 +388,7 @@
 		"game7" : "OSU",
 		"game8" : "UNT",
 		"game9" : "KU",
-		"game10" : ""
+		"game10" : "SMU"
     },
 	{
 		"userId" : 31,
@@ -401,7 +401,7 @@
 		"game7" : "OSU",
 		"game8" : "UNT",
 		"game9" : "WVU",
-		"game10" : ""
+		"game10" : "SMU"
     },
 	{
 		"userId" : 32,
