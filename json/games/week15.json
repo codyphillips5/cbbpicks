@@ -110,8 +110,8 @@
 		"gameId" : 10,
 		"awayTeam" : "MEM",
 		"homeTeam" : "SMU",
-		"favorite" : "SMU",
-		"spread" : "-",
+		"favorite" : "MEM",
+		"spread" : 2.5,
 		"gameTime" : "2022-02-20T20:00Z",
 		"channel": "ESPN",
 		"active" : false
