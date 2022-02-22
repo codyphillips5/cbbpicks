@@ -5,10 +5,10 @@
 		"awayTeam" : "ARK",
 		"homeTeam" : "FLA",
 		"favorite" : "ARK",
-		"spread" : 1.5,
+		"spread" : 0,
 		"gameTime" : "2022-02-23T00:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 2,
@@ -18,7 +18,7 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-02-23T02:00Z",
 		"channel": "CBSSN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 3,
