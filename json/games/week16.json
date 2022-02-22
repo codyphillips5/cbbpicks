@@ -1,0 +1,104 @@
+{
+  "games": [
+	{
+		"gameId" : 1,
+		"awayTeam" : "ARK",
+		"homeTeam" : "FLA",
+		"favorite" : "ARK",
+		"spread" : 1.5,
+		"gameTime" : "2022-02-23T00:00Z",
+		"channel": "ESPN2",
+		"active" : false
+	},
+	{
+		"gameId" : 2,
+		"awayTeam" : "SDSU",
+		"homeTeam" : "BSU",
+		"favorite" : "BSU",
+		"spread" : 2.5,
+		"gameTime" : "2022-02-23T02:00Z",
+		"channel": "CBSSN",
+		"active" : false
+	},
+	{
+		"gameId" : 3,
+		"awayTeam" : "RUTG",
+		"homeTeam" : "MICH",
+		"favorite" : "MICH",
+		"spread" : "-",
+		"gameTime" : "2022-02-24T00:00Z",
+		"channel": "B1G",
+		"active" : false
+	},
+	{
+		"gameId" : 4,
+		"awayTeam" : "WYO",
+		"homeTeam" : "CSU",
+		"favorite" : "CSU",
+		"spread" : "-",
+		"gameTime" : "2022-02-24T01:00Z",
+		"channel": "CBSSN",
+		"active" : false
+	},
+	{
+		"gameId" : 5,
+		"awayTeam" : "SDAKST",
+		"homeTeam" : "ORU",
+		"favorite" : "ORU",
+		"spread" : "-",
+		"gameTime" : "2022-02-25T01:00Z",
+		"channel": "",
+		"active" : false
+	},
+	{
+		"gameId" : 6,
+		"awayTeam" : "ISU",
+		"homeTeam" : "KSU",
+		"favorite" : "KSU",
+		"spread" : "-",
+		"gameTime" : "2022-02-26T19:00Z",
+		"channel": "ESPNU",
+		"active" : false
+	},
+	{
+		"gameId" : 7,
+		"awayTeam" : "AUB",
+		"homeTeam" : "TENN",
+		"favorite" : "TENN",
+		"spread" : "-",
+		"gameTime" : "2022-02-26T21:00Z",
+		"channel": "ESPN",
+		"active" : false
+	},
+	{
+		"gameId" : 8,
+		"awayTeam" : "KU",
+		"homeTeam" : "BU",
+		"favorite" : "BU",
+		"spread" : "-",
+		"gameTime" : "2022-02-27T01:00Z",
+		"channel": "ESPN",
+		"active" : false
+	},
+	{
+		"gameId" : 9,
+		"awayTeam" : "GONZ",
+		"homeTeam" : "STMARY",
+		"favorite" : "STMARY",
+		"spread" : "-",
+		"gameTime" : "2022-02-27T03:00Z",
+		"channel": "ESPN",
+		"active" : false
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "USC",
+		"homeTeam" : "ORE",
+		"favorite" : "ORE",
+		"spread" : "-",
+		"gameTime" : "2022-02-27T03:00Z",
+		"channel": "ESPN2",
+		"active" : false
+	}
+  ]
+}
