@@ -53,8 +53,8 @@
 	{
 		"gameId" : 6,
 		"awayTeam" : "ISU",
-		"homeTeam" : "KSU",
-		"favorite" : "KSU",
+		"homeTeam" : "KSST",
+		"favorite" : "KSST",
 		"spread" : "-",
 		"gameTime" : "2022-02-26T19:00Z",
 		"channel": "ESPNU",
