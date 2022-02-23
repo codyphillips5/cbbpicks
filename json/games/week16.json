@@ -8,7 +8,9 @@
 		"spread" : 0,
 		"gameTime" : "2022-02-23T00:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 82,
+		"homeScore" : 74,
+		"cover" : "ARK"
 	},
 	{
 		"gameId" : 2,
