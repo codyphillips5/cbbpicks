@@ -20,14 +20,16 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-02-23T02:00Z",
 		"channel": "CBSSN",
-		"active" : true
+		"awayScore" : 57,
+		"homeScore" : 58,
+		"cover" : "SDSU"
 	},
 	{
 		"gameId" : 3,
 		"awayTeam" : "RUTG",
 		"homeTeam" : "MICH",
 		"favorite" : "MICH",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2022-02-24T00:00Z",
 		"channel": "B1G",
 		"active" : false
@@ -37,7 +39,7 @@
 		"awayTeam" : "WYO",
 		"homeTeam" : "CSU",
 		"favorite" : "CSU",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2022-02-24T01:00Z",
 		"channel": "CBSSN",
 		"active" : false
