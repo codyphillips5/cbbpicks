@@ -32,7 +32,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2022-02-24T00:00Z",
 		"channel": "B1G",
-		"active" : true
+		"awayScore" : 62,
+		"homeScore" : 71,
+		"cover" : "MICH"
 	},
 	{
 		"gameId" : 4,
@@ -42,14 +44,16 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-02-24T02:00Z",
 		"channel": "CBSSN",
-		"active" : true
+		"awayScore" : 55,
+		"homeScore" : 61,
+		"cover" : "WYO"
 	},
 	{
 		"gameId" : 5,
 		"awayTeam" : "SDAKST",
 		"homeTeam" : "ORU",
-		"favorite" : "ORU",
-		"spread" : "-",
+		"favorite" : "SDAKST",
+		"spread" : 2.5,
 		"gameTime" : "2022-02-25T01:00Z",
 		"channel": "ORUSN",
 		"active" : false
