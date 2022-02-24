@@ -80,6 +80,16 @@
 	},
 	{
 		"gameId" : 8,
+		"awayTeam" : "WIS",
+		"homeTeam" : "RUTG",
+		"favorite" : "RUTG",
+		"spread" : "-",
+		"gameTime" : "2022-02-26T23:00Z",
+		"channel": "B1G",
+		"active" : false
+	},
+	{
+		"gameId" : 9,
 		"awayTeam" : "KU",
 		"homeTeam" : "BU",
 		"favorite" : "BU",
@@ -89,23 +99,13 @@
 		"active" : false
 	},
 	{
-		"gameId" : 9,
+		"gameId" : 10,
 		"awayTeam" : "GONZ",
 		"homeTeam" : "STMARY",
 		"favorite" : "STMARY",
 		"spread" : "-",
 		"gameTime" : "2022-02-27T03:00Z",
 		"channel": "ESPN",
-		"active" : false
-	},
-	{
-		"gameId" : 10,
-		"awayTeam" : "USC",
-		"homeTeam" : "ORE",
-		"favorite" : "ORE",
-		"spread" : "-",
-		"gameTime" : "2022-02-27T03:00Z",
-		"channel": "ESPN2",
 		"active" : false
 	}
   ]
