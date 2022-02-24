@@ -53,10 +53,10 @@
 		"awayTeam" : "SDAKST",
 		"homeTeam" : "ORU",
 		"favorite" : "SDAKST",
-		"spread" : 2.5,
+		"spread" : 3.5,
 		"gameTime" : "2022-02-25T01:00Z",
 		"channel": "ORUSN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 6,
