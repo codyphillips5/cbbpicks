@@ -56,7 +56,11 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-02-25T01:00Z",
 		"channel": "ORUSN",
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 106,
+		"homeScore" : 102,
+		"cover" : "SDAKST"
 	},
 	{
 		"gameId" : 6,
