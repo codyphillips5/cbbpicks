@@ -67,7 +67,7 @@
 		"awayTeam" : "ISU",
 		"homeTeam" : "KSST",
 		"favorite" : "KSST",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2022-02-26T19:00Z",
 		"channel": "ESPNU",
 		"active" : false
@@ -77,7 +77,7 @@
 		"awayTeam" : "AUB",
 		"homeTeam" : "TENN",
 		"favorite" : "TENN",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2022-02-26T21:00Z",
 		"channel": "ESPN",
 		"active" : false
@@ -87,7 +87,7 @@
 		"awayTeam" : "WIS",
 		"homeTeam" : "RUTG",
 		"favorite" : "RUTG",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2022-02-26T23:00Z",
 		"channel": "B1G",
 		"active" : false
@@ -97,7 +97,7 @@
 		"awayTeam" : "KU",
 		"homeTeam" : "BU",
 		"favorite" : "BU",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2022-02-27T01:00Z",
 		"channel": "ESPN",
 		"active" : false
@@ -106,8 +106,8 @@
 		"gameId" : 10,
 		"awayTeam" : "GONZ",
 		"homeTeam" : "STMARY",
-		"favorite" : "STMARY",
-		"spread" : "-",
+		"favorite" : "GONZ",
+		"spread" : 10.5,
 		"gameTime" : "2022-02-27T03:00Z",
 		"channel": "ESPN",
 		"active" : false
