@@ -70,7 +70,7 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-02-26T19:00Z",
 		"channel": "ESPNU",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
@@ -80,7 +80,7 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-02-26T21:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
@@ -90,7 +90,7 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-02-26T23:00Z",
 		"channel": "B1G",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
@@ -100,7 +100,7 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-02-27T01:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
@@ -110,7 +110,7 @@
 		"spread" : 10.5,
 		"gameTime" : "2022-02-27T03:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	}
   ]
 }
