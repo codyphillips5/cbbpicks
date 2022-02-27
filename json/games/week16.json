@@ -70,7 +70,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-02-26T19:00Z",
 		"channel": "ESPNU",
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 73,
+		"cover" : "ISU"
 	},
 	{
 		"gameId" : 7,
@@ -80,7 +82,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-02-26T21:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 62,
+		"homeScore" : 67,
+		"cover" : "TENN"
 	},
 	{
 		"gameId" : 8,
@@ -90,7 +94,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-02-26T23:00Z",
 		"channel": "B1G",
-		"active" : true
+		"awayScore" : 66,
+		"homeScore" : 61,
+		"cover" : "WIS"
 	},
 	{
 		"gameId" : 9,
@@ -100,7 +106,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-02-27T01:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 70,
+		"homeScore" : 80,
+		"cover" : "BU"
 	},
 	{
 		"gameId" : 10,
@@ -110,7 +118,9 @@
 		"spread" : 10.5,
 		"gameTime" : "2022-02-27T03:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 57,
+		"homeScore" : 67,
+		"cover" : "STMARY"
 	}
   ]
 }
