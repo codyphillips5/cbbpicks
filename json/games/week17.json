@@ -8,7 +8,7 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-03-01T02:00Z",
 		"channel": "CBSSN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 2,
