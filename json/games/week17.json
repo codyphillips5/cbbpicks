@@ -72,16 +72,6 @@
 	},
 	{
 		"gameId" : 8,
-		"awayTeam" : "UCRIV",
-		"homeTeam" : "LBSU",
-		"favorite" : "LBSU",
-		"spread" : "-",
-		"gameTime" : "2022-03-06T00:00Z",
-		"channel": "ESPN+",
-		"active" : false
-	},
-	{
-		"gameId" : 9,
 		"awayTeam" : "BSU",
 		"homeTeam" : "CSU",
 		"favorite" : "CSU",
@@ -91,13 +81,23 @@
 		"active" : false
 	},
 	{
-		"gameId" : 10,
+		"gameId" : 9,
 		"awayTeam" : "USC",
 		"homeTeam" : "UCLA",
 		"favorite" : "UCLA",
 		"spread" : "-",
 		"gameTime" : "2022-03-06T03:00Z",
 		"channel": "ESPN",
+		"active" : false
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2022-03-06T18:00Z",
+		"channel": "CBS",
 		"active" : false
 	}
   ]
