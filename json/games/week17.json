@@ -17,10 +17,10 @@
 		"awayTeam" : "STBON",
 		"homeTeam" : "VCU",
 		"favorite" : "VCU",
-		"spread" : 3.5,
+		"spread" : 4.5,
 		"gameTime" : "2022-03-02T01:30Z",
 		"channel": "CBSSN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 3,
@@ -30,7 +30,7 @@
 		"spread" : 4.5,
 		"gameTime" : "2022-03-02T04:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 4,
