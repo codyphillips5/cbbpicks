@@ -8,14 +8,16 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-03-01T02:00Z",
 		"channel": "CBSSN",
-		"active" : true
+		"awayScore" : 73,
+		"homeScore" : 66,
+		"cover" : "SDSU"
 	},
 	{
 		"gameId" : 2,
 		"awayTeam" : "STBON",
 		"homeTeam" : "VCU",
 		"favorite" : "VCU",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2022-03-02T01:30Z",
 		"channel": "CBSSN",
 		"active" : false
@@ -24,8 +26,8 @@
 		"gameId" : 3,
 		"awayTeam" : "ZONA",
 		"homeTeam" : "USC",
-		"favorite" : "USC",
-		"spread" : "-",
+		"favorite" : "ZONA",
+		"spread" : 4.5,
 		"gameTime" : "2022-03-02T04:00Z",
 		"channel": "ESPN",
 		"active" : false
