@@ -32,14 +32,16 @@
 		"spread" : 4.5,
 		"gameTime" : "2022-03-02T04:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 71,
+		"homeScore" : 91,
+		"cover" : "ZONA"
 	},
 	{
 		"gameId" : 4,
 		"awayTeam" : "LSU",
 		"homeTeam" : "ARK",
 		"favorite" : "ARK",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2022-03-03T02:00Z",
 		"channel": "ESPN2",
 		"active" : false
