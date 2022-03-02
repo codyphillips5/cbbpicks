@@ -20,7 +20,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2022-03-02T01:30Z",
 		"channel": "CBSSN",
-		"active" : true
+		"awayScore" : 51,
+		"homeScore" : 74,
+		"cover" : "VCU"
 	},
 	{
 		"gameId" : 3,
