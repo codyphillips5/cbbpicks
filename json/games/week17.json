@@ -44,14 +44,16 @@
 		"spread" : 5.5,
 		"gameTime" : "2022-03-03T02:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 76,
+		"homeScore" : 77,
+		"cover" : "LSU"
 	},
 	{
 		"gameId" : 5,
 		"awayTeam" : "MSU",
 		"homeTeam" : "OSU",
 		"favorite" : "OSU",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2022-03-04T00:00Z",
 		"channel": "ESPN",
 		"active" : false
