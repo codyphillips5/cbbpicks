@@ -56,7 +56,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-03-04T00:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 69,
+		"homeScore" : 80,
+		"cover" : "OSU"
 	},
 	{
 		"gameId" : 6,
