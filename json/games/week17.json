@@ -65,40 +65,40 @@
 		"awayTeam" : "DAV",
 		"homeTeam" : "DAY",
 		"favorite" : "DAY",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2022-03-05T17:30Z",
 		"channel": "USA",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "UNC",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
-		"spread" : "-",
+		"spread" : 11.5,
 		"gameTime" : "2022-03-05T23:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "BSU",
 		"homeTeam" : "CSU",
 		"favorite" : "CSU",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2022-03-06T01:30Z",
 		"channel": "CBSSN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "USC",
 		"homeTeam" : "UCLA",
 		"favorite" : "UCLA",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2022-03-06T03:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
