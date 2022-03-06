@@ -34,7 +34,7 @@
 	},
 	{
 		"conf" :"Big South",
-		"winner" : ""
+		"winner" : "LONGW"
 	},
 	{
 		"conf" : "B1G",
@@ -70,7 +70,7 @@
 	},
 	{
 		"conf" : "MVC",
-		"winner" : ""
+		"winner" : "LOYCHI"
 	},
 	{
 		"conf" : "MW",
@@ -82,7 +82,7 @@
 	},
 	{
 		"conf" :"OVC",
-		"winner" : ""	
+		"winner" : "MURR"	
 	},
 	{
 		"conf" : "PAC12",
