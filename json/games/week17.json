@@ -68,7 +68,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-03-05T17:30Z",
 		"channel": "USA",
-		"active" : true
+		"awayScore" : 76,
+		"homeScore" : 82,
+		"cover" : "DAY"
 	},
 	{
 		"gameId" : 7,
@@ -78,7 +80,9 @@
 		"spread" : 11.5,
 		"gameTime" : "2022-03-05T23:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 94,
+		"homeScore" : 81,
+		"cover" : "UNC"
 	},
 	{
 		"gameId" : 8,
@@ -88,7 +92,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-03-06T01:30Z",
 		"channel": "CBSSN",
-		"active" : true
+		"awayScore" : 68,
+		"homeScore" : 71,
+		"cover" : "BSU"
 	},
 	{
 		"gameId" : 9,
@@ -98,13 +104,15 @@
 		"spread" : 7.5,
 		"gameTime" : "2022-03-06T03:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 68,
+		"homeScore" : 75,
+		"cover" : "USC"
 	},
 	{
 		"gameId" : 10,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "DRAKE",
+		"homeTeam" : "LOYCHI",
+		"favorite" : "LOYCHI",
 		"spread" : "-",
 		"gameTime" : "2022-03-06T19:00Z",
 		"channel": "CBS",
