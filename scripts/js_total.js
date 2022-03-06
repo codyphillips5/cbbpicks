@@ -79,9 +79,8 @@ $.when(getGames, getTeams, getTourney).then(function(){
 				// set starters
 				var guess = allTeams[0][j];
 				getFullTeamName(guess);
-				console.log(teams[team][j].teamValue);
-				if (teams[team][j].teamValue == guess) 
-					console.log(teams[team][j].team);
+				/*if (teams[team][j].teamValue == guess) 
+					console.log(teams[team][j].team);*/
 				
 				var color = "";
 				var percColor = "";
@@ -107,7 +106,7 @@ $.when(getGames, getTeams, getTourney).then(function(){
 					var spot = coverTeams[0].findIndex(isSameNumber);
 					wins = coverTeams[1][spot];
 					losses = allTeams[1][j] - wins;	
-					console.log(wins);
+					//console.log(wins);
 				}
 				else {
 					losses = allTeams[1][j];
@@ -128,8 +127,9 @@ $.when(getGames, getTeams, getTourney).then(function(){
 				}
 				
 				if (winners.includes(guess)) {
+					console.log("conference winner " + teams[team][guess]);
 					tournColor = "info";
-					tournTeam = teams[team][guess].team;
+					tournTeam = fullNameTeam;
 					tournTeam = tournTeam.toUpperCase();
 					tournTeam = tournTeam.bold();
 					autoTeams++;
@@ -245,7 +245,7 @@ function sortTable(n) {
 }
 
 function getFullTeamName(theTeam) {
-	console.log(theTeam);
+	//console.log(theTeam);
 	for (var team in teams) {
 		for (var n = 0; n < teams[team].length; n++) {
 			if (teams[team][n].teamValue == theTeam) 
