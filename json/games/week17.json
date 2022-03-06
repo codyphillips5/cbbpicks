@@ -113,7 +113,7 @@
 		"awayTeam" : "DRAKE",
 		"homeTeam" : "LOYCHI",
 		"favorite" : "LOYCHI",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2022-03-06T19:00Z",
 		"channel": "CBS",
 		"active" : false
