@@ -116,7 +116,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2022-03-06T19:00Z",
 		"channel": "CBS",
-		"active" : true
+		"awayScore" : 58,
+		"homeScore" : 64,
+		"cover" : "LOYCHI"
 	}
   ]
 }
