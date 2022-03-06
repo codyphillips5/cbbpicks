@@ -11,7 +11,7 @@
 		"game7" : "UNC",
 		"game8" : "CSU",
 		"game9" : "USC",
-		"game10" : ""
+		"game10" : "LOYCHI"
     },
     {
 		"userId" : 2,
@@ -63,7 +63,7 @@
 		"game7" : "DUKE",
 		"game8" : "BSU",
 		"game9" : "UCLA",
-		"game10" : ""
+		"game10" : "DRAKE"
     },
 	{
 		"userId" : 6,
@@ -76,7 +76,7 @@
 		"game7" : "UNC",
 		"game8" : "BSU",
 		"game9" : "USC",
-		"game10" : ""
+		"game10" : "DRAKE"
     },    
 	{
 		"userId" : 7,
@@ -115,7 +115,7 @@
 		"game7" : "UNC",
 		"game8" : "CSU",
 		"game9" : "UCLA",
-		"game10" : ""
+		"game10" : "LOYCHI"
     },	
 	{
 		"userId" : 10,
@@ -128,7 +128,7 @@
 		"game7" : "UNC",
 		"game8" : "CSU",
 		"game9" : "USC",
-		"game10" : ""
+		"game10" : "LOYCHI"
     },
 	{
 		"userId" : 11,
@@ -154,7 +154,7 @@
 		"game7" : "DUKE",
 		"game8" : "CSU",
 		"game9" : "UCLA",
-		"game10" : ""
+		"game10" : "LOYCHI"
     },
 	{
 		"userId" : 13,
@@ -167,7 +167,7 @@
 		"game7" : "UNC",
 		"game8" : "CSU",
 		"game9" : "USC",
-		"game10" : ""
+		"game10" : "LOYCHI"
     },
 	{
 		"userId" : 14,
@@ -180,7 +180,7 @@
 		"game7" : "UNC",
 		"game8" : "CSU",
 		"game9" : "USC",
-		"game10" : ""
+		"game10" : "LOYCHI"
     },
 	{
 		"userId" : 15,
@@ -206,7 +206,7 @@
 		"game7" : "UNC",
 		"game8" : "CSU",
 		"game9" : "USC",
-		"game10" : ""
+		"game10" : "LOYCHI"
     },
 	{
 		"userId" : 17,
@@ -245,7 +245,7 @@
 		"game7" : "UNC",
 		"game8" : "CSU",
 		"game9" : "UCLA",
-		"game10" : ""
+		"game10" : "LOYCHI"
     },
 	{
 		"userId" : 20,
@@ -258,7 +258,7 @@
 		"game7" : "UNC",
 		"game8" : "BSU",
 		"game9" : "USC",
-		"game10" : ""
+		"game10" : "DRAKE"
     },
 	{
 		"userId" : 21,
@@ -323,7 +323,7 @@
 		"game7" : "UNC",
 		"game8" : "BSU",
 		"game9" : "UCLA",
-		"game10" : ""
+		"game10" : "LOYCHI"
     },
 	{
 		"userId" : 26,
@@ -336,7 +336,7 @@
 		"game7" : "UNC",
 		"game8" : "CSU",
 		"game9" : "UCLA",
-		"game10" : ""
+		"game10" : "LOYCHI"
     },
 	{
 		"userId" : 27,
@@ -388,7 +388,7 @@
 		"game7" : "DUKE",
 		"game8" : "CSU",
 		"game9" : "USC",
-		"game10" : ""
+		"game10" : "LOYCHI"
     },
 	{
 		"userId" : 31,
@@ -401,7 +401,7 @@
 		"game7" : "DUKE",
 		"game8" : "CSU",
 		"game9" : "USC",
-		"game10" : ""
+		"game10" : "LOYCHI"
     },
 	{
 		"userId" : 32,
