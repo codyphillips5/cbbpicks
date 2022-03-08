@@ -37,6 +37,7 @@ var numOT = "";
 var week = 0;
 if (week === 0) {
 	document.getElementById("week-title").innerHTML = `<h2>🏀 March Madness</h2>`;
+	document.getElementById("games-section").innerHTML = `<a href="totals.html">Sabermetrics</a>`;
 }
 else if (week === 3) {
 	document.getElementById("week-title").innerHTML = `<h2>🦃 Feast Week 🦃</h2>`;
