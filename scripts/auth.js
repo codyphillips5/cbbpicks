@@ -21,7 +21,7 @@ auth.onAuthStateChanged(user => {
 var startArray = 0;
 var lengthArray = 0;
 var coversTeam = [];
-var weekNum = 17;
+var weekNum = 0;
 var empty = false;
 var firstName;
 var users = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.json", function(json){
@@ -43,7 +43,7 @@ var activeScript = $.getScript("https://codyphillips5.github.io/cbbpicks/scripts
    console.log(arrayActive);
    startArray = arrayActive[0];
    lengthArray = arrayActive.length;
-   startArray = 10;
+   startArray = 1;
    lengthArray = 1;
    console.log(startArray);
    console.log(lengthArray);
