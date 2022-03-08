@@ -155,16 +155,16 @@ $.when(getGames, getTeams, getTourney).then(function(){
 		var tableEnd = `</tbody></table>`;	
 		document.getElementById("records").innerHTML = `<dl>
 			<dt>Team Records</dt>
-			<dd><li>Records reflected through Game ${game} of Week ${week}.</li></dd>`;
-			/*`<dt>Dancin' Designations</dt>
-			<dd><li>Tournament teams are designated with a blue background.</li></dd> 
+			<dd><li>Records reflected through Game ${game} of Week ${week}.</li></dd>
+			<dt>Dancin' Designations</dt>
 			<dd><li>Auto qualifiers are listed in <b>bold</b> CAPS.</li></dd>
 			<dt>Picks in the Postseason</dt>
 			<dd><li>We selected <b>${tourneyTeams}</b> of the ${winners.length + large.length} total tournament teams.</li></dd>
 			<dd><li>We selected <b>${autoTeams}</b> of the ${winners.length} auto bids.</li></dd>
 			<dd><li>We selected <b>${largeTeams}</b> of the ${large.length} at-large bids.</li></dd>
 			<dd><li>A tournament team was offered in <b>${tourneyGames} (${percTourney.toFixed(1)}%)</b> of ${totalGames} options.</li></dd>
-			</dl>`;*/
+			</dl>`;
+/*			<dd><li>Tournament teams are designated with a blue background.</li></dd> */
 		document.getElementById("standings").innerHTML = tableStart + tableEnd;
 		sortTable(4);
 		sortTable(2);		
