@@ -18,7 +18,7 @@
 	},
 	{
 		"conf": "ASUN",
-		"winner" : ""
+		"winner" : "JSU"
 	},
 	{
 		"conf" : "Big 12",
@@ -46,7 +46,7 @@
 	},
 	{
 		"conf" : "Colonial",
-		"winner" : ""
+		"winner" : "DEL"
 	},
 	{
 		"conf" : "C-USA",
@@ -54,7 +54,7 @@
 	},
 	{
 		"conf" : "Horizon",
-		"winner" : ""
+		"winner" : "WRIGHT"
 	},
 	{
 		"conf" : "MAAC",
@@ -78,7 +78,7 @@
 	},
 	{
 		"conf" : "Northeast",
-		"winner" : ""
+		"winner" : "BRYANT"
 	},
 	{
 		"conf" :"OVC",
@@ -110,7 +110,7 @@
 	},
 	{
 		"conf" : "Summit",
-		"winner" : ""
+		"winner" : "SDAKST"
 	},
 	{
 		"conf" : "Sun Belt",
@@ -122,7 +122,7 @@
 	},
 	{
 		"conf" : "WCC",
-		"winner" : ""
+		"winner" : "GONZ"
 	}
 	],
 	"atlarge": [
