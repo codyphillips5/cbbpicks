@@ -127,7 +127,7 @@ $.when(getGames, getTeams, getTourney).then(function(){
 				}
 				
 				if (winners.includes(guess)) {
-					//tournColor = "info";
+					tournColor = color;
 					tournTeam = fullNameTeam;
 					tournTeam = tournTeam.toUpperCase();
 					tournTeam = tournTeam.bold();
@@ -135,7 +135,7 @@ $.when(getGames, getTeams, getTourney).then(function(){
 					tourneyGames = tourneyGames + allTeams[1][j];
 				}
 				else if (large.includes(guess)) {
-					tournColor = "info";
+					tournColor = color;
 					tournTeam = fullNameTeam;
 					tournTeam = tournTeam.bold();
 					largeTeams++;
