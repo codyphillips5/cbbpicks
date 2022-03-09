@@ -10,16 +10,16 @@ var tourneyTeams = 0;
 var tourneyGames = 0;
 var totalGames = 0;
 var percTourney;
-var home, away, cover, week, game;
+var home, away, cover, totalWeek, game;
 var games = false;
 var tournTeam = ""
 var fullNameTeam = "";
 
 var standings, teams, resultsList, usersList;
 game = 0;
-week = 17;
+totalWeek = 17;
 
-for (var i = 1; i <= week; i++) {
+for (var i = 1; i <= totalWeek; i++) {
 	var getGames = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week" + i + ".json", function(json){
 		standings = json;
 		
@@ -57,7 +57,7 @@ var getTourney = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/tourna
 
 
 $.when(getGames, getTeams, getTourney).then(function(){
-	game = coverTeams.length - ((week-1)*10);
+	game = coverTeams.length - ((totalWeek-1)*10);
 	
 	if (game < 0) {
 		location.reload();
@@ -65,7 +65,7 @@ $.when(getGames, getTeams, getTourney).then(function(){
 	else {
 		if (game == 0) {
 			game = 10;
-			week = week - 1;
+			totalWeek = totalWeek - 1;
 		}		
 		
 		allTeams = homeTeams.concat(awayTeams);
@@ -151,11 +151,12 @@ $.when(getGames, getTeams, getTourney).then(function(){
 				tableStart = tableStart + `<tr><td id="${guess}" class="${tournColor}">${tournTeam}</td><td class="${color}">${allTeams[1][j]}</td><td class="${color}">${wins}-${losses}</td><td class="${percColor}">${perc.toFixed(1)}</td>`;
 			}
 		}
+		
 		percTourney = (tourneyGames / totalGames) * 100;
 		var tableEnd = `</tbody></table>`;	
 		document.getElementById("records").innerHTML = `<dl>
 			<dt>Team Records</dt>
-			<dd><li>Records reflected through Game ${game} of Week ${week}.</li></dd>
+			<dd><li>Records reflected through Game ${game} of Week ${totalWeek}.</li></dd>
 			<dt>Dancin' Designations</dt>
 			<dd><li>Auto qualifiers are listed in <b>bold</b> CAPS.</li></dd>
 			<dt>Picks in the Postseason</dt>
