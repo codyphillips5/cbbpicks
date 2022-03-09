@@ -127,8 +127,7 @@ $.when(getGames, getTeams, getTourney).then(function(){
 				}
 				
 				if (winners.includes(guess)) {
-					console.log("conference winner " + teams[team][guess]);
-					tournColor = "info";
+					//tournColor = "info";
 					tournTeam = fullNameTeam;
 					tournTeam = tournTeam.toUpperCase();
 					tournTeam = tournTeam.bold();
@@ -137,10 +136,10 @@ $.when(getGames, getTeams, getTourney).then(function(){
 				}
 				else if (large.includes(guess)) {
 					tournColor = "info";
-					tournTeam = teams[team][guess].team;
+					tournTeam = fullNameTeam;
+					tournTeam = tournTeam.bold();
 					largeTeams++;
 					tourneyGames = tourneyGames + allTeams[1][j];
-					console.log("at large tourney count: " + tourneyTeams);
 				}
 				else {
 					tournColor = color;
