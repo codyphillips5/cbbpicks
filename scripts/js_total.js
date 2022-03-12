@@ -2,6 +2,7 @@ var homeTeams = [];
 var awayTeams = [];
 var coverTeams = [];
 var allTeams = [];
+var theField = [];
 var winners = [];
 var large = [];
 var autoTeams = 0;
@@ -53,6 +54,7 @@ var getTourney = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/tourna
 		var object = tourney.atlarge[i];
 		large.push(object["team"]);
 	}
+	theField = winners.concat(large);
 });
 
 
@@ -246,7 +248,6 @@ function sortTable(n) {
 }
 
 function getFullTeamName(theTeam) {
-	//console.log(theTeam);
 	for (var team in teams) {
 		for (var n = 0; n < teams[team].length; n++) {
 			if (teams[team][n].teamValue == theTeam) 
@@ -264,7 +265,21 @@ function marchMode() {
   // If the checkbox is checked, display the output text
   if (marchCheckbox.checked == true){
     marchText.style.display = "block";
+	for (let squad of theField) {
+		console.log(squad);
+		if (allTeams[0].includes(squad)) {
+			console.log(squad);
+			document.getElementById(squad).className = 'table-info';
+		}
+	} 
   } else {
     marchText.style.display = "none";
+	for (let squad of theField) {
+		console.log(squad);
+		if (allTeams[0].includes(squad)) {
+			console.log(squad);
+			document.getElementById(squad).className = '';
+		}
+	} 
   }
 }
