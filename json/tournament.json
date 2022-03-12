@@ -10,7 +10,7 @@
 	},
 	{
 		"conf" : "America East",
-		"winner" : ""
+		"winner" : "VERM"
 	},
 	{
 		"conf" : "A-10",
@@ -55,6 +55,10 @@
 	{
 		"conf" : "Horizon",
 		"winner" : "WRIGHT"
+	},
+	{
+		"conf" : "Ivy",
+		"winner" : ""
 	},
 	{
 		"conf" : "MAAC",
