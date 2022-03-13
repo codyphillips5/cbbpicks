@@ -2,7 +2,7 @@
   "auto": [
 	{
 		"conf" : "AAC",
-		"winner" : ""
+		"winner" : "HOU"
 	},
 	{
 		"conf" : "ACC",
@@ -38,7 +38,7 @@
 	},
 	{
 		"conf" : "B1G",
-		"winner" : ""
+		"winner" : "IOWA"
 	},
 	{
 		"conf" : "Big West",
@@ -131,112 +131,112 @@
 	],
 	"atlarge": [
 	{
-		"team": ""
+		"team": "BU"
 	},
 	{
-		"team": ""
+		"team": "AUB"
 	},
 	{
-		"team": ""
+		"team": "UK"
 	},
 	{
-		"team": ""
+		"team": "DUKE"
 	},
 	{
-		"team": ""
+		"team": "WIS"
 	},
 	{
-		"team": ""
+		"team": "PURD"
 	},
 	{
-		"team": ""
+		"team": "TTU"
 	},
 	{
-		"team": ""
+		"team": "UCLA"
 	},
 	{
-		"team": ""
+		"team": "ILL"
 	},
 	{
-		"team": ""
+		"team": "PROV"
 	},
 	{
-		"team": ""
+		"team": "ARK"
 	},
 	{
-		"team": ""
+		"team": "UCONN"
 	},
 	{
-		"team": ""
+		"team": "STMARY"
 	},
 	{
-		"team": ""
+		"team": "ALA"
 	},
 	{
-		"team": ""
+		"team": "LSU"
 	},
 	{
-		"team": ""
+		"team": "TEX"
 	},
 	{
-		"team": ""
+		"team": "CSU"
 	},
 	{
-		"team": ""
+		"team": "USC"
 	},
 	{
-		"team": ""
+		"team": "MSU"
 	},
 	{
-		"team": ""
+		"team": "OSU"
 	},
 	{
-		"team": ""
+		"team": "UNC"
 	},
 	{
-		"team": ""
+		"team": "SDSU"
 	},
 	{
-		"team": ""
+		"team": "SETON"
 	},
 	{
-		"team": ""
+		"team": "CREIGH"
 	},
 	{
-		"team": ""
+		"team": "TCU"
 	},
 	{
-		"team": ""
+		"team": "MARQ"
 	},
 	{
-		"team": ""
+		"team": "MEM"
 	},
 	{
-		"team": ""
+		"team": "DONS"
 	},
 	{
-		"team": ""
+		"team": "MIA"
 	},
 	{
-		"team": ""
+		"team": "DAV"
 	},
 	{
-		"team": ""
+		"team": "ISU"
 	},
 	{
-		"team": ""
+		"team": "MICH"
 	},
 	{
-		"team": ""
+		"team": "WYO"
 	},
 	{
-		"team": ""
+		"team": "RUTG"
 	},
 	{
-		"team": ""
+		"team": "IND"
 	},
 	{
-		"team": ""
+		"team": "ND"
 	}
 	]
 }
