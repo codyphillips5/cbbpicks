@@ -5,10 +5,10 @@
 		"awayTeam" : "MEM",
 		"homeTeam" : "VU",
 		"favorite" : "MEM",
-		"spread" : 2.5,
+		"spread" : 3.5,
 		"gameTime" : "2022-11-08T01:00Z",
 		"channel" : "SECN+",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 2,
