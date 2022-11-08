@@ -8,7 +8,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-11-08T01:00Z",
 		"channel" : "SECN+",
-		"active" : true
+		"awayScore" : 76,
+		"homeScore" : 67,
+		"cover" : "MEM"
     },
     {
 		"gameId" : 2,
