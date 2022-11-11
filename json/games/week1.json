@@ -57,7 +57,7 @@
 		"awayTeam" : "LIB",
 		"homeTeam" : "ALA",
 		"favorite" : "ALA",
-		"spread" : "-",
+		"spread" : 10.5,
 		"gameTime" : "2022-11-12T01:00Z",
 		"channel" : "SECN+",
 		"active" : false
