@@ -16,10 +16,10 @@
 		"gameId" : 2,
 		"awayTeam" : "UAB",
 		"homeTeam" : "TOL",
-		"favorite" : "TOL",
-		"spread" : "-",
+		"favorite" : "UAB",
+		"spread" : 4.5,
 		"gameTime" : "2022-11-11T22:00Z",
-		"channel" : "Barstool",
+		"channel" : "Barstool.tv",
 		"active" : false
     },
 	{
@@ -27,7 +27,7 @@
 		"awayTeam" : "MSU",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
-		"spread" : "-",
+		"spread" : 11.5,
 		"gameTime" : "2022-11-11T23:30Z",
 		"channel" : "ESPN",
 		"active" : false
@@ -37,7 +37,7 @@
 		"awayTeam" : "NOVA",
 		"homeTeam" : "TEM",
 		"favorite" : "NOVA",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2022-11-12T00:00Z",
 		"channel" : "ESPNU",
 		"active" : false
@@ -47,7 +47,7 @@
 		"awayTeam" : "STAN",
 		"homeTeam" : "WIS",
 		"favorite" : "WIS",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2022-11-12T00:30Z",
 		"channel" : "FS1",
 		"active" : false
@@ -67,7 +67,7 @@
 		"awayTeam" : "BYU",
 		"homeTeam" : "SDSU",
 		"favorite" : "SDSU",
-		"spread" : "-",
+		"spread" : 9.5,
 		"gameTime" : "2022-11-12T03:30Z",
 		"channel" : "MWN",
 		"active" : false
