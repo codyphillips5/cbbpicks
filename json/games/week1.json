@@ -80,7 +80,9 @@
 		"spread" : 10.5,
 		"gameTime" : "2022-11-12T03:30Z",
 		"channel" : "MWN",
-		"active" : true
+		"awayScore" : 75,
+		"homeScore" : 82,
+		"cover" : "BYU"
     },
     {
 		"gameId" : 8,
