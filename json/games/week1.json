@@ -88,11 +88,11 @@
 		"gameId" : 8,
 		"awayTeam" : "WSU",
 		"homeTeam" : "BSU",
-		"favorite" : "BSU",
-		"spread" : 0,
+		"favorite" : "WSU",
+		"spread" : 2.5,
 		"gameTime" : "2022-11-13T00:00Z",
 		"channel" : "MWN",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 9,
