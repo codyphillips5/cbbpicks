@@ -92,7 +92,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-11-13T00:00Z",
 		"channel" : "MWN",
-		"active" : true
+		"awayScore" : 61,
+		"homeScore" : 71,
+		"cover" : "BSU"
     },
     {
 		"gameId" : 9,
