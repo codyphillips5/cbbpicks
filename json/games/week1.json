@@ -99,20 +99,20 @@
 		"awayTeam" : "COLO",
 		"homeTeam" : "TENN",
 		"favorite" : "TENN",
-		"spread" : "-",
+		"spread" : 15.5,
 		"gameTime" : "2022-11-13T19:00Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
 		"awayTeam" : "UNT",
 		"homeTeam" : "STMARY",
 		"favorite" : "STMARY",
-		"spread" : "-",
+		"spread" : 8.5,
 		"gameTime" : "2022-11-14T01:00Z",
 		"channel" : "WCC",
-		"active" : false
+		"active" : true
     }
   ]
 }
