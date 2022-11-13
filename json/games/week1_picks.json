@@ -9,7 +9,7 @@
 		"game5" : "WIS",
 		"game6" : "ALA",
 		"game7" : "BYU",
-		"game8" : "",
+		"game8" : "BSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -22,7 +22,7 @@
 		"game5" : "STAN",
 		"game6" : "ALA",
 		"game7" : "SDSU",
-		"game8" : "",
+		"game8" : "WSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -35,7 +35,7 @@
 		"game5" : "WIS",
 		"game6" : "ALA",
 		"game7" : "BYU",
-		"game8" : "",
+		"game8" : "BSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -48,7 +48,7 @@
 		"game5" : "WIS",
 		"game6" : "ALA",
 		"game7" : "BYU",
-		"game8" : "",
+		"game8" : "WSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -61,7 +61,7 @@
 		"game5" : "WIS",
 		"game6" : "LIB",
 		"game7" : "SDSU",
-		"game8" : "",
+		"game8" : "BSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -74,7 +74,7 @@
 		"game5" : "WIS",
 		"game6" : "ALA",
 		"game7" : "SDSU",
-		"game8" : "",
+		"game8" : "BSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -87,7 +87,7 @@
 		"game5" : "STAN",
 		"game6" : "LIB",
 		"game7" : "BYU",
-		"game8" : "",
+		"game8" : "BSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -100,7 +100,7 @@
 		"game5" : "WIS",
 		"game6" : "ALA",
 		"game7" : "SDSU",
-		"game8" : "",
+		"game8" : "BSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -113,7 +113,7 @@
 		"game5" : "WIS",
 		"game6" : "LIB",
 		"game7" : "SDSU",
-		"game8" : "",
+		"game8" : "WSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -126,7 +126,7 @@
 		"game5" : "WIS",
 		"game6" : "LIB",
 		"game7" : "SDSU",
-		"game8" : "",
+		"game8" : "WSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -139,7 +139,7 @@
 		"game5" : "WIS",
 		"game6" : "ALA",
 		"game7" : "BYU",
-		"game8" : "",
+		"game8" : "WSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -152,7 +152,7 @@
 		"game5" : "WIS",
 		"game6" : "ALA",
 		"game7" : "SDSU",
-		"game8" : "",
+		"game8" : "WSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -178,7 +178,7 @@
 		"game5" : "WIS",
 		"game6" : "ALA",
 		"game7" : "BYU",
-		"game8" : "",
+		"game8" : "BSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -191,7 +191,7 @@
 		"game5" : "WIS",
 		"game6" : "LIB",
 		"game7" : "SDSU",
-		"game8" : "",
+		"game8" : "BSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -204,7 +204,7 @@
 		"game5" : "WIS",
 		"game6" : "LIB",
 		"game7" : "SDSU",
-		"game8" : "",
+		"game8" : "WSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -217,7 +217,7 @@
 		"game5" : "WIS",
 		"game6" : "ALA",
 		"game7" : "BYU",
-		"game8" : "",
+		"game8" : "BSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -230,7 +230,7 @@
 		"game5" : "WIS",
 		"game6" : "LIB",
 		"game7" : "BYU",
-		"game8" : "",
+		"game8" : "WSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -243,7 +243,7 @@
 		"game5" : "WIS",
 		"game6" : "ALA",
 		"game7" : "BYU",
-		"game8" : "",
+		"game8" : "BSU",
 		"game9" : "",
 		"game10" : ""
     },	
@@ -256,7 +256,7 @@
 		"game5" : "",
 		"game6" : "",
 		"game7" : "",
-		"game8" : "",
+		"game8" : "BSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -269,7 +269,7 @@
 		"game5" : "WIS",
 		"game6" : "ALA",
 		"game7" : "BYU",
-		"game8" : "",
+		"game8" : "WSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -282,7 +282,7 @@
 		"game5" : "WIS",
 		"game6" : "ALA",
 		"game7" : "SDSU",
-		"game8" : "",
+		"game8" : "BSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -308,7 +308,7 @@
 		"game5" : "STAN",
 		"game6" : "LIB",
 		"game7" : "SDSU",
-		"game8" : "",
+		"game8" : "WSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -321,7 +321,7 @@
 		"game5" : "WIS",
 		"game6" : "LIB",
 		"game7" : "BYU",
-		"game8" : "",
+		"game8" : "WSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -334,7 +334,7 @@
 		"game5" : "WIS",
 		"game6" : "ALA",
 		"game7" : "BYU",
-		"game8" : "",
+		"game8" : "BSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -347,7 +347,7 @@
 		"game5" : "STAN",
 		"game6" : "LIB",
 		"game7" : "BYU",
-		"game8" : "",
+		"game8" : "BSU",
 		"game9" : "",
 		"game10" : ""
     },
@@ -360,7 +360,7 @@
 		"game5" : "WIS",
 		"game6" : "ALA",
 		"game7" : "SDSU",
-		"game8" : "",
+		"game8" : "WSU",
 		"game9" : "",
 		"game10" : ""
     }
