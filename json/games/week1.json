@@ -104,7 +104,9 @@
 		"spread" : 15.5,
 		"gameTime" : "2022-11-13T19:00Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 78,
+		"homeScore" : 66,
+		"cover" : "COLO"
     },
     {
 		"gameId" : 10,
@@ -114,7 +116,9 @@
 		"spread" : 8.5,
 		"gameTime" : "2022-11-14T01:00Z",
 		"channel" : "WCC",
-		"active" : true
+		"awayScore" : 33,
+		"homeScore" : 63,
+		"cover" : "STMARY"
     }
   ]
 }
