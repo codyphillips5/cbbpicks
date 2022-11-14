@@ -44,7 +44,7 @@ var activeScript = $.getScript("https://codyphillips5.github.io/cbbpicks/scripts
    startArray = arrayActive[0];
    lengthArray = arrayActive.length;
    startArray = 1;
-   lengthArray = 3;
+   lengthArray = 2;
    console.log(startArray);
    console.log(lengthArray);
 });
