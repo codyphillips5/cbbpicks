@@ -7,7 +7,7 @@
 		"favorite" : "UK",
 		"spread" : "-",
 		"gameTime" : "2022-11-16T00:00Z",
-		"channel" : "ESPN"
+		"channel" : "ESPN",
 		"active" : false
     },
 	{
@@ -17,17 +17,17 @@
 		"favorite" : "SLU",
 		"spread" : "-",
 		"gameTime" : "2022-11-16T02:00Z",
-		"channel" : "CBSSN"
+		"channel" : "CBSSN",
 		"active" : false
     },
     {
 		"gameId" : 3,
 		"awayTeam" : "DUKE",
 		"homeTeam" : "KU",
-		"favorite" : "DUKE",
-		"spread" : "-",
+		"favorite" : "KU",
+		"spread" : 2.5,
 		"gameTime" : "2022-11-16T02:30Z",
-		"channel" : "ESPN"
+		"channel" : "ESPN",
 		"active" : false
     },
     {
@@ -37,7 +37,7 @@
 		"favorite" : "SETON",
 		"spread" : "-",
 		"gameTime" : "2022-11-17T00:30Z",
-		"channel" : "FS1"
+		"channel" : "FS1",
 		"active" : false
     },
     {
@@ -46,8 +46,8 @@
 		"homeTeam" : "TEX",
 		"favorite" : "GONZ",
 		"spread" : "-",
-		"gameTime" : "2022-11-17T00:30Z",
-		"channel" : "ESPN2"
+		"gameTime" : "2022-11-17T02:30Z",
+		"channel" : "ESPN2",
 		"active" : false
     },
     {
@@ -57,7 +57,7 @@
 		"favorite" : "XAV",
 		"spread" : "-",
 		"gameTime" : "2022-11-18T23:00Z",
-		"channel" : "ESPN"
+		"channel" : "ESPN",
 		"active" : false
     },
     {
@@ -67,7 +67,7 @@
 		"favorite" : "BU",
 		"spread" : "-",
 		"gameTime" : "2022-11-19T00:00Z",
-		"channel" : "ESPN2"
+		"channel" : "ESPN2",
 		"active" : false
     },
     {
@@ -77,7 +77,7 @@
 		"favorite" : "UCLA",
 		"spread" : "-",
 		"gameTime" : "2022-11-19T02:30Z",
-		"channel" : "ESPNU"
+		"channel" : "ESPNU",
 		"active" : false
     },
     {
@@ -87,7 +87,7 @@
 		"favorite" : "GONZ",
 		"spread" : "-",
 		"gameTime" : "2022-11-22T00:30Z",
-		"channel" : "ESPN"
+		"channel" : "ESPN",
 		"active" : false
     },
     {
@@ -96,8 +96,8 @@
 		"homeTeam" : "ORE",
 		"favorite" : "ORE",
 		"spread" : "-",
-		"gameTime" : "2022-11-16T02:30Z",
-		"channel" : "ESPN"
+		"gameTime" : "2022-11-22T02:30Z",
+		"channel" : "ESPN",
 		"active" : false
     }
   ]
