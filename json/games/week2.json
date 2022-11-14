@@ -5,23 +5,13 @@
 		"awayTeam" : "UK",
 		"homeTeam" : "MSU",
 		"favorite" : "UK",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2022-11-16T00:00Z",
 		"channel" : "ESPN",
 		"active" : false
     },
-	{
-		"gameId" : 2,
-		"awayTeam" : "MEM",
-		"homeTeam" : "SLU",
-		"favorite" : "SLU",
-		"spread" : "-",
-		"gameTime" : "2022-11-16T02:00Z",
-		"channel" : "CBSSN",
-		"active" : false
-    },
     {
-		"gameId" : 3,
+		"gameId" : 2,
 		"awayTeam" : "DUKE",
 		"homeTeam" : "KU",
 		"favorite" : "KU",
@@ -31,7 +21,7 @@
 		"active" : false
     },
     {
-		"gameId" : 4,
+		"gameId" : 3,
 		"awayTeam" : "IOWA",
 		"homeTeam" : "SETON",
 		"favorite" : "SETON",
@@ -41,7 +31,7 @@
 		"active" : false
     },
     {
-		"gameId" : 5,
+		"gameId" : 4,
 		"awayTeam" : "GONZ",
 		"homeTeam" : "TEX",
 		"favorite" : "GONZ",
@@ -51,7 +41,7 @@
 		"active" : false
     },
     {
-		"gameId" : 6,
+		"gameId" : 5,
 		"awayTeam" : "IND",
 		"homeTeam" : "XAV",
 		"favorite" : "XAV",
@@ -61,7 +51,7 @@
 		"active" : false
     },
     {
-		"gameId" : 7,
+		"gameId" : 6,
 		"awayTeam" : "UVA",
 		"homeTeam" : "BU",
 		"favorite" : "BU",
@@ -71,7 +61,7 @@
 		"active" : false
     },
     {
-		"gameId" : 8,
+		"gameId" : 7,
 		"awayTeam" : "ILL",
 		"homeTeam" : "UCLA",
 		"favorite" : "UCLA",
@@ -80,13 +70,23 @@
 		"channel" : "ESPNU",
 		"active" : false
     },
+	{
+		"gameId" : 8,
+		"awayTeam" : "MARY",
+		"homeTeam" : "SLU",
+		"favorite" : "SLU",
+		"spread" : "-",
+		"gameTime" : "2022-11-19T18:00Z",
+		"channel" : "ESPNEWS",
+		"active" : false
+    },
     {
 		"gameId" : 9,
 		"awayTeam" : "UK",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
 		"spread" : "-",
-		"gameTime" : "2022-11-22T00:30Z",
+		"gameTime" : "2022-11-21T00:30Z",
 		"channel" : "ESPN",
 		"active" : false
     },
@@ -96,7 +96,7 @@
 		"homeTeam" : "ORE",
 		"favorite" : "ORE",
 		"spread" : "-",
-		"gameTime" : "2022-11-22T02:30Z",
+		"gameTime" : "2022-11-21T02:30Z",
 		"channel" : "ESPN",
 		"active" : false
     }
