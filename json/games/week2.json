@@ -15,7 +15,7 @@
 		"awayTeam" : "DUKE",
 		"homeTeam" : "KU",
 		"favorite" : "KU",
-		"spread" : 2.5,
+		"spread" : 1.5,
 		"gameTime" : "2022-11-16T02:30Z",
 		"channel" : "ESPN",
 		"active" : false
