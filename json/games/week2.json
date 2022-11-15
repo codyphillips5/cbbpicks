@@ -8,17 +8,17 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-11-16T00:00Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 2,
 		"awayTeam" : "DUKE",
 		"homeTeam" : "KU",
-		"favorite" : "KU",
+		"favorite" : "DUKE",
 		"spread" : 1.5,
 		"gameTime" : "2022-11-16T02:30Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 3,
