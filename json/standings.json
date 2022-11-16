@@ -64,54 +64,58 @@
     },
 	{
 		"userId" : 16,
-		"week_1" : 4
+		"week_1" : 0
     },	
 	{
 		"userId" : 17,
-		"week_1" : 6
-    },
+		"week_1" : 4
+    },	
 	{
 		"userId" : 18,
-		"week_1" : 4
+		"week_1" : 6
     },
 	{
 		"userId" : 19,
-		"week_1" : 6
+		"week_1" : 4
     },
 	{
 		"userId" : 20,
-		"week_1" : 2
-	},
+		"week_1" : 6
+    },
 	{
 		"userId" : 21,
-		"week_1" : 6
-    },	
+		"week_1" : 2
+	},
 	{
 		"userId" : 22,
 		"week_1" : 6
     },	
 	{
 		"userId" : 23,
-		"week_1" : 4
-    },
+		"week_1" : 6
+    },	
 	{
 		"userId" : 24,
-		"week_1" : 3
-    },		
+		"week_1" : 4
+    },
 	{
 		"userId" : 25,
 		"week_1" : 3
-    },
+    },		
 	{
 		"userId" : 26,
+		"week_1" : 3
+    },
+	{
+		"userId" : 27,
 		"week_1" : 7
     },	
 	{
-		"userId" : 27,
+		"userId" : 28,
 		"week_1" : 4
     },	
 	{
-		"userId" : 28,
+		"userId" : 29,
 		"week_1" : 5
     }
 	]
