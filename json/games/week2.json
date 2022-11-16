@@ -8,7 +8,11 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-11-16T00:00Z",
 		"channel" : "ESPN",
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 2,
+		"awayScore" : 86,
+		"homeScore" : 77,
+		"cover" : "MSU"
     },
     {
 		"gameId" : 2,
@@ -25,7 +29,7 @@
 		"awayTeam" : "IOWA",
 		"homeTeam" : "SETON",
 		"favorite" : "SETON",
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2022-11-17T00:30Z",
 		"channel" : "FS1",
 		"active" : false
@@ -35,7 +39,7 @@
 		"awayTeam" : "GONZ",
 		"homeTeam" : "TEX",
 		"favorite" : "GONZ",
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2022-11-17T02:30Z",
 		"channel" : "ESPN2",
 		"active" : false
