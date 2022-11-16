@@ -34,17 +34,17 @@
 		"spread" : 0,
 		"gameTime" : "2022-11-17T00:30Z",
 		"channel" : "FS1",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 4,
 		"awayTeam" : "GONZ",
 		"homeTeam" : "TEX",
-		"favorite" : "GONZ",
-		"spread" : 0,
+		"favorite" : "TEX",
+		"spread" : 2.5,
 		"gameTime" : "2022-11-17T02:30Z",
 		"channel" : "ESPN2",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 5,
