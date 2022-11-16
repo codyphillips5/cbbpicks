@@ -10,8 +10,8 @@
 		"channel" : "ESPN",
 		"overtime" : true,
 		"numberOfOT" : 2,
-		"awayScore" : 86,
-		"homeScore" : 77,
+		"awayScore" : 77,
+		"homeScore" : 86,
 		"cover" : "MSU"
     },
     {
