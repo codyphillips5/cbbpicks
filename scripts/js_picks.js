@@ -119,8 +119,8 @@ $.when(requestX, requestY).then(function(){
 			var fin = '';
 
 			if (xFile[key][i].cover) {
-				var awayScore = `<span class='teamlist'><img src="https://b.fssta.com/uploads/application/college/team-logos/${awayTeamImage}.vresize.25.25.medium.2.png"> ${awayTeam} ${awayTeamMascot} - ${xFile[key][i].awayScore}`
-				var homeScore = `<img src="https://b.fssta.com/uploads/application/college/team-logos/${homeTeamImage}.vresize.25.25.medium.2.png"> ${homeTeam} ${homeTeamMascot} - ${xFile[key][i].homeScore}`
+				var awayScore = `<span class='teamlist'><img src="https://b.fssta.com/uploads/application/college/team-logos/${awayTeamImage}.vresize.50.50.medium.2.png" width="25" height="25"> ${awayTeam} ${awayTeamMascot} - ${xFile[key][i].awayScore}`
+				var homeScore = `<img src="https://b.fssta.com/uploads/application/college/team-logos/${homeTeamImage}.vresize.50.50.medium.2.png" width="25" height="25"> ${homeTeam} ${homeTeamMascot} - ${xFile[key][i].homeScore}`
 				if (xFile[key][i].cover == home)
 					homeScore = `${homeScore} 💰`;
 				else if (xFile[key][i].cover == away)
