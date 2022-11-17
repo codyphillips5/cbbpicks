@@ -19,7 +19,10 @@ auth.onAuthStateChanged(user => {
     }
 })
 var startArray = 0;
+var sa = 0;
 var lengthArray = 0;
+var la = 0;
+var saLa = [];
 var coversTeam = [];
 var weekNum = 2;
 var empty = false;
@@ -35,23 +38,33 @@ var getResults = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/
 			for (var r = 0; r < resultsList[result].length; r++) {
 				if(resultsList[result][r].cover)
 					coversTeam.push(resultsList[result][r].cover);
+				if(resultsList[result][r].active) {
+					if(resultsList[result][r].active === true) {
+						sa = resultsList[result][r].gameId;
+						saLa.push(sa);
+					}
+				}
 			}
 		}
-	});
-
-var activeScript = $.getScript("https://codyphillips5.github.io/cbbpicks/scripts/js_active.js", function() {
-   console.log(arrayActive);
-   startArray = arrayActive[0];
-   lengthArray = arrayActive.length;
-   startArray = 3;
-   lengthArray = 2;
-   console.log(startArray);
-   console.log(lengthArray);
+	startArray = saLa[0];
+	lengthArray = saLa.length;
+	console.log(startArray);
+	console.log(lengthArray);
 });
-
+/*
+var activeScript = $.getScript("https://codyphillips5.github.io/cbbpicks/scripts/js_active.js", function() {
+	console.log(arrayActive);
+	startArray = arrayActive[0];
+	lengthArray = arrayActive.length;
+	startArray = 3;
+	lengthArray = 2;
+	console.log(startArray);
+	console.log(lengthArray);
+});
+*/
    const createForm = document.querySelector('#save_picks');
-
-$.when(getResults, activeScript).then(function(){
+//, activeScript
+$.when(getResults).then(function(){
 // create new guide
 if(createForm) {
 	firebase.auth().onAuthStateChanged(user => {

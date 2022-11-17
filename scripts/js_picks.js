@@ -119,13 +119,15 @@ $.when(requestX, requestY).then(function(){
 			var fin = '';
 
 			if (xFile[key][i].cover) {
-				var awayScore = `<span class='teamlist'><img src="https://b.fssta.com/uploads/application/college/team-logos/${awayTeamImage}.vresize.50.50.medium.2.png" width="25" height="25"> ${awayTeam} ${awayTeamMascot} - ${xFile[key][i].awayScore}`
-				var homeScore = `<img src="https://b.fssta.com/uploads/application/college/team-logos/${homeTeamImage}.vresize.50.50.medium.2.png" width="25" height="25"> ${homeTeam} ${homeTeamMascot} - ${xFile[key][i].homeScore}`
-				if (xFile[key][i].cover == home)
-					homeScore = `${homeScore} 💰`;
-				else if (xFile[key][i].cover == away)
-					awayScore = `${awayScore} 💰`;
-				select = awayScore + "<br>" + homeScore + "</span>";
+				if (xFile[key][i].cover == home) {
+					var awayScore = `<span class="teamlistfinal"><span class="p-2"><img src="https://b.fssta.com/uploads/application/college/team-logos/${awayTeamImage}.vresize.50.50.medium.2.png" width="25" height="25"><span class="p-1" id="away">${awayTeam} ${awayTeamMascot} - ${xFile[key][i].awayScore} </span></span> </span>`
+					var homeScore = `<span class="teamlistfinal"><span class="p-2"><img src="https://b.fssta.com/uploads/application/college/team-logos/${homeTeamImage}.vresize.50.50.medium.2.png" width="25" height="25"><span class="p-1" id="home">${homeTeam} ${homeTeamMascot} - ${xFile[key][i].homeScore} 💰 </span></span> </span>`
+				}
+				else if (xFile[key][i].cover == away) {
+					var awayScore = `<span class="teamlistfinal"><span class="p-2"><img src="https://b.fssta.com/uploads/application/college/team-logos/${awayTeamImage}.vresize.50.50.medium.2.png" width="25" height="25"><span class="p-1" id="away">${awayTeam} ${awayTeamMascot} - ${xFile[key][i].awayScore} 💰 </span></span> </span>`
+					var homeScore = `<span class="teamlistfinal"><span class="p-2"><img src="https://b.fssta.com/uploads/application/college/team-logos/${homeTeamImage}.vresize.50.50.medium.2.png" width="25" height="25"><span class="p-1" id="home">${homeTeam} ${homeTeamMascot} - ${xFile[key][i].homeScore}</span></span> </span>`
+				}
+				select = awayScore + homeScore + "</span>";
 				gameInfo = '';
 				if (xFile[key][i].overtime) {
 					if (xFile[key][i].numberOfOT > 1) {
