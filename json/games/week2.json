@@ -46,7 +46,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-11-17T02:30Z",
 		"channel" : "ESPN2",
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 93,
+		"cover" : "TEX"
     },
     {
 		"gameId" : 5,
