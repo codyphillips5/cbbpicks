@@ -75,7 +75,7 @@
 		"awayTeam" : "ILL",
 		"homeTeam" : "UCLA",
 		"favorite" : "UCLA",
-		"spread" : 4.5,
+		"spread" : 3.5,
 		"gameTime" : "2022-11-19T02:30Z",
 		"channel" : "ESPNU",
 		"active" : false
