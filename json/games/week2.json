@@ -54,8 +54,8 @@
 		"gameId" : 5,
 		"awayTeam" : "IND",
 		"homeTeam" : "XAV",
-		"favorite" : "XAV",
-		"spread" : "-",
+		"favorite" : "IND",
+		"spread" : 2.5,
 		"gameTime" : "2022-11-18T23:00Z",
 		"channel" : "FS1",
 		"active" : false
@@ -65,7 +65,7 @@
 		"awayTeam" : "UVA",
 		"homeTeam" : "BU",
 		"favorite" : "BU",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2022-11-19T00:00Z",
 		"channel" : "ESPN2",
 		"active" : false
@@ -75,7 +75,7 @@
 		"awayTeam" : "ILL",
 		"homeTeam" : "UCLA",
 		"favorite" : "UCLA",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2022-11-19T02:30Z",
 		"channel" : "ESPNU",
 		"active" : false
