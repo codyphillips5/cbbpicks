@@ -85,10 +85,10 @@
 		"awayTeam" : "MARY",
 		"homeTeam" : "SLU",
 		"favorite" : "SLU",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2022-11-19T18:00Z",
 		"channel" : "ESPNEWS",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 9,
