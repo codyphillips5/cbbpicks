@@ -58,7 +58,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-11-18T23:00Z",
 		"channel" : "FS1",
-		"active" : true
+		"awayScore" : 81,
+		"homeScore" : 79,
+		"cover" : "XAV"
     },
     {
 		"gameId" : 6,
@@ -68,7 +70,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2022-11-19T00:00Z",
 		"channel" : "ESPN2",
-		"active" : true
+		"awayScore" : 79,
+		"homeScore" : 86,
+		"cover" : "BU"
     },
     {
 		"gameId" : 7,
@@ -78,7 +82,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-11-19T02:30Z",
 		"channel" : "ESPNU",
-		"active" : true
+		"awayScore" : 79,
+		"homeScore" : 70,
+		"cover" : "ILL"
     },
 	{
 		"gameId" : 8,
