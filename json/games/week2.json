@@ -70,9 +70,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2022-11-19T00:00Z",
 		"channel" : "ESPN2",
-		"awayScore" : 79,
-		"homeScore" : 86,
-		"cover" : "BU"
+		"awayScore" : 86,
+		"homeScore" : 79,
+		"cover" : "UVA"
     },
     {
 		"gameId" : 7,
