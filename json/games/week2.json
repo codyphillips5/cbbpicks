@@ -94,27 +94,29 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-11-19T18:00Z",
 		"channel" : "ESPNEWS",
-		"active" : true
+		"awayScore" : 95,
+		"homeScore" : 67,
+		"cover" : "MARY"
     },
     {
 		"gameId" : 9,
 		"awayTeam" : "UK",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2022-11-21T00:30Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
 		"awayTeam" : "HOU",
 		"homeTeam" : "ORE",
-		"favorite" : "ORE",
-		"spread" : "-",
+		"favorite" : "HOU",
+		"spread" : 6.5,
 		"gameTime" : "2022-11-21T02:30Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
     }
   ]
 }
