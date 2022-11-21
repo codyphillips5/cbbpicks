@@ -116,7 +116,8 @@
 	{
 		"userId" : 23,
 		"week_1" : 6,
-		"week_2" : 8
+		"week_2" : 8,
+		"week_2_top" : true
     },	
 	{
 		"userId" : 24,
