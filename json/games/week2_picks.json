@@ -10,8 +10,8 @@
 		"game6" : "BU",
 		"game7" : "UCLA",
 		"game8" : "SLU",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "UK",
+		"game10" : "ORE"
     },
 	{
 		"userId" : 2,
@@ -23,8 +23,8 @@
 		"game6" : "BU",
 		"game7" : "UCLA",
 		"game8" : "SLU",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "GONZ",
+		"game10" : "ORE"
     },
 	{
 		"userId" : 3,
@@ -36,8 +36,8 @@
 		"game6" : "BU",
 		"game7" : "ILL",
 		"game8" : "MARY",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "GONZ",
+		"game10" : "HOU"
     },
 	{
 		"userId" : 4,
@@ -49,8 +49,8 @@
 		"game6" : "UVA",
 		"game7" : "ILL",
 		"game8" : "SLU",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "UK",
+		"game10" : "HOU"
     },
 	{
 		"userId" : 5,
@@ -62,8 +62,8 @@
 		"game6" : "BU",
 		"game7" : "UCLA",
 		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "GONZ",
+		"game10" : "HOU"
     },
 	{
 		"userId" : 6,
@@ -75,8 +75,8 @@
 		"game6" : "BU",
 		"game7" : "ILL",
 		"game8" : "SLU",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "UK",
+		"game10" : "HOU"
     },
 	{
 		"userId" : 7,
@@ -88,8 +88,8 @@
 		"game6" : "BU",
 		"game7" : "UCLA",
 		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "GONZ",
+		"game10" : "HOU"
     },
     {
 		"userId" : 8,
@@ -101,8 +101,8 @@
 		"game6" : "BU",
 		"game7" : "UCLA",
 		"game8" : "MARY",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "UK",
+		"game10" : "ORE"
     },
     {
 		"userId" : 9,
@@ -114,8 +114,8 @@
 		"game6" : "UVA",
 		"game7" : "ILL",
 		"game8" : "MARY",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "UK",
+		"game10" : "HOU"
     },
 	{
 		"userId" : 10,
@@ -127,8 +127,8 @@
 		"game6" : "BU",
 		"game7" : "UCLA",
 		"game8" : "MARY",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "GONZ",
+		"game10" : "HOU"
     },
 	{
 		"userId" : 11,
@@ -153,8 +153,8 @@
 		"game6" : "BU",
 		"game7" : "UCLA",
 		"game8" : "SLU",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "GONZ",
+		"game10" : "ORE"
     },
 	{
 		"userId" : 13,
@@ -179,8 +179,8 @@
 		"game6" : "BU",
 		"game7" : "ILL",
 		"game8" : "SLU",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "UK",
+		"game10" : "HOU"
     },
 	{
 		"userId" : 15,
@@ -192,8 +192,8 @@
 		"game6" : "BU",
 		"game7" : "UCLA",
 		"game8" : "SLU",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "GONZ",
+		"game10" : "HOU"
     },	
 	{
 		"userId" : 16,
@@ -218,8 +218,8 @@
 		"game6" : "BU",
 		"game7" : "UCLA",
 		"game8" : "SLU",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "UK",
+		"game10" : "HOU"
     },
 	{
 		"userId" : 18,
@@ -231,8 +231,8 @@
 		"game6" : "UVA",
 		"game7" : "UCLA",
 		"game8" : "SLU",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "UK",
+		"game10" : "ORE"
     },
 	{
 		"userId" : 19,
@@ -244,8 +244,8 @@
 		"game6" : "UVA",
 		"game7" : "ILL",
 		"game8" : "SLU",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "GONZ",
+		"game10" : "ORE"
     },
 	{
 		"userId" : 20,
@@ -257,8 +257,8 @@
 		"game6" : "",
 		"game7" : "",
 		"game8" : "SLU",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "GONZ",
+		"game10" : "HOU"
     },
 	{
 		"userId" : 21,
@@ -283,8 +283,8 @@
 		"game6" : "BU",
 		"game7" : "UCLA",
 		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "UK",
+		"game10" : "HOU"
     },
 	{
 		"userId" : 23,
@@ -296,8 +296,8 @@
 		"game6" : "BU",
 		"game7" : "ILL",
 		"game8" : "MARY",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "GONZ",
+		"game10" : "HOU"
     },
 	{
 		"userId" : 24,
@@ -309,8 +309,8 @@
 		"game6" : "BU",
 		"game7" : "ILL",
 		"game8" : "SLU",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "UK",
+		"game10" : "HOU"
     },
 	{
 		"userId" : 25,
@@ -322,8 +322,8 @@
 		"game6" : "UVA",
 		"game7" : "UCLA",
 		"game8" : "MARY",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "GONZ",
+		"game10" : "HOU"
     },
 	{
 		"userId" : 26,
@@ -335,8 +335,8 @@
 		"game6" : "BU",
 		"game7" : "UCLA",
 		"game8" : "SLU",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "UK",
+		"game10" : "HOU"
     },
 	{
 		"userId" : 27,
@@ -348,8 +348,8 @@
 		"game6" : "BU",
 		"game7" : "ILL",
 		"game8" : "SLU",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "GONZ",
+		"game10" : "ORE"
     },
 	{
 		"userId" : 28,
@@ -361,8 +361,8 @@
 		"game6" : "BU",
 		"game7" : "UCLA",
 		"game8" : "SLU",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "GONZ",
+		"game10" : "HOU"
     },
 	{
 		"userId" : 29,
@@ -374,8 +374,8 @@
 		"game6" : "UVA",
 		"game7" : "ILL",
 		"game8" : "MARY",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "UK",
+		"game10" : "ORE"
     }
 	]
 }

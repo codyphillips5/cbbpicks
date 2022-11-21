@@ -106,7 +106,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-11-21T00:30Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 72,
+		"homeScore" : 88,
+		"cover" : "GONZ"
     },
     {
 		"gameId" : 10,
@@ -116,7 +118,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-11-21T02:30Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 66,
+		"homeScore" : 56,
+		"cover" : "HOU"
     }
   ]
 }
