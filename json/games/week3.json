@@ -5,10 +5,10 @@
 		"awayTeam" : "OSU",
 		"homeTeam" : "SDSU",
 		"favorite" : "SDSU",
-		"spread" : 3.5,
+		"spread" : 4.5,
 		"gameTime" : "2022-11-22T02:00Z",
 		"channel" : "ESPNU",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 2,
