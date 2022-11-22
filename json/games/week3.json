@@ -5,16 +5,18 @@
 		"awayTeam" : "OSU",
 		"homeTeam" : "SDSU",
 		"favorite" : "SDSU",
-		"spread" : 4.5,
+		"spread" : 3.5,
 		"gameTime" : "2022-11-22T02:00Z",
 		"channel" : "ESPNU",
-		"active" : true
+		"awayScore" : 77,
+		"homeScore" : 88,
+		"cover" : "SDSU"
     },
     {
 		"gameId" : 2,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "ARK",
+		"homeTeam" : "CREIGH",
+		"favorite" : "CREIGH",
 		"spread" : "-",
 		"gameTime" : "2022-11-23T01:00Z",
 		"channel" : "ESPN",
@@ -26,7 +28,7 @@
 		"homeTeam" : "WIS",
 		"favorite" : "WIS",
 		"spread" : "-",
-		"gameTime" : "2022-11-23T20:30Z",
+		"gameTime" : "2022-11-23T19:30Z",
 		"channel" : "ESPN2",
 		"active" : false
     },
@@ -76,7 +78,7 @@
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
 		"spread" : "-",
-		"gameTime" : "2022-11-27T17:00Z",
+		"gameTime" : "2022-11-26T17:00Z",
 		"channel" : "",
 		"active" : false
     },
