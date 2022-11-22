@@ -17,7 +17,7 @@
 		"awayTeam" : "ARK",
 		"homeTeam" : "CREIGH",
 		"favorite" : "CREIGH",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2022-11-23T01:00Z",
 		"channel" : "ESPN",
 		"active" : false
