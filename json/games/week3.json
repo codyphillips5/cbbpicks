@@ -29,30 +29,30 @@
 		"awayTeam" : "DAY",
 		"homeTeam" : "WIS",
 		"favorite" : "DAY",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2022-11-23T19:30Z",
 		"channel" : "ESPN2",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 4,
 		"awayTeam" : "CREIGH",
 		"homeTeam" : "ZONA",
 		"favorite" : "ZONA",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2022-11-23T22:00Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 5,
 		"awayTeam" : "ARK",
 		"homeTeam" : "SDSU",
 		"favorite" : "SDSU",
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2022-11-24T03:00Z",
 		"channel" : "ESPN2",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 6,
