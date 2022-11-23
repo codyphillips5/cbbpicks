@@ -37,8 +37,8 @@
     {
 		"gameId" : 4,
 		"awayTeam" : "CREIGH",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"homeTeam" : "ZONA",
+		"favorite" : "ZONA",
 		"spread" : "-",
 		"gameTime" : "2022-11-23T22:00Z",
 		"channel" : "ESPN",
@@ -47,8 +47,8 @@
     {
 		"gameId" : 5,
 		"awayTeam" : "ARK",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"homeTeam" : "SDSU",
+		"favorite" : "SDSU",
 		"spread" : "-",
 		"gameTime" : "2022-11-24T03:00Z",
 		"channel" : "ESPN2",
@@ -64,24 +64,24 @@
 		"channel" : "ESPN",
 		"active" : false
     },
-    {
+	{
 		"gameId" : 7,
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2022-11-25T18:00Z",
+		"channel" : "",
+		"active" : false
+    },
+    {
+		"gameId" : 8,
 		"awayTeam" : "TBD",
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
 		"spread" : "-",
 		"gameTime" : "2022-11-26T00:30Z",
 		"channel" : "Battle 4 Atlantis • ESPN",
-		"active" : false
-    },
-	{
-		"gameId" : 8,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
-		"spread" : "-",
-		"gameTime" : "2022-11-26T17:00Z",
-		"channel" : "",
 		"active" : false
     },
     {
