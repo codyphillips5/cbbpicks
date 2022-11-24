@@ -56,14 +56,18 @@
 		"spread" : 0,
 		"gameTime" : "2022-11-24T03:00Z",
 		"channel" : "ESPN2",
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 78,
+		"homeScore" : 74,
+		"cover" : "ARK"
     },
     {
 		"gameId" : 6,
 		"awayTeam" : "ALA",
 		"homeTeam" : "MSU",
-		"favorite" : "MSU",
-		"spread" : "-",
+		"favorite" : "ALA",
+		"spread" : 3.5,
 		"gameTime" : "2022-11-25T03:30Z",
 		"channel" : "ESPN",
 		"active" : false
