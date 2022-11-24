@@ -70,7 +70,7 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-11-25T03:30Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 7,
