@@ -32,7 +32,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-11-23T19:30Z",
 		"channel" : "ESPN2",
-		"active" : true
+		"awayScore" : 42,
+		"homeScore" : 43,
+		"cover" : "WIS"
     },
     {
 		"gameId" : 4,
@@ -42,7 +44,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-11-23T22:00Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 79,
+		"homeScore" : 81,
+		"cover" : "CREIGH"
     },
     {
 		"gameId" : 5,
