@@ -78,11 +78,11 @@
 		"gameId" : 7,
 		"awayTeam" : "TENN",
 		"homeTeam" : "KU",
-		"favorite" : "KU",
-		"spread" : "-",
+		"favorite" : "TENN",
+		"spread" : 1.5,
 		"gameTime" : "2022-11-26T00:30Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 8,
