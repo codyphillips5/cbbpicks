@@ -70,16 +70,18 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-11-25T03:30Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 81,
+		"homeScore" : 70,
+		"cover" : "ALA"
     },
 	{
 		"gameId" : 7,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "TENN",
+		"homeTeam" : "KU",
+		"favorite" : "KU",
 		"spread" : "-",
-		"gameTime" : "2022-11-25T18:00Z",
-		"channel" : "",
+		"gameTime" : "2022-11-26T00:30Z",
+		"channel" : "ESPN",
 		"active" : false
     },
     {
@@ -88,8 +90,8 @@
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
 		"spread" : "-",
-		"gameTime" : "2022-11-26T00:30Z",
-		"channel" : "Battle 4 Atlantis • ESPN",
+		"gameTime" : "2022-11-26T23:00Z",
+		"channel" : "Emerald Classic • ESPN",
 		"active" : false
     },
     {
