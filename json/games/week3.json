@@ -94,27 +94,29 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-11-27T00:00Z",
 		"channel" : "CBSSN",
-		"active" : true
+		"awayScore" : 66,
+		"homeScore" : 79,
+		"cover" : "TCU"
     },
     {
 		"gameId" : 9,
 		"awayTeam" : "DUKE",
 		"homeTeam" : "PURD",
 		"favorite" : "PURD",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2022-11-27T20:30Z",
 		"channel" : "ABC",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
 		"awayTeam" : "ISU",
 		"homeTeam" : "UCONN",
 		"favorite" : "UCONN",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2022-11-28T03:00Z",
-		"channel" : "PKI Championship • ESPN",
-		"active" : false
+		"channel" : "ESPN",
+		"active" : true
     }
   ]
 }
