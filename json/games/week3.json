@@ -102,8 +102,8 @@
 		"gameId" : 9,
 		"awayTeam" : "DUKE",
 		"homeTeam" : "PURD",
-		"favorite" : "PURD",
-		"spread" : 1.5,
+		"favorite" : "DUKE",
+		"spread" : 2.5,
 		"gameTime" : "2022-11-27T20:30Z",
 		"channel" : "ABC",
 		"active" : true
