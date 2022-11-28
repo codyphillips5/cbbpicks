@@ -72,16 +72,6 @@
 	},
 	{
 		"gameId" : 8,
-		"awayTeam" : "IND",
-		"homeTeam" : "RUTG",
-		"favorite" : "RUTG",
-		"spread" : "-",
-		"gameTime" : "2022-12-03T21:00Z",
-		"channel" : "B1G",
-		"active" : false
-	},
-	{
-		"gameId" : 9,
 		"awayTeam" : "WVU",
 		"homeTeam" : "XAV",
 		"favorite" : "XAV",
@@ -91,13 +81,23 @@
 		"active" : false
 	},
 	{
-		"gameId" : 10,
-		"awayTeam" : "MICH",
-		"homeTeam" : "UK",
-		"favorite" : "UK",
+		"gameId" : 9,
+		"awayTeam" : "MISS",
+		"homeTeam" : "MEM",
+		"favorite" : "MEM",
 		"spread" : "-",
-		"gameTime" : "2022-12-04T18:00Z",
-		"channel" : "",
+		"gameTime" : "2022-12-04T00:30Z",
+		"channel" : "ESPN2",
+		"active" : false
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "STMARY",
+		"homeTeam" : "HOU",
+		"favorite" : "HOU",
+		"spread" : "-",
+		"gameTime" : "2022-12-04T02:30Z",
+		"channel" : "ESPN2",
 		"active" : false
 	}
   ]
