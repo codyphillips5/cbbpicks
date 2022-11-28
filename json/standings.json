@@ -177,7 +177,8 @@
 		"userId" : 29,
 		"week_1" : 5,
 		"week_2" : 7,
-		"week_3" : 6
+		"week_3" : 7,
+		"week_3_top" : true
     }
 	]
 }
