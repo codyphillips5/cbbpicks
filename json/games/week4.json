@@ -1,0 +1,104 @@
+{
+  "games": [
+	{
+		"gameId" : 1,
+		"awayTeam" : "UVA",
+		"homeTeam" : "MICH",
+		"favorite" : "MICH",
+		"spread" : "-",
+		"gameTime" : "2022-11-30T02:30Z",
+		"channel" : "ESPN",
+		"active" : false
+	},
+	{
+		"gameId" : 2,
+		"awayTeam" : "OSU",
+		"homeTeam" : "DUKE",
+		"favorite" : "DUKE",
+		"spread" : "-",
+		"gameTime" : "2022-12-01T00:15Z",
+		"channel" : "ESPN",
+		"active" : false
+	},
+	{
+		"gameId" : 3,
+		"awayTeam" : "UNC",
+		"homeTeam" : "IND",
+		"favorite" : "IND",
+		"spread" : "-",
+		"gameTime" : "2022-12-01T02:15Z",
+		"channel" : "ESPN",
+		"active" : false
+	},
+	{
+		"gameId" : 4,
+		"awayTeam" : "OKST",
+		"homeTeam" : "UCONN",
+		"favorite" : "UCONN",
+		"spread" : "-",
+		"gameTime" : "2022-12-01T23:30Z",
+		"channel" : "FS1",
+		"active" : false
+	},
+	{
+		"gameId" : 5,
+		"awayTeam" : "CREIGH",
+		"homeTeam" : "TEX",
+		"favorite" : "TEX",
+		"spread" : "-",
+		"gameTime" : "2022-12-02T00:00Z",
+		"channel" : "ESPN",
+		"active" : false
+	},
+	{
+		"gameId" : 6,
+		"awayTeam" : "BU",
+		"homeTeam" : "GONZ",
+		"favorite" : "GONZ",
+		"spread" : "-",
+		"gameTime" : "2022-12-03T01:00Z",
+		"channel" : "",
+		"active" : false
+	},
+	{
+		"gameId" : 7,
+		"awayTeam" : "OKLA",
+		"homeTeam" : "NOVA",
+		"favorite" : "NOVA",
+		"spread" : "-",
+		"gameTime" : "2022-12-03T17:30Z",
+		"channel" : "CBS",
+		"active" : false
+	},
+	{
+		"gameId" : 8,
+		"awayTeam" : "IND",
+		"homeTeam" : "RUTG",
+		"favorite" : "RUTG",
+		"spread" : "-",
+		"gameTime" : "2022-12-03T21:00Z",
+		"channel" : "B1G",
+		"active" : false
+	},
+	{
+		"gameId" : 9,
+		"awayTeam" : "WVU",
+		"homeTeam" : "XAV",
+		"favorite" : "XAV",
+		"spread" : "-",
+		"gameTime" : "2022-12-03T23:30Z",
+		"channel" : "FS1",
+		"active" : false
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "MICH",
+		"homeTeam" : "UK",
+		"favorite" : "UK",
+		"spread" : "-",
+		"gameTime" : "2022-12-04T18:00Z",
+		"channel" : "",
+		"active" : false
+	}
+  ]
+}
