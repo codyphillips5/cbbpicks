@@ -106,7 +106,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-11-27T20:30Z",
 		"channel" : "ABC",
-		"active" : true
+		"awayScore" : 56,
+		"homeScore" : 75,
+		"cover" : "PURD"
     },
     {
 		"gameId" : 10,
@@ -116,7 +118,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2022-11-28T03:00Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 53,
+		"homeScore" : 71,
+		"cover" : "UCONN"
     }
   ]
 }
