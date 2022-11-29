@@ -4,8 +4,8 @@
 		"gameId" : 1,
 		"awayTeam" : "UVA",
 		"homeTeam" : "MICH",
-		"favorite" : "MICH",
-		"spread" : "-",
+		"favorite" : "UVA",
+		"spread" : 3.5,
 		"gameTime" : "2022-11-30T02:30Z",
 		"channel" : "ESPN",
 		"active" : false
