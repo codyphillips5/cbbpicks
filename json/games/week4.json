@@ -15,7 +15,7 @@
 		"awayTeam" : "OSU",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2022-12-01T00:15Z",
 		"channel" : "ESPN",
 		"active" : false
@@ -25,7 +25,7 @@
 		"awayTeam" : "UNC",
 		"homeTeam" : "IND",
 		"favorite" : "IND",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2022-12-01T02:15Z",
 		"channel" : "ESPN",
 		"active" : false
