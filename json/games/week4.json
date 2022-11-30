@@ -20,17 +20,17 @@
 		"spread" : 5.5,
 		"gameTime" : "2022-12-01T00:15Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 3,
 		"awayTeam" : "UNC",
 		"homeTeam" : "IND",
 		"favorite" : "IND",
-		"spread" : 6.5,
+		"spread" : 4.5,
 		"gameTime" : "2022-12-01T02:15Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 4,
