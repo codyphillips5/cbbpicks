@@ -32,14 +32,16 @@
 		"spread" : 4.5,
 		"gameTime" : "2022-12-01T02:15Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 65,
+		"homeScore" : 77,
+		"cover" : "IND"
 	},
 	{
 		"gameId" : 4,
 		"awayTeam" : "OKST",
 		"homeTeam" : "UCONN",
 		"favorite" : "UCONN",
-		"spread" : 9.5,
+		"spread" : 10.5,
 		"gameTime" : "2022-12-01T23:30Z",
 		"channel" : "FS1",
 		"active" : false
@@ -49,7 +51,7 @@
 		"awayTeam" : "CREIGH",
 		"homeTeam" : "TEX",
 		"favorite" : "TEX",
-		"spread" : 7.5,
+		"spread" : 6.5,
 		"gameTime" : "2022-12-02T00:00Z",
 		"channel" : "ESPN",
 		"active" : false
