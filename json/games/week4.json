@@ -65,10 +65,10 @@
 		"awayTeam" : "BU",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2022-12-03T01:00Z",
 		"channel" : "Peacock",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
