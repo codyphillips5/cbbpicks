@@ -44,7 +44,9 @@
 		"spread" : 8.5,
 		"gameTime" : "2022-12-01T23:30Z",
 		"channel" : "FS1",
-		"active" : true
+		"awayScore" : 64,
+		"homeScore" : 74,
+		"cover" : "UCONN"
 	},
 	{
 		"gameId" : 5,
@@ -54,7 +56,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-12-02T00:00Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 67,
+		"homeScore" : 72,
+		"cover" : "CREIGH"
 	},
 	{
 		"gameId" : 6,
