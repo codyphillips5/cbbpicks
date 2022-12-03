@@ -68,47 +68,49 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-12-03T01:00Z",
 		"channel" : "Peacock",
-		"active" : true
+		"awayScore" : 64,
+		"homeScore" : 63,
+		"cover" : "BU"
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "OKLA",
 		"homeTeam" : "NOVA",
 		"favorite" : "NOVA",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2022-12-03T17:30Z",
 		"channel" : "CBS",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "WVU",
 		"homeTeam" : "XAV",
 		"favorite" : "XAV",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2022-12-03T23:30Z",
 		"channel" : "FS1",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "MISS",
 		"homeTeam" : "MEM",
 		"favorite" : "MEM",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2022-12-04T00:30Z",
 		"channel" : "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "STMARY",
 		"homeTeam" : "HOU",
 		"favorite" : "HOU",
-		"spread" : "-",
+		"spread" : 10.5,
 		"gameTime" : "2022-12-04T02:30Z",
 		"channel" : "ESPN2",
-		"active" : false
+		"active" : true
 	}
   ]
 }
