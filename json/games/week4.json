@@ -80,7 +80,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-12-03T17:30Z",
 		"channel" : "CBS",
-		"active" : true
+		"awayScore" : 66,
+		"homeScore" : 70,
+		"cover" : "NOVA"
 	},
 	{
 		"gameId" : 8,
@@ -90,7 +92,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-12-03T23:30Z",
 		"channel" : "FS1",
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 84,
+		"cover" : "XAV"
 	},
 	{
 		"gameId" : 9,
@@ -100,7 +104,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2022-12-04T00:30Z",
 		"channel" : "ESPN2",
-		"active" : true
+		"awayScore" : 57,
+		"homeScore" : 68,
+		"cover" : "MEM"
 	},
 	{
 		"gameId" : 10,
@@ -110,7 +116,9 @@
 		"spread" : 10.5,
 		"gameTime" : "2022-12-04T02:30Z",
 		"channel" : "ESPN2",
-		"active" : true
+		"awayScore" : 48,
+		"homeScore" : 53,
+		"cover" : "STMARY"
 	}
   ]
 }
