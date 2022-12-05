@@ -1,0 +1,104 @@
+{
+  "games": [
+	{
+		"gameId" : 1,
+		"awayTeam" : "ILL",
+		"homeTeam" : "TEX",
+		"favorite" : "TEX",
+		"spread" : "-",
+		"gameTime" : "2022-12-07T00:00Z",
+		"channel": "ESPN",
+		"active" : false
+	},
+	{
+		"gameId" : 2,
+		"awayTeam" : "MARY",
+		"homeTeam" : "WIS",
+		"favorite" : "WIS",
+		"spread" : "-",
+		"gameTime" : "2022-12-07T02:00Z",
+		"channel": "ESPN2",
+		"active" : false
+	},
+	{
+		"gameId" : 3,
+		"awayTeam" : "UCONN",
+		"homeTeam" : "FLA",
+		"favorite" : "FLA",
+		"spread" : "-",
+		"gameTime" : "2022-12-08T02:00Z",
+		"channel": "ESPN2",
+		"active" : false
+	},
+	{
+		"gameId" : 4,
+		"awayTeam" : "RUTG",
+		"homeTeam" : "OSU",
+		"favorite" : "OSU",
+		"spread" : "-",
+		"gameTime" : "2022-12-09T00:00Z",
+		"channel": "ESPN2",
+		"active" : false
+	},
+	{
+		"gameId" : 5,
+		"awayTeam" : "ISU",
+		"homeTeam" : "IOWA",
+		"favorite" : "IOWA",
+		"spread" : "-",
+		"gameTime" : "2022-12-09T01:00Z",
+		"channel": "FS1",
+		"active" : false
+	},
+	{
+		"gameId" : 6,
+		"awayTeam" : "ALA",
+		"homeTeam" : "HOU",
+		"favorite" : "HOU",
+		"spread" : "-",
+		"gameTime" : "2022-12-07T00:00Z",
+		"channel": "",
+		"active" : false
+	},
+	{
+		"gameId" : 7,
+		"awayTeam" : "XAV",
+		"homeTeam" : "CINCY",
+		"favorite" : "CINCY",
+		"spread" : "-",
+		"gameTime" : "2022-12-10T20:00Z",
+		"channel": "ESPN2",
+		"active" : false
+	},
+	{
+		"gameId" : 8,
+		"awayTeam" : "AUB",
+		"homeTeam" : "MEM",
+		"favorite" : "MEM",
+		"spread" : "-",
+		"gameTime" : "2022-12-10T22:00Z",
+		"channel": "ESPN2",
+		"active" : false
+	},
+	{
+		"gameId" : 9,
+		"awayTeam" : "KU",
+		"homeTeam" : "MIZ",
+		"favorite" : "MIZ",
+		"spread" : "-",
+		"gameTime" : "2022-12-10T22:15Z",
+		"channel": "ESPN",
+		"active" : false
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "ZONA",
+		"homeTeam" : "IND",
+		"favorite" : "IND",
+		"spread" : "-",
+		"gameTime" : "2022-12-11T00:30Z",
+		"channel": "FOX",
+		"active" : false
+	}
+  ]
+}
