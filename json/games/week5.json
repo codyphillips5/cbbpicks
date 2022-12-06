@@ -5,7 +5,7 @@
 		"awayTeam" : "ILL",
 		"homeTeam" : "TEX",
 		"favorite" : "TEX",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2022-12-07T00:00Z",
 		"channel": "ESPN",
 		"active" : false
@@ -15,7 +15,7 @@
 		"awayTeam" : "MARY",
 		"homeTeam" : "WIS",
 		"favorite" : "WIS",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2022-12-07T02:00Z",
 		"channel": "ESPN2",
 		"active" : false
