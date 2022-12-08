@@ -34,7 +34,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2022-12-08T02:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 75,
+		"homeScore" : 54,
+		"cover" : "UCONN"
 	},
 	{
 		"gameId" : 4,
