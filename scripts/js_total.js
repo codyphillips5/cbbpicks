@@ -14,7 +14,9 @@ var percTourney;
 var home, away, cover, totalWeek, game;
 var games = false;
 var tournTeam = ""
+var tournTeamImage = ""
 var fullNameTeam = "";
+var fullTeamImage = "";
 
 var standings, teams, resultsList, usersList;
 game = 0;
@@ -131,6 +133,7 @@ $.when(getGames, getTeams, getTourney).then(function(){
 				if (winners.includes(guess)) {
 					tournColor = color;
 					tournTeam = fullNameTeam;
+					tournTeamImage = fullTeamImage;
 					tournTeam = tournTeam.toUpperCase();
 					tournTeam = tournTeam.bold();
 					autoTeams++;
@@ -139,6 +142,7 @@ $.when(getGames, getTeams, getTourney).then(function(){
 				else if (large.includes(guess)) {
 					tournColor = color;
 					tournTeam = fullNameTeam;
+					tournTeamImage = fullTeamImage;
 					tournTeam = tournTeam.bold();
 					largeTeams++;
 					tourneyGames = tourneyGames + allTeams[1][j];
@@ -146,10 +150,11 @@ $.when(getGames, getTeams, getTourney).then(function(){
 				else {
 					tournColor = color;
 					tournTeam = fullNameTeam;
+					tournTeamImage = fullTeamImage;
 				}
 				tourneyTeams = autoTeams + largeTeams;
 				totalGames = totalGames + allTeams[1][j];
-				tableStart = tableStart + `<tr><td id="${guess}" class="${tournColor}">${tournTeam}</td><td class="${color}">${allTeams[1][j]}</td><td class="${color}">${wins}-${losses}</td><td class="${percColor}">${perc.toFixed(1)}</td>`;
+				tableStart = tableStart + `<tr><td id="${guess}" class="${tournColor}"><img src="https://b.fssta.com/uploads/application/college/team-logos/${fullTeamImage}.vresize.50.50.medium.2.png" width="25" height="25"><span class="p-1">${tournTeam}</span></td><td class="${color}">${allTeams[1][j]}</td><td class="${color}">${wins}-${losses}</td><td class="${percColor}">${perc.toFixed(1)}</td>`;
 			}
 		}
 		
@@ -250,8 +255,10 @@ function sortTable(n) {
 function getFullTeamName(theTeam) {
 	for (var team in teams) {
 		for (var n = 0; n < teams[team].length; n++) {
-			if (teams[team][n].teamValue == theTeam) 
+			if (teams[team][n].teamValue == theTeam) {
 				fullNameTeam = teams[team][n].team;	
+				fullTeamImage = teams[team][n].teamImage;
+			}	
 		}
 	}
 }
