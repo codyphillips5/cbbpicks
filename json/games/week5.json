@@ -67,50 +67,50 @@
 		"awayTeam" : "ALA",
 		"homeTeam" : "HOU",
 		"favorite" : "HOU",
-		"spread" : "-",
+		"spread" : 8.5,
 		"gameTime" : "2022-12-10T20:00Z",
 		"channel": "ABC",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "XAV",
 		"homeTeam" : "CINCY",
-		"favorite" : "CINCY",
-		"spread" : "-",
+		"favorite" : "XAV",
+		"spread" : 2.5,
 		"gameTime" : "2022-12-10T20:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
-		"awayTeam" : "AUB",
-		"homeTeam" : "MEM",
-		"favorite" : "MEM",
-		"spread" : "-",
+		"awayTeam" : "MEM",
+		"homeTeam" : "AUB",
+		"favorite" : "AUB",
+		"spread" : 1.5,
 		"gameTime" : "2022-12-10T22:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "KU",
 		"homeTeam" : "MIZ",
-		"favorite" : "MIZ",
-		"spread" : "-",
+		"favorite" : "KU",
+		"spread" : 3.5,
 		"gameTime" : "2022-12-10T22:15Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "ZONA",
 		"homeTeam" : "IND",
-		"favorite" : "IND",
-		"spread" : "-",
+		"favorite" : "ZONA",
+		"spread" : 1.5,
 		"gameTime" : "2022-12-11T00:30Z",
 		"channel": "FOX",
-		"active" : false
+		"active" : true
 	}
   ]
 }
