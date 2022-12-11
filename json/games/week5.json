@@ -70,7 +70,9 @@
 		"spread" : 8.5,
 		"gameTime" : "2022-12-10T20:00Z",
 		"channel": "ABC",
-		"active" : true
+		"awayScore" : 71,
+		"homeScore" : 65,
+		"cover" : "ALA"
 	},
 	{
 		"gameId" : 7,
@@ -80,7 +82,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-12-10T20:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 80,
+		"homeScore" : 77,
+		"cover" : "XAV"
 	},
 	{
 		"gameId" : 8,
@@ -90,7 +94,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-12-10T22:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 82,
+		"homeScore" : 73,
+		"cover" : "MEM"
 	},
 	{
 		"gameId" : 9,
@@ -100,7 +106,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-12-10T22:15Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 95,
+		"homeScore" : 67,
+		"cover" : "KU"
 	},
 	{
 		"gameId" : 10,
@@ -110,7 +118,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-12-11T00:30Z",
 		"channel": "FOX",
-		"active" : true
+		"awayScore" : 66,
+		"homeScore" : 53,
+		"cover" : "ZONA"
 	}
   ]
 }
