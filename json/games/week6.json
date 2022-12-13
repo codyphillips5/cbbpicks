@@ -20,7 +20,7 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-12-13T23:30Z",
 		"channel": "ACCN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 3,
