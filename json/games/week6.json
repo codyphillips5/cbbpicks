@@ -20,14 +20,16 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-12-13T23:30Z",
 		"channel": "ACCN",
-		"active": true
+		"awayScore" : 73,
+		"homeScore" : 92,
+		"cover" : "NCST"
 	},
 	{
 		"gameId" : 3,
 		"awayTeam" : "UCLA",
 		"homeTeam" : "MARY",
 		"favorite" : "MARY",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2022-12-15T02:00Z",
 		"channel": "FS1",
 		"active": false
