@@ -80,6 +80,8 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-12-17T20:00Z",
 		"channel": "CBS",
+		"overtime" : true,
+		"numberOfOT" : 1,
 		"awayScore" : 89,
 		"homeScore" : 85,
 		"cover" : "UNC"
