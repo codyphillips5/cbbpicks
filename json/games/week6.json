@@ -56,7 +56,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-12-17T18:00Z",
 		"channel": "CBS",
-		"active": true
+		"awayScore" : 90,
+		"homeScore" : 100,
+		"cover" : "GONZ"
 	},
 	{
 		"gameId" : 6,
