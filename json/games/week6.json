@@ -68,7 +68,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-12-17T19:00Z",
 		"channel": "ESPN2",
-		"active": true
+		"awayScore" : 69,
+		"homeScore" : 61,
+		"cover" : "HOU"
 	},
 	{
 		"gameId" : 7,
@@ -78,7 +80,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-12-17T20:00Z",
 		"channel": "CBS",
-		"active": true
+		"awayScore" : 89,
+		"homeScore" : 85,
+		"cover" : "UNC"
 	},
 	{
 		"gameId" : 8,
@@ -86,7 +90,7 @@
 		"homeTeam" : "UK",
 		"favorite" : "UCLA",
 		"spread" : 1.5,
-		"gameTime" : "2022-12-17T22:15Z",
+		"gameTime" : "2022-12-17T22:30Z",
 		"channel": "CBS",
 		"active": true
 	},
@@ -105,7 +109,7 @@
 		"awayTeam" : "IONA",
 		"homeTeam" : "UNM",
 		"favorite" : "UNM",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2022-12-18T23:30Z",
 		"channel": "FS1",
 		"active": false
