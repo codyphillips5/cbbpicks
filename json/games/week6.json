@@ -41,60 +41,60 @@
 		"awayTeam" : "IND",
 		"homeTeam" : "KU",
 		"favorite" : "KU",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2022-12-17T17:00Z",
 		"channel": "ESPN2",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 5,
 		"awayTeam" : "ALA",
 		"homeTeam" : "GONZ",
-		"favorite" : "GONZ",
-		"spread" : "-",
+		"favorite" : "ALA",
+		"spread" : 1.5,
 		"gameTime" : "2022-12-17T18:00Z",
 		"channel": "CBS",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 6,
 		"awayTeam" : "HOU",
 		"homeTeam" : "UVA",
-		"favorite" : "UVA",
-		"spread" : "-",
+		"favorite" : "HOU",
+		"spread" : 2.5,
 		"gameTime" : "2022-12-17T19:00Z",
 		"channel": "ESPN2",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "UNC",
 		"homeTeam" : "OSU",
-		"favorite" : "OSU",
-		"spread" : "-",
+		"favorite" : "UNC",
+		"spread" : 1.5,
 		"gameTime" : "2022-12-17T20:00Z",
 		"channel": "CBS",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "UCLA",
 		"homeTeam" : "UK",
-		"favorite" : "UK",
-		"spread" : "-",
+		"favorite" : "UCLA",
+		"spread" : 1.5,
 		"gameTime" : "2022-12-17T22:15Z",
 		"channel": "CBS",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "TENN",
 		"homeTeam" : "ZONA",
 		"favorite" : "ZONA",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2022-12-18T03:30Z",
 		"channel": "ESPN2",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 10,

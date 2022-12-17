@@ -1,0 +1,104 @@
+{
+  "games": [
+	{
+		"gameId" : 1,
+		"awayTeam" : "DUKE",
+		"homeTeam" : "WAKE",
+		"favorite" : "WAKE",
+		"spread" : "-",
+		"gameTime" : "2022-12-19T23:30Z",
+		"channel": "ACCN",
+		"active": false
+	},
+	{
+		"gameId" : 2,
+		"awayTeam" : "MARQ",
+		"homeTeam" : "PROV",
+		"favorite" : "PROV",
+		"spread" : "-",
+		"gameTime" : "2022-12-20T00:00Z",
+		"channel": "CBSSN",
+		"active": false
+	},
+	{
+		"gameId" : 3,
+		"awayTeam" : "UVA",
+		"homeTeam" : "MIA",
+		"favorite" : "MIA",
+		"spread" : "-",
+		"gameTime" : "2022-12-20T01:30Z",
+		"channel": "ACCN",
+		"active": false
+	},
+	{
+		"gameId" : 4,
+		"awayTeam" : "FLA",
+		"homeTeam" : "OKLA",
+		"favorite" : "OKLA",
+		"spread" : "-",
+		"gameTime" : "2022-12-20T02:30Z",
+		"channel": "ESPN2",
+		"active": false
+	},
+	{
+		"gameId" : 5,
+		"awayTeam" : "MICH",
+		"homeTeam" : "UNC",
+		"favorite" : "UNC",
+		"spread" : "-",
+		"gameTime" : "2022-12-21T00:00Z",
+		"channel": "ESPN",
+		"active": false
+	},
+	{
+		"gameId" : 6,
+		"awayTeam" : "TCU",
+		"homeTeam" : "UTAH",
+		"favorite" : "UTAH",
+		"spread" : "-",
+		"gameTime" : "2022-12-22T02:00Z",
+		"channel": "PAC12",
+		"active": false
+	},
+	{
+		"gameId" : 7,
+		"awayTeam" : "AZST",
+		"homeTeam" : "DONS",
+		"favorite" : "DONS",
+		"spread" : "-",
+		"gameTime" : "2022-12-22T03:00Z",
+		"channel": "CBSSN",
+		"active": false
+	},
+	{
+		"gameId" : 8,
+		"awayTeam" : "ILL",
+		"homeTeam" : "MIZ",
+		"favorite" : "MIZ",
+		"spread" : "-",
+		"gameTime" : "2022-12-23T02:00Z",
+		"channel": "SECN",
+		"active": false
+	},
+	{
+		"gameId" : 9,
+		"awayTeam" : "UNLV",
+		"homeTeam" : "SMISS",
+		"favorite" : "SMISS",
+		"spread" : "-",
+		"gameTime" : "2022-12-23T03:00Z",
+		"channel": "MTN",
+		"active": false
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2022-12-25T01:30Z",
+		"channel": "ESPN2",
+		"active": false
+	}
+  ]
+}
