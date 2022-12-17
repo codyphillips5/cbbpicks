@@ -44,7 +44,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2022-12-17T17:00Z",
 		"channel": "ESPN2",
-		"active": true
+		"awayScore" : 62,
+		"homeScore" : 84,
+		"cover" : "KU"
 	},
 	{
 		"gameId" : 5,
