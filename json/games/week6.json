@@ -106,7 +106,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-12-18T03:30Z",
 		"channel": "ESPN2",
-		"active": true
+		"awayScore" : 70,
+		"homeScore" : 75,
+		"cover" : "ZONA"
 	},
 	{
 		"gameId" : 10,
