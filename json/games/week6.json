@@ -94,7 +94,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-12-17T22:30Z",
 		"channel": "CBS",
-		"active": true
+		"awayScore" : 63,
+		"homeScore" : 53,
+		"cover" : "UCLA"
 	},
 	{
 		"gameId" : 9,
