@@ -6,7 +6,7 @@
 		"homeTeam" : "WAKE",
 		"favorite" : "WAKE",
 		"spread" : "-",
-		"gameTime" : "2022-12-19T23:30Z",
+		"gameTime" : "2022-12-20T23:30Z",
 		"channel": "ACCN",
 		"active": false
 	},
@@ -16,7 +16,7 @@
 		"homeTeam" : "PROV",
 		"favorite" : "PROV",
 		"spread" : "-",
-		"gameTime" : "2022-12-20T00:00Z",
+		"gameTime" : "2022-12-21T00:00Z",
 		"channel": "CBSSN",
 		"active": false
 	},
@@ -26,7 +26,7 @@
 		"homeTeam" : "MIA",
 		"favorite" : "MIA",
 		"spread" : "-",
-		"gameTime" : "2022-12-20T01:30Z",
+		"gameTime" : "2022-12-21T01:30Z",
 		"channel": "ACCN",
 		"active": false
 	},
@@ -36,7 +36,7 @@
 		"homeTeam" : "OKLA",
 		"favorite" : "OKLA",
 		"spread" : "-",
-		"gameTime" : "2022-12-20T02:30Z",
+		"gameTime" : "2022-12-21T02:30Z",
 		"channel": "ESPN2",
 		"active": false
 	},
@@ -46,7 +46,7 @@
 		"homeTeam" : "UNC",
 		"favorite" : "UNC",
 		"spread" : "-",
-		"gameTime" : "2022-12-21T00:00Z",
+		"gameTime" : "2022-12-22T00:00Z",
 		"channel": "ESPN",
 		"active": false
 	},
@@ -96,7 +96,7 @@
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
 		"spread" : "-",
-		"gameTime" : "2022-12-25T01:30Z",
+		"gameTime" : "2022-12-26T01:30Z",
 		"channel": "ESPN2",
 		"active": false
 	}
