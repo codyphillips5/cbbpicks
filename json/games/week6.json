@@ -118,7 +118,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-12-18T23:30Z",
 		"channel": "FS1",
-		"active": true
+		"awayScore" : 74,
+		"homeScore" : 82,
+		"cover" : "UNM"
 	}
   ]
 }
