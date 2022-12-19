@@ -12,7 +12,7 @@
 		"FirstName" : "Brandon",
 		"LastName" : "Oathout",
 		"Email" : "brandon_oathout@yahoo.com",
-		"paid" : true
+		"paid" : false
     },
 	{
 		"userId" : 3,
@@ -33,7 +33,7 @@
 		"FirstName" : "Eric",
 		"LastName" : "Schlesinger",
 		"Email" : "cosmocon@yahoo.com",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 6,
@@ -47,14 +47,14 @@
 		"FirstName" : "Danny",
 		"LastName" : "Telles",
 		"Email" : "dantelles0@gmail.com",
-		"paid" : false
+		"paid" : true
     },
     {
 		"userId" : 8,
 		"FirstName" : "Ernie",
 		"LastName" : "Macke",
 		"Email" : "ernst_macke@yahoo.com",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 9,
@@ -75,7 +75,7 @@
 		"FirstName" : "Mike",
 		"LastName" : "Harrell",
 		"Email" : "harrellm5@gmail.com",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 12,
@@ -96,7 +96,7 @@
 		"FirstName" : "Jerry",
 		"LastName" : "Heard",
 		"Email" : "jheard@fuse.net",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 15,
@@ -110,7 +110,7 @@
 		"FirstName" : "Jarrod",
 		"LastName" : "Bolden",
 		"Email" : "kappachino9@yahoo.com",
-		"paid" : true
+		"paid" : false
     },	
 	{
 		"userId" : 17,
@@ -138,7 +138,7 @@
 		"FirstName" : "Marty",
 		"LastName" : "Bross",
 		"Email" : "marty.bross@cbre.com",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 21,
@@ -152,14 +152,14 @@
 		"FirstName" : "Bert",
 		"LastName" : "McCullough",
 		"Email" : "mccullrt@gmail.com",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 23,
 		"FirstName" : "Mike",
 		"LastName" : "Willett",
 		"Email" : "mike.willett@cbre.com",
-		"paid" : true
+		"paid" : false
     },
 	{
 		"userId" : 24,
