@@ -8,27 +8,27 @@
 		"spread" : 0,
 		"gameTime" : "2022-12-21T00:00Z",
 		"channel": "CBSSN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 2,
 		"awayTeam" : "UVA",
 		"homeTeam" : "MIA",
 		"favorite" : "UVA",
-		"spread" : 2.5,
+		"spread" : 3.5,
 		"gameTime" : "2022-12-21T01:30Z",
 		"channel": "ACCN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 3,
 		"awayTeam" : "OKLA",
 		"homeTeam" : "FLA",
 		"favorite" : "FLA",
-		"spread" : 1.5,
+		"spread" : 3.5,
 		"gameTime" : "2022-12-21T02:30Z",
 		"channel": "ESPN2",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 4,
