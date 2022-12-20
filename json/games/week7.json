@@ -82,9 +82,9 @@
 	},
 	{
 		"gameId" : 9,
-		"awayTeam" : "UNLV",
-		"homeTeam" : "SMISS",
-		"favorite" : "SMISS",
+		"awayTeam" : "SMISS",
+		"homeTeam" : "UNLV",
+		"favorite" : "UNLV",
 		"spread" : "-",
 		"gameTime" : "2022-12-23T03:00Z",
 		"channel": "MTN",
