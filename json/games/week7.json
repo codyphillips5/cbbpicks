@@ -2,16 +2,6 @@
   "games": [
 	{
 		"gameId" : 1,
-		"awayTeam" : "DUKE",
-		"homeTeam" : "WAKE",
-		"favorite" : "WAKE",
-		"spread" : "-",
-		"gameTime" : "2022-12-20T23:30Z",
-		"channel": "ACCN",
-		"active": false
-	},
-	{
-		"gameId" : 2,
 		"awayTeam" : "MARQ",
 		"homeTeam" : "PROV",
 		"favorite" : "PROV",
@@ -21,7 +11,7 @@
 		"active": false
 	},
 	{
-		"gameId" : 3,
+		"gameId" : 2,
 		"awayTeam" : "UVA",
 		"homeTeam" : "MIA",
 		"favorite" : "MIA",
@@ -31,7 +21,7 @@
 		"active": false
 	},
 	{
-		"gameId" : 4,
+		"gameId" : 3,
 		"awayTeam" : "FLA",
 		"homeTeam" : "OKLA",
 		"favorite" : "OKLA",
@@ -41,7 +31,7 @@
 		"active": false
 	},
 	{
-		"gameId" : 5,
+		"gameId" : 4,
 		"awayTeam" : "MICH",
 		"homeTeam" : "UNC",
 		"favorite" : "UNC",
@@ -51,7 +41,7 @@
 		"active": false
 	},
 	{
-		"gameId" : 6,
+		"gameId" : 5,
 		"awayTeam" : "TCU",
 		"homeTeam" : "UTAH",
 		"favorite" : "UTAH",
@@ -61,13 +51,23 @@
 		"active": false
 	},
 	{
-		"gameId" : 7,
+		"gameId" : 6,
 		"awayTeam" : "AZST",
 		"homeTeam" : "DONS",
 		"favorite" : "DONS",
 		"spread" : "-",
 		"gameTime" : "2022-12-22T03:00Z",
 		"channel": "CBSSN",
+		"active": false
+	},
+	{
+		"gameId" : 7,
+		"awayTeam" : "CHAR",
+		"homeTeam" : "UAB",
+		"favorite" : "UAB",
+		"spread" : "-",
+		"gameTime" : "2022-12-23T00:30Z",
+		"channel": "BTN",
 		"active": false
 	},
 	{

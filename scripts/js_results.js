@@ -6,7 +6,7 @@ var coversResultsTeam = [];
 var picksList, teamsList, resultsList, usersList;
 var badge = document.createElement('div');
 badge.className = 'standings';
-var weekNum = 6;
+var weekNum = 7;
 var weekList = "";
 var check = "";
 
