@@ -7,8 +7,12 @@
 		"favorite" : "PROV",
 		"spread" : 0,
 		"gameTime" : "2022-12-21T00:00Z",
-		"channel": "CBSSN",
-		"active": true
+		"channel": "CBSSN"
+		"overtime" : true,
+		"numberOfOT" : 2,
+		"awayScore" : 98,
+		"homeScore" : 103,
+		"cover" : "PROV"
 	},
 	{
 		"gameId" : 2,
@@ -18,7 +22,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-12-21T01:30Z",
 		"channel": "ACCN",
-		"active": true
+		"awayScore" : 64,
+		"homeScore" : 66,
+		"cover" : "MIA"
 	},
 	{
 		"gameId" : 3,
@@ -28,14 +34,16 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-12-21T02:30Z",
 		"channel": "ESPN2",
-		"active": true
+		"awayScore" : 62,
+		"homeScore" : 53,
+		"cover" : "OKLA"
 	},
 	{
 		"gameId" : 4,
 		"awayTeam" : "MICH",
 		"homeTeam" : "UNC",
 		"favorite" : "UNC",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2022-12-22T00:00Z",
 		"channel": "ESPN",
 		"active": false
@@ -45,7 +53,7 @@
 		"awayTeam" : "TCU",
 		"homeTeam" : "UTAH",
 		"favorite" : "UTAH",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2022-12-22T02:00Z",
 		"channel": "PAC12",
 		"active": false
@@ -54,8 +62,8 @@
 		"gameId" : 6,
 		"awayTeam" : "AZST",
 		"homeTeam" : "DONS",
-		"favorite" : "DONS",
-		"spread" : "-",
+		"favorite" : "AZST",
+		"spread" : 3.5,
 		"gameTime" : "2022-12-22T03:00Z",
 		"channel": "CBSSN",
 		"active": false
