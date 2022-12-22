@@ -76,22 +76,22 @@
 	},
 	{
 		"gameId" : 7,
-		"awayTeam" : "CHAR",
-		"homeTeam" : "UAB",
-		"favorite" : "UAB",
-		"spread" : 10.5,
-		"gameTime" : "2022-12-23T00:30Z",
-		"channel": "ESPN+",
-		"active": true
-	},
-	{
-		"gameId" : 8,
 		"awayTeam" : "ILL",
 		"homeTeam" : "MIZ",
 		"favorite" : "ILL",
 		"spread" : 6.5,
 		"gameTime" : "2022-12-23T02:00Z",
 		"channel": "SECN",
+		"active": true
+	},
+	{
+		"gameId" : 8,
+		"awayTeam" : "UTEP",
+		"homeTeam" : "KENT",
+		"favorite" : "KENT",
+		"spread" : 7.5,
+		"gameTime" : "2022-12-23T02:30Z",
+		"channel": "YouTube",
 		"active": true
 	},
 	{
