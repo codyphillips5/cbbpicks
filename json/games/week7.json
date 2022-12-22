@@ -58,9 +58,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-12-22T02:00Z",
 		"channel": "PAC12",
-		"awayScore" : ,
-		"homeScore" : ,
-		"cover" : ""
+		"awayScore" : 75,
+		"homeScore" : 71,
+		"cover" : "TCU"
 	},
 	{
 		"gameId" : 6,
