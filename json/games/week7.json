@@ -46,7 +46,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2022-12-22T00:00Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore" : 76,
+		"homeScore" : 80,
+		"cover" : "MICH"
 	},
 	{
 		"gameId" : 5,
