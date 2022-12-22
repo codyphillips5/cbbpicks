@@ -58,7 +58,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-12-22T02:00Z",
 		"channel": "PAC12",
-		"active": true
+		"awayScore" : ,
+		"homeScore" : ,
+		"cover" : ""
 	},
 	{
 		"gameId" : 6,
@@ -85,7 +87,7 @@
 		"awayTeam" : "ILL",
 		"homeTeam" : "MIZ",
 		"favorite" : "ILL",
-		"spread" : 5.5,
+		"spread" : 6.5,
 		"gameTime" : "2022-12-23T02:00Z",
 		"channel": "SECN",
 		"active": false
