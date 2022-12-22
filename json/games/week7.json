@@ -70,7 +70,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-12-22T03:00Z",
 		"channel": "CBSSN",
-		"active": true
+		"awayScore" : 60,
+		"homeScore" : 97,
+		"cover" : "DONS"
 	},
 	{
 		"gameId" : 7,
