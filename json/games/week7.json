@@ -82,7 +82,7 @@
 		"spread" : 10.5,
 		"gameTime" : "2022-12-23T00:30Z",
 		"channel": "ESPN+",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 8,
@@ -92,7 +92,7 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-12-23T02:00Z",
 		"channel": "SECN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 9,
@@ -102,7 +102,7 @@
 		"spread" : 8.5,
 		"gameTime" : "2022-12-23T03:00Z",
 		"channel": "MTN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 10,
