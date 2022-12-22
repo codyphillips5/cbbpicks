@@ -75,7 +75,7 @@
 		"awayTeam" : "CHAR",
 		"homeTeam" : "UAB",
 		"favorite" : "UAB",
-		"spread" : "-",
+		"spread" : 10.5,
 		"gameTime" : "2022-12-23T00:30Z",
 		"channel": "ESPN+",
 		"active": false
@@ -84,8 +84,8 @@
 		"gameId" : 8,
 		"awayTeam" : "ILL",
 		"homeTeam" : "MIZ",
-		"favorite" : "MIZ",
-		"spread" : "-",
+		"favorite" : "ILL",
+		"spread" : 5.5,
 		"gameTime" : "2022-12-23T02:00Z",
 		"channel": "SECN",
 		"active": false
@@ -95,7 +95,7 @@
 		"awayTeam" : "SMISS",
 		"homeTeam" : "UNLV",
 		"favorite" : "UNLV",
-		"spread" : "-",
+		"spread" : 8.5,
 		"gameTime" : "2022-12-23T03:00Z",
 		"channel": "MTN",
 		"active": false
