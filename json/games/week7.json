@@ -82,7 +82,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-12-23T02:00Z",
 		"channel": "SECN",
-		"active": true
+		"awayScore" : 71,
+		"homeScore" : 93,
+		"cover" : "MIZ"
 	},
 	{
 		"gameId" : 8,
@@ -92,7 +94,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2022-12-23T02:30Z",
 		"channel": "YouTube",
-		"active": true
+		"awayScore" : 46,
+		"homeScore" : 47,
+		"cover" : "UTEP"
 	},
 	{
 		"gameId" : 9,
@@ -102,7 +106,9 @@
 		"spread" : 8.5,
 		"gameTime" : "2022-12-23T03:00Z",
 		"channel": "MTN",
-		"active": true
+		"awayScore" : 63,
+		"homeScore" : 74,
+		"cover" : "UNLV"
 	},
 	{
 		"gameId" : 10,
