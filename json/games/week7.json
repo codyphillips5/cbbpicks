@@ -112,13 +112,13 @@
 	},
 	{
 		"gameId" : 10,
-		"awayTeam" : "HAW",
-		"homeTeam" : "SMU",
-		"favorite" : "SMU",
-		"spread" : "-",
+		"awayTeam" : "SMU",
+		"homeTeam" : "HAW",
+		"favorite" : "HAW",
+		"spread" : 5.5,
 		"gameTime" : "2022-12-26T02:00Z",
 		"channel": "ESPN2",
-		"active": false
+		"active": true
 	}
   ]
 }
