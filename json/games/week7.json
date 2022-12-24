@@ -112,11 +112,11 @@
 	},
 	{
 		"gameId" : 10,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "HAW",
+		"homeTeam" : "SMU",
+		"favorite" : "SMU",
 		"spread" : "-",
-		"gameTime" : "2022-12-26T01:30Z",
+		"gameTime" : "2022-12-26T02:00Z",
 		"channel": "ESPN2",
 		"active": false
 	}
