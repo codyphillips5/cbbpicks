@@ -32,9 +32,9 @@
 	},
 	{
 		"gameId" : 4,
-		"awayTeam" : "FAU",
-		"homeTeam" : "UNT",
-		"favorite" : "UNT",
+		"awayTeam" : "SHSU",
+		"homeTeam" : "UTVAL",
+		"favorite" : "UTVAL",
 		"spread" : "-",
 		"gameTime" : "2022-12-30T01:00Z",
 		"channel": "ESPN+",
