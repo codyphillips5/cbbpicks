@@ -4,8 +4,8 @@
 		"gameId" : 1,
 		"awayTeam" : "UK",
 		"homeTeam" : "MIZ",
-		"favorite" : "MIZ",
-		"spread" : "-",
+		"favorite" : "UK",
+		"spread" : 2.5,
 		"gameTime" : "2022-12-29T00:00Z",
 		"channel": "SECN",
 		"active": false
@@ -14,8 +14,8 @@
 		"gameId" : 2,
 		"awayTeam" : "ARK",
 		"homeTeam" : "LSU",
-		"favorite" : "LSU",
-		"spread" : "-",
+		"favorite" : "ARK",
+		"spread" : 5.5,
 		"gameTime" : "2022-12-29T02:00Z",
 		"channel": "ESPN2",
 		"active": false
@@ -24,8 +24,8 @@
 		"gameId" : 3,
 		"awayTeam" : "ALA",
 		"homeTeam" : "MSST",
-		"favorite" : "MSST",
-		"spread" : "-",
+		"favorite" : "ALA",
+		"spread" : 2.5,
 		"gameTime" : "2022-12-29T02:00Z",
 		"channel": "SECN",
 		"active": false
