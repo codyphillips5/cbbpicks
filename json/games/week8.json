@@ -8,7 +8,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-12-29T00:00Z",
 		"channel": "SECN",
-		"active": true
+		"awayScore" : 75,
+		"homeScore" : 89,
+		"cover" : "MIZ"
 	},
 	{
 		"gameId" : 2,
@@ -18,7 +20,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2022-12-29T02:00Z",
 		"channel": "ESPN2",
-		"active": true
+		"awayScore" : 57,
+		"homeScore" : 60,
+		"cover" : "LSU"
 	},
 	{
 		"gameId" : 3,
@@ -28,7 +32,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-12-29T02:00Z",
 		"channel": "SECN",
-		"active": true
+		"awayScore" : 78,
+		"homeScore" : 67,
+		"cover" : "ALA"
 	},
 	{
 		"gameId" : 4,
