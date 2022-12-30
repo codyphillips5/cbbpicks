@@ -44,7 +44,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-12-30T01:00Z",
 		"channel": "ESPN+",
-		"active": true
+		"awayScore" : 64,
+		"homeScore" : 80,
+		"cover" : "UTVAL"
 	},
 	{
 		"gameId" : 5,
