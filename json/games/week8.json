@@ -52,28 +52,28 @@
 		"gameId" : 5,
 		"awayTeam" : "UCONN",
 		"homeTeam" : "XAV",
-		"favorite" : "XAV",
-		"spread" : "-",
+		"favorite" : "UCONN",
+		"spread" : 2.5,
 		"gameTime" : "2022-12-31T17:00Z",
 		"channel": "FOX",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 6,
 		"awayTeam" : "TTU",
 		"homeTeam" : "TCU",
 		"favorite" : "TCU",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2022-12-31T17:00Z",
 		"channel": "ESPNU",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "BU",
 		"homeTeam" : "ISU",
-		"favorite" : "ISU",
-		"spread" : "-",
+		"favorite" : "BU",
+		"spread" : 1.5,
 		"gameTime" : "2022-12-31T19:00Z",
 		"channel": "ESPNU",
 		"active": false
@@ -82,31 +82,31 @@
 		"gameId" : 8,
 		"awayTeam" : "ZONA",
 		"homeTeam" : "AZST",
-		"favorite" : "AZST",
-		"spread" : "-",
+		"favorite" : "ZONA",
+		"spread" : 6.5,
 		"gameTime" : "2022-12-31T19:00Z",
 		"channel": "FOX",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "SDSU",
 		"homeTeam" : "UNLV",
-		"favorite" : "UNLV",
-		"spread" : "-",
+		"favorite" : "SDSU",
+		"spread" : 3.5,
 		"gameTime" : "2022-12-31T21:00Z",
 		"channel": "CBS",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "WVU",
 		"homeTeam" : "KSST",
 		"favorite" : "KSST",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2023-01-01T00:00Z",
 		"channel": "ESPN+",
-		"active": false
+		"active": true
 	}
   ]
 }
