@@ -2,36 +2,26 @@
   "games": [
 	{
 		"gameId" : 1,
-		"awayTeam" : "MARQ",
-		"homeTeam" : "SJU",
-		"favorite" : "SJU",
+		"awayTeam" : "MSST",
+		"homeTeam" : "TENN",
+		"favorite" : "TENN",
 		"spread" : "-",
-		"gameTime" : "2023-01-03T23:30Z",
-		"channel": "FS1",
+		"gameTime" : "2023-01-04T00:00Z",
+		"channel": "ESPN2",
 		"active": false
 	},
 	{
 		"gameId" : 2,
-		"awayTeam" : "PSU",
-		"homeTeam" : "MICH",
-		"favorite" : "MICH",
-		"spread" : "-",
-		"gameTime" : "2023-01-05T00:00Z",
-		"channel": "B1G",
-		"active": false
-	},
-	{
-		"gameId" : 3,
 		"awayTeam" : "TCU",
 		"homeTeam" : "BU",
 		"favorite" : "BU",
 		"spread" : "-",
 		"gameTime" : "2023-01-05T02:00Z",
-		"channel": "",
+		"channel": "ESPN2",
 		"active": false
 	},
 	{
-		"gameId" : 4,
+		"gameId" : 3,
 		"awayTeam" : "ILL",
 		"homeTeam" : "NW",
 		"favorite" : "NW",
@@ -41,7 +31,7 @@
 		"active": false
 	},
 	{
-		"gameId" : 5,
+		"gameId" : 4,
 		"awayTeam" : "PURD",
 		"homeTeam" : "OSU",
 		"favorite" : "OSU",
@@ -51,13 +41,23 @@
 		"active": false
 	},
 	{
-		"gameId" : 6,
+		"gameId" : 5,
 		"awayTeam" : "UAB",
 		"homeTeam" : "FAU",
 		"favorite" : "FAU",
 		"spread" : "-",
 		"gameTime" : "2023-01-06T00:00Z",
 		"channel": "ESPN+",
+		"active": false
+	},
+	{
+		"gameId" : 6,
+		"awayTeam" : "USC",
+		"homeTeam" : "UCLA",
+		"favorite" : "UCLA",
+		"spread" : "-",
+		"gameTime" : "2023-01-06T02:30Z",
+		"channel": "ESPN",
 		"active": false
 	},
 	{
