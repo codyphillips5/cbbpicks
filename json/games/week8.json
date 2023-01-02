@@ -56,7 +56,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2022-12-31T17:00Z",
 		"channel": "FOX",
-		"active": true
+		"awayScore" : 73,
+		"homeScore" : 83,
+		"cover" : "XAV"
 	},
 	{
 		"gameId" : 6,
@@ -66,7 +68,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2022-12-31T17:00Z",
 		"channel": "ESPNU",
-		"active": true
+		"awayScore" : 61,
+		"homeScore" : 67,
+		"cover" : "TCU"
 	},
 	{
 		"gameId" : 7,
@@ -76,7 +80,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2022-12-31T19:00Z",
 		"channel": "ESPNU",
-		"active": true
+		"awayScore" : 62,
+		"homeScore" : 77,
+		"cover" : "ISU"
 	},
 	{
 		"gameId" : 8,
@@ -86,7 +92,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2022-12-31T19:00Z",
 		"channel": "FOX",
-		"active": true
+		"awayScore" : 69,
+		"homeScore" : 60,
+		"cover" : "ZONA"
 	},
 	{
 		"gameId" : 9,
@@ -96,7 +104,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2022-12-31T21:00Z",
 		"channel": "CBS",
-		"active": true
+		"awayScore" : 76,
+		"homeScore" : 67,
+		"cover" : "SDSU"
 	},
 	{
 		"gameId" : 10,
@@ -106,7 +116,11 @@
 		"spread" : 1.5,
 		"gameTime" : "2023-01-01T00:00Z",
 		"channel": "ESPN+",
-		"active": true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 76,
+		"homeScore" : 82,
+		"cover" : "KSST"
 	}
   ]
 }
