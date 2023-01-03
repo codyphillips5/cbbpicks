@@ -5,10 +5,10 @@
 		"awayTeam" : "MSST",
 		"homeTeam" : "TENN",
 		"favorite" : "TENN",
-		"spread" : "-",
+		"spread" : 9.5,
 		"gameTime" : "2023-01-04T00:00Z",
 		"channel": "ESPN2",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 2,
