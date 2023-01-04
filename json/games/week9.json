@@ -17,20 +17,20 @@
 		"awayTeam" : "UCONN",
 		"homeTeam" : "PROV",
 		"favorite" : "UCONN",
-		"spread" : 4.5,
+		"spread" : 5.5,
 		"gameTime" : "2023-01-05T01:30Z",
 		"channel": "FS1",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 3,
 		"awayTeam" : "ILL",
 		"homeTeam" : "NW",
 		"favorite" : "ILL",
-		"spread" : 2.5,
+		"spread" : 3.5,
 		"gameTime" : "2023-01-05T02:00Z",
 		"channel": "B1G",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 4,
