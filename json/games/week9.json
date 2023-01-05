@@ -44,17 +44,17 @@
 		"spread" : 1.5,
 		"gameTime" : "2023-01-06T00:00Z",
 		"channel": "FS1",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 5,
 		"awayTeam" : "UAB",
 		"homeTeam" : "FAU",
 		"favorite" : "FAU",
-		"spread" : 3.5,
+		"spread" : 2.5,
 		"gameTime" : "2023-01-06T00:00Z",
 		"channel": "ESPN+",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 6,
