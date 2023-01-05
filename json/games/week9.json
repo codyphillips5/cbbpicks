@@ -20,7 +20,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-01-05T01:30Z",
 		"channel": "FS1",
-		"active": true
+		"awayScore" : 61,
+		"homeScore" : 73,
+		"cover" : "PROV"
 	},
 	{
 		"gameId" : 3,
@@ -30,7 +32,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2023-01-05T02:00Z",
 		"channel": "B1G",
-		"active": true
+		"awayScore" : 60,
+		"homeScore" : 73,
+		"cover" : "NW"
 	},
 	{
 		"gameId" : 4,
