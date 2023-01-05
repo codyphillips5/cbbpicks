@@ -41,7 +41,7 @@
 		"awayTeam" : "PURD",
 		"homeTeam" : "OSU",
 		"favorite" : "OSU",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2023-01-06T00:00Z",
 		"channel": "FS1",
 		"active": false
@@ -51,39 +51,39 @@
 		"awayTeam" : "UAB",
 		"homeTeam" : "FAU",
 		"favorite" : "FAU",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2023-01-06T00:00Z",
 		"channel": "ESPN+",
 		"active": false
 	},
 	{
 		"gameId" : 6,
-		"awayTeam" : "USC",
-		"homeTeam" : "UCLA",
-		"favorite" : "UCLA",
+		"awayTeam" : "ISU",
+		"homeTeam" : "TCU",
+		"favorite" : "TCU",
 		"spread" : "-",
-		"gameTime" : "2023-01-06T02:30Z",
-		"channel": "ESPN",
+		"gameTime" : "2023-01-07T19:00Z",
+		"channel": "ESPNU",
 		"active": false
 	},
 	{
 		"gameId" : 7,
-		"awayTeam" : "UK",
-		"homeTeam" : "ALA",
-		"favorite" : "ALA",
-		"spread" : "-",
-		"gameTime" : "2023-01-07T18:00Z",
-		"channel": "ESPN",
-		"active": false
-	},
-	{
-		"gameId" : 8,
 		"awayTeam" : "USU",
 		"homeTeam" : "BSU",
 		"favorite" : "BSU",
 		"spread" : "-",
 		"gameTime" : "2023-01-07T23:30Z",
 		"channel": "FS1",
+		"active": false
+	},
+	{
+		"gameId" : 8,,
+		"awayTeam" : "NCST",
+		"homeTeam" : "VT",
+		"favorite" : "VT",
+		"spread" : "-",
+		"gameTime" : "2023-01-08T00:30Z",
+		"channel": "ESPN3",
 		"active": false
 	},
 	{
