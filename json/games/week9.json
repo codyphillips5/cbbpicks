@@ -44,7 +44,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2023-01-06T00:00Z",
 		"channel": "FS1",
-		"active": true
+		"awayScore" : 71,
+		"homeScore" : 69,
+		"cover" : "PURD"
 	},
 	{
 		"gameId" : 5,
@@ -54,7 +56,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2023-01-06T00:00Z",
 		"channel": "ESPN+",
-		"active": true
+		"awayScore" : 86,
+		"homeScore" : 88,
+		"cover" : "UAB"
 	},
 	{
 		"gameId" : 6,
