@@ -65,50 +65,50 @@
 		"awayTeam" : "ISU",
 		"homeTeam" : "TCU",
 		"favorite" : "TCU",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2023-01-07T19:00Z",
 		"channel": "ESPNU",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "USU",
 		"homeTeam" : "BSU",
 		"favorite" : "BSU",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2023-01-07T23:30Z",
 		"channel": "FS1",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "NCST",
 		"homeTeam" : "VT",
 		"favorite" : "VT",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2023-01-08T00:30Z",
 		"channel": "ESPN3",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "ARK",
 		"homeTeam" : "AUB",
 		"favorite" : "AUB",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2023-01-08T01:30Z",
 		"channel": "SECN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "UNLV",
 		"homeTeam" : "UNM",
 		"favorite" : "UNM",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2023-01-08T02:30Z",
 		"channel": "CBSSN",
-		"active": false
+		"active": true
 	}
   ]
 }
