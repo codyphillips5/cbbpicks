@@ -80,7 +80,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2023-01-07T23:30Z",
 		"channel": "FS1",
-		"active": true
+		"awayScore" : 59,
+		"homeScore" : 82,
+		"cover" : "BSU"
 	},
 	{
 		"gameId" : 8,
@@ -90,7 +92,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-01-08T00:30Z",
 		"channel": "ESPN3",
-		"active": true
+		"awayScore" : 73,
+		"homeScore" : 69,
+		"cover" : "NCST"
 	},
 	{
 		"gameId" : 9,
@@ -100,7 +104,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2023-01-08T01:30Z",
 		"channel": "SECN",
-		"active": true
+		"awayScore" : 59,
+		"homeScore" : 72,
+		"cover" : "AUB"
 	},
 	{
 		"gameId" : 10,
@@ -110,7 +116,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-01-08T02:30Z",
 		"channel": "CBSSN",
-		"active": true
+		"awayScore" : 84,
+		"homeScore" : 77,
+		"cover" : "UNLV"
 	}
   ]
 }
