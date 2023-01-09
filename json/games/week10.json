@@ -72,7 +72,6 @@
 	},
 	{
 		"gameId" : 8,
-	},
 		"awayTeam" : "WVU",
 		"homeTeam" : "OKLA",
 		"favorite" : "OKLA",
@@ -80,6 +79,7 @@
 		"gameTime" : "2023-01-14T17:00Z",
 		"channel": "ESPN2",
 		"active" : false
+	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "OKST",
