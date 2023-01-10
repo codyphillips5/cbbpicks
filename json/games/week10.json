@@ -8,14 +8,16 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-01-10T02:00Z",
 		"channel": "MTN",
-		"active" : true
+		"awayScore" : 75,
+		"homeScore" : 82,
+		"cover" : "UNM"
 	},
 	{
 		"gameId" : 2,
 		"awayTeam" : "OKST",
 		"homeTeam" : "KSST",
 		"favorite" : "KSST",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2023-01-11T00:00Z",
 		"channel": "ESPNU",
 		"active" : false
@@ -25,7 +27,7 @@
 		"awayTeam" : "UNC",
 		"homeTeam" : "UVA",
 		"favorite" : "UVA",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2023-01-11T02:00Z",
 		"channel": "ESPN",
 		"active" : false
