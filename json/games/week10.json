@@ -44,17 +44,17 @@
 		"spread" : 2.5,
 		"gameTime" : "2023-01-12T00:00Z",
 		"channel": "CBSSN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 5,
 		"awayTeam" : "COFCH",
 		"homeTeam" : "UNCW",
 		"favorite" : "COFCH",
-		"spread" : 2.5,
+		"spread" : 3.5,
 		"gameTime" : "2023-01-12T00:00Z",
 		"channel": "FloSports",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 6,
