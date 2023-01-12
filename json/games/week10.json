@@ -92,12 +92,12 @@
 	},
 	{
 		"gameId" : 9,
-		"awayTeam" : "KSST",
-		"homeTeam" : "TCU",
-		"favorite" : "TCU",
+		"awayTeam" : "DUKE",
+		"homeTeam" : "CLEM",
+		"favorite" : "CLEM",
 		"spread" : "-",
-		"gameTime" : "2023-01-14T19:00Z",
-		"channel": "ESPN2",
+		"gameTime" : "2023-01-14T22:00Z",
+		"channel": "ACCN",
 		"active" : false
 	},
 	{
