@@ -65,10 +65,10 @@
 		"awayTeam" : "USU",
 		"homeTeam" : "NEV",
 		"favorite" : "NEV",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2023-01-14T04:00Z",
 		"channel": "FS1",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
