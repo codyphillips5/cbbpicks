@@ -8,10 +8,10 @@
 		"game4" : "UCONN",
 		"game5" : "COFCH",
 		"game6" : "NEV",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "MIA",
+		"game8" : "OKLA",
+		"game9" : "DUKE",
+		"game10" : "TEX"
     },
     {
 		"userId" : 2,
@@ -21,10 +21,10 @@
 		"game4" : "MARQ",
 		"game5" : "COFCH",
 		"game6" : "NEV",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "NCST",
+		"game8" : "WVU",
+		"game9" : "DUKE",
+		"game10" : "TTU"
     },
     {
 		"userId" : 3,
@@ -34,10 +34,10 @@
 		"game4" : "MARQ",
 		"game5" : "COFCH",
 		"game6" : "NEV",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "MIA",
+		"game8" : "WVU",
+		"game9" : "CLEM",
+		"game10" : "TEX"
     },
 	{
 		"userId" : 4,
@@ -47,10 +47,10 @@
 		"game4" : "UCONN",
 		"game5" : "COFCH",
 		"game6" : "USU",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "MIA",
+		"game8" : "WVU",
+		"game9" : "DUKE",
+		"game10" : "TTU"
     },
 	{
 		"userId" : 5,
@@ -60,10 +60,10 @@
 		"game4" : "MARQ",
 		"game5" : "UNCW",
 		"game6" : "NEV",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "MIA",
+		"game8" : "WVU",
+		"game9" : "DUKE",
+		"game10" : "TTU"
     },
 	{
 		"userId" : 6,
@@ -73,10 +73,10 @@
 		"game4" : "UCONN",
 		"game5" : "UNCW",
 		"game6" : "NEV",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "NCST",
+		"game8" : "WVU",
+		"game9" : "CLEM",
+		"game10" : "TEX"
     },    
 	{
 		"userId" : 7,
@@ -86,10 +86,10 @@
 		"game4" : "UCONN",
 		"game5" : "COFCH",
 		"game6" : "NEV",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "NCST",
+		"game8" : "OKLA",
+		"game9" : "DUKE",
+		"game10" : "TTU"
     },
 	{
 		"userId" : 8,
@@ -99,10 +99,10 @@
 		"game4" : "",
 		"game5" : "",
 		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "MIA",
+		"game8" : "WVU",
+		"game9" : "DUKE",
+		"game10" : "TTU"
     },
 	{
 		"userId" : 9,
@@ -112,10 +112,10 @@
 		"game4" : "",
 		"game5" : "",
 		"game6" : "USU",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "MIA",
+		"game8" : "WVU",
+		"game9" : "CLEM",
+		"game10" : "TTU"
     },	
 	{
 		"userId" : 10,
@@ -125,10 +125,10 @@
 		"game4" : "MARQ",
 		"game5" : "UNCW",
 		"game6" : "NEV",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "MIA",
+		"game8" : "WVU",
+		"game9" : "CLEM",
+		"game10" : "TTU"
     },
 	{
 		"userId" : 11,
@@ -138,10 +138,10 @@
 		"game4" : "UCONN",
 		"game5" : "COFCH",
 		"game6" : "NEV",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "NCST",
+		"game8" : "OKLA",
+		"game9" : "DUKE",
+		"game10" : "TTU"
     },
 	{
 		"userId" : 12,
@@ -151,10 +151,10 @@
 		"game4" : "UCONN",
 		"game5" : "UNCW",
 		"game6" : "NEV",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "NCST",
+		"game8" : "WVU",
+		"game9" : "DUKE",
+		"game10" : "TTU"
     },
 	{
 		"userId" : 13,
@@ -164,10 +164,10 @@
 		"game4" : "UCONN",
 		"game5" : "COFCH",
 		"game6" : "NEV",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "MIA",
+		"game8" : "WVU",
+		"game9" : "DUKE",
+		"game10" : "TEX"
     },
 	{
 		"userId" : 14,
@@ -177,10 +177,10 @@
 		"game4" : "MARQ",
 		"game5" : "COFCH",
 		"game6" : "NEV",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "NCST",
+		"game8" : "OKLA",
+		"game9" : "CLEM",
+		"game10" : "TEX"
     },
 	{
 		"userId" : 15,
@@ -190,10 +190,10 @@
 		"game4" : "UCONN",
 		"game5" : "COFCH",
 		"game6" : "NEV",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "NCST",
+		"game8" : "OKLA",
+		"game9" : "DUKE",
+		"game10" : "TTU"
     },
 	{
 		"userId" : 16,
@@ -216,10 +216,10 @@
 		"game4" : "MARQ",
 		"game5" : "UNCW",
 		"game6" : "NEV",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "NCST",
+		"game8" : "OKLA",
+		"game9" : "CLEM",
+		"game10" : "TTU"
     },
 	{
 		"userId" : 18,
@@ -229,10 +229,10 @@
 		"game4" : "MARQ",
 		"game5" : "COFCH",
 		"game6" : "NEV",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "NCST",
+		"game8" : "WVU",
+		"game9" : "DUKE",
+		"game10" : "TEX"
     },
 	{
 		"userId" : 19,
@@ -242,10 +242,10 @@
 		"game4" : "MARQ",
 		"game5" : "UNCW",
 		"game6" : "NEV",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "MIA",
+		"game8" : "WVU",
+		"game9" : "CLEM",
+		"game10" : "TTU"
     },
 	{
 		"userId" : 20,
@@ -294,10 +294,10 @@
 		"game4" : "UCONN",
 		"game5" : "COFCH",
 		"game6" : "NEV",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "NCST",
+		"game8" : "WVU",
+		"game9" : "DUKE",
+		"game10" : "TEX"
     },
 	{
 		"userId" : 24,
@@ -307,10 +307,10 @@
 		"game4" : "UCONN",
 		"game5" : "UNCW",
 		"game6" : "NEV",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "NCST",
+		"game8" : "OKLA",
+		"game9" : "CLEM",
+		"game10" : "TEX"
     },
 	{
 		"userId" : 25,
@@ -320,10 +320,10 @@
 		"game4" : "UCONN",
 		"game5" : "COFCH",
 		"game6" : "USU",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "NCST",
+		"game8" : "WVU",
+		"game9" : "DUKE",
+		"game10" : "TEX"
     },
 	{
 		"userId" : 26,
@@ -333,10 +333,10 @@
 		"game4" : "MARQ",
 		"game5" : "UNCW",
 		"game6" : "NEV",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "NCST",
+		"game8" : "WVU",
+		"game9" : "CLEM",
+		"game10" : "TEX"
     },
 	{
 		"userId" : 27,
@@ -346,10 +346,10 @@
 		"game4" : "UCONN",
 		"game5" : "UNCW",
 		"game6" : "USU",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "NCST",
+		"game8" : "OKLA",
+		"game9" : "DUKE",
+		"game10" : "TEX"
     },
 	{
 		"userId" : 28,
@@ -359,10 +359,10 @@
 		"game4" : "UCONN",
 		"game5" : "COFCH",
 		"game6" : "NEV",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "NCST",
+		"game8" : "OKLA",
+		"game9" : "DUKE",
+		"game10" : "TTU"
     },
 	{
 		"userId" : 29,
@@ -372,10 +372,10 @@
 		"game4" : "UCONN",
 		"game5" : "UNCW",
 		"game6" : "NEV",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "NCST",
+		"game8" : "WVU",
+		"game9" : "DUKE",
+		"game10" : "TTU"
     }
 	]
 }
