@@ -75,40 +75,40 @@
 		"awayTeam" : "MIA",
 		"homeTeam" : "NCST",
 		"favorite" : "NCST",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2023-01-14T17:00Z",
 		"channel": "ESPN3",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "WVU",
 		"homeTeam" : "OKLA",
 		"favorite" : "OKLA",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2023-01-14T17:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "DUKE",
 		"homeTeam" : "CLEM",
 		"favorite" : "CLEM",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2023-01-14T22:00Z",
 		"channel": "ACCN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "TTU",
 		"homeTeam" : "TEX",
 		"favorite" : "TEX",
-		"spread" : "-",
+		"spread" : 8.5,
 		"gameTime" : "2023-01-15T01:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	}
   ]
 }
