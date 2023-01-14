@@ -80,7 +80,11 @@
 		"spread" : 3.5,
 		"gameTime" : "2023-01-14T17:00Z",
 		"channel": "ESPN3",
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 81,
+		"homeScore" : 83,
+		"cover" : "MIA"
 	},
 	{
 		"gameId" : 8,
@@ -90,7 +94,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2023-01-14T17:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 76,
+		"homeScore" : 77,
+		"cover" : "WVU"
 	},
 	{
 		"gameId" : 9,
