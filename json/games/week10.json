@@ -106,7 +106,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2023-01-14T22:00Z",
 		"channel": "ACCN",
-		"active" : true
+		"awayScore" : 64,
+		"homeScore" : 72,
+		"cover" : "CLEM"
 	},
 	{
 		"gameId" : 10,
@@ -116,7 +118,9 @@
 		"spread" : 8.5,
 		"gameTime" : "2023-01-15T01:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 70,
+		"homeScore" : 72,
+		"cover" : "TTU"
 	}
   ]
 }
