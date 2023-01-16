@@ -36,7 +36,7 @@
 		"homeTeam" : "AZST",
 		"favorite" : "AZST",
 		"spread" : "-",
-		"gameTime" : "2023-01-17T00:00Z",
+		"gameTime" : "2023-01-20T03:30Z",
 		"channel": "FS1",
 		"active": false
 	},
@@ -87,7 +87,7 @@
 		"favorite" : "CLEM",
 		"spread" : "-",
 		"gameTime" : "2023-01-21T23:00Z",
-		"channel": "",
+		"channel": "ESPN2",
 		"active": false
 	},
 	{
@@ -97,7 +97,7 @@
 		"favorite" : "WVU",
 		"spread" : "-",
 		"gameTime" : "2023-01-21T23:00Z",
-		"channel": "",
+		"channel": "ESPN",
 		"active": false
 	}
   ]
