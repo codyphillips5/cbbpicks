@@ -4,8 +4,8 @@
 		"gameId" : 1,
 		"awayTeam" : "KU",
 		"homeTeam" : "KSST",
-		"favorite" : "KSST",
-		"spread" : "-",
+		"favorite" : "KU",
+		"spread" : 2.5,
 		"gameTime" : "2023-01-18T00:00Z",
 		"channel": "ESPN",
 		"active": false
@@ -81,16 +81,6 @@
 		"active": false
 	},
 	{
-		"gameId" : 9,
-		"awayTeam" : "VT",
-		"homeTeam" : "CLEM",
-		"favorite" : "CLEM",
-		"spread" : "-",
-		"gameTime" : "2023-01-21T23:00Z",
-		"channel": "ESPN2",
-		"active": false
-	},
-	{
 		"gameId" : 10,
 		"awayTeam" : "TEX",
 		"homeTeam" : "WVU",
@@ -98,6 +88,16 @@
 		"spread" : "-",
 		"gameTime" : "2023-01-21T23:00Z",
 		"channel": "ESPN",
+		"active": false
+	},
+	{
+		"gameId" : 9,
+		"awayTeam" : "VT",
+		"homeTeam" : "CLEM",
+		"favorite" : "CLEM",
+		"spread" : "-",
+		"gameTime" : "2023-01-21T23:00Z",
+		"channel": "ESPN2",
 		"active": false
 	}
   ]
