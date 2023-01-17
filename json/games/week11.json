@@ -8,17 +8,17 @@
 		"spread" : 2.5,
 		"gameTime" : "2023-01-18T00:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 2,
 		"awayTeam" : "PSU",
 		"homeTeam" : "WIS",
 		"favorite" : "WIS",
-		"spread" : 2.5,
+		"spread" : 3.5,
 		"gameTime" : "2023-01-18T01:30Z",
 		"channel": "B1G",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 3,
