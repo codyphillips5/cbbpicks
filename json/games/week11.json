@@ -8,7 +8,11 @@
 		"spread" : 2.5,
 		"gameTime" : "2023-01-18T00:00Z",
 		"channel": "ESPN",
-		"active": true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 82,
+		"homeScore" : 83,
+		"cover" : "KSST"
 	},
 	{
 		"gameId" : 2,
@@ -25,7 +29,7 @@
 		"awayTeam" : "PROV",
 		"homeTeam" : "MARQ",
 		"favorite" : "MARQ",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2023-01-19T02:00Z",
 		"channel": "CBSSN",
 		"active": false
