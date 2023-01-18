@@ -22,7 +22,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2023-01-18T01:30Z",
 		"channel": "B1G",
-		"active": true
+		"awayScore" : 60,
+		"homeScore" : 63,
+		"cover" : "PSU"
 	},
 	{
 		"gameId" : 3,
