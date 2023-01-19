@@ -37,7 +37,7 @@
 		"awayScore" : 75,
 		"homeScore" : 83,
 		"cover" : "MARQ"
-	},
+	}, 
 	{
 		"gameId" : 4,
 		"awayTeam" : "UCLA",
