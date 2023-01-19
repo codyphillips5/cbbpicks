@@ -34,14 +34,16 @@
 		"spread" : 7.5,
 		"gameTime" : "2023-01-19T02:00Z",
 		"channel": "CBSSN",
-		"active": true
+		"awayScore" : 75,
+		"homeScore" : 83,
+		"cover" : "MARQ"
 	},
 	{
 		"gameId" : 4,
 		"awayTeam" : "UCLA",
 		"homeTeam" : "AZST",
-		"favorite" : "AZST",
-		"spread" : "-",
+		"favorite" : "UCLA",
+		"spread" : 4.5,
 		"gameTime" : "2023-01-20T03:30Z",
 		"channel": "FS1",
 		"active": false
