@@ -46,16 +46,16 @@
 		"spread" : 4.5,
 		"gameTime" : "2023-01-20T03:30Z",
 		"channel": "FS1",
-		"awayScore" : ,
-		"homeScore" : ,
-		"cover" : ""
+		"awayScore" : 74,
+		"homeScore" : 62,
+		"cover" : "UCLA"
 	},
 	{
 		"gameId" : 5,
 		"awayTeam" : "BSU",
 		"homeTeam" : "UNM",
 		"favorite" : "UNM",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2023-01-21T04:00Z",
 		"channel": "FS1",
 		"active": false
