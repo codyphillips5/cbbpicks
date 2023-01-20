@@ -46,7 +46,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2023-01-20T03:30Z",
 		"channel": "FS1",
-		"active": true
+		"awayScore" : ,
+		"homeScore" : ,
+		"cover" : ""
 	},
 	{
 		"gameId" : 5,
