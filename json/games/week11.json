@@ -84,7 +84,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2023-01-21T18:00Z",
 		"channel": "CBS",
-		"active": true
+		"awayScore" : 83,
+		"homeScore" : 60,
+		"cover" : "TCU"
 	},
 	{
 		"gameId" : 8,
