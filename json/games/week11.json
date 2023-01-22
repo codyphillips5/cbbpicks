@@ -108,7 +108,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2023-01-21T23:00Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore" : 69,
+		"homeScore" : 61,
+		"cover" : "TEX"
 	},
 	{
 		"gameId" : 10,
@@ -118,7 +120,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2023-01-21T23:00Z",
 		"channel": "ESPN2",
-		"active": true
+		"awayScore" : 50,
+		"homeScore" : 51,
+		"cover" : "VT"
 	}
   ]
 }
