@@ -1,0 +1,104 @@
+{
+  "games": [
+	{ 
+		"gameId" : 1,
+		"awayTeam" : "KU",
+		"homeTeam" : "BU",
+		"favorite" : "BU",
+		"spread" : "-",
+		"gameTime" : "2023-01-24T02:00Z",
+		"channel": "ESPN",
+		"active": false
+	},
+	{
+		"gameId" : 2,
+		"awayTeam" : "PSU",
+		"homeTeam" : "RUTG",
+		"favorite" : "RUTG",
+		"spread" : "-",
+		"gameTime" : "2023-01-24T23:30Z",
+		"channel": "B1G",
+		"active": false
+	},
+	{
+		"gameId" : 3,
+		"awayTeam" : "KSST",
+		"homeTeam" : "ISU",
+		"favorite" : "ISU",
+		"spread" : "-",
+		"gameTime" : "2023-01-25T02:00Z",
+		"channel": "ESPNU",
+		"active": false
+	},
+	{
+		"gameId" : 4,
+		"awayTeam" : "XAV",
+		"homeTeam" : "UCONN",
+		"favorite" : "UCONN",
+		"spread" : "-",
+		"gameTime" : "2023-01-25T23:30Z",
+		"channel": "FS1",
+		"active": false
+	},
+	{
+		"gameId" : 5,
+		"awayTeam" : "UCLA",
+		"homeTeam" : "USC",
+		"favorite" : "USC",
+		"spread" : "-",
+		"gameTime" : "2023-01-27T02:00Z",
+		"channel": "ESPN",
+		"active": false
+	},
+	{
+		"gameId" : 6,
+		"awayTeam" : "IONA",
+		"homeTeam" : "SIENA",
+		"favorite" : "SIENA",
+		"spread" : "-",
+		"gameTime" : "2023-01-28T00:00Z",
+		"channel": "ESPNU",
+		"active": false
+	},
+	{
+		"gameId" : 7,
+		"awayTeam" : "XAV",
+		"homeTeam" : "CREIGH",
+		"favorite" : "CREIGH",
+		"spread" : "-",
+		"gameTime" : "2023-01-29T17:15Z",
+		"channel": "CBS",
+		"active": false
+	},
+	{
+		"gameId" : 8,
+		"awayTeam" : "ARK",
+		"homeTeam" : "BU",
+		"favorite" : "BU",
+		"spread" : "-",
+		"gameTime" : "2023-01-29T21:00Z",
+		"channel": "ESPN",
+		"active": false
+	},
+	{
+		"gameId" : 9,
+		"awayTeam" : "MIA",
+		"homeTeam" : "PITT",
+		"favorite" : "PITT",
+		"spread" : "-",
+		"gameTime" : "2023-01-29T21:00Z",
+		"channel": "ESPNU",
+		"active": false
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "TEX",
+		"homeTeam" : "TENN",
+		"favorite" : "TENN",
+		"spread" : "-",
+		"gameTime" : "2023-01-29T23:00Z",
+		"channel": "",
+		"active": false
+	}
+  ]
+}
