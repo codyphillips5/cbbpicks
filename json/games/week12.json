@@ -5,10 +5,10 @@
 		"awayTeam" : "KU",
 		"homeTeam" : "BU",
 		"favorite" : "BU",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2023-01-24T02:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 2,
