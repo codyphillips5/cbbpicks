@@ -1,0 +1,104 @@
+{
+  "games": [
+	{ 
+		"gameId" : 1,
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
+		"spread" : "-",
+		"gameTime" : "2023-02-07T00:00Z",
+		"channel": "",
+		"active": false
+	},
+	{
+		"gameId" : 2,
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
+		"spread" : "-",
+		"gameTime" : "2023-02-07T00:00Z",
+		"channel": "",
+		"active": false
+	},
+	{
+		"gameId" : 3,
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
+		"spread" : "-",
+		"gameTime" : "2023-02-07T00:00Z",
+		"channel": "",
+		"active": false
+	},
+	{
+		"gameId" : 4,
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
+		"spread" : "-",
+		"gameTime" : "2023-02-07T00:00Z",
+		"channel": "",
+		"active": false
+	},
+	{
+		"gameId" : 5,
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
+		"spread" : "-",
+		"gameTime" : "2023-02-07T00:00Z",
+		"channel": "",
+		"active": false
+	},
+	{
+		"gameId" : 6,
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
+		"spread" : "-",
+		"gameTime" : "2023-02-07T00:00Z",
+		"channel": "",
+		"active": false
+	},
+	{
+		"gameId" : 7,
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
+		"spread" : "-",
+		"gameTime" : "2023-02-07T00:00Z",
+		"channel": "",
+		"active": false
+	},
+	{
+		"gameId" : 8,
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
+		"spread" : "-",
+		"gameTime" : "2023-02-07T00:00Z",
+		"channel": "",
+		"active": false
+	},
+	{
+		"gameId" : 9,
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
+		"spread" : "-",
+		"gameTime" : "2023-02-07T00:00Z",
+		"channel": "",
+		"active": false
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
+		"spread" : "-",
+		"gameTime" : "2023-02-07T00:00Z",
+		"channel": "",
+		"active": false
+	}
+  ]
+}
