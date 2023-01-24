@@ -27,7 +27,7 @@
 		"awayTeam" : "KSST",
 		"homeTeam" : "ISU",
 		"favorite" : "ISU",
-		"spread" : 4.5,
+		"spread" : 5.5,
 		"gameTime" : "2023-01-25T02:00Z",
 		"channel": "ESPNU",
 		"active": false
