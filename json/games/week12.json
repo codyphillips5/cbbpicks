@@ -8,14 +8,16 @@
 		"spread" : 2.5,
 		"gameTime" : "2023-01-24T02:00Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore" : 69,
+		"homeScore" : 75,
+		"cover" : "BU"
 	},
 	{
 		"gameId" : 2,
 		"awayTeam" : "PSU",
 		"homeTeam" : "RUTG",
 		"favorite" : "RUTG",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2023-01-24T23:30Z",
 		"channel": "B1G",
 		"active": false
@@ -25,7 +27,7 @@
 		"awayTeam" : "KSST",
 		"homeTeam" : "ISU",
 		"favorite" : "ISU",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2023-01-25T02:00Z",
 		"channel": "ESPNU",
 		"active": false
@@ -97,7 +99,7 @@
 		"favorite" : "TENN",
 		"spread" : "-",
 		"gameTime" : "2023-01-29T23:00Z",
-		"channel": "",
+		"channel": "ESPN",
 		"active": false
 	}
   ]
