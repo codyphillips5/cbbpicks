@@ -11,16 +11,17 @@
 		"awayScore" : 69,
 		"homeScore" : 75,
 		"cover" : "BU"
+
 	},
 	{
 		"gameId" : 2,
 		"awayTeam" : "PSU",
 		"homeTeam" : "RUTG",
 		"favorite" : "RUTG",
-		"spread" : 5.5,
+		"spread" : 6.5,
 		"gameTime" : "2023-01-24T23:30Z",
 		"channel": "B1G",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 3,
@@ -30,7 +31,7 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-01-25T02:00Z",
 		"channel": "ESPNU",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 4,
