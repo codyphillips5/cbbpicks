@@ -21,7 +21,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2023-01-24T23:30Z",
 		"channel": "B1G",
-		"active": true
+		"awayScore" : 45,
+		"homeScore" : 65,
+		"cover" : "RUTG"
 	},
 	{
 		"gameId" : 3,
