@@ -33,14 +33,16 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-01-25T02:00Z",
 		"channel": "ESPNU",
-		"active": true
+		"awayScore" : 76,
+		"homeScore" : 80,
+		"cover" : "KSST"
 	},
 	{
 		"gameId" : 4,
 		"awayTeam" : "XAV",
 		"homeTeam" : "UCONN",
 		"favorite" : "UCONN",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2023-01-25T23:30Z",
 		"channel": "FS1",
 		"active": false
