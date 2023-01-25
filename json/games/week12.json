@@ -71,7 +71,7 @@
 		"homeTeam" : "CREIGH",
 		"favorite" : "CREIGH",
 		"spread" : "-",
-		"gameTime" : "2023-01-29T17:15Z",
+		"gameTime" : "2023-01-28T17:15Z",
 		"channel": "CBS",
 		"active": false
 	},
@@ -81,7 +81,7 @@
 		"homeTeam" : "BU",
 		"favorite" : "BU",
 		"spread" : "-",
-		"gameTime" : "2023-01-29T21:00Z",
+		"gameTime" : "2023-01-28T21:00Z",
 		"channel": "ESPN",
 		"active": false
 	},
@@ -91,7 +91,7 @@
 		"homeTeam" : "PITT",
 		"favorite" : "PITT",
 		"spread" : "-",
-		"gameTime" : "2023-01-29T21:00Z",
+		"gameTime" : "2023-01-28T21:00Z",
 		"channel": "ESPNU",
 		"active": false
 	},
@@ -101,7 +101,7 @@
 		"homeTeam" : "TENN",
 		"favorite" : "TENN",
 		"spread" : "-",
-		"gameTime" : "2023-01-29T23:00Z",
+		"gameTime" : "2023-01-28T23:00Z",
 		"channel": "ESPN",
 		"active": false
 	}
