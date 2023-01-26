@@ -51,8 +51,8 @@
 		"gameId" : 5,
 		"awayTeam" : "UCLA",
 		"homeTeam" : "USC",
-		"favorite" : "USC",
-		"spread" : "-",
+		"favorite" : "UCLA",
+		"spread" : 4.5,
 		"gameTime" : "2023-01-27T02:00Z",
 		"channel": "ESPN",
 		"active": false
