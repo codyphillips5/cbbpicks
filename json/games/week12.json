@@ -56,15 +56,17 @@
 		"favorite" : "UCLA",
 		"spread" : 4.5,
 		"gameTime" : "2023-01-27T02:00Z",
-		"channel": "ESPN",
-		"active": true
+		"channel": "ESPN2",
+		"awayScore" : 64,
+		"homeScore" : 77,
+		"cover" : "USC"
 	},
 	{
 		"gameId" : 6,
 		"awayTeam" : "IONA",
 		"homeTeam" : "SIENA",
-		"favorite" : "SIENA",
-		"spread" : "-",
+		"favorite" : "IONA",
+		"spread" : 5.5,
 		"gameTime" : "2023-01-28T00:00Z",
 		"channel": "ESPNU",
 		"active": false
