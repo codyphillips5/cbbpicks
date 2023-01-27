@@ -66,10 +66,10 @@
 		"awayTeam" : "IONA",
 		"homeTeam" : "SIENA",
 		"favorite" : "IONA",
-		"spread" : 5.5,
+		"spread" : 6.5,
 		"gameTime" : "2023-01-28T00:00Z",
 		"channel": "ESPNU",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 7,
