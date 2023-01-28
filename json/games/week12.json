@@ -78,10 +78,10 @@
 		"awayTeam" : "XAV",
 		"homeTeam" : "CREIGH",
 		"favorite" : "CREIGH",
-		"spread" : 4.5,
+		"spread" : 5.5,
 		"gameTime" : "2023-01-28T17:15Z",
 		"channel": "CBS",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 8,
@@ -91,7 +91,7 @@
 		"spread" : 6.5,
 		"gameTime" : "2023-01-28T21:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 9,
@@ -101,17 +101,17 @@
 		"spread" : 0,
 		"gameTime" : "2023-01-28T21:00Z",
 		"channel": "ESPNU",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "TEX",
 		"homeTeam" : "TENN",
 		"favorite" : "TENN",
-		"spread" : 7.5,
+		"spread" : 6.5,
 		"gameTime" : "2023-01-28T23:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	}
   ]
 }
