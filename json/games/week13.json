@@ -5,10 +5,10 @@
 		"awayTeam" : "BU",
 		"homeTeam" : "TEX",
 		"favorite" : "TEX",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2023-01-31T02:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 2,
