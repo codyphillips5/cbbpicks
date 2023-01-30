@@ -43,8 +43,8 @@
 	{
 		"gameId" : 5,
 		"awayTeam" : "KENT",
-		"homeTeam" : "AKRON",
-		"favorite" : "AKRON",
+		"homeTeam" : "AKR",
+		"favorite" : "AKR",
 		"spread" : "-",
 		"gameTime" : "2023-02-04T02:00Z",
 		"channel": "ESPNU",
