@@ -8,7 +8,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2023-01-31T02:00Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore" : 71,
+		"homeScore" : 76,
+		"cover" : "TEX"
 	},
 	{
 		"gameId" : 2,
@@ -25,7 +27,7 @@
 		"awayTeam" : "SDSU",
 		"homeTeam" : "NEV",
 		"favorite" : "SDSU",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2023-02-01T04:00Z",
 		"channel": "CBSSN",
 		"active": false
