@@ -32,7 +32,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2023-02-01T04:00Z",
 		"channel": "CBSSN",
-		"active": true
+		"awayScore" : 66,
+		"homeScore" : 75,
+		"cover" : "NEV"
 	},
 	{
 		"gameId" : 4,
