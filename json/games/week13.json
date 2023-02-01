@@ -20,7 +20,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2023-02-01T02:00Z",
 		"channel": "ESPN2",
-		"active": true
+		"awayScore" : 55,
+		"homeScore" : 66,
+		"cover" : "MARY"
 	},
 	{
 		"gameId" : 3,
@@ -37,7 +39,7 @@
 		"awayTeam" : "PITT",
 		"homeTeam" : "UNC",
 		"favorite" : "UNC",
-		"spread" : "-",
+		"spread" : 8.5,
 		"gameTime" : "2023-02-02T00:00Z",
 		"channel": "ACCN",
 		"active": false
