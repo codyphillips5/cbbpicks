@@ -80,12 +80,12 @@
 	},
 	{
 		"gameId" : 8,
-		"awayTeam" : "MIA",
-		"homeTeam" : "CLEM",
-		"favorite" : "CLEM",
+		"awayTeam" : "PURD",
+		"homeTeam" : "IND",
+		"favorite" : "IND",
 		"spread" : "-",
-		"gameTime" : "2023-02-04T20:00Z",
-		"channel": "ACCN",
+		"gameTime" : "2023-02-04T21:00Z",
+		"channel": "ESPN",
 		"active": false
 	},
 	{
