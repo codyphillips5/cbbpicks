@@ -44,7 +44,9 @@
 		"spread" : 8.5,
 		"gameTime" : "2023-02-02T00:00Z",
 		"channel": "ACCN",
-		"active": true
+		"awayScore" : 65,
+		"homeScore" : 64,
+		"cover" : "PITT"
 	},
 	{
 		"gameId" : 5,
