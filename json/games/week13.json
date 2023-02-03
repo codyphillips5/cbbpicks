@@ -53,7 +53,7 @@
 		"awayTeam" : "VCU",
 		"homeTeam" : "SLU",
 		"favorite" : "SLU",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2023-02-04T00:00Z",
 		"channel": "ESPN2",
 		"active": false
