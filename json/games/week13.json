@@ -68,7 +68,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2023-02-04T17:00Z",
 		"channel": "FOX",
-		"active": true
+		"awayScore" : 55,
+		"homeScore" : 61,
+		"cover" : "RUTG"
 	},
 	{
 		"gameId" : 7,
