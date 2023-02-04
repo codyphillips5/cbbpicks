@@ -80,7 +80,9 @@
 		"spread" : 9.5,
 		"gameTime" : "2023-02-04T19:00Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore" : 43,
+		"homeScore" : 46,
+		"cover" : "AUB"
 	},
 	{
 		"gameId" : 8,
@@ -90,7 +92,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2023-02-04T21:00Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore" : 74,
+		"homeScore" : 79,
+		"cover" : "IND"
 	},
 	{
 		"gameId" : 9,
