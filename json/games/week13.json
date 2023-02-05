@@ -104,7 +104,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2023-02-04T23:30Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore" : 57,
+		"homeScore" : 63,
+		"cover" : "DUKE"
 	},
 	{
 		"gameId" : 10,
