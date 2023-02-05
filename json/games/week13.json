@@ -116,7 +116,10 @@
 		"spread" : 3.5,
 		"gameTime" : "2023-02-05T03:30Z",
 		"channel": "ESPN",
-		"active": true
+		"numberOfOT" : 1,
+		"awayScore" : 70,
+		"homeScore" : 78,
+		"cover" : "STMARY"
 	}
   ]
 }
