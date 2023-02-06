@@ -71,6 +71,16 @@
 		"active": false
 	},
 	{
+		"gameId" : 10,
+		"awayTeam" : "SOILL",
+		"homeTeam" : "DRAKE",
+		"favorite" : "DRAKE",
+		"spread" : "-",
+		"gameTime" : "2023-02-11T19:00Z",
+		"channel": "ESPNU",
+		"active": false
+	},
+	{
 		"gameId" : 8,
 		"awayTeam" : "DUKE",
 		"homeTeam" : "UVA",
@@ -88,16 +98,6 @@
 		"spread" : "-",
 		"gameTime" : "2023-02-11T21:00Z",
 		"channel": "ESPN2",
-		"active": false
-	},
-	{
-		"gameId" : 10,
-		"awayTeam" : "PURD",
-		"homeTeam" : "NW",
-		"favorite" : "NW",
-		"spread" : "-",
-		"gameTime" : "2023-02-12T19:00Z",
-		"channel": "B1G",
 		"active": false
 	}
   ]
