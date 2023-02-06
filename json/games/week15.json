@@ -32,22 +32,22 @@
 	},
 	{
 		"gameId" : 4,
-		"awayTeam" : "ARK",
-		"homeTeam" : "TXAM",
-		"favorite" : "TXAM",
-		"spread" : "-",
-		"gameTime" : "2023-02-16T00:00Z",
-		"channel": "",
-		"active": false
-	},
-	{
-		"gameId" : 5,
 		"awayTeam" : "PURD",
 		"homeTeam" : "MARY",
 		"favorite" : "MARY",
 		"spread" : "-",
 		"gameTime" : "2023-02-16T23:30Z",
 		"channel": "B1G",
+		"active": false
+	},
+	{
+		"gameId" : 5,
+		"awayTeam" : "FAU",
+		"homeTeam" : "MTSU",
+		"favorite" : "MTSU",
+		"spread" : "-",
+		"gameTime" : "2023-02-17T00:00Z",
+		"channel": "CBSSN",
 		"active": false
 	},
 	{
