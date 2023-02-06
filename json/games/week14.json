@@ -71,7 +71,7 @@
 		"active": false
 	},
 	{
-		"gameId" : 10,
+		"gameId" : 8,
 		"awayTeam" : "SOILL",
 		"homeTeam" : "DRAKE",
 		"favorite" : "DRAKE",
@@ -81,7 +81,7 @@
 		"active": false
 	},
 	{
-		"gameId" : 8,
+		"gameId" : 9,
 		"awayTeam" : "DUKE",
 		"homeTeam" : "UVA",
 		"favorite" : "UVA",
@@ -91,7 +91,7 @@
 		"active": false
 	},
 	{
-		"gameId" : 9,
+		"gameId" : 10,
 		"awayTeam" : "BU",
 		"homeTeam" : "TCU",
 		"favorite" : "TCU",
