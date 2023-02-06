@@ -32,12 +32,12 @@
 	},
 	{
 		"gameId" : 4,
-		"awayTeam" : "NEV",
-		"homeTeam" : "UNM",
-		"favorite" : "UNM",
+		"awayTeam" : "LEH",
+		"homeTeam" : "COLG",
+		"favorite" : "COLG",
 		"spread" : "-",
-		"gameTime" : "2023-02-09T03:30Z",
-		"channel": "FS1",
+		"gameTime" : "2023-02-09T00:00Z",
+		"channel": "ESPN+",
 		"active": false
 	},
 	{
