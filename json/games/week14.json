@@ -12,34 +12,38 @@
 			"homeScore": 88,
 			"cover": "KU"
 		},
-	{
-		"gameId" : 2,
-		"awayTeam" : "AUB",
-		"homeTeam" : "TXAM",
-		"favorite" : "TXAM",
-		"spread" : 3.5,
-		"gameTime" : "2023-02-08T00:00Z",
-		"channel": "ESPN2",
-		"active": true
-	},
-	{
-		"gameId" : 3,
-		"awayTeam" : "DAY",
-		"homeTeam" : "VCU",
-		"favorite" : "VCU",
-		"spread" : 4.5,
-		"gameTime" : "2023-02-08T00:00Z",
-		"channel": "CBSSN",
-		"active": true
-	},
+		{
+			"gameId": 2,
+			"awayTeam": "AUB",
+			"homeTeam": "TXAM",
+			"favorite": "TXAM",
+			"spread": 3.5,
+			"gameTime": "2023-02-08T00:00Z",
+			"channel": "ESPN2",
+			"awayScore": 78,
+			"homeScore": 83,
+			"cover": "TXAM"
+		},
+		{
+			"gameId": 3,
+			"awayTeam": "DAY",
+			"homeTeam": "VCU",
+			"favorite": "VCU",
+			"spread": 4.5,
+			"gameTime": "2023-02-08T00:00Z",
+			"channel": "CBSSN",
+			"awayScore": 62,
+			"homeScore": 58,
+			"cover": "DAY"
+		},
 	{
 		"gameId" : 4,
-		"awayTeam" : "LEH",
-		"homeTeam" : "COLG",
-		"favorite" : "COLG",
-		"spread" : "-",
-		"gameTime" : "2023-02-09T00:00Z",
-		"channel": "ESPN+",
+		"awayTeam" : "SDSU",
+		"homeTeam" : "USU",
+		"favorite" : "USU",
+		"spread" : 1.5,
+		"gameTime" : "2023-02-09T03:00Z",
+		"channel": "CBSSN",
 		"active": false
 	},
 	{
