@@ -237,8 +237,8 @@
 	{
 		"userId" : 19,
 		"game1" : "TEX",
-		"game2" : "",
-		"game3" : "",
+		"game2" : "TXAM",
+		"game3" : "DAY",
 		"game4" : "",
 		"game5" : "",
 		"game6" : "",
@@ -276,8 +276,8 @@
 	{
 		"userId" : 22,
 		"game1" : "KU",
-		"game2" : "TXAM",
-		"game3" : "DAY",
+		"game2" : "",
+		"game3" : "",
 		"game4" : "",
 		"game5" : "",
 		"game6" : "",
