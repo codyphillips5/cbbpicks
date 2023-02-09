@@ -36,25 +36,27 @@
 			"homeScore": 58,
 			"cover": "DAY"
 		},
-	{
-		"gameId" : 4,
-		"awayTeam" : "SDSU",
-		"homeTeam" : "USU",
-		"favorite" : "USU",
-		"spread" : 1.5,
-		"gameTime" : "2023-02-09T03:00Z",
-		"channel": "CBSSN",
-		"active": true
-	},
+		{
+			"gameId": 4,
+			"awayTeam": "SDSU",
+			"homeTeam": "USU",
+			"favorite": "USU",
+			"spread": 1.5,
+			"gameTime": "2023-02-09T03:00Z",
+			"channel": "CBSSN",
+			"awayScore": 63,
+			"homeScore": 61,
+			"cover": "SDSU"
+		},
 	{
 		"gameId" : 5,
 		"awayTeam" : "IOWA",
 		"homeTeam" : "PURD",
 		"favorite" : "PURD",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2023-02-10T00:00Z",
 		"channel": "ESPN2",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 6,
