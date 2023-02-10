@@ -48,16 +48,18 @@
 			"homeScore": 61,
 			"cover": "SDSU"
 		},
-	{
-		"gameId" : 5,
-		"awayTeam" : "IOWA",
-		"homeTeam" : "PURD",
-		"favorite" : "PURD",
-		"spread" : 7.5,
-		"gameTime" : "2023-02-10T00:00Z",
-		"channel": "ESPN2",
-		"active": true
-	},
+		{
+			"gameId": 5,
+			"awayTeam": "IOWA",
+			"homeTeam": "PURD",
+			"favorite": "PURD",
+			"spread": 7.5,
+			"gameTime": "2023-02-10T00:00Z",
+			"channel": "ESPN2",
+			"awayScore": 73,
+			"homeScore": 87,
+			"cover": "PURD"
+		},
 	{
 		"gameId" : 6,
 		"awayTeam" : "RUTG",
