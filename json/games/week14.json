@@ -65,50 +65,50 @@
 		"awayTeam" : "RUTG",
 		"homeTeam" : "ILL",
 		"favorite" : "ILL",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2023-02-11T19:00Z",
 		"channel": "FS1",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "ALA",
 		"homeTeam" : "AUB",
-		"favorite" : "AUB",
-		"spread" : "-",
+		"favorite" : "ALA",
+		"spread" : 2.5,
 		"gameTime" : "2023-02-11T19:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "SOILL",
 		"homeTeam" : "DRAKE",
 		"favorite" : "DRAKE",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2023-02-11T19:00Z",
 		"channel": "ESPNU",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "DUKE",
 		"homeTeam" : "UVA",
 		"favorite" : "UVA",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2023-02-11T21:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "BU",
 		"homeTeam" : "TCU",
 		"favorite" : "TCU",
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2023-02-11T21:00Z",
 		"channel": "ESPN2",
-		"active": false
+		"active": true
 	}
   ]
 }
