@@ -60,55 +60,65 @@
 			"homeScore": 87,
 			"cover": "PURD"
 		},
-	{
-		"gameId" : 6,
-		"awayTeam" : "RUTG",
-		"homeTeam" : "ILL",
-		"favorite" : "ILL",
-		"spread" : 5.5,
-		"gameTime" : "2023-02-11T19:00Z",
-		"channel": "FS1",
-		"active": true
-	},
-	{
-		"gameId" : 7,
-		"awayTeam" : "ALA",
-		"homeTeam" : "AUB",
-		"favorite" : "ALA",
-		"spread" : 2.5,
-		"gameTime" : "2023-02-11T19:00Z",
-		"channel": "ESPN",
-		"active": true
-	},
-	{
-		"gameId" : 8,
-		"awayTeam" : "SOILL",
-		"homeTeam" : "DRAKE",
-		"favorite" : "DRAKE",
-		"spread" : 6.5,
-		"gameTime" : "2023-02-11T19:00Z",
-		"channel": "ESPNU",
-		"active": true
-	},
-	{
-		"gameId" : 9,
-		"awayTeam" : "DUKE",
-		"homeTeam" : "UVA",
-		"favorite" : "UVA",
-		"spread" : 6.5,
-		"gameTime" : "2023-02-11T21:00Z",
-		"channel": "ESPN",
-		"active": true
-	},
-	{
-		"gameId" : 10,
-		"awayTeam" : "BU",
-		"homeTeam" : "TCU",
-		"favorite" : "TCU",
-		"spread" : 0,
-		"gameTime" : "2023-02-11T21:00Z",
-		"channel": "ESPN2",
-		"active": true
-	}
+		{
+			"gameId": 6,
+			"awayTeam": "RUTG",
+			"homeTeam": "ILL",
+			"favorite": "ILL",
+			"spread": 5.5,
+			"gameTime": "2023-02-11T19:00Z",
+			"channel": "FS1",
+			"awayScore": 60,
+			"homeScore": 69,
+			"cover": "ILL"
+		},
+		{
+			"gameId": 7,
+			"awayTeam": "ALA",
+			"homeTeam": "AUB",
+			"favorite": "ALA",
+			"spread": 2.5,
+			"gameTime": "2023-02-11T19:00Z",
+			"channel": "ESPN",
+			"awayScore": 77,
+			"homeScore": 69,
+			"cover": "ALA"
+		},
+		{
+			"gameId": 8,
+			"awayTeam": "SOILL",
+			"homeTeam": "DRAKE",
+			"favorite": "DRAKE",
+			"spread": 6.5,
+			"gameTime": "2023-02-11T19:00Z",
+			"channel": "ESPNU",
+			"awayScore": 59,
+			"homeScore": 82,
+			"cover": "DRAKE"
+		},
+		{
+			"gameId": 9,
+			"awayTeam": "DUKE",
+			"homeTeam": "UVA",
+			"favorite": "UVA",
+			"spread": 6.5,
+			"gameTime": "2023-02-11T21:00Z",
+			"channel": "ESPN",
+			"awayScore": 62,
+			"homeScore": 69,
+			"cover": "UVA"
+		},
+		{
+			"gameId": 10,
+			"awayTeam": "BU",
+			"homeTeam": "TCU",
+			"favorite": "TCU",
+			"spread": 0,
+			"gameTime": "2023-02-11T21:00Z",
+			"channel": "ESPN2",
+			"awayScore": 72,
+			"homeScore": 68,
+			"cover": "BU"
+		}
   ]
 }
