@@ -87,7 +87,7 @@
 		"favorite" : "NCST",
 		"spread" : "-",
 		"gameTime" : "2023-02-19T18:00Z",
-		"channel": "",
+		"channel": "ESPN",
 		"active": false
 	},
 	{
@@ -97,7 +97,7 @@
 		"favorite" : "HOU",
 		"spread" : "-",
 		"gameTime" : "2023-02-19T20:00Z",
-		"channel": "",
+		"channel": "ESPN",
 		"active": false
 	}
   ]
