@@ -5,7 +5,7 @@
 		"awayTeam" : "ALA",
 		"homeTeam" : "TENN",
 		"favorite" : "TENN",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2023-02-16T00:00Z",
 		"channel": "ESPN2",
 		"active": false
@@ -15,7 +15,7 @@
 		"awayTeam" : "XAV",
 		"homeTeam" : "MARQ",
 		"favorite" : "MARQ",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2023-02-16T00:00Z",
 		"channel": "CBSSN",
 		"active": false
@@ -25,7 +25,7 @@
 		"awayTeam" : "ARK",
 		"homeTeam" : "TXAM",
 		"favorite" : "TXAM",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2023-02-16T02:00Z",
 		"channel": "ESPN2",
 		"active": false
