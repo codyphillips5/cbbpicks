@@ -72,12 +72,12 @@
 	},
 	{
 		"gameId" : 5,
-		"awayTeam" : "BU",
-		"homeTeam" : "KU",
-		"favorite" : "KU",
+		"awayTeam" : "YALE",
+		"homeTeam" : "PRINCE",
+		"favorite" : "PRINCE",
 		"spread" : "-",
-		"gameTime" : "2023-02-18T21:00Z",
-		"channel": "ESPN",
+		"gameTime" : "2023-02-18T23:00Z",
+		"channel": "ESPN+",
 		"active": false
 	},
 	{
