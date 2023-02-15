@@ -52,21 +52,21 @@
 	},
 	{
 		"gameId" : 7,
-		"awayTeam" : "OKST",
-		"homeTeam" : "TCU",
-		"favorite" : "TCU",
-		"spread" : "-",
-		"gameTime" : "2023-02-18T19:00Z",
-		"channel": "ESPN+",
-		"active": false
-	},
-	{
-		"gameId" : 8,
 		"awayTeam" : "ISU",
 		"homeTeam" : "KSST",
 		"favorite" : "KSST",
 		"spread" : "-",
 		"gameTime" : "2023-02-18T19:00Z",
+		"channel": "ESPN",
+		"active": false
+	},
+	{
+		"gameId" : 8,
+		"awayTeam" : "KU",
+		"homeTeam" : "BU",
+		"favorite" : "BU",
+		"spread" : "-",
+		"gameTime" : "2023-02-18T21:00Z",
 		"channel": "ESPN",
 		"active": false
 	},
