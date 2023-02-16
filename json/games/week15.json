@@ -8,7 +8,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2023-02-16T00:00Z",
 		"channel": "ESPN2",
-		"active": true
+		"awayScore": 59,
+		"homeScore": 68,
+		"cover": "TENN"
 	},
 	{
 		"gameId" : 2,
@@ -18,7 +20,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-02-16T00:00Z",
 		"channel": "CBSSN",
-		"active": true
+		"awayScore": 68,
+		"homeScore": 69,
+		"cover": "XAV"
 	},
 	{ 
 		"gameId" : 3,
