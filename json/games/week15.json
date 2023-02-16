@@ -32,14 +32,16 @@
 		"spread" : 4.5,
 		"gameTime" : "2023-02-16T02:00Z",
 		"channel": "ESPN2",
-		"active": true
+		"awayScore": 56,
+		"homeScore": 62,
+		"cover": "TXAM"
 	},
 	{
 		"gameId" : 4,
 		"awayTeam" : "PURD",
 		"homeTeam" : "MARY",
-		"favorite" : "MARY",
-		"spread" : "-",
+		"favorite" : "PURD",
+		"spread" : 1.5,
 		"gameTime" : "2023-02-16T23:30Z",
 		"channel": "B1G",
 		"active": false
