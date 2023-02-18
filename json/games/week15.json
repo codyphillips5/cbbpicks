@@ -49,44 +49,44 @@
 		"cover": "MARY"
 	},
 	{
-		"gameId" : 6,
+		"gameId" : 5,
 		"awayTeam" : "ILL",
 		"homeTeam" : "IND",
 		"favorite" : "IND",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2023-02-18T17:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
-		"gameId" : 7,
+		"gameId" : 6,
 		"awayTeam" : "ISU",
 		"homeTeam" : "KSST",
 		"favorite" : "KSST",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2023-02-18T19:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
+	},
+	{
+		"gameId" : 7,
+		"awayTeam" : "BU",
+		"homeTeam" : "KU",
+		"favorite" : "KU",
+		"spread" : 5.5,
+		"gameTime" : "2023-02-18T21:00Z",
+		"channel": "ESPN",
+		"active": true
 	},
 	{
 		"gameId" : 8,
-		"awayTeam" : "KU",
-		"homeTeam" : "BU",
-		"favorite" : "BU",
-		"spread" : "-",
-		"gameTime" : "2023-02-18T21:00Z",
-		"channel": "ESPN",
-		"active": false
-	},
-	{
-		"gameId" : 5,
 		"awayTeam" : "YALE",
 		"homeTeam" : "PRINCE",
 		"favorite" : "PRINCE",
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2023-02-18T23:00Z",
 		"channel": "ESPN+",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 9,
