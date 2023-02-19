@@ -104,7 +104,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2023-02-19T18:00Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore": 69,
+		"homeScore": 77,
+		"cover": "NCST"
 	},
 	{
 		"gameId" : 10,
