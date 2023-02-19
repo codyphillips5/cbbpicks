@@ -68,7 +68,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2023-02-18T19:00Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore": 56,
+		"homeScore": 61,
+		"cover": "KSST"
 	},
 	{
 		"gameId" : 7,
@@ -78,7 +80,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-02-18T21:00Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore": 71,
+		"homeScore": 87,
+		"cover": "KU"
 	},
 	{
 		"gameId" : 8,
@@ -88,27 +92,29 @@
 		"spread" : 0,
 		"gameTime" : "2023-02-18T23:00Z",
 		"channel": "ESPN+",
-		"active": true
+		"awayScore": 93,
+		"homeScore": 83,
+		"cover": "YALE"
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "UNC",
 		"homeTeam" : "NCST",
 		"favorite" : "NCST",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2023-02-19T18:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "MEM",
 		"homeTeam" : "HOU",
 		"favorite" : "HOU",
-		"spread" : "-",
+		"spread" : 13.5,
 		"gameTime" : "2023-02-19T20:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	}
   ]
 }
