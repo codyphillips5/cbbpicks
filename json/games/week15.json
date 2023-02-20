@@ -116,7 +116,9 @@
 		"spread" : 13.5,
 		"gameTime" : "2023-02-19T20:00Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore": 64,
+		"homeScore": 72,
+		"cover": "MEM"
 	}
   ]
 }
