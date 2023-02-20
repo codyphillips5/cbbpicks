@@ -52,22 +52,22 @@
 	},
 	{
 		"gameId" : 6,
-		"awayTeam" : "CLEM",
-		"homeTeam" : "NCST",
-		"favorite" : "NCST",
-		"spread" : "-",
-		"gameTime" : "2023-02-25T17:00Z",
-		"channel": "ESPN3",
-		"active": false
-	},
-	{
-		"gameId" : 7,
 		"awayTeam" : "TXAM",
 		"homeTeam" : "MSST",
 		"favorite" : "MSST",
 		"spread" : "-",
 		"gameTime" : "2023-02-25T20:30Z",
 		"channel": "SECN",
+		"active": false
+	},
+	{
+		"gameId" : 7,
+		"awayTeam" : "AUB",
+		"homeTeam" : "UK",
+		"favorite" : "UK",
+		"spread" : "-",
+		"gameTime" : "2023-02-25T21:00Z",
+		"channel": "CBS",
 		"active": false
 	},
 	{
