@@ -20,14 +20,16 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-02-22T01:30Z",
 		"channel": "FS1",
-		"active": true
+		"awayScore": 73,
+		"homeScore": 71,
+		"cover": "MARQ"
 	},
 	{
 		"gameId" : 3,
 		"awayTeam" : "PROV",
 		"homeTeam" : "UCONN",
 		"favorite" : "UCONN",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2023-02-22T23:30Z",
 		"channel": "FS1",
 		"active": false
@@ -36,8 +38,8 @@
 		"gameId" : 4,
 		"awayTeam" : "IOWA",
 		"homeTeam" : "WIS",
-		"favorite" : "WIS",
-		"spread" : "-",
+		"favorite" : "IOWA",
+		"spread" : 1.5,
 		"gameTime" : "2023-02-23T02:00Z",
 		"channel": "B1G",
 		"active": false
