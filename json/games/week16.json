@@ -56,7 +56,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-02-24T02:00Z",
 		"channel": "B1G",
-		"active": true
+		"awayScore": 62,
+		"homeScore": 66,
+		"cover": "NW"
 	},
 	{
 		"gameId" : 6,
