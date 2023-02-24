@@ -85,7 +85,7 @@
 		"awayTeam" : "IND",
 		"homeTeam" : "PURD",
 		"favorite" : "PURD",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2023-02-26T00:30Z",
 		"channel": "FOX",
 		"active": false
@@ -95,7 +95,7 @@
 		"awayTeam" : "STMARY",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2023-02-26T03:00Z",
 		"channel": "ESPN",
 		"active": false
