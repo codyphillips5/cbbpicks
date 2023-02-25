@@ -65,20 +65,20 @@
 		"awayTeam" : "TXAM",
 		"homeTeam" : "MSST",
 		"favorite" : "MSST",
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2023-02-25T20:30Z",
 		"channel": "SECN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "AUB",
 		"homeTeam" : "UK",
 		"favorite" : "UK",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2023-02-25T21:00Z",
 		"channel": "CBS",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 8,
@@ -88,7 +88,7 @@
 		"spread" : 7.5,
 		"gameTime" : "2023-02-26T00:30Z",
 		"channel": "FOX",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 9,
@@ -98,7 +98,7 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-02-26T03:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 10,
