@@ -68,7 +68,9 @@
 		"spread" : 0,
 		"gameTime" : "2023-02-25T20:30Z",
 		"channel": "SECN",
-		"active": true
+		"awayScore": 62,
+		"homeScore": 69,
+		"cover": "MSST"
 	},
 	{
 		"gameId" : 7,
@@ -78,7 +80,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2023-02-25T21:00Z",
 		"channel": "CBS",
-		"active": true
+		"awayScore": 54,
+		"homeScore": 86,
+		"cover": "UK"
 	},
 	{
 		"gameId" : 8,
@@ -88,7 +92,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2023-02-26T00:30Z",
 		"channel": "FOX",
-		"active": true
+		"awayScore": 79,
+		"homeScore": 71,
+		"cover": "IND"
 	},
 	{
 		"gameId" : 9,
@@ -98,17 +104,19 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-02-26T03:00Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore": 68,
+		"homeScore": 77,
+		"cover": "GONZ"
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "NW",
 		"homeTeam" : "MARY",
 		"favorite" : "MARY",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2023-02-26T17:00Z",
 		"channel": "B1G",
-		"active": false
+		"active": true
 	}
   ]
 }
