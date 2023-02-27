@@ -11,7 +11,7 @@
 		"game7" : "UK",
 		"game8" : "PURD",
 		"game9" : "GONZ",
-		"game10" : ""
+		"game10" : "MARY"
     },
     {
 		"userId" : 2,
@@ -24,7 +24,7 @@
 		"game7" : "UK",
 		"game8" : "IND",
 		"game9" : "GONZ",
-		"game10" : ""
+		"game10" : "NW"
     },
     {
 		"userId" : 3,
@@ -37,7 +37,7 @@
 		"game7" : "AUB",
 		"game8" : "IND",
 		"game9" : "STMARY",
-		"game10" : ""
+		"game10" : "MARY"
     },
 	{
 		"userId" : 4,
@@ -50,7 +50,7 @@
 		"game7" : "AUB",
 		"game8" : "IND",
 		"game9" : "GONZ",
-		"game10" : ""
+		"game10" : "NW"
     },
 	{
 		"userId" : 5,
@@ -63,7 +63,7 @@
 		"game7" : "UK",
 		"game8" : "PURD",
 		"game9" : "GONZ",
-		"game10" : ""
+		"game10" : "NW"
     },
 	{
 		"userId" : 6,
@@ -76,7 +76,7 @@
 		"game7" : "UK",
 		"game8" : "IND",
 		"game9" : "STMARY",
-		"game10" : ""
+		"game10" : "NW"
     },    
 	{
 		"userId" : 7,
@@ -89,7 +89,7 @@
 		"game7" : "UK",
 		"game8" : "PURD",
 		"game9" : "STMARY",
-		"game10" : ""
+		"game10" : "NW"
     },
 	{
 		"userId" : 8,
@@ -102,7 +102,7 @@
 		"game7" : "AUB",
 		"game8" : "IND",
 		"game9" : "GONZ",
-		"game10" : ""
+		"game10" : "NW"
     },
 	{
 		"userId" : 9,
@@ -115,7 +115,7 @@
 		"game7" : "AUB",
 		"game8" : "IND",
 		"game9" : "STMARY",
-		"game10" : ""
+		"game10" : "MARY"
     },	
 	{
 		"userId" : 10,
@@ -128,7 +128,7 @@
 		"game7" : "UK",
 		"game8" : "IND",
 		"game9" : "STMARY",
-		"game10" : ""
+		"game10" : "NW"
     },
 	{
 		"userId" : 11,
@@ -154,7 +154,7 @@
 		"game7" : "AUB",
 		"game8" : "IND",
 		"game9" : "STMARY",
-		"game10" : ""
+		"game10" : "NW"
     },
 	{
 		"userId" : 13,
@@ -180,7 +180,7 @@
 		"game7" : "UK",
 		"game8" : "PURD",
 		"game9" : "GONZ",
-		"game10" : ""
+		"game10" : "NW"
     },
 	{
 		"userId" : 15,
@@ -219,7 +219,7 @@
 		"game7" : "AUB",
 		"game8" : "IND",
 		"game9" : "STMARY",
-		"game10" : ""
+		"game10" : "MARY"
     },
 	{
 		"userId" : 18,
@@ -232,7 +232,7 @@
 		"game7" : "UK",
 		"game8" : "IND",
 		"game9" : "GONZ",
-		"game10" : ""
+		"game10" : "NW"
     },
 	{
 		"userId" : 19,
@@ -245,7 +245,7 @@
 		"game7" : "AUB",
 		"game8" : "PURD",
 		"game9" : "STMARY",
-		"game10" : ""
+		"game10" : "NW"
     },
 	{
 		"userId" : 20,
@@ -258,7 +258,7 @@
 		"game7" : "",
 		"game8" : "",
 		"game9" : "",
-		"game10" : ""
+		"game10" : "NW"
     },
 	{
 		"userId" : 21,
@@ -297,7 +297,7 @@
 		"game7" : "UK",
 		"game8" : "IND",
 		"game9" : "GONZ",
-		"game10" : ""
+		"game10" : "MARY"
     },
 	{
 		"userId" : 24,
@@ -310,7 +310,7 @@
 		"game7" : "AUB",
 		"game8" : "PURD",
 		"game9" : "STMARY",
-		"game10" : ""
+		"game10" : "NW"
     },
 	{
 		"userId" : 25,
@@ -323,7 +323,7 @@
 		"game7" : "UK",
 		"game8" : "IND",
 		"game9" : "GONZ",
-		"game10" : ""
+		"game10" : "MARY"
     },
 	{
 		"userId" : 26,
@@ -349,7 +349,7 @@
 		"game7" : "UK",
 		"game8" : "PURD",
 		"game9" : "GONZ",
-		"game10" : ""
+		"game10" : "MARY"
     },
 	{
 		"userId" : 28,
@@ -362,7 +362,7 @@
 		"game7" : "AUB",
 		"game8" : "IND",
 		"game9" : "GONZ",
-		"game10" : ""
+		"game10" : "NW"
     },
 	{
 		"userId" : 29,
@@ -375,7 +375,7 @@
 		"game7" : "UK",
 		"game8" : "PURD",
 		"game9" : "STMARY",
-		"game10" : ""
+		"game10" : "MARY"
     }
 	]
 }
