@@ -5,7 +5,7 @@
 		"awayTeam" : "WVU",
 		"homeTeam" : "ISU",
 		"favorite" : "ISU",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2023-02-28T02:00Z",
 		"channel": "ESPN2",
 		"active": false
