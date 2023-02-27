@@ -2,12 +2,12 @@
   "games": [
 	{ 
 		"gameId" : 1,
-		"awayTeam" : "WVU",
-		"homeTeam" : "ISU",
-		"favorite" : "ISU",
-		"spread" : 4.5,
+		"awayTeam" : "MONTST",
+		"homeTeam" : "EWU",
+		"favorite" : "EWU",
+		"spread" : 2.5,
 		"gameTime" : "2023-02-28T02:00Z",
-		"channel": "ESPN2",
+		"channel": "ESPN+",
 		"active": false
 	},
 	{
