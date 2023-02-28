@@ -17,7 +17,7 @@
 		"awayTeam" : "ARK",
 		"homeTeam" : "TENN",
 		"favorite" : "TENN",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2023-03-01T02:00Z",
 		"channel": "ESPN2",
 		"active": false
@@ -27,7 +27,7 @@
 		"awayTeam" : "SDSU",
 		"homeTeam" : "BSU",
 		"favorite" : "BSU",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2023-03-01T02:00Z",
 		"channel": "CBSSN",
 		"active": false
