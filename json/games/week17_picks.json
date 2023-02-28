@@ -15,7 +15,7 @@
     },
     {
 		"userId" : 2,
-		"game1" : "MONST",
+		"game1" : "MONTST",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -80,7 +80,7 @@
     },    
 	{
 		"userId" : 7,
-		"game1" : "MONST",
+		"game1" : "MONTST",
 		"game5" : "",
 		"game6" : "",
 		"game7" : "",
@@ -129,7 +129,7 @@
     },
 	{
 		"userId" : 11,
-		"game1" : "MONST",
+		"game1" : "MONTST",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -207,7 +207,7 @@
     },
 	{
 		"userId" : 17,
-		"game1" : "MONST",
+		"game1" : "MONTST",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -233,7 +233,7 @@
     },
 	{
 		"userId" : 19,
-		"game1" : "MONST",
+		"game1" : "MONTST",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -311,7 +311,7 @@
     },
 	{
 		"userId" : 25,
-		"game1" : "MONST",
+		"game1" : "MONTST",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
@@ -350,7 +350,7 @@
     },
 	{
 		"userId" : 28,
-		"game1" : "MONST",
+		"game1" : "MONTST",
 		"game2" : "",
 		"game3" : "",
 		"game4" : "",
