@@ -41,7 +41,7 @@
 		"awayTeam" : "XAV",
 		"homeTeam" : "PROV",
 		"favorite" : "PROV",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2023-03-01T23:30Z",
 		"channel": "FS1",
 		"active": false
