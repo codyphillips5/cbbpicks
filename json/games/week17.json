@@ -44,14 +44,16 @@
 		"spread" : 3.5,
 		"gameTime" : "2023-03-01T23:30Z",
 		"channel": "FS1",
-		"active": true
+		"awayScore": 94,
+		"homeScore": 89,
+		"cover": "XAV"
 	},
 	{
 		"gameId" : 5,
 		"awayTeam" : "ZONA",
 		"homeTeam" : "USC",
-		"favorite" : "USC",
-		"spread" : "-",
+		"favorite" : "ZONA",
+		"spread" : 2.5,
 		"gameTime" : "2023-03-03T04:00Z",
 		"channel": "ESPN",
 		"active": false
