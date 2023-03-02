@@ -53,10 +53,10 @@
 		"awayTeam" : "ZONA",
 		"homeTeam" : "USC",
 		"favorite" : "ZONA",
-		"spread" : 2.5,
+		"spread" : 1.5,
 		"gameTime" : "2023-03-03T04:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 6,
