@@ -56,7 +56,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2023-03-03T04:00Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore": 87,
+		"homeScore": 81,
+		"cover": "ZONA"
 	},
 	{
 		"gameId" : 6,
