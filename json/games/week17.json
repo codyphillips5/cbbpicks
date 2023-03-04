@@ -64,41 +64,41 @@
 		"gameId" : 6,
 		"awayTeam" : "ALA",
 		"homeTeam" : "TXAM",
-		"favorite" : "TXAM",
-		"spread" : "-",
+		"favorite" : "ALA",
+		"spread" : 1.5,
 		"gameTime" : "2023-03-04T17:00Z",
 		"channel": "CBS",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "PITT",
 		"homeTeam" : "MIA",
 		"favorite" : "MIA",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2023-03-04T23:00Z",
 		"channel": "ACCN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "DUKE",
 		"homeTeam" : "UNC",
 		"favorite" : "UNC",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2023-03-04T23:30Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "ZONA",
 		"homeTeam" : "UCLA",
 		"favorite" : "UCLA",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2023-03-05T03:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 10,
