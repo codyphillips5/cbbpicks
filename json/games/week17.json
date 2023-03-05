@@ -110,11 +110,11 @@
 		"gameId" : 10,
 		"awayTeam" : "HOU",
 		"homeTeam" : "MEM",
-		"favorite" : "MEM",
-		"spread" : "-",
+		"favorite" : "HOU",
+		"spread" : 5.5,
 		"gameTime" : "2023-03-05T17:00Z",
 		"channel": "CBS",
-		"active": false
+		"active": true
 	}
   ]
 }
