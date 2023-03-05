@@ -104,7 +104,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-03-05T03:00Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore": 73,
+		"homeScore": 82,
+		"cover": "UCLA"
 	},
 	{
 		"gameId" : 10,
