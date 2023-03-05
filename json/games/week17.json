@@ -116,7 +116,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-03-05T17:00Z",
 		"channel": "CBS",
-		"active": true
+		"awayScore": 67,
+		"homeScore": 65,
+		"cover": "MEM"
 	}
   ]
 }
