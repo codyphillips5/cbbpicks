@@ -34,7 +34,7 @@
 	},
 	{
 		"conf" :"Big South",
-		"winner" : ""
+		"winner" : "UNCA"
 	},
 	{
 		"conf" : "B1G",
@@ -82,11 +82,11 @@
 	},
 	{
 		"conf" : "Northeast",
-		"winner" : ""
+		"winner" : "FDU"
 	},
 	{
 		"conf" :"OVC",
-		"winner" : ""	
+		"winner" : "SEMST"	
 	},
 	{
 		"conf" : "PAC12",
