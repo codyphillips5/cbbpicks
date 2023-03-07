@@ -1,47 +1,35 @@
 {
   "auto": [
 	{
-		"conf" : "AAC",
-		"winner" : ""
+		"conf" : "Northeast",
+		"winner" : "FDU"
 	},
 	{
-		"conf" : "ACC",
-		"winner" : ""
-	},
-	{
-		"conf" : "America East",
-		"winner" : ""
-	},
-	{
-		"conf" : "A-10",
-		"winner" : "KENNST"
-	},
-	{
-		"conf": "ASUN",
-		"winner" : ""
-	},
-	{
-		"conf" : "Big 12",
-		"winner" : ""
-	},
-	{
-		"conf" : "Big East",
-		"winner" : ""
-	},
-	{
-		"conf" : "Big Sky",
-		"winner" : ""
+		"conf" :"OVC",
+		"winner" : "SEMST"	
 	},
 	{
 		"conf" :"Big South",
 		"winner" : "UNCA"
 	},
 	{
-		"conf" : "B1G",
-		"winner" : ""
+		"conf" : "MVC",
+		"winner" : "DRAKE"
 	},
 	{
-		"conf" : "Big West",
+		"conf": "ASUN",
+		"winner" : "KENNST"
+	},
+	{
+		"conf" : "Sun Belt",
+		"winner" : "ULL"
+	},
+	{
+		"conf" : "SoCon",
+		"winner" : "FURMAN"
+	},
+	{
+		"conf" : "Horizon",
 		"winner" : ""
 	},
 	{
@@ -49,15 +37,47 @@
 		"winner" : ""
 	},
 	{
-		"conf" : "C-USA",
+		"conf" : "Summit",
 		"winner" : ""
 	},
 	{
-		"conf" : "Horizon",
+		"conf" : "WCC",
 		"winner" : ""
 	},
 	{
-		"conf" : "Ivy",
+		"conf" : "Southland",
+		"winner" : ""
+	},
+	{
+		"conf" : "Patriot",
+		"winner" : ""
+	},
+	{
+		"conf" : "Big Sky",
+		"winner" : ""
+	},
+	{
+		"conf" : "America East",
+		"winner" : ""
+	},
+	{
+		"conf" : "MEAC",
+		"winner" : ""
+	},
+	{
+		"conf" : "SWAC",
+		"winner" : ""
+	},
+	{
+		"conf" : "Big 12",
+		"winner" : ""
+	},
+	{
+		"conf" : "MW",
+		"winner": ""
+	},
+	{
+		"conf" : "Big East",
 		"winner" : ""
 	},
 	{
@@ -69,55 +89,19 @@
 		"winner" : ""
 	},
 	{
-		"conf" : "MEAC",
+		"conf" : "C-USA",
 		"winner" : ""
 	},
 	{
-		"conf" : "MVC",
-		"winner" : "DRAKE"
+		"conf" : "ACC",
+		"winner" : ""
 	},
 	{
-		"conf" : "MW",
-		"winner": ""
-	},
-	{
-		"conf" : "Northeast",
-		"winner" : "FDU"
-	},
-	{
-		"conf" :"OVC",
-		"winner" : "SEMST"	
+		"conf" : "Big West",
+		"winner" : ""
 	},
 	{
 		"conf" : "PAC12",
-		"winner" : ""
-	},
-	{
-		"conf" : "Patriot",
-		"winner" : ""
-	},
-	{
-		"conf" : "SEC",
-		"winner" : ""
-	},
-	{
-		"conf" : "SoCon",
-		"winner" : ""
-	},
-	{
-		"conf" : "Southland",
-		"winner" : ""
-	},
-	{
-		"conf" : "SWAC",
-		"winner" : ""
-	},
-	{
-		"conf" : "Summit",
-		"winner" : ""
-	},
-	{
-		"conf" : "Sun Belt",
 		"winner" : ""
 	},
 	{
@@ -125,7 +109,23 @@
 		"winner" : ""
 	},
 	{
-		"conf" : "WCC",
+		"conf" : "Ivy",
+		"winner" : ""
+	},
+	{
+		"conf" : "A-10",
+		"winner" : ""
+	},
+	{
+		"conf" : "SEC",
+		"winner" : ""
+	},
+	{
+		"conf" : "AAC",
+		"winner" : ""
+	},
+	{
+		"conf" : "B1G",
 		"winner" : ""
 	}
 	],
