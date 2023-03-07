@@ -24,7 +24,7 @@ var lengthArray = 0;
 var la = 0;
 var saLa = [];
 var coversTeam = [];
-var weekNum = 17;
+var weekNum = 0;
 var empty = false;
 var firstName;
 var users = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.json", function(json){
