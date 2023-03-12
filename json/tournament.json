@@ -62,51 +62,51 @@
 	},
 	{
 		"conf" : "MEAC",
-		"winner" : ""
+		"winner" : "HOWARD"
 	},
 	{
 		"conf" : "SWAC",
-		"winner" : ""
+		"winner" : "TXSO"
 	},
 	{
 		"conf" : "Big 12",
-		"winner" : ""
+		"winner" : "TEX"
 	},
 	{
 		"conf" : "MW",
-		"winner": ""
+		"winner": "SDSU"
 	},
 	{
 		"conf" : "Big East",
-		"winner" : ""
+		"winner" : "MARQ"
 	},
 	{
 		"conf" : "MAAC",
-		"winner" : ""
+		"winner" : "IONA"
 	},
 	{
 		"conf" : "MAC",
-		"winner" : ""
+		"winner" : "KENT"
 	},
 	{
 		"conf" : "C-USA",
-		"winner" : ""
+		"winner" : "FAU"
 	},
 	{
 		"conf" : "ACC",
-		"winner" : ""
+		"winner" : "DUKE"
 	},
 	{
 		"conf" : "Big West",
-		"winner" : ""
+		"winner" : "UCSB"
 	},
 	{
 		"conf" : "PAC12",
-		"winner" : ""
+		"winner" : "ZONA"
 	},
 	{
 		"conf" : "WAC",
-		"winner" : ""
+		"winner" : "GCU"
 	},
 	{
 		"conf" : "Ivy",
