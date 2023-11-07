@@ -2,26 +2,16 @@
   "games": [
 	{
 		"gameId" : 1,
-		"awayTeam" : "USC",
-		"homeTeam" : "KSST",
-		"favorite" : "KSST",
-		"spread" : "-",
-		"gameTime" : "2023-11-07T03:00Z",
-		"channel" : "TNT",
-		"active" : false
-    },
-    {
-		"gameId" : 2,
 		"awayTeam" : "AUB",
 		"homeTeam" : "BU",
 		"favorite" : "BU",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2023-11-08T02:00Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
     },
-	{
-		"gameId" : 3,
+    {
+		"gameId" : 2,
 		"awayTeam" : "AZST",
 		"homeTeam" : "MSST",
 		"favorite" : "MSST",
@@ -30,8 +20,8 @@
 		"channel" : "Barstool TV",
 		"active" : false
     },
-    {
-		"gameId" : 4,
+	{
+		"gameId" : 3,
 		"awayTeam" : "UNM",
 		"homeTeam" : "STMARY",
 		"favorite" : "STMARY",
@@ -41,7 +31,7 @@
 		"active" : false
     },
     {
-		"gameId" : 5,
+		"gameId" : 4,
 		"awayTeam" : "ZONA",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
@@ -51,7 +41,7 @@
 		"active" : false
     },
     {
-		"gameId" : 6,
+		"gameId" : 5,
 		"awayTeam" : "TXAM",
 		"homeTeam" : "OSU",
 		"favorite" : "OSU",
@@ -61,7 +51,7 @@
 		"active" : false
     },
     {
-		"gameId" : 7,
+		"gameId" : 6,
 		"awayTeam" : "FLA",
 		"homeTeam" : "UVA",
 		"favorite" : "UVA",
@@ -71,7 +61,7 @@
 		"active" : false
     },
     {
-		"gameId" : 8,
+		"gameId" : 7,
 		"awayTeam" : "UCF",
 		"homeTeam" : "MIA",
 		"favorite" : "MIA",
@@ -81,7 +71,7 @@
 		"active" : false
     },
     {
-		"gameId" : 9,
+		"gameId" : 8,
 		"awayTeam" : "TENN",
 		"homeTeam" : "WIS",
 		"favorite" : "WIS",
@@ -91,13 +81,23 @@
 		"active" : false
     },
     {
-		"gameId" : 10,
+		"gameId" : 9,
 		"awayTeam" : "MEM",
 		"homeTeam" : "MIZ",
 		"favorite" : "MIZ",
 		"spread" : "-",
 		"gameTime" : "2023-11-11T02:00Z",
 		"channel" : "SECN",
+		"active" : false
+    },
+    {
+		"gameId" : 10,
+		"awayTeam" : "NEV",
+		"homeTeam" : "WASH",
+		"favorite" : "WASH",
+		"spread" : "-",
+		"gameTime" : "2023-11-13T03:00Z",
+		"channel" : "PACN",
 		"active" : false
     }
   ]
