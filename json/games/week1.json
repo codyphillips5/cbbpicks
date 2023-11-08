@@ -20,7 +20,7 @@
 		"spread" : 4.5,
 		"gameTime" : "2023-11-09T02:30Z",
 		"channel" : "Barstool TV",
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 3,
