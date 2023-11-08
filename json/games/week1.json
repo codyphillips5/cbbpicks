@@ -8,14 +8,16 @@
 		"spread" : 1.5,
 		"gameTime" : "2023-11-08T02:00Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 82,
+		"homeScore" : 88,
+		"cover" : "BU"
     },
     {
 		"gameId" : 2,
 		"awayTeam" : "AZST",
 		"homeTeam" : "MSST",
 		"favorite" : "MSST",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2023-11-09T02:30Z",
 		"channel" : "Barstool TV",
 		"active" : false
