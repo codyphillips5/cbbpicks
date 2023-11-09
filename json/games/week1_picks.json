@@ -3,7 +3,7 @@
 	{
 		"userId" : 1,
 		"game1" : "BU",
-		"game2" : "",
+		"game2" : "MSST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -16,7 +16,7 @@
 	{
 		"userId" : 2,
 		"game1" : "AUB",
-		"game2" : "",
+		"game2" : "AZST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -29,7 +29,7 @@
 	{
 		"userId" : 3,
 		"game1" : "AUB",
-		"game2" : "",
+		"game2" : "MSST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -42,7 +42,7 @@
 	{
 		"userId" : 4,
 		"game1" : "BU",
-		"game2" : "",
+		"game2" : "MSST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -55,7 +55,7 @@
 	{
 		"userId" :5,
 		"game1" : "BU",
-		"game2" : "",
+		"game2" : "AZST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -68,7 +68,7 @@
 	{
 		"userId" : 6,
 		"game1" : "AUB",
-		"game2" : "",
+		"game2" : "MSST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -81,7 +81,7 @@
 	{
 		"userId" : 7,
 		"game1" : "BU",
-		"game2" : "",
+		"game2" : "MSST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -94,7 +94,7 @@
     {
 		"userId" : 8,
 		"game1" : "",
-		"game2" : "",
+		"game2" : "MSST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -107,7 +107,7 @@
     {
 		"userId" : 9,
 		"game1" : "BU",
-		"game2" : "",
+		"game2" : "AZST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -120,7 +120,7 @@
 	{
 		"userId" : 10,
 		"game1" : "AUB",
-		"game2" : "",
+		"game2" : "AZST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -133,7 +133,7 @@
 	{
 		"userId" : 11,
 		"game1" : "BU",
-		"game2" : "",
+		"game2" : "AZST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -159,7 +159,7 @@
 	{
 		"userId" : 13,
 		"game1" : "BU",
-		"game2" : "",
+		"game2" : "MSST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -172,7 +172,7 @@
 	{
 		"userId" : 14,
 		"game1" : "AUB",
-		"game2" : "",
+		"game2" : "MSST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -185,7 +185,7 @@
 	{
 		"userId" : 15,
 		"game1" : "BU",
-		"game2" : "",
+		"game2" : "AZST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -198,7 +198,7 @@
 	{
 		"userId" : 16,
 		"game1" : "BU",
-		"game2" : "",
+		"game2" : "MSST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -211,7 +211,7 @@
 	{
 		"userId" : 17,
 		"game1" : "AUB",
-		"game2" : "",
+		"game2" : "AZST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -224,7 +224,7 @@
 	{
 		"userId" : 18,
 		"game1" : "BU",
-		"game2" : "",
+		"game2" : "AZST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -237,7 +237,7 @@
 	{
 		"userId" : 19,
 		"game1" : "AUB",
-		"game2" : "",
+		"game2" : "AZST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -249,8 +249,8 @@
     },
 	{
 		"userId" : 20,
-		"game1" : "BU",
-		"game2" : "",
+		"game1" : "",
+		"game2" : "AZST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -262,8 +262,8 @@
     },	
 	{
 		"userId" : 21,
-		"game1" : "AUB",
-		"game2" : "",
+		"game1" : "BU",
+		"game2" : "AZST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -272,11 +272,11 @@
 		"game8" : "",
 		"game9" : "",
 		"game10" : ""
-    },
+    },	
 	{
 		"userId" : 22,
-		"game1" : "BU",
-		"game2" : "",
+		"game1" : "AUB",
+		"game2" : "MSST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -288,8 +288,8 @@
     },
 	{
 		"userId" : 23,
-		"game1" : "AUB",
-		"game2" : "",
+		"game1" : "BU",
+		"game2" : "AZST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -301,8 +301,8 @@
     },
 	{
 		"userId" : 24,
-		"game1" : "BU",
-		"game2" : "",
+		"game1" : "AUB",
+		"game2" : "MSST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -314,8 +314,8 @@
     },
 	{
 		"userId" : 25,
-		"game1" : "AUB",
-		"game2" : "",
+		"game1" : "BU",
+		"game2" : "AZST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -327,8 +327,8 @@
     },
 	{
 		"userId" : 26,
-		"game1" : "BU",
-		"game2" : "",
+		"game1" : "AUB",
+		"game2" : "MSST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",
@@ -340,8 +340,21 @@
     },
 	{
 		"userId" : 27,
+		"game1" : "BU",
+		"game2" : "AZST",
+		"game3" : "",
+		"game4" : "",
+		"game5" : "",
+		"game6" : "",
+		"game7" : "",
+		"game8" : "",
+		"game9" : "",
+		"game10" : ""
+    },
+	{
+		"userId" : 28,
 		"game1" : "",
-		"game2" : "",
+		"game2" : "MSST",
 		"game3" : "",
 		"game4" : "",
 		"game5" : "",

@@ -20,17 +20,19 @@
 		"spread" : 4.5,
 		"gameTime" : "2023-11-09T02:30Z",
 		"channel" : "Barstool TV",
-		"active" : true
+		"awayScore" : 56,
+		"homeScore" : 71,
+		"cover" : "MSST"
     },
 	{
 		"gameId" : 3,
 		"awayTeam" : "UNM",
 		"homeTeam" : "STMARY",
 		"favorite" : "STMARY",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2023-11-10T03:00Z",
 		"channel" : "ESPN+",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 4,
