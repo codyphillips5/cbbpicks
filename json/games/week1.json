@@ -32,7 +32,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-11-10T03:00Z",
 		"channel" : "ESPN+",
-		"active" : true
+		"awayScore" : 58,
+		"homeScore" : 72,
+		"cover" : "STMARY"
     },
     {
 		"gameId" : 4,
@@ -66,16 +68,6 @@
     },
     {
 		"gameId" : 7,
-		"awayTeam" : "UCF",
-		"homeTeam" : "MIA",
-		"favorite" : "MIA",
-		"spread" : "-",
-		"gameTime" : "2023-11-11T00:00Z",
-		"channel" : "ACCNX",
-		"active" : false
-    },
-    {
-		"gameId" : 8,
 		"awayTeam" : "TENN",
 		"homeTeam" : "WIS",
 		"favorite" : "WIS",
@@ -85,13 +77,23 @@
 		"active" : false
     },
     {
-		"gameId" : 9,
+		"gameId" : 8,
 		"awayTeam" : "MEM",
 		"homeTeam" : "MIZ",
 		"favorite" : "MIZ",
 		"spread" : "-",
 		"gameTime" : "2023-11-11T02:00Z",
 		"channel" : "SECN",
+		"active" : false
+    },
+    {
+		"gameId" : 9,
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2023-11-12T20:00Z",
+		"channel" : "ESPN2",
 		"active" : false
     },
     {
