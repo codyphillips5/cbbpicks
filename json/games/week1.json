@@ -41,7 +41,7 @@
 		"awayTeam" : "ZONA",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2023-11-11T00:00Z",
 		"channel" : "ESPN2",
 		"active" : false
@@ -51,7 +51,7 @@
 		"awayTeam" : "TXAM",
 		"homeTeam" : "OSU",
 		"favorite" : "OSU",
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2023-11-11T00:00Z",
 		"channel" : "Peacock",
 		"active" : false
@@ -61,7 +61,7 @@
 		"awayTeam" : "FLA",
 		"homeTeam" : "UVA",
 		"favorite" : "UVA",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2023-11-11T00:00Z",
 		"channel" : "ACCN",
 		"active" : false
@@ -70,8 +70,8 @@
 		"gameId" : 7,
 		"awayTeam" : "TENN",
 		"homeTeam" : "WIS",
-		"favorite" : "WIS",
-		"spread" : "-",
+		"favorite" : "TENN",
+		"spread" : 2.5,
 		"gameTime" : "2023-11-11T02:00Z",
 		"channel" : "Peacock",
 		"active" : false
@@ -81,7 +81,7 @@
 		"awayTeam" : "MEM",
 		"homeTeam" : "MIZ",
 		"favorite" : "MIZ",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2023-11-11T02:00Z",
 		"channel" : "SECN",
 		"active" : false
