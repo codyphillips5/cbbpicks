@@ -44,7 +44,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2023-11-11T00:00Z",
 		"channel" : "ESPN2",
-		"active" : true
+		"awayScore" : 78,
+		"homeScore" : 73,
+		"cover" : "ZONA"
     },
     {
 		"gameId" : 5,
@@ -54,7 +56,9 @@
 		"spread" : 0,
 		"gameTime" : "2023-11-11T00:00Z",
 		"channel" : "Peacock",
-		"active" : true
+		"awayScore" : 73,
+		"homeScore" : 66,
+		"cover" : "TXAM"
     },
     {
 		"gameId" : 6,
@@ -64,7 +68,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2023-11-11T00:00Z",
 		"channel" : "ACCN",
-		"active" : true
+		"awayScore" : 70,
+		"homeScore" : 73,
+		"cover" : "UVA"
     },
     {
 		"gameId" : 7,
@@ -74,7 +80,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2023-11-11T02:00Z",
 		"channel" : "Peacock",
-		"active" : true
+		"awayScore" : 80,
+		"homeScore" : 70,
+		"cover" : "TENN"
     },
     {
 		"gameId" : 8,
@@ -84,13 +92,15 @@
 		"spread" : 3.5,
 		"gameTime" : "2023-11-11T02:00Z",
 		"channel" : "SECN",
-		"active" : true
+		"awayScore" : 70,
+		"homeScore" : 55,
+		"cover" : "MEM"
     },
     {
 		"gameId" : 9,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "DAV",
+		"homeTeam" : "CLEM",
+		"favorite" : "CLEM",
 		"spread" : "-",
 		"gameTime" : "2023-11-12T20:00Z",
 		"channel" : "ESPN2",
