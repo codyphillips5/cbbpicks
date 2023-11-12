@@ -101,20 +101,20 @@
 		"awayTeam" : "DAV",
 		"homeTeam" : "CLEM",
 		"favorite" : "CLEM",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2023-11-12T20:00Z",
 		"channel" : "ESPN2",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
 		"awayTeam" : "NEV",
 		"homeTeam" : "WASH",
 		"favorite" : "WASH",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2023-11-13T03:00Z",
 		"channel" : "PACN",
-		"active" : false
+		"active" : true
     }
   ]
 }
