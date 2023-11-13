@@ -26,7 +26,7 @@
 		"homeTeam" : "UK",
 		"favorite" : "KU",
 		"spread" : 5.5,
-		"gameTime" : "2023-11-15T02:00Z",
+		"gameTime" : "2023-11-15T02:30Z",
 		"channel" : "ESPN",
 		"active": false
     },
@@ -36,7 +36,7 @@
 		"homeTeam" : "CREIGH",
 		"favorite" : "CREIGH",
 		"spread" : "-",
-		"gameTime" : "2023-11-15T03:30Z",
+		"gameTime" : "2023-11-15T03:00Z",
 		"channel" : "FS1",
 		"active": false
     },
@@ -96,7 +96,7 @@
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
 		"spread" : "-",
-		"gameTime" : "2023-11-15T00:00Z",
+		"gameTime" : "2023-11-20T02:00Z",
 		"channel" : "Continental Tire",
 		"active": false
     }
