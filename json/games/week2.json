@@ -38,12 +38,12 @@
     },
     {
 		"gameId" : 4,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
-		"spread" : "-",
-		"gameTime" : "2023-11-18T00:00Z",
-		"channel" : "Legends Classic • ESPN2",
+		"awayTeam" : "MARY",
+		"homeTeam" : "NOVA",
+		"favorite" : "NOVA",
+		"spread" : 5.5,
+		"gameTime" : "2023-11-18T01:30Z",
+		"channel" : "FS1",
 		"active": false
     },
     {
@@ -51,7 +51,7 @@
 		"awayTeam" : "STMARY",
 		"homeTeam" : "SDSU",
 		"favorite" : "SDSU",
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2023-11-18T02:30Z",
 		"channel" : "ESPN+",
 		"active": false
@@ -73,7 +73,7 @@
 		"favorite" : "TBD",
 		"spread" : "-",
 		"gameTime" : "2023-11-19T19:30Z",
-		"channel" : "Bahamas Classic • CBSSN",
+		"channel" : "Bahamas Championship • CBSSN",
 		"active": false
     },
 	{
