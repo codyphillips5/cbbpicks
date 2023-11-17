@@ -41,20 +41,20 @@
 		"awayTeam" : "MARY",
 		"homeTeam" : "NOVA",
 		"favorite" : "NOVA",
-		"spread" : 5.5,
+		"spread" : 6.5,
 		"gameTime" : "2023-11-18T01:30Z",
 		"channel" : "FS1",
-		"active": false
+		"active": true
     },
     {
 		"gameId" : 5,
 		"awayTeam" : "STMARY",
 		"homeTeam" : "SDSU",
-		"favorite" : "SDSU",
-		"spread" : 0,
+		"favorite" : "STMARY",
+		"spread" : 1.5,
 		"gameTime" : "2023-11-18T02:30Z",
 		"channel" : "ESPN+",
-		"active": false
+		"active": true
     },
     {
 		"gameId" : 6,
