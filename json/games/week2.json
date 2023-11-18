@@ -72,42 +72,42 @@
     },
     {
 		"gameId" : 7,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "MIA",
+		"homeTeam" : "KSST",
+		"favorite" : "KSST",
 		"spread" : "-",
 		"gameTime" : "2023-11-19T19:30Z",
-		"channel" : "Bahamas Championship • CBSSN",
+		"channel" : "CBSSN",
 		"active": false
     },
 	{
 		"gameId" : 8,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "VERM",
+		"homeTeam" : "LIB",
+		"favorite" : "LIB",
 		"spread" : "-",
 		"gameTime" : "2023-11-19T22:30Z",
-		"channel" : "Myrtle Beach Invitational • ESPN / ESPN2",
+		"channel" : "ESPN2",
 		"active": false
     },
     {
 		"gameId" : 9,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "DAY",
+		"homeTeam" : "HOU",
+		"favorite" : "HOU",
 		"spread" : "-",
 		"gameTime" : "2023-11-20T01:30Z",
-		"channel" : "Charleston Classic • ESPN",
+		"channel" : "ESPN",
 		"active": false
     },
     {
 		"gameId" : 10,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "SDSU",
+		"homeTeam" : "WASH",
+		"favorite" : "WASH",
 		"spread" : "-",
 		"gameTime" : "2023-11-20T03:00Z",
-		"channel" : "Continental Tire Main Event • ESPN2",
+		"channel" : "ESPN2",
 		"active": false
     }
   ]
