@@ -44,7 +44,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2023-11-18T01:30Z",
 		"channel" : "FS1",
-		"active": true
+		"awayScore" : 40,
+		"homeScore" : 57,
+		"cover" : "NOVA"
     },
     {
 		"gameId" : 5,
@@ -54,7 +56,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2023-11-18T02:30Z",
 		"channel" : "ESPN+",
-		"active": true
+		"awayScore" : 79,
+		"homeScore" : 54,
+		"cover" : "SDSU"
     },
     {
 		"gameId" : 6,
