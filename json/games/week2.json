@@ -64,51 +64,51 @@
 		"gameId" : 6,
 		"awayTeam" : "UCONN",
 		"homeTeam" : "IND",
-		"favorite" : "IND",
-		"spread" : "-",
+		"favorite" : "UCONN",
+		"spread" : 11.5,
 		"gameTime" : "2023-11-19T18:00Z",
 		"channel" : "ESPN",
-		"active": false
+		"active": true
     },
     {
 		"gameId" : 7,
 		"awayTeam" : "MIA",
 		"homeTeam" : "KSST",
-		"favorite" : "KSST",
-		"spread" : "-",
+		"favorite" : "MIA",
+		"spread" : 2.5,
 		"gameTime" : "2023-11-19T19:30Z",
 		"channel" : "CBSSN",
-		"active": false
+		"active": true
     },
 	{
 		"gameId" : 8,
 		"awayTeam" : "VERM",
 		"homeTeam" : "LIB",
 		"favorite" : "LIB",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2023-11-19T22:30Z",
 		"channel" : "ESPN2",
-		"active": false
+		"active": true
     },
     {
 		"gameId" : 9,
 		"awayTeam" : "DAY",
 		"homeTeam" : "HOU",
 		"favorite" : "HOU",
-		"spread" : "-",
+		"spread" : 12.5,
 		"gameTime" : "2023-11-20T01:30Z",
 		"channel" : "ESPN",
-		"active": false
+		"active": true
     },
     {
 		"gameId" : 10,
 		"awayTeam" : "SDSU",
 		"homeTeam" : "WASH",
-		"favorite" : "WASH",
-		"spread" : "-",
+		"favorite" : "SDSU",
+		"spread" : 6.5,
 		"gameTime" : "2023-11-20T03:00Z",
 		"channel" : "ESPN2",
-		"active": false
+		"active": true
     }
   ]
 }
