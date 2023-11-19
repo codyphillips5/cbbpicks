@@ -68,7 +68,9 @@
 		"spread" : 11.5,
 		"gameTime" : "2023-11-19T18:00Z",
 		"channel" : "ESPN",
-		"active": true
+		"awayScore" : 77,
+		"homeScore" : 57,
+		"cover" : "UCONN"
     },
     {
 		"gameId" : 7,
@@ -78,7 +80,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2023-11-19T19:30Z",
 		"channel" : "CBSSN",
-		"active": true
+		"awayScore" : 91,
+		"homeScore" : 83,
+		"cover" : "MIA"
     },
 	{
 		"gameId" : 8,
