@@ -59,87 +59,82 @@
 	},
 	{
 		"userId" : 12,
-		"week_1" : 0,
-		"week_2" : 0
-    },
-	{
-		"userId" : 13,
 		"week_1" : 5,
 		"week_2" : 2
     },   
 	{
-		"userId" : 14,
+		"userId" : 13,
 		"week_1" : 2,
 		"week_2" : 3
 	},
 	{
-		"userId" : 15,
+		"userId" : 14,
 		"week_1" : 6,
 		"week_2" : 5
     },
 	{
-		"userId" : 16,
+		"userId" : 15,
 		"week_1" : 6,
 		"week_2" : 0
     },	
 	{
-		"userId" : 17,
+		"userId" : 16,
 		"week_1" : 1,
 		"week_2" : 4
     },	
 	{
-		"userId" : 18,
+		"userId" : 17,
 		"week_1" : 3,
 		"week_2" : 6
     },
 	{
-		"userId" : 19,
+		"userId" : 18,
 		"week_1" : 0,
 		"week_2" : 4
     },
 	{
-		"userId" : 20,
+		"userId" : 19,
 		"week_1" : 4,
 		"week_2" : 1
     },
 	{
-		"userId" : 21,
+		"userId" : 20,
 		"week_1" : 5,
 		"week_2" : 3
 	},
 	{
-		"userId" : 22,
+		"userId" : 21,
 		"week_1" : 7,
 		"week_2" : 4
     },	
 	{
-		"userId" : 23,
+		"userId" : 22,
 		"week_1" : 6,
 		"week_2" : 8,
 		"week_2_top" : true
     },	
 	{
-		"userId" : 24,
+		"userId" : 23,
 		"week_1" : 7,
 		"week_2" : 3
     },
 	{
-		"userId" : 25,
+		"userId" : 24,
 		"week_1" : 4,
 		"week_2" : 4
     },		
 	{
-		"userId" : 26,
+		"userId" : 25,
 		"week_1" : 6,
 		"week_2" : 6
     },
 	{
-		"userId" : 27,
+		"userId" : 26,
 		"week_1" : 5,
 		"week_2" : 6
     },	
 	{
-		"userId" : 28,
+		"userId" : 27,
 		"week_1" : 2,
 		"week_2" : 3
     }
