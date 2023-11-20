@@ -145,19 +145,6 @@
     },
 	{
 		"userId" : 12,
-		"game1" : "",
-		"game2" : "",
-		"game3" : "",
-		"game4" : "",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
-    },
-	{
-		"userId" : 13,
 		"game1" : "MSU",
 		"game2" : "ILL",
 		"game3" : "KU",
@@ -170,7 +157,7 @@
 		"game10" : "SDSU"
     },   
 	{
-		"userId" : 14,
+		"userId" : 13,
 		"game1" : "",
 		"game2" : "",
 		"game3" : "",
@@ -183,7 +170,7 @@
 		"game10" : "SDSU"
     },
 	{
-		"userId" : 15,
+		"userId" : 14,
 		"game1" : "DUKE",
 		"game2" : "ILL",
 		"game3" : "UK",
@@ -196,7 +183,7 @@
 		"game10" : "SDSU"
     },	
 	{
-		"userId" : 16,
+		"userId" : 15,
 		"game1" : "",
 		"game2" : "",
 		"game3" : "",
@@ -209,7 +196,7 @@
 		"game10" : ""
     },
 	{
-		"userId" : 17,
+		"userId" : 16,
 		"game1" : "DUKE",
 		"game2" : "MARQ",
 		"game3" : "KU",
@@ -222,7 +209,7 @@
 		"game10" : "SDSU"
     },
 	{
-		"userId" : 18,
+		"userId" : 17,
 		"game1" : "DUKE",
 		"game2" : "MARQ",
 		"game3" : "UK",
@@ -235,7 +222,7 @@
 		"game10" : "SDSU"
     },
 	{
-		"userId" : 19,
+		"userId" : 18,
 		"game1" : "MSU",
 		"game2" : "MARQ",
 		"game3" : "UK",
@@ -248,7 +235,7 @@
 		"game10" : "WASH"
     },
 	{
-		"userId" : 20,
+		"userId" : 19,
 		"game1" : "MSU",
 		"game2" : "ILL",
 		"game3" : "KU",
@@ -261,7 +248,7 @@
 		"game10" : ""
     },
 	{
-		"userId" : 21,
+		"userId" : 20,
 		"game1" : "DUKE",
 		"game2" : "ILL",
 		"game3" : "KU",
@@ -274,7 +261,7 @@
 		"game10" : "WASH"
     },
 	{
-		"userId" : 22,
+		"userId" : 21,
 		"game1" : "MSU",
 		"game2" : "MARQ",
 		"game3" : "UK",
@@ -287,7 +274,7 @@
 		"game10" : "SDSU"
     },
 	{
-		"userId" : 23,
+		"userId" : 22,
 		"game1" : "DUKE",
 		"game2" : "MARQ",
 		"game3" : "UK",
@@ -300,7 +287,7 @@
 		"game10" : "SDSU"
     },
 	{
-		"userId" : 24,
+		"userId" : 23,
 		"game1" : "DUKE",
 		"game2" : "MARQ",
 		"game3" : "KU",
@@ -313,7 +300,7 @@
 		"game10" : "SDSU"
     },
 	{
-		"userId" : 25,
+		"userId" : 24,
 		"game1" : "MSU",
 		"game2" : "ILL",
 		"game3" : "KU",
@@ -326,7 +313,7 @@
 		"game10" : "SDSU"
     },
 	{
-		"userId" : 26,
+		"userId" : 25,
 		"game1" : "DUKE",
 		"game2" : "ILL",
 		"game3" : "KU",
@@ -339,7 +326,7 @@
 		"game10" : "WASH"
     },
 	{
-		"userId" : 27,
+		"userId" : 26,
 		"game1" : "DUKE",
 		"game2" : "ILL",
 		"game3" : "UK",
@@ -352,7 +339,7 @@
 		"game10" : "SDSU"
     },
 	{
-		"userId" : 28,
+		"userId" : 27,
 		"game1" : "MSU",
 		"game2" : "ILL",
 		"game3" : "UK",
