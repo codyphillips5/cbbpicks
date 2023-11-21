@@ -8,7 +8,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2023-11-20T22:00Z",
 		"channel" : "ESPN2",
-		"active" : true
+		"awayScore" : 73,
+		"homeScore" : 63,
+		"cover" : "PURD"
     },
     {
 		"gameId" : 2,
