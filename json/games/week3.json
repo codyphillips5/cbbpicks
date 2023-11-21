@@ -20,17 +20,19 @@
 		"spread" : 6.5,
 		"gameTime" : "2023-11-21T00:00Z",
 		"channel" : "ESPNU",
-		"active" : true
+		"awayScore" : 81,
+		"homeScore" : 71,
+		"cover" : "UCONN"
     },
     {
 		"gameId" : 3,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
-		"spread" : "-",
+		"awayTeam" : "MARQ",
+		"homeTeam" : "KU",
+		"favorite" : "KU",
+		"spread" : 4.5,
 		"gameTime" : "2023-11-22T03:30Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 4,
