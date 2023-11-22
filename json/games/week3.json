@@ -44,7 +44,7 @@
 		"spread" : 1.5,
 		"gameTime" : "2023-11-22T19:30Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 5,
@@ -54,7 +54,7 @@
 		"spread" : 3.5,
 		"gameTime" : "2023-11-22T22:00Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 6,
