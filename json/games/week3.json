@@ -44,7 +44,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2023-11-22T19:30Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 69,
+		"homeScore" : 60,
+		"cover" : "KU"
     },
     {
 		"gameId" : 5,
@@ -70,8 +72,8 @@
 		"gameId" : 7,
 		"awayTeam" : "ZONA",
 		"homeTeam" : "MSU",
-		"favorite" : "MSU",
-		"spread" : "-",
+		"favorite" : "ZONA",
+		"spread" : 4.5,
 		"gameTime" : "2023-11-23T21:00Z",
 		"channel" : "FOX",
 		"active" : false
