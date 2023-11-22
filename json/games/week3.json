@@ -41,7 +41,7 @@
 		"awayTeam" : "KU",
 		"homeTeam" : "TENN",
 		"favorite" : "KU",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2023-11-22T19:30Z",
 		"channel" : "ESPN",
 		"active" : false
@@ -51,7 +51,7 @@
 		"awayTeam" : "MARQ",
 		"homeTeam" : "PURD",
 		"favorite" : "PURD",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2023-11-22T22:00Z",
 		"channel" : "ESPN",
 		"active" : false
