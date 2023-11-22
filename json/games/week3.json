@@ -61,10 +61,10 @@
 		"awayTeam" : "SMU",
 		"homeTeam" : "WIS",
 		"favorite" : "WIS",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2023-11-23T01:30Z",
 		"channel" : "FS1",
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 7,
