@@ -56,7 +56,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2023-11-22T22:00Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 75,
+		"homeScore" : 78,
+		"cover" : "MARQ"
     },
     {
 		"gameId" : 6,
@@ -66,17 +68,19 @@
 		"spread" : 6.5,
 		"gameTime" : "2023-11-23T01:30Z",
 		"channel" : "FS1",
-		"active" : true
+		"awayScore" : 61,
+		"homeScore" : 69,
+		"cover" : "WIS"
     },
 	{
 		"gameId" : 7,
 		"awayTeam" : "ZONA",
 		"homeTeam" : "MSU",
 		"favorite" : "ZONA",
-		"spread" : 4.5,
+		"spread" : 5.5,
 		"gameTime" : "2023-11-23T21:00Z",
 		"channel" : "FOX",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 8,
@@ -90,9 +94,9 @@
     },
     {
 		"gameId" : 9,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "BU",
+		"homeTeam" : "FLA",
+		"favorite" : "FLA",
 		"spread" : "-",
 		"gameTime" : "2023-11-24T22:30Z",
 		"channel" : "ESPN",
