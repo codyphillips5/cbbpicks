@@ -80,11 +80,13 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-11-23T21:00Z",
 		"channel" : "FOX",
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 68,
+		"cover" : "ZONA"
     },
     {
 		"gameId" : 8,
-		"awayTeam" : "TBD",
+		"awayTeam" : "NOVA",
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
 		"spread" : "-",
@@ -96,8 +98,8 @@
 		"gameId" : 9,
 		"awayTeam" : "BU",
 		"homeTeam" : "FLA",
-		"favorite" : "FLA",
-		"spread" : "-",
+		"favorite" : "BU",
+		"spread" : 3.5,
 		"gameTime" : "2023-11-24T22:30Z",
 		"channel" : "ESPN",
 		"active" : false
