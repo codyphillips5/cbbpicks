@@ -87,12 +87,12 @@
     {
 		"gameId" : 8,
 		"awayTeam" : "NOVA",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
-		"spread" : "-",
+		"homeTeam" : "MEM",
+		"favorite" : "NOVA",
+		"spread" : 3.5,
 		"gameTime" : "2023-11-24T20:30Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 9,
@@ -102,7 +102,7 @@
 		"spread" : 3.5,
 		"gameTime" : "2023-11-24T22:30Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
