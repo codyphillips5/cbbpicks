@@ -92,7 +92,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2023-11-24T20:30Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 79,
+		"homeScore" : 63,
+		"cover" : "NOVA"
     },
     {
 		"gameId" : 9,
@@ -102,13 +104,15 @@
 		"spread" : 3.5,
 		"gameTime" : "2023-11-24T22:30Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 95,
+		"homeScore" : 91,
+		"cover" : "BU"
     },
     {
 		"gameId" : 10,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "SANCL",
+		"homeTeam" : "OSU",
+		"favorite" : "OSU",
 		"spread" : "-",
 		"gameTime" : "2023-11-26T00:00Z",
 		"channel" : "CBSSN",

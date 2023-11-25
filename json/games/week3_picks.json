@@ -9,8 +9,8 @@
 		"game5" : "PURD",
 		"game6" : "WIS",
 		"game7" : "ZONA",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "NOVA",
+		"game9" : "BU",
 		"game10" : ""
     },
     {
@@ -35,8 +35,8 @@
 		"game5" : "PURD",
 		"game6" : "SMU",
 		"game7" : "ZONA",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "NOVA",
+		"game9" : "BU",
 		"game10" : ""
     },
 	{
@@ -61,8 +61,8 @@
 		"game5" : "MARQ",
 		"game6" : "WIS",
 		"game7" : "ZONA",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "NOVA",
+		"game9" : "BU",
 		"game10" : ""
     },
 	{
@@ -74,8 +74,8 @@
 		"game5" : "PURD",
 		"game6" : "WIS",
 		"game7" : "MSU",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "MEM",
+		"game9" : "FLA",
 		"game10" : ""
     },    
 	{
@@ -87,8 +87,8 @@
 		"game5" : "MARQ",
 		"game6" : "WIS",
 		"game7" : "ZONA",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "MEM",
+		"game9" : "BU",
 		"game10" : ""
     },
 	{
@@ -126,8 +126,8 @@
 		"game5" : "PURD",
 		"game6" : "WIS",
 		"game7" : "MSU",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "MEM",
+		"game9" : "BU",
 		"game10" : ""
     },
 	{
@@ -139,8 +139,8 @@
 		"game5" : "PURD",
 		"game6" : "WIS",
 		"game7" : "ZONA",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "MEM",
+		"game9" : "BU",
 		"game10" : ""
     },
 	{
@@ -152,8 +152,8 @@
 		"game5" : "PURD",
 		"game6" : "SMU",
 		"game7" : "MSU",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "NOVA",
+		"game9" : "BU",
 		"game10" : ""
     },
 	{
@@ -165,8 +165,8 @@
 		"game5" : "PURD",
 		"game6" : "WIS",
 		"game7" : "ZONA",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "NOVA",
+		"game9" : "BU",
 		"game10" : ""
     },
 	{
@@ -178,8 +178,8 @@
 		"game5" : "MARQ",
 		"game6" : "WIS",
 		"game7" : "ZONA",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "MEM",
+		"game9" : "BU",
 		"game10" : ""
     },
 	{
@@ -191,8 +191,8 @@
 		"game5" : "MARQ",
 		"game6" : "WIS",
 		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "MEM",
+		"game9" : "BU",
 		"game10" : ""
     },
 	{
@@ -204,8 +204,8 @@
 		"game5" : "PURD",
 		"game6" : "SMU",
 		"game7" : "MSU",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "NOVA",
+		"game9" : "BU",
 		"game10" : ""
     },
 	{
@@ -217,8 +217,8 @@
 		"game5" : "PURD",
 		"game6" : "WIS",
 		"game7" : "ZONA",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "NOVA",
+		"game9" : "FLA",
 		"game10" : ""
     },
 	{
@@ -230,8 +230,8 @@
 		"game5" : "MARQ",
 		"game6" : "SMU",
 		"game7" : "MSU",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "MEM",
+		"game9" : "FLA",
 		"game10" : ""
     },
 	{
@@ -243,8 +243,8 @@
 		"game5" : "PURD",
 		"game6" : "SMU",
 		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "MEM",
+		"game9" : "BU",
 		"game10" : ""
     },
 	{
@@ -256,8 +256,8 @@
 		"game5" : "PURD",
 		"game6" : "SMU",
 		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "NOVA",
+		"game9" : "BU",
 		"game10" : ""
     },
 	{
@@ -269,8 +269,8 @@
 		"game5" : "PURD",
 		"game6" : "SMU",
 		"game7" : "ZONA",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "NOVA",
+		"game9" : "BU",
 		"game10" : ""
     },
 	{
@@ -282,8 +282,8 @@
 		"game5" : "PURD",
 		"game6" : "WIS",
 		"game7" : "MSU",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "NOVA",
+		"game9" : "FLA",
 		"game10" : ""
     },
 	{
@@ -295,8 +295,8 @@
 		"game5" : "MARQ",
 		"game6" : "WIS",
 		"game7" : "ZONA",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "NOVA",
+		"game9" : "BU",
 		"game10" : ""
     },
 	{
@@ -308,8 +308,8 @@
 		"game5" : "PURD",
 		"game6" : "WIS",
 		"game7" : "",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "NOVA",
+		"game9" : "FLA",
 		"game10" : ""
     },
 	{
@@ -321,8 +321,8 @@
 		"game5" : "PURD",
 		"game6" : "SMU",
 		"game7" : "ZONA",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "NOVA",
+		"game9" : "BU",
 		"game10" : ""
     },
 	{
@@ -334,8 +334,8 @@
 		"game5" : "PURD",
 		"game6" : "WIS",
 		"game7" : "ZONA",
-		"game8" : "",
-		"game9" : "",
+		"game8" : "NOVA",
+		"game9" : "FLA",
 		"game10" : ""
     },
 	{
