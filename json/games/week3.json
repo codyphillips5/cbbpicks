@@ -113,10 +113,10 @@
 		"awayTeam" : "SANCL",
 		"homeTeam" : "OSU",
 		"favorite" : "OSU",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2023-11-26T00:00Z",
 		"channel" : "CBSSN",
-		"active" : false
+		"active" : true
     }
   ]
 }
