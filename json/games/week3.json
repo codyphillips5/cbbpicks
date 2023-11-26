@@ -116,7 +116,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2023-11-26T00:00Z",
 		"channel" : "CBSSN",
-		"active" : true
+		"awayScore" : 56,
+		"homeScore" : 86,
+		"cover" : "OSU"
     }
   ]
 }
