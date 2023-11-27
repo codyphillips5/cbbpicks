@@ -6,7 +6,7 @@
 		"homeTeam" : "UK",
 		"favorite" : "UK",
 		"spread" : "-",
-		"gameTime" : "2023-11-28T00:30Z",
+		"gameTime" : "2023-11-29T00:30Z",
 		"channel" : "ESPN",
 		"active" : false
 	},
@@ -16,7 +16,7 @@
 		"homeTeam" : "ALA",
 		"favorite" : "ALA",
 		"spread" : "-",
-		"gameTime" : "2023-11-28T02:30Z",
+		"gameTime" : "2023-11-29T02:30Z",
 		"channel" : "ESPN",
 		"active" : false
 	},
@@ -26,7 +26,7 @@
 		"homeTeam" : "UNC",
 		"favorite" : "UNC",
 		"spread" : "-",
-		"gameTime" : "2023-11-29T00:15Z",
+		"gameTime" : "2023-11-30T00:15Z",
 		"channel" : "ESPN",
 		"active" : false
 	},
@@ -36,7 +36,7 @@
 		"homeTeam" : "UVA",
 		"favorite" : "UVA",
 		"spread" : "-",
-		"gameTime" : "2023-11-29T00:15Z",
+		"gameTime" : "2023-11-30T00:15Z",
 		"channel" : "ESPN2",
 		"active" : false
 	},
@@ -46,7 +46,7 @@
 		"homeTeam" : "AUB",
 		"favorite" : "AUB",
 		"spread" : "-",
-		"gameTime" : "2023-11-29T02:15Z",
+		"gameTime" : "2023-11-30T02:15Z",
 		"channel" : "ESPN2",
 		"active" : false
 	},
@@ -56,28 +56,28 @@
 		"homeTeam" : "FAU",
 		"favorite" : "FAU",
 		"spread" : "-",
-		"gameTime" : "2023-11-29T23:00Z",
+		"gameTime" : "2023-11-30T23:00Z",
 		"channel" : "ESPNU",
 		"active" : false
 	},
 	{
 		"gameId" : 7,
-		"awayTeam" : "UCONN",
-		"homeTeam" : "KU",
-		"favorite" : "KU",
+		"awayTeam" : "HOU",
+		"homeTeam" : "XAV",
+		"favorite" : "XAV",
 		"spread" : "-",
-		"gameTime" : "2023-11-30T02:00Z",
-		"channel" : "ESPN2",
+		"gameTime" : "2023-11-30T23:30Z",
+		"channel" : "FS1",
 		"active" : false
 	},
 	{
 		"gameId" : 8,
-		"awayTeam" : "MARQ",
-		"homeTeam" : "WIS",
-		"favorite" : "WIS",
+		"awayTeam" : "UCONN",
+		"homeTeam" : "KU",
+		"favorite" : "KU",
 		"spread" : "-",
-		"gameTime" : "2023-11-30T17:30Z",
-		"channel" : "FOX",
+		"gameTime" : "2023-12-01T02:00Z",
+		"channel" : "ESPN2",
 		"active" : false
 	},
 	{
@@ -86,7 +86,7 @@
 		"homeTeam" : "USC",
 		"favorite" : "USC",
 		"spread" : "-",
-		"gameTime" : "2023-12-01T03:00Z",
+		"gameTime" : "2023-12-02T03:00Z",
 		"channel" : "",
 		"active" : false
 	},
@@ -96,7 +96,7 @@
 		"homeTeam" : "NEB",
 		"favorite" : "NEB",
 		"spread" : "-",
-		"gameTime" : "2023-12-01T21:00Z",
+		"gameTime" : "2023-12-02T21:00Z",
 		"channel" : "FS1",
 		"active" : false
 	}
