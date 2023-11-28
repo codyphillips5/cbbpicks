@@ -115,7 +115,8 @@ $.when(requestX, requestY).then(function(){
 			//badge.className = 'games-layout';
 			//badge.id = 'games-layout';
 			var header = `<div class='p-3 border bg-${activeBg}' ${activeBg}><span class='header'><h5 class='pb-2 lh-1' style='margin-bottom: 0px;'>${awayTeam} vs ${homeTeam} (${homeSide}${spread}) </h5>`;
-			var gameInfo = '<small class=\'w-100\'> '+ channel + " • " + date.toLocaleString([], {weekday: 'long', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit'}).replace(',',' •') + '</small>';
+			var time =date.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }).replace(/^0+/, '');
+			var gameInfo = '<small class=\'w-100\'> '+ channel + " • " + date.toLocaleString([], {weekday: 'long', month: '2-digit', day: '2-digit'}).replace(',',' •') + ', ' + time + '</small>';
 			var fin = '';
 
 			if (xFile[key][i].cover) {
