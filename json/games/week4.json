@@ -29,7 +29,7 @@
 		"awayTeam" : "TENN",
 		"homeTeam" : "UNC",
 		"favorite" : "UNC",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2023-11-30T00:15Z",
 		"channel" : "ESPN",
 		"active" : true
@@ -39,7 +39,7 @@
 		"awayTeam" : "TXAM",
 		"homeTeam" : "UVA",
 		"favorite" : "UVA",
-		"spread" : 0,
+		"spread" : 1.5,
 		"gameTime" : "2023-11-30T00:15Z",
 		"channel" : "ESPN2",
 		"active" : true
