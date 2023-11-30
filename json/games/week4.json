@@ -32,7 +32,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2023-11-30T00:15Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 92,
+		"homeScore" : 100,
+		"cover" : "UNC"
 	},
 	{
 		"gameId" : 4,
@@ -42,7 +44,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2023-11-30T00:15Z",
 		"channel" : "ESPN2",
-		"active" : true
+		"awayScore" : 47,
+		"homeScore" : 59,
+		"cover" : "UVA"
 	},
 	{
 		"gameId" : 5,
@@ -52,7 +56,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2023-11-30T02:00Z",
 		"channel" : "CBSSN",
-		"active" : true
+		"awayScore" : 83,
+		"homeScore" : 88,
+		"cover" : "CSU"
 	},
 	{
 		"gameId" : 6,
