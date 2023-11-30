@@ -68,7 +68,7 @@
 		"spread" : 7.5,
 		"gameTime" : "2023-11-30T23:00Z",
 		"channel" : "ESPNU",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
