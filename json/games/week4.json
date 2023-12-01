@@ -68,17 +68,19 @@
 		"spread" : 7.5,
 		"gameTime" : "2023-11-30T23:00Z",
 		"channel" : "ESPNU",
-		"active" : true
+		"awayScore" : 58,
+		"homeScore" : 83,
+		"cover" : "FAU"
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "UCONN",
 		"homeTeam" : "KU",
 		"favorite" : "KU",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2023-12-02T02:00Z",
 		"channel" : "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
