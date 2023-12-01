@@ -82,12 +82,12 @@
 	},
 	{
 		"gameId" : 8,
-		"awayTeam" : "UCIRV",
-		"homeTeam" : "USU",
-		"favorite" : "USU",
+		"awayTeam" : "ILL",
+		"homeTeam" : "RUTG",
+		"favorite" : "RUTG",
 		"spread" : "-",
-		"gameTime" : "2023-12-03T02:00Z",
-		"channel" : "MTN",
+		"gameTime" : "2023-12-02T21:00Z",
+		"channel" : "B1G",
 		"active" : false
 	},
 	{
