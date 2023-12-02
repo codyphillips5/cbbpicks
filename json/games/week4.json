@@ -87,7 +87,7 @@
 		"awayTeam" : "ILL",
 		"homeTeam" : "RUTG",
 		"favorite" : "RUTG",
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2023-12-02T21:00Z",
 		"channel" : "B1G",
 		"active" : false
@@ -96,8 +96,8 @@
 		"gameId" : 9,
 		"awayTeam" : "GONZ",
 		"homeTeam" : "USC",
-		"favorite" : "USC",
-		"spread" : "-",
+		"favorite" : "GONZ",
+		"spread" : 3.5,
 		"gameTime" : "2023-12-03T03:00Z",
 		"channel" : "ESPN",
 		"active" : false
