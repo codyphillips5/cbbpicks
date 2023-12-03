@@ -92,7 +92,9 @@
 		"spread" : 0,
 		"gameTime" : "2023-12-02T21:00Z",
 		"channel" : "B1G",
-		"active" : true
+		"awayScore" : 76,
+		"homeScore" : 58,
+		"cover" : "ILL"
 	},
 	{
 		"gameId" : 9,
@@ -102,17 +104,19 @@
 		"spread" : 3.5,
 		"gameTime" : "2023-12-03T03:00Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 89,
+		"homeScore" : 76,
+		"cover" : "GONZ"
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "CREIGH",
 		"homeTeam" : "NEB",
-		"favorite" : "NEB",
-		"spread" : "-",
+		"favorite" : "CREIGH",
+		"spread" : 3.5,
 		"gameTime" : "2023-12-03T21:00Z",
 		"channel" : "FS1",
-		"active" : false
+		"active" : true
 	}
   ]
 }
