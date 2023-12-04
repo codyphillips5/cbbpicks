@@ -20,7 +20,7 @@ var fullTeamImage = "";
 
 var standings, teams, resultsList, usersList;
 game = 0;
-totalWeek = 4;
+totalWeek = 5;
 
 for (var i = 1; i <= totalWeek; i++) {
 	var getGames = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week" + i + ".json", function(json){
