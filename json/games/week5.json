@@ -4,8 +4,8 @@
 		"gameId" : 1,
 		"awayTeam" : "FAU",
 		"homeTeam" : "ILL",
-		"favorite" : "ILL",
-		"spread" : "-",
+		"favorite" : "FAU",
+		"spread" : 1.5,
 		"gameTime" : "2023-12-05T23:30Z",
 		"channel" : "ESPN",
 		"active" : false
@@ -15,7 +15,7 @@
 		"awayTeam" : "PROV",
 		"homeTeam" : "OKLA",
 		"favorite" : "OKLA",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2023-12-06T00:00Z",
 		"channel" : "ESPNU",
 		"active" : false
@@ -25,7 +25,7 @@
 		"awayTeam" : "UNC",
 		"homeTeam" : "UCONN",
 		"favorite" : "UCONN",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2023-12-06T02:00Z",
 		"channel" : "ESPN",
 		"active" : false
@@ -52,9 +52,9 @@
 	},
 	{
 		"gameId" : 6,
-		"awayTeam" : "ALA",
-		"homeTeam" : "PURD",
-		"favorite" : "PURD",
+		"awayTeam" : "PURD",
+		"homeTeam" : "ALA",
+		"favorite" : "ALA",
 		"spread" : "-",
 		"gameTime" : "2023-12-09T18:30Z",
 		"channel" : "FOX",
