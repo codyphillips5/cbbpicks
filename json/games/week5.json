@@ -8,7 +8,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2023-12-05T23:30Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 89,
+		"homeScore" : 98,
+		"cover" : "ILL"
 	},
 	{
 		"gameId" : 2,
