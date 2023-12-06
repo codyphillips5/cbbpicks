@@ -20,7 +20,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-12-06T00:00Z",
 		"channel" : "ESPNU",
-		"active" : true
+		"awayScore" : 51,
+		"homeScore" : 72,
+		"cover" : "OKLA"
 	},
 	{
 		"gameId" : 3,
