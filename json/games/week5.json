@@ -64,8 +64,8 @@
 		"gameId" : 6,
 		"awayTeam" : "PURD",
 		"homeTeam" : "ALA",
-		"favorite" : "ALA",
-		"spread" : "-",
+		"favorite" : "PURD",
+		"spread" : 5.5,
 		"gameTime" : "2023-12-09T18:30Z",
 		"channel" : "FOX",
 		"active" : false
@@ -74,8 +74,8 @@
 		"gameId" : 7,
 		"awayTeam" : "CINCY",
 		"homeTeam" : "XAV",
-		"favorite" : "XAV",
-		"spread" : "-",
+		"favorite" : "CINCY",
+		"spread" : 0,
 		"gameTime" : "2023-12-09T23:30Z",
 		"channel" : "FS1",
 		"active" : false
@@ -84,8 +84,8 @@
 		"gameId" : 8,
 		"awayTeam" : "BYU",
 		"homeTeam" : "UTAH",
-		"favorite" : "UTAH",
-		"spread" : "-",
+		"favorite" : "BYU",
+		"spread" : 3.5,
 		"gameTime" : "2023-12-10T00:00Z",
 		"channel" : "PACN",
 		"active" : false
@@ -95,7 +95,7 @@
 		"awayTeam" : "UCLA",
 		"homeTeam" : "NOVA",
 		"favorite" : "NOVA",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2023-12-10T00:00Z",
 		"channel" : "FOX",
 		"active" : false
@@ -104,8 +104,8 @@
 		"gameId" : 10,
 		"awayTeam" : "GONZ",
 		"homeTeam" : "WASH",
-		"favorite" : "WASH",
-		"spread" : "-",
+		"favorite" : "GONZ",
+		"spread" : 5.5,
 		"gameTime" : "2023-12-10T04:00Z",
 		"channel" : "ESPN2",
 		"active" : false
