@@ -56,7 +56,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2023-12-08T00:30Z",
 		"channel" : "ESPNU",
-		"active" : true
+		"awayScore" : 65,
+		"homeScore" : 90,
+		"cover" : "ISU"
 	},
 	{
 		"gameId" : 6,
