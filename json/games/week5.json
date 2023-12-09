@@ -68,7 +68,7 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-12-09T18:30Z",
 		"channel" : "FOX",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
@@ -78,7 +78,7 @@
 		"spread" : 0,
 		"gameTime" : "2023-12-09T23:30Z",
 		"channel" : "FS1",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
@@ -88,27 +88,27 @@
 		"spread" : 3.5,
 		"gameTime" : "2023-12-10T00:00Z",
 		"channel" : "PACN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "UCLA",
 		"homeTeam" : "NOVA",
 		"favorite" : "NOVA",
-		"spread" : 5.5,
+		"spread" : 3.5,
 		"gameTime" : "2023-12-10T00:00Z",
 		"channel" : "FOX",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "GONZ",
 		"homeTeam" : "WASH",
 		"favorite" : "GONZ",
-		"spread" : 5.5,
+		"spread" : 4.5,
 		"gameTime" : "2023-12-10T04:00Z",
 		"channel" : "ESPN2",
-		"active" : false
+		"active" : true
 	}
   ]
 }
