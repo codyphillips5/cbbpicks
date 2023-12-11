@@ -68,7 +68,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-12-09T18:30Z",
 		"channel" : "FOX",
-		"active" : true
+		"awayScore" : 92,
+		"homeScore" : 86,
+		"cover" : "PURD"
 	},
 	{
 		"gameId" : 7,
@@ -78,7 +80,9 @@
 		"spread" : 0,
 		"gameTime" : "2023-12-09T23:30Z",
 		"channel" : "FS1",
-		"active" : true
+		"awayScore" : 79,
+		"homeScore" : 84,
+		"cover" : "XAV"
 	},
 	{
 		"gameId" : 8,
@@ -88,7 +92,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2023-12-10T00:00Z",
 		"channel" : "PACN",
-		"active" : true
+		"awayScore" : 69,
+		"homeScore" : 73,
+		"cover" : "UTAH"
 	},
 	{
 		"gameId" : 9,
@@ -98,7 +104,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2023-12-10T00:00Z",
 		"channel" : "FOX",
-		"active" : true
+		"awayScore" : 56,
+		"homeScore" : 65,
+		"cover" : "NOVA"
 	},
 	{
 		"gameId" : 10,
@@ -108,7 +116,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2023-12-10T04:00Z",
 		"channel" : "ESPN2",
-		"active" : true
+		"awayScore" : 73,
+		"homeScore" : 78,
+		"cover" : "WASH"
 	}
   ]
 }
