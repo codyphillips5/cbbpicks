@@ -8,7 +8,7 @@
 		"spread" : "-",
 		"gameTime" : "2023-12-16T03:00Z",
 		"channel": "ESPN2",
-		"awayScore" : false
+		"active" : false
 	},
 	{
 		"gameId" : 2,
@@ -18,7 +18,7 @@
 		"spread" : "-",
 		"gameTime" : "2023-12-16T19:30Z",
 		"channel": "ESPN2",
-		"awayScore" : false
+		"active" : false
 	},
 	{
 		"gameId" : 3,
@@ -28,7 +28,7 @@
 		"spread" : "-",
 		"gameTime" : "2023-12-16T20:00Z",
 		"channel": "ESPN+",
-		"awayScore" : false
+		"active" : false
 	},
 	{
 		"gameId" : 4,
@@ -38,7 +38,7 @@
 		"spread" : "-",
 		"gameTime" : "2023-12-16T21:00Z",
 		"channel": "ESPNU",
-		"awayScore" : false
+		"active" : false
 	},
 	{
 		"gameId" : 5,
@@ -48,7 +48,7 @@
 		"spread" : "-",
 		"gameTime" : "2023-12-16T21:00Z",
 		"channel": "MTN",
-		"awayScore" : false
+		"active" : false
 	},
 	{
 		"gameId" : 6,
@@ -58,7 +58,7 @@
 		"spread" : "-",
 		"gameTime" : "2023-12-16T21:30Z",
 		"channel": "Peacock",
-		"awayScore" : false
+		"active" : false
 	},
 	{
 		"gameId" : 7,
@@ -68,7 +68,7 @@
 		"spread" : "-",
 		"gameTime" : "2023-12-16T22:30Z",
 		"channel": "CBS",
-		"awayScore" : false
+		"active" : false
 	},
 	{
 		"gameId" : 8,
@@ -78,7 +78,7 @@
 		"spread" : "-",
 		"gameTime" : "2023-12-17T00:00Z",
 		"channel": "ESPN+",
-		"awayScore" : false
+		"active" : false
 	},
 	{
 		"gameId" : 9,
@@ -88,7 +88,7 @@
 		"spread" : "-",
 		"gameTime" : "2023-12-17T01:00Z",
 		"channel": "FOX",
-		"awayScore" : false
+		"active" : false
 	},
 	{
 		"gameId" : 10,
@@ -98,7 +98,7 @@
 		"spread" : "-",
 		"gameTime" : "2023-12-17T18:00Z",
 		"channel": "ESPN",
-		"awayScore" : false
+		"active" : false
 	}
   ]
 }
