@@ -20,7 +20,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2023-12-16T19:30Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 64,
+		"homeScore" : 70,
+		"cover" : "TXAM"
 	},
 	{
 		"gameId" : 3,
@@ -30,7 +32,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2023-12-16T20:00Z",
 		"channel": "ESPN+",
-		"active" : true
+		"awayScore" : 77,
+		"homeScore" : 79,
+		"cover" : "CLEM"
 	},
 	{
 		"gameId" : 4,
@@ -40,7 +44,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2023-12-16T21:00Z",
 		"channel": "MTN",
-		"active" : true
+		"awayScore" : 53,
+		"homeScore" : 54,
+		"cover" : "DONS"
 	},
 	{
 		"gameId" : 5,
@@ -50,7 +56,9 @@
 		"spread" : 0,
 		"gameTime" : "2023-12-16T21:30Z",
 		"channel": "Peacock",
-		"active" : true
+		"awayScore" : 84,
+		"homeScore" : 92,
+		"cover" : "PURD"
 	},
 	{
 		"gameId" : 6,
@@ -60,7 +68,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2023-12-16T22:30Z",
 		"channel": "CBS",
-		"active" : true
+		"awayScore" : 83,
+		"homeScore" : 87,
+		"cover" : "UK"
 	},
 	{
 		"gameId" : 7,
@@ -70,7 +80,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2023-12-17T00:00Z",
 		"channel": "ESPN+",
-		"active" : true
+		"awayScore" : 82,
+		"homeScore" : 68,
+		"cover" : "DAY"
 	},
 	{
 		"gameId" : 8,
@@ -80,7 +92,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2023-12-17T01:00Z",
 		"channel": "FOX",
-		"active" : true
+		"awayScore" : 82,
+		"homeScore" : 85,
+		"cover" : "ALA"
 	},
 	{
 		"gameId" : 9,
@@ -90,17 +104,19 @@
 		"spread" : 7.5,
 		"gameTime" : "2023-12-17T03:00Z",
 		"channel": "ESPNU",
-		"active" : true
+		"awayScore" : 59,
+		"homeScore" : 79,
+		"cover" : "TCU"
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "USC",
 		"homeTeam" : "AUB",
 		"favorite" : "AUB",
-		"spread" : "-",
+		"spread" : 8.5,
 		"gameTime" : "2023-12-17T18:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	}
   ]
 }
