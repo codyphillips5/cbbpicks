@@ -116,7 +116,9 @@
 		"spread" : 8.5,
 		"gameTime" : "2023-12-17T18:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 75,
+		"homeScore" : 91,
+		"cover" : "AUB"
 	}
   ]
 }
