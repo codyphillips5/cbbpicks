@@ -5,20 +5,20 @@
 		"awayTeam" : "UVA",
 		"homeTeam" : "MEM",
 		"favorite" : "MEM",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2023-12-20T00:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 2,
 		"awayTeam" : "FLA",
 		"homeTeam" : "MICH",
-		"favorite" : "MICH",
-		"spread" : "-",
+		"favorite" : "FLA",
+		"spread" : 3.5,
 		"gameTime" : "2023-12-20T00:00Z",
 		"channel": "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 3,
