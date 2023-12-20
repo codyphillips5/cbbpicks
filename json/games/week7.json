@@ -8,7 +8,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2023-12-20T00:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 54,
+		"homeScore" : 77,
+		"cover" : "MEM"
 	},
 	{
 		"gameId" : 2,
@@ -18,14 +20,18 @@
 		"spread" : 3.5,
 		"gameTime" : "2023-12-20T00:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 106,
+		"homeScore" : 101,
+		"cover" : "FLA"
 	},
 	{
 		"gameId" : 3,
 		"awayTeam" : "BU",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2023-12-21T00:00Z",
 		"channel": "ESPN",
 		"active" : false
@@ -35,7 +41,7 @@
 		"awayTeam" : "XAV",
 		"homeTeam" : "SJU",
 		"favorite" : "SJU",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2023-12-21T00:00Z",
 		"channel": "FS1",
 		"active" : false
@@ -44,8 +50,8 @@
 		"gameId" : 5,
 		"awayTeam" : "UNC",
 		"homeTeam" : "OKLA",
-		"favorite" : "OKLA",
-		"spread" : "-",
+		"favorite" : "UNC",
+		"spread" : 2.5,
 		"gameTime" : "2023-12-21T02:00Z",
 		"channel": "ESPN",
 		"active" : false
@@ -55,7 +61,7 @@
 		"awayTeam" : "UCIRV",
 		"homeTeam" : "UNM",
 		"favorite" : "UNM",
-		"spread" : "-",
+		"spread" : 8.5,
 		"gameTime" : "2023-12-21T02:00Z",
 		"channel": "MTN",
 		"active" : false
