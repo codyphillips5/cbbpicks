@@ -21,7 +21,7 @@
 		"gameTime" : "2023-12-20T00:00Z",
 		"channel": "ESPN",
 		"overtime" : true,
-		"numberOfOT" : 1,
+		"numberOfOT" : 2,
 		"awayScore" : 106,
 		"homeScore" : 101,
 		"cover" : "FLA"
