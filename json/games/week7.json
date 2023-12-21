@@ -34,7 +34,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2023-12-21T00:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 70,
+		"homeScore" : 78,
+		"cover" : "DUKE"
 	},
 	{
 		"gameId" : 4,
@@ -44,7 +46,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-12-21T00:00Z",
 		"channel": "FS1",
-		"active" : true
+		"awayScore" : 66,
+		"homeScore" : 81,
+		"cover" : "XAV"
 	},
 	{
 		"gameId" : 5,
@@ -54,7 +58,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2023-12-21T02:00Z",
 		"channel": "ESPN",
-		"active" : true
+		"awayScore" : 81,
+		"homeScore" : 69,
+		"cover" : "UNC"
 	},
 	{
 		"gameId" : 6,
@@ -64,7 +70,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2023-12-21T02:00Z",
 		"channel": "MTN",
-		"active" : true
+		"awayScore" : 65,
+		"homeScore" : 78,
+		"cover" : "UNM"
 	},
 	{
 		"gameId" : 7,
