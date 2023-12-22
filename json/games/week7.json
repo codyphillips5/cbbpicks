@@ -76,13 +76,13 @@
 	},
 	{
 		"gameId" : 7,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
-		"spread" : "-",
+		"awayTeam" : "NEV",
+		"homeTeam" : "TCU",
+		"favorite" : "TCU",
+		"spread" : 1.5,
 		"gameTime" : "2023-12-22T22:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
