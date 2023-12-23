@@ -82,37 +82,39 @@
 		"spread" : 1.5,
 		"gameTime" : "2023-12-22T22:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 88,
+		"homeScore" : 75,
+		"cover" : "NEV"
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "MSST",
 		"homeTeam" : "RUTG",
-		"favorite" : "RUTG",
-		"spread" : "-",
+		"favorite" : "MSST",
+		"spread" : 2.5,
 		"gameTime" : "2023-12-23T17:00Z",
 		"channel": "B1G",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "BUTLER",
 		"homeTeam" : "PROV",
 		"favorite" : "PROV",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2023-12-23T17:00Z",
 		"channel": "FS1",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "ZONA",
 		"homeTeam" : "FAU",
-		"favorite" : "FAU",
-		"spread" : "-",
+		"favorite" : "ZONA",
+		"spread" : 6.5,
 		"gameTime" : "2023-12-23T20:00Z",
 		"channel": "FOX",
-		"active" : false
+		"active" : true
 	}
   ]
 }
