@@ -94,7 +94,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2023-12-23T17:00Z",
 		"channel": "B1G",
-		"active" : true
+		"awayScore" : 70,
+		"homeScore" : 60,
+		"cover" : "MSST"
 	},
 	{
 		"gameId" : 9,
@@ -104,7 +106,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-12-23T17:00Z",
 		"channel": "FS1",
-		"active" : true
+		"awayScore" : 75,
+		"homeScore" : 85,
+		"cover" : "PROV"
 	},
 	{
 		"gameId" : 10,
