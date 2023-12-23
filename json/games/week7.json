@@ -106,6 +106,8 @@
 		"spread" : 5.5,
 		"gameTime" : "2023-12-23T17:00Z",
 		"channel": "FS1",
+		"overtime" : true,
+		"numberOfOT" : 1,
 		"awayScore" : 75,
 		"homeScore" : 85,
 		"cover" : "PROV"
