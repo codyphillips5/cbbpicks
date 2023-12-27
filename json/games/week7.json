@@ -120,7 +120,11 @@
 		"spread" : 6.5,
 		"gameTime" : "2023-12-23T20:00Z",
 		"channel": "FOX",
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 95,
+		"homeScore" : 96,
+		"cover" : "FAU"
 	}
   ]
 }
