@@ -15,7 +15,7 @@
 		"awayTeam" : "MCNST",
 		"homeTeam" : "MICH",
 		"favorite" : "MICH",
-		"spread" : "-",
+		"spread" : 9.5,
 		"gameTime" : "2023-12-30T00:00Z",
 		"channel": "B1G+",
 		"active" : false
@@ -25,7 +25,7 @@
 		"awayTeam" : "WSU",
 		"homeTeam" : "UTAH",
 		"favorite" : "UTAH",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2023-12-30T01:30Z",
 		"channel": "PACN",
 		"active" : false
@@ -35,7 +35,7 @@
 		"awayTeam" : "SDSU",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2023-12-30T02:00Z",
 		"channel": "ESPN2",
 		"active" : false
@@ -45,7 +45,7 @@
 		"awayTeam" : "WASH",
 		"homeTeam" : "COLO",
 		"favorite" : "COLO",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2023-12-30T02:00Z",
 		"channel": "ESPNU",
 		"active" : false
