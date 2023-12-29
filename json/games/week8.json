@@ -8,27 +8,29 @@
 		"spread" : 2.5,
 		"gameTime" : "2023-12-29T02:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 82,
+		"cover" : "ORE"
 	},
 	{
 		"gameId" : 2,
 		"awayTeam" : "MCNST",
 		"homeTeam" : "MICH",
 		"favorite" : "MICH",
-		"spread" : 9.5,
+		"spread" : 10.5,
 		"gameTime" : "2023-12-30T00:00Z",
 		"channel": "B1G+",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 3,
 		"awayTeam" : "WSU",
 		"homeTeam" : "UTAH",
 		"favorite" : "UTAH",
-		"spread" : 7.5,
+		"spread" : 8.5,
 		"gameTime" : "2023-12-30T01:30Z",
 		"channel": "PACN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 4,
@@ -38,17 +40,17 @@
 		"spread" : 6.5,
 		"gameTime" : "2023-12-30T02:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 5,
 		"awayTeam" : "WASH",
 		"homeTeam" : "COLO",
 		"favorite" : "COLO",
-		"spread" : 7.5,
+		"spread" : 9.5,
 		"gameTime" : "2023-12-30T02:00Z",
 		"channel": "ESPNU",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 6,
