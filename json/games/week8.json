@@ -20,7 +20,9 @@
 		"spread" : 10.5,
 		"gameTime" : "2023-12-30T00:00Z",
 		"channel": "B1G+",
-		"active" : true
+		"awayScore" : 87,
+		"homeScore" : 76,
+		"cover" : "MCNST"
 	},
 	{
 		"gameId" : 3,
@@ -30,7 +32,9 @@
 		"spread" : 8.5,
 		"gameTime" : "2023-12-30T01:30Z",
 		"channel": "PACN",
-		"active" : true
+		"awayScore" : 58,
+		"homeScore" : 80,
+		"cover" : "UTAH"
 	},
 	{
 		"gameId" : 4,
@@ -40,7 +44,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2023-12-30T02:00Z",
 		"channel": "ESPN2",
-		"active" : true
+		"awayScore" : 84,
+		"homeScore" : 74,
+		"cover" : "SDSU"
 	},
 	{
 		"gameId" : 5,
@@ -50,57 +56,59 @@
 		"spread" : 9.5,
 		"gameTime" : "2023-12-30T02:00Z",
 		"channel": "ESPNU",
-		"active" : true
+		"awayScore" : 69,
+		"homeScore" : 73,
+		"cover" : "WASH"
 	},
 	{
 		"gameId" : 6,
 		"awayTeam" : "HOF",
 		"homeTeam" : "SJU",
 		"favorite" : "SJU",
-		"spread" : "-",
+		"spread" : 9.5,
 		"gameTime" : "2023-12-30T17:00Z",
 		"channel": "FS1",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "CREIGH",
 		"homeTeam" : "MARQ",
 		"favorite" : "MARQ",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2023-12-30T19:00Z",
 		"channel": "CBS",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "INDST",
 		"homeTeam" : "MSU",
 		"favorite" : "MSU",
-		"spread" : "-",
+		"spread" : 8.5,
 		"gameTime" : "2023-12-30T19:00Z",
 		"channel": "FS1",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "VT",
 		"homeTeam" : "WAKE",
 		"favorite" : "WAKE",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2023-12-30T19:00Z",
 		"channel": "ESPN2",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "LT",
 		"homeTeam" : "GCU",
 		"favorite" : "GCU",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2023-12-31T01:00Z",
 		"channel": "ESPN+",
-		"active" : false
+		"active" : true
 	}
   ]
 }
