@@ -116,7 +116,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2023-12-31T01:00Z",
 		"channel": "ESPN+",
-		"active" : true
+		"awayScore" : 70,
+		"homeScore" : 73,
+		"cover" : "LT"
 	}
   ]
 }
