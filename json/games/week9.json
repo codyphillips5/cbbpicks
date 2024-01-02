@@ -5,7 +5,7 @@
 		"awayTeam" : "UNM",
 		"homeTeam" : "CSU",
 		"favorite" : "CSU",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2024-01-03T03:30Z",
 		"channel": "FS1",
 		"active": false
