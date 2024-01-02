@@ -52,16 +52,6 @@
 	},
 	{
 		"gameId" : 6,
-		"awayTeam" : "UNC",
-		"homeTeam" : "CLEM",
-		"favorite" : "CLEM",
-		"spread" : "-",
-		"gameTime" : "2024-01-06T17:00Z",
-		"channel": "ESPN2",
-		"active": false
-	},
-	{
-		"gameId" : 7,
 		"awayTeam" : "TCU",
 		"homeTeam" : "KU",
 		"favorite" : "KU",
@@ -71,7 +61,7 @@
 		"active": false
 	},
 	{
-		"gameId" : 8,
+		"gameId" : 7,
 		"awayTeam" : "PROV",
 		"homeTeam" : "CREIGH",
 		"favorite" : "CREIGH",
@@ -81,7 +71,7 @@
 		"active": false
 	},
 	{
-		"gameId" : 9,
+		"gameId" : 8,
 		"awayTeam" : "AUB",
 		"homeTeam" : "ARK",
 		"favorite" : "ARK",
@@ -91,13 +81,23 @@
 		"active": false
 	},
 	{
-		"gameId" : 10,
+		"gameId" : 9,
 		"awayTeam" : "MISS",
 		"homeTeam" : "TENN",
 		"favorite" : "TENN",
 		"spread" : "-",
 		"gameTime" : "2024-01-06T23:00Z",
 		"channel": "SECN",
+		"active": false
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "TTU",
+		"homeTeam" : "TEX",
+		"favorite" : "TEX",
+		"spread" : "-",
+		"gameTime" : "2024-01-07T01:00Z",
+		"channel": "ESPN2",
 		"active": false
 	}
   ]
