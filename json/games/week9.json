@@ -8,17 +8,19 @@
 		"spread" : 3.5,
 		"gameTime" : "2024-01-03T03:30Z",
 		"channel": "FS1",
-		"active": true
+		"awayScore" : 68,
+		"homeScore" : 76,
+		"cover" : "CSU"
 	},
 	{
 		"gameId" : 2,
 		"awayTeam" : "CLEM",
 		"homeTeam" : "MIA",
 		"favorite" : "CLEM",
-		"spread" : 2.5,
+		"spread" : 1.5,
 		"gameTime" : "2024-01-04T01:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 3,
@@ -28,7 +30,7 @@
 		"spread" : 4.5,
 		"gameTime" : "2024-01-04T02:00Z",
 		"channel": "B1G",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 4,
