@@ -14,8 +14,8 @@
 		"gameId" : 2,
 		"awayTeam" : "CLEM",
 		"homeTeam" : "MIA",
-		"favorite" : "MIA",
-		"spread" : "-",
+		"favorite" : "CLEM",
+		"spread" : 2.5,
 		"gameTime" : "2024-01-04T01:00Z",
 		"channel": "ESPN",
 		"active": false
@@ -25,7 +25,7 @@
 		"awayTeam" : "IND",
 		"homeTeam" : "NEB",
 		"favorite" : "NEB",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2024-01-04T02:00Z",
 		"channel": "B1G",
 		"active": false
