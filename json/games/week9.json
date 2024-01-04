@@ -44,7 +44,7 @@
 		"spread" : 10.5,
 		"gameTime" : "2024-01-05T02:30Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 5,
