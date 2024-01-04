@@ -20,7 +20,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2024-01-04T01:00Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore" : 82,
+		"homeScore" : 95,
+		"cover" : "MIA"
 	},
 	{
 		"gameId" : 3,
@@ -30,7 +32,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2024-01-04T02:00Z",
 		"channel": "B1G",
-		"active": true
+		"awayScore" : 70,
+		"homeScore" : 86,
+		"cover" : "NEB"
 	},
 	{
 		"gameId" : 4,
