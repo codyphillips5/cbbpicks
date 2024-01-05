@@ -51,7 +51,7 @@
 		"awayTeam" : "ILL",
 		"homeTeam" : "PURD",
 		"favorite" : "PURD",
-		"spread" : "-",
+		"spread" : 10.5,
 		"gameTime" : "2024-01-06T01:30Z",
 		"channel": "FS1",
 		"active": false
