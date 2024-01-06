@@ -68,7 +68,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2024-01-06T17:30Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore" : 87,
+		"homeScore" : 85,
+		"cover" : "UK"
 	},
 	{
 		"gameId" : 7,
@@ -78,7 +80,9 @@
 		"spread" : 8.5,
 		"gameTime" : "2024-01-06T19:00Z",
 		"channel": "CBS",
-		"active": true
+		"awayScore" : 81,
+		"homeScore" : 83,
+		"cover" : "TCU"
 	},
 	{
 		"gameId" : 8,
@@ -88,7 +92,9 @@
 		"spread" : 10.5,
 		"gameTime" : "2024-01-06T19:00Z",
 		"channel": "FS1",
-		"active": true
+		"awayScore" : 60,
+		"homeScore" : 69,
+		"cover" : "PROV"
 	},
 	{
 		"gameId" : 9,
@@ -98,7 +104,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-01-06T19:00Z",
 		"channel": "ESPN2",
-		"active": true
+		"awayScore" : 83,
+		"homeScore" : 51,
+		"cover" : "AUB"
 	},
 	{
 		"gameId" : 10,
