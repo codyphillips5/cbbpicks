@@ -56,17 +56,19 @@
 		"spread" : 10.5,
 		"gameTime" : "2024-01-06T01:30Z",
 		"channel": "FS1",
-		"active": true
+		"awayScore" : 78,
+		"homeScore" : 83,
+		"cover" : "ILL"
 	},
 	{
 		"gameId" : 6,
 		"awayTeam" : "UK",
 		"homeTeam" : "FLA",
 		"favorite" : "FLA",
-		"spread" : 1.5,
+		"spread" : 3.5,
 		"gameTime" : "2024-01-06T17:30Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 7,
@@ -76,17 +78,17 @@
 		"spread" : 8.5,
 		"gameTime" : "2024-01-06T19:00Z",
 		"channel": "CBS",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "PROV",
 		"homeTeam" : "CREIGH",
 		"favorite" : "CREIGH",
-		"spread" : 9.5,
+		"spread" : 10.5,
 		"gameTime" : "2024-01-06T19:00Z",
-		"channel": "ESPN2",
-		"active": false
+		"channel": "FS1",
+		"active": true
 	},
 	{
 		"gameId" : 9,
@@ -96,17 +98,17 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-01-06T19:00Z",
 		"channel": "ESPN2",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "TTU",
 		"homeTeam" : "TEX",
 		"favorite" : "TEX",
-		"spread" : 5.5,
+		"spread" : 6.5,
 		"gameTime" : "2024-01-07T01:00Z",
 		"channel": "ESPN2",
-		"active": false
+		"active": true
 	}
   ]
 }
