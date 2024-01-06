@@ -60,42 +60,42 @@
 	},
 	{
 		"gameId" : 6,
+		"awayTeam" : "UK",
+		"homeTeam" : "FLA",
+		"favorite" : "FLA",
+		"spread" : 1.5,
+		"gameTime" : "2024-01-06T17:30Z",
+		"channel": "ESPN",
+		"active": false
+	},
+	{
+		"gameId" : 7,
 		"awayTeam" : "TCU",
 		"homeTeam" : "KU",
 		"favorite" : "KU",
-		"spread" : "-",
+		"spread" : 8.5,
 		"gameTime" : "2024-01-06T19:00Z",
 		"channel": "CBS",
 		"active": false
 	},
 	{
-		"gameId" : 7,
+		"gameId" : 8,
 		"awayTeam" : "PROV",
 		"homeTeam" : "CREIGH",
 		"favorite" : "CREIGH",
-		"spread" : "-",
-		"gameTime" : "2024-01-06T19:00Z",
-		"channel": "ESPN2",
-		"active": false
-	},
-	{
-		"gameId" : 8,
-		"awayTeam" : "AUB",
-		"homeTeam" : "ARK",
-		"favorite" : "ARK",
-		"spread" : "-",
+		"spread" : 9.5,
 		"gameTime" : "2024-01-06T19:00Z",
 		"channel": "ESPN2",
 		"active": false
 	},
 	{
 		"gameId" : 9,
-		"awayTeam" : "MISS",
-		"homeTeam" : "TENN",
-		"favorite" : "TENN",
-		"spread" : "-",
-		"gameTime" : "2024-01-06T23:00Z",
-		"channel": "SECN",
+		"awayTeam" : "AUB",
+		"homeTeam" : "ARK",
+		"favorite" : "AUB",
+		"spread" : 2.5,
+		"gameTime" : "2024-01-06T19:00Z",
+		"channel": "ESPN2",
 		"active": false
 	},
 	{
@@ -103,7 +103,7 @@
 		"awayTeam" : "TTU",
 		"homeTeam" : "TEX",
 		"favorite" : "TEX",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2024-01-07T01:00Z",
 		"channel": "ESPN2",
 		"active": false
