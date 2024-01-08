@@ -2,12 +2,12 @@
   "games": [
 	{
 		"gameId" : 1,
-		"awayTeam" : "SC",
-		"homeTeam" : "ALA",
-		"favorite" : "ALA",
-		"spread" : "-",
+		"awayTeam" : "HOU",
+		"homeTeam" : "ISU",
+		"favorite" : "HOU",
+		"spread" : 3.5,
 		"gameTime" : "2024-01-10T00:00Z",
-		"channel": "SECN",
+		"channel": "ESPN2",
 		"active": false
 	},
 	{
@@ -15,7 +15,7 @@
 		"awayTeam" : "BYU",
 		"homeTeam" : "BU",
 		"favorite" : "BU",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2024-01-10T02:00Z",
 		"channel": "ESPN+",
 		"active": false
@@ -24,8 +24,8 @@
 		"gameId" : 3,
 		"awayTeam" : "DUKE",
 		"homeTeam" : "PITT",
-		"favorite" : "PITT",
-		"spread" : "-",
+		"favorite" : "DUKE",
+		"spread" : 5.5,
 		"gameTime" : "2024-01-10T02:00Z",
 		"channel": "ESPN",
 		"active": false
@@ -52,16 +52,6 @@
 	},
 	{
 		"gameId" : 6,
-		"awayTeam" : "FLA",
-		"homeTeam" : "MISS",
-		"favorite" : "MISS",
-		"spread" : "-",
-		"gameTime" : "2024-01-11T02:00Z",
-		"channel": "SECN",
-		"active": false
-	},
-	{
-		"gameId" : 7,
 		"awayTeam" : "NU",
 		"homeTeam" : "WIS",
 		"favorite" : "WIS",
@@ -71,13 +61,23 @@
 		"active": false
 	},
 	{
-		"gameId" : 8,
+		"gameId" : 7,
 		"awayTeam" : "SDSU",
 		"homeTeam" : "UNM",
 		"favorite" : "UNM",
 		"spread" : "-",
 		"gameTime" : "2024-01-13T18:00Z",
 		"channel": "CBS",
+		"active": false
+	},
+	{
+		"gameId" : 8,
+		"awayTeam" : "OKLA",
+		"homeTeam" : "KU",
+		"favorite" : "KU",
+		"spread" : "-",
+		"gameTime" : "2024-01-13T19:00Z",
+		"channel": "ESPN+",
 		"active": false
 	},
 	{
