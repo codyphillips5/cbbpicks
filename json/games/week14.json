@@ -1,124 +1,104 @@
 {
   "games": [
-		{
-			"gameId": 1,
-			"awayTeam": "TEX",
-			"homeTeam": "KU",
-			"favorite": "KU",
-			"spread": 3.5,
-			"gameTime": "2023-02-07T02:00Z",
-			"channel": "ESPN",
-			"awayScore": 80,
-			"homeScore": 88,
-			"cover": "KU"
-		},
-		{
-			"gameId": 2,
-			"awayTeam": "AUB",
-			"homeTeam": "TXAM",
-			"favorite": "TXAM",
-			"spread": 3.5,
-			"gameTime": "2023-02-08T00:00Z",
-			"channel": "ESPN2",
-			"awayScore": 78,
-			"homeScore": 83,
-			"cover": "TXAM"
-		},
-		{
-			"gameId": 3,
-			"awayTeam": "DAY",
-			"homeTeam": "VCU",
-			"favorite": "VCU",
-			"spread": 4.5,
-			"gameTime": "2023-02-08T00:00Z",
-			"channel": "CBSSN",
-			"awayScore": 62,
-			"homeScore": 58,
-			"cover": "DAY"
-		},
-		{
-			"gameId": 4,
-			"awayTeam": "SDSU",
-			"homeTeam": "USU",
-			"favorite": "USU",
-			"spread": 1.5,
-			"gameTime": "2023-02-09T03:00Z",
-			"channel": "CBSSN",
-			"awayScore": 63,
-			"homeScore": 61,
-			"cover": "SDSU"
-		},
-		{
-			"gameId": 5,
-			"awayTeam": "IOWA",
-			"homeTeam": "PURD",
-			"favorite": "PURD",
-			"spread": 7.5,
-			"gameTime": "2023-02-10T00:00Z",
-			"channel": "ESPN2",
-			"awayScore": 73,
-			"homeScore": 87,
-			"cover": "PURD"
-		},
-		{
-			"gameId": 6,
-			"awayTeam": "RUTG",
-			"homeTeam": "ILL",
-			"favorite": "ILL",
-			"spread": 5.5,
-			"gameTime": "2023-02-11T19:00Z",
-			"channel": "FS1",
-			"awayScore": 60,
-			"homeScore": 69,
-			"cover": "ILL"
-		},
-		{
-			"gameId": 7,
-			"awayTeam": "ALA",
-			"homeTeam": "AUB",
-			"favorite": "ALA",
-			"spread": 2.5,
-			"gameTime": "2023-02-11T19:00Z",
-			"channel": "ESPN",
-			"awayScore": 77,
-			"homeScore": 69,
-			"cover": "ALA"
-		},
-		{
-			"gameId": 8,
-			"awayTeam": "SOILL",
-			"homeTeam": "DRAKE",
-			"favorite": "DRAKE",
-			"spread": 6.5,
-			"gameTime": "2023-02-11T19:00Z",
-			"channel": "ESPNU",
-			"awayScore": 59,
-			"homeScore": 82,
-			"cover": "DRAKE"
-		},
-		{
-			"gameId": 9,
-			"awayTeam": "DUKE",
-			"homeTeam": "UVA",
-			"favorite": "UVA",
-			"spread": 6.5,
-			"gameTime": "2023-02-11T21:00Z",
-			"channel": "ESPN",
-			"awayScore": 62,
-			"homeScore": 69,
-			"cover": "UVA"
-		},
-		{
-			"gameId": 10,
-			"awayTeam": "BU",
-			"homeTeam": "TCU",
-			"favorite": "TCU",
-			"spread": 0,
-			"gameTime": "2023-02-11T21:00Z",
-			"channel": "ESPN2",
-			"awayScore": 72,
-			"homeScore": 68,
-			"cover": "BU"
-		}
+	{ 
+		"gameId" : 1,
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
+		"spread" : "-",
+		"gameTime" : "2024-02-06T00:00Z",
+		"channel": "",
+		"active": false
+	},
+	{
+		"gameId" : 2,
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
+		"spread" : "-",
+		"gameTime" : "2024-02-06T00:00Z",
+		"channel": "",
+		"active": false
+	},
+	{
+		"gameId" : 3,
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
+		"spread" : "-",
+		"gameTime" : "2024-02-06T00:00Z",
+		"channel": "",
+		"active": false
+	},
+	{
+		"gameId" : 4,
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
+		"spread" : "-",
+		"gameTime" : "2024-02-06T00:00Z",
+		"channel": "",
+		"active": false
+	},
+	{
+		"gameId" : 5,
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
+		"spread" : "-",
+		"gameTime" : "2024-02-06T00:00Z",
+		"channel": "",
+		"active": false
+	},
+	{
+		"gameId" : 6,
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
+		"spread" : "-",
+		"gameTime" : "2024-02-06T00:00Z",
+		"channel": "",
+		"active": false
+	},
+	{
+		"gameId" : 7,
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
+		"spread" : "-",
+		"gameTime" : "2024-02-06T00:00Z",
+		"channel": "",
+		"active": false
+	},
+	{
+		"gameId" : 8,
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
+		"spread" : "-",
+		"gameTime" : "2024-02-06T00:00Z",
+		"channel": "",
+		"active": false
+	},
+	{
+		"gameId" : 9,
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
+		"spread" : "-",
+		"gameTime" : "2024-02-06T00:00Z",
+		"channel": "",
+		"active": false
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
+		"spread" : "-",
+		"gameTime" : "2024-02-06T00:00Z",
+		"channel": "",
+		"active": false
+	}
   ]
 }
