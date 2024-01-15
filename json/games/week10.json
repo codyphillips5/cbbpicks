@@ -68,7 +68,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2024-01-13T17:00Z",
 		"channel": "B1G",
-		"active": true
+		"awayScore" : 63,
+		"homeScore" : 71,
+		"cover" : "WIS"
 	},
 	{
 		"gameId" : 7,
@@ -78,7 +80,11 @@
 		"spread" : 1.5,
 		"gameTime" : "2024-01-13T19:00Z",
 		"channel": "ESPN",
-		"active": true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 92,
+		"homeScore" : 97,
+		"cover" : "TXAM"
 	},
 	{
 		"gameId" : 8,
@@ -88,7 +94,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2024-01-13T19:00Z",
 		"channel": "ESPN+",
-		"active": true
+		"awayScore" : 66,
+		"homeScore" : 78,
+		"cover" : "KU"
 	},
 	{
 		"gameId" : 9,
@@ -98,7 +106,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2024-01-13T21:00Z",
 		"channel": "ESPN2",
-		"active": true
+		"awayScore" : 59,
+		"homeScore" : 60,
+		"cover" : "KSST"
 	},
 	{
 		"gameId" : 10,
@@ -108,7 +118,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2024-01-13T23:00Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore" : 67,
+		"homeScore" : 68,
+		"cover" : "TCU"
 	}
   ]
 }
