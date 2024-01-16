@@ -5,30 +5,30 @@
 		"awayTeam" : "WAKE",
 		"homeTeam" : "NCST",
 		"favorite" : "NCST",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2024-01-17T00:00Z",
 		"channel": "ACCN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 2,
 		"awayTeam" : "ISU",
 		"homeTeam" : "BYU",
 		"favorite" : "BYU",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2024-01-17T02:00Z",
 		"channel": "ESPN+",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 3,
 		"awayTeam" : "USU",
 		"homeTeam" : "UNM",
 		"favorite" : "UNM",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2024-01-17T03:30Z",
 		"channel": "FS1",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 4,
