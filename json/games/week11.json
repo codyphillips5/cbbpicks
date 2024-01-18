@@ -44,14 +44,16 @@
 		"spread" : 6.5,
 		"gameTime" : "2024-01-18T00:00Z",
 		"channel": "FS1",
-		"active": true
+		"awayScore" : 48,
+		"homeScore" : 62,
+		"cover" : "UCONN"
 	},
 	{
 		"gameId" : 5,
 		"awayTeam" : "ORE",
 		"homeTeam" : "COLO",
 		"favorite" : "COLO",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2024-01-19T03:30Z",
 		"channel": "FS1",
 		"active": false
