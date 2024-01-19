@@ -56,7 +56,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2024-01-19T03:30Z",
 		"channel": "FS1",
-		"active": true
+		"awayScore" : 70,
+		"homeScore" : 86,
+		"cover" : "COLO"
 	},
 	{
 		"gameId" : 6,
