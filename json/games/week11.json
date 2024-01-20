@@ -65,7 +65,7 @@
 		"awayTeam" : "OKLA",
 		"homeTeam" : "CINCY",
 		"favorite" : "CINCY",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2024-01-20T18:00Z",
 		"channel": "ESPN+",
 		"active": false
@@ -74,8 +74,8 @@
 		"gameId" : 7,
 		"awayTeam" : "SDSU",
 		"homeTeam" : "BSU",
-		"favorite" : "BSU",
-		"spread" : "-",
+		"favorite" : "SDSU",
+		"spread" : 1.5,
 		"gameTime" : "2024-01-20T18:00Z",
 		"channel": "CBS",
 		"active": false
@@ -85,7 +85,7 @@
 		"awayTeam" : "ALA",
 		"homeTeam" : "TENN",
 		"favorite" : "TENN",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2024-01-20T19:00Z",
 		"channel": "ESPN2",
 		"active": false
@@ -95,7 +95,7 @@
 		"awayTeam" : "NW",
 		"homeTeam" : "NEB",
 		"favorite" : "NEB",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2024-01-20T19:15Z",
 		"channel": "B1G",
 		"active": false
@@ -105,7 +105,7 @@
 		"awayTeam" : "MISS",
 		"homeTeam" : "AUB",
 		"favorite" : "AUB",
-		"spread" : "-",
+		"spread" : 11.5,
 		"gameTime" : "2024-01-21T01:30Z",
 		"channel": "SECN",
 		"active": false
