@@ -104,7 +104,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-01-20T19:15Z",
 		"channel": "B1G",
-		"active": true
+		"awayScore" : 69,
+		"homeScore" : 75,
+		"cover" : "NEB"
 	},
 	{
 		"gameId" : 10,
