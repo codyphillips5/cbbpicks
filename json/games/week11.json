@@ -65,7 +65,7 @@
 		"awayTeam" : "OKLA",
 		"homeTeam" : "CINCY",
 		"favorite" : "CINCY",
-		"spread" : 4.5,
+		"spread" : 3.5,
 		"gameTime" : "2024-01-20T18:00Z",
 		"channel": "ESPN+",
 		"active": true
