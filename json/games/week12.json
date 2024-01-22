@@ -5,7 +5,7 @@
 		"awayTeam" : "TEX",
 		"homeTeam" : "OKLA",
 		"favorite" : "OKLA",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2024-01-24T00:00Z",
 		"channel": "ESPN",
 		"active": false
@@ -14,8 +14,8 @@
 		"gameId" : 2,
 		"awayTeam" : "HOU",
 		"homeTeam" : "BYU",
-		"favorite" : "BYU",
-		"spread" : "-",
+		"favorite" : "HOU",
+		"spread" : 2.5,
 		"gameTime" : "2024-01-24T02:00Z",
 		"channel": "ESPN+",
 		"active": false
