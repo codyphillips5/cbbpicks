@@ -32,22 +32,22 @@
 	},
 	{
 		"gameId" : 4,
+		"awayTeam" : "KSST",
+		"homeTeam" : "ISU",
+		"favorite" : "ISU",
+		"spread" : "-",
+		"gameTime" : "2024-01-25T02:00Z",
+		"channel": "ESPN2",
+		"active": false
+	},
+	{
+		"gameId" : 5,
 		"awayTeam" : "CSU",
 		"homeTeam" : "NEV",
 		"favorite" : "NEV",
 		"spread" : "-",
 		"gameTime" : "2024-01-25T03:30Z",
 		"channel": "FS1",
-		"active": false
-	},
-	{
-		"gameId" : 5,
-		"awayTeam" : "DONS",
-		"homeTeam" : "GONZ",
-		"favorite" : "GONZ",
-		"spread" : "-",
-		"gameTime" : "2024-01-26T02:00Z",
-		"channel": "ESPN2",
 		"active": false
 	},
 	{
@@ -92,12 +92,12 @@
 	},
 	{
 		"gameId" : 10,
-		"awayTeam" : "OSU",
-		"homeTeam" : "NW",
-		"favorite" : "NW",
+		"awayTeam" : "MISS",
+		"homeTeam" : "TXAM",
+		"favorite" : "TXAM",
 		"spread" : "-",
 		"gameTime" : "2024-01-28T01:30Z",
-		"channel": "B1G",
+		"channel": "SECN",
 		"active": false
 	}
   ]
