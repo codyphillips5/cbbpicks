@@ -116,7 +116,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-01-20T23:00Z",
 		"channel": "CBSSN",
-		"active": true
+		"awayScore" : 69,
+		"homeScore" : 78,
+		"cover" : "UNCW"
 	}
   ]
 }
