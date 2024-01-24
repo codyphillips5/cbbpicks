@@ -42,12 +42,12 @@
 	},
 	{
 		"gameId" : 5,
-		"awayTeam" : "",
-		"homeTeam" : "",
-		"favorite" : "",
+		"awayTeam" : "SAMF",
+		"homeTeam" : "UNCG",
+		"favorite" : "UNCG",
 		"spread" : "-",
-		"gameTime" : "2024-02-06T00:00Z",
-		"channel": "",
+		"gameTime" : "2024-02-09T00:00Z",
+		"channel": "ESPN2/ESPNU",
 		"active": false
 	},
 	{

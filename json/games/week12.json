@@ -8,7 +8,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2024-01-24T00:00Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore" : 75,
+		"homeScore" : 60,
+		"cover" : "TEX"
 	},
 	{
 		"gameId" : 2,
@@ -18,37 +20,39 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-01-24T02:00Z",
 		"channel": "ESPN+",
-		"active": true
+		"awayScore" : 75,
+		"homeScore" : 68,
+		"cover" : "HOU"
 	},
 	{
 		"gameId" : 3,
 		"awayTeam" : "AUB",
 		"homeTeam" : "ALA",
 		"favorite" : "ALA",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2024-01-25T00:30Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 4,
 		"awayTeam" : "KSST",
 		"homeTeam" : "ISU",
 		"favorite" : "ISU",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2024-01-25T02:00Z",
 		"channel": "ESPN2",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 5,
 		"awayTeam" : "CSU",
 		"homeTeam" : "NEV",
 		"favorite" : "NEV",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2024-01-25T03:30Z",
 		"channel": "FS1",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 6,
