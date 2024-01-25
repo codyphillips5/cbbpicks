@@ -32,7 +32,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-01-25T00:30Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore" : 75,
+		"homeScore" : 79,
+		"cover" : "ALA"
 	},
 	{
 		"gameId" : 4,
