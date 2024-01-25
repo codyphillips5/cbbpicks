@@ -44,7 +44,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2024-01-25T02:00Z",
 		"channel": "ESPN2",
-		"active": true
+		"awayScore" : 67,
+		"homeScore" : 78,
+		"cover" : "ISU"
 	},
 	{
 		"gameId" : 5,
