@@ -82,22 +82,22 @@
 	},
 	{
 		"gameId" : 8,
-		"awayTeam" : "JMU",
-		"homeTeam" : "APP",
-		"favorite" : "APP",
-		"spread" : "-",
-		"gameTime" : "2024-01-27T21:00Z",
-		"channel": "ESPN2",
-		"active": false
-	},
-	{
-		"gameId" : 9,
 		"awayTeam" : "ZONA",
 		"homeTeam" : "ORE",
 		"favorite" : "ORE",
 		"spread" : "-",
 		"gameTime" : "2024-01-27T22:30Z",
 		"channel": "FOX",
+		"active": false
+	},
+	{
+		"gameId" : 9,
+		"awayTeam" : "JMU",
+		"homeTeam" : "APP",
+		"favorite" : "APP",
+		"spread" : "-",
+		"gameTime" : "2024-01-27T23:00Z",
+		"channel": "ESPN2",
 		"active": false
 	},
 	{
