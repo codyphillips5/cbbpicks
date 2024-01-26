@@ -92,12 +92,12 @@
 	},
 	{
 		"gameId" : 9,
-		"awayTeam" : "ZONA",
-		"homeTeam" : "ORE",
-		"favorite" : "ORE",
+		"awayTeam" : "DAY",
+		"homeTeam" : "RICH",
+		"favorite" : "RICH",
 		"spread" : "-",
-		"gameTime" : "2024-01-27T22:30Z",
-		"channel": "FOX",
+		"gameTime" : "2024-01-27T23:00Z",
+		"channel": "CBSSN",
 		"active": false
 	},
 	{
