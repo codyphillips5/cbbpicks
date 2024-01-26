@@ -92,22 +92,22 @@
 	},
 	{
 		"gameId" : 9,
+		"awayTeam" : "ZONA",
+		"homeTeam" : "ORE",
+		"favorite" : "ORE",
+		"spread" : "-",
+		"gameTime" : "2024-01-27T22:30Z",
+		"channel": "FOX",
+		"active": false
+	},
+	{
+		"gameId" : 10,
 		"awayTeam" : "DAY",
 		"homeTeam" : "RICH",
 		"favorite" : "RICH",
 		"spread" : "-",
 		"gameTime" : "2024-01-27T23:00Z",
 		"channel": "CBSSN",
-		"active": false
-	},
-	{
-		"gameId" : 10,
-		"awayTeam" : "MISS",
-		"homeTeam" : "TXAM",
-		"favorite" : "TXAM",
-		"spread" : "-",
-		"gameTime" : "2024-01-28T01:30Z",
-		"channel": "SECN",
 		"active": false
 	}
   ]
