@@ -68,14 +68,16 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-01-27T01:00Z",
 		"channel": "FS1",
-		"active": true
+		"awayScore" : 66,
+		"homeScore" : 81,
+		"cover" : "WIS"
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "PRINCE",
 		"homeTeam" : "CORN",
-		"favorite" : "CORN",
-		"spread" : "-",
+		"favorite" : "PRINCE",
+		"spread" : 2.5,
 		"gameTime" : "2024-01-27T19:00Z",
 		"channel": "ESPN+",
 		"active": false
@@ -84,8 +86,8 @@
 		"gameId" : 8,
 		"awayTeam" : "ZONA",
 		"homeTeam" : "ORE",
-		"favorite" : "ORE",
-		"spread" : "-",
+		"favorite" : "ZONA",
+		"spread" : 3.5,
 		"gameTime" : "2024-01-27T22:30Z",
 		"channel": "FOX",
 		"active": false
@@ -95,7 +97,7 @@
 		"awayTeam" : "JMU",
 		"homeTeam" : "APP",
 		"favorite" : "APP",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2024-01-27T23:00Z",
 		"channel": "ESPN2",
 		"active": false
@@ -104,8 +106,8 @@
 		"gameId" : 10,
 		"awayTeam" : "DAY",
 		"homeTeam" : "RICH",
-		"favorite" : "RICH",
-		"spread" : "-",
+		"favorite" : "DAY",
+		"spread" : 2.5,
 		"gameTime" : "2024-01-27T23:00Z",
 		"channel": "CBSSN",
 		"active": false
