@@ -8,10 +8,10 @@
 		"game4" : "KSST",
 		"game5" : "NEV",
 		"game6" : "WIS",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "CORN",
+		"game8" : "ZONA",
+		"game9" : "APP",
+		"game10" : "DAY"
     },
     {
 		"userId" : 2,
@@ -21,10 +21,10 @@
 		"game4" : "",
 		"game5" : "",
 		"game6" : "MSU",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "PRINCE",
+		"game8" : "ZONA",
+		"game9" : "APP",
+		"game10" : "RICH"
     },
     {
 		"userId" : 3,
@@ -34,10 +34,10 @@
 		"game4" : "ISU",
 		"game5" : "NEV",
 		"game6" : "MSU",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "PRINCE",
+		"game8" : "ORE",
+		"game9" : "JMU",
+		"game10" : "DAY"
     },
 	{
 		"userId" : 4,
@@ -47,10 +47,10 @@
 		"game4" : "KSST",
 		"game5" : "NEV",
 		"game6" : "WIS",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "CORN",
+		"game8" : "ZONA",
+		"game9" : "APP",
+		"game10" : "DAY"
     },
 	{
 		"userId" : 5,
@@ -60,10 +60,10 @@
 		"game4" : "ISU",
 		"game5" : "NEV",
 		"game6" : "WIS",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "CORN",
+		"game8" : "ZONA",
+		"game9" : "APP",
+		"game10" : "DAY"
     },
 	{
 		"userId" : 6,
@@ -73,10 +73,10 @@
 		"game4" : "ISU",
 		"game5" : "CSU",
 		"game6" : "MSU",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "CORN",
+		"game8" : "ORE",
+		"game9" : "JMU",
+		"game10" : "DAY"
     },    
 	{
 		"userId" : 7,
@@ -86,10 +86,10 @@
 		"game4" : "ISU",
 		"game5" : "NEV",
 		"game6" : "WIS",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "PRINCE",
+		"game8" : "ZONA",
+		"game9" : "JMU",
+		"game10" : "RICH"
     },
 	{
 		"userId" : 8,
@@ -99,10 +99,10 @@
 		"game4" : "ISU",
 		"game5" : "NEV",
 		"game6" : "WIS",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "PRINCE",
+		"game8" : "ZONA",
+		"game9" : "JMU",
+		"game10" : "RICH"
     },
 	{
 		"userId" : 9,
@@ -112,10 +112,10 @@
 		"game4" : "KSST",
 		"game5" : "NEV",
 		"game6" : "MSU",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "PRINCE",
+		"game8" : "ORE",
+		"game9" : "JMU",
+		"game10" : "RICH"
     },	
 	{
 		"userId" : 10,
@@ -125,10 +125,10 @@
 		"game4" : "ISU",
 		"game5" : "CSU",
 		"game6" : "WIS",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "PRINCE",
+		"game8" : "ZONA",
+		"game9" : "JMU",
+		"game10" : "RICH"
     },
 	{
 		"userId" : 11,
@@ -138,10 +138,10 @@
 		"game4" : "KSST",
 		"game5" : "NEV",
 		"game6" : "WIS",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "PRINCE",
+		"game8" : "ZONA",
+		"game9" : "APP",
+		"game10" : "DAY"
     },
 	{
 		"userId" : 12,
@@ -164,10 +164,10 @@
 		"game4" : "ISU",
 		"game5" : "NEV",
 		"game6" : "WIS",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "PRINCE",
+		"game8" : "ZONA",
+		"game9" : "APP",
+		"game10" : "DAY"
     },
 	{
 		"userId" : 14,
@@ -177,10 +177,10 @@
 		"game4" : "ISU",
 		"game5" : "NEV",
 		"game6" : "WIS",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "PRINCE",
+		"game8" : "ZONA",
+		"game9" : "JMU",
+		"game10" : "RICH"
     },
 	{
 		"userId" : 15,
@@ -190,10 +190,10 @@
 		"game4" : "KSST",
 		"game5" : "NEV",
 		"game6" : "WIS",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "PRINCE",
+		"game8" : "ZONA",
+		"game9" : "JMU",
+		"game10" : "DAY"
     },
 	{
 		"userId" : 16,
@@ -203,10 +203,10 @@
 		"game4" : "KSST",
 		"game5" : "CSU",
 		"game6" : "WIS",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "PRINCE",
+		"game8" : "ZONA",
+		"game9" : "JMU",
+		"game10" : "DAY"
     },
 	{
 		"userId" : 17,
@@ -216,10 +216,10 @@
 		"game4" : "KSST",
 		"game5" : "NEV",
 		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "CORN",
+		"game8" : "ZONA",
+		"game9" : "APP",
+		"game10" : "DAY"
     },
 	{
 		"userId" : 18,
@@ -229,10 +229,10 @@
 		"game4" : "KSST",
 		"game5" : "CSU",
 		"game6" : "MSU",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "CORN",
+		"game8" : "ORE",
+		"game9" : "JMU",
+		"game10" : "RICH"
     },
 	{
 		"userId" : 19,
@@ -242,10 +242,10 @@
 		"game4" : "ISU",
 		"game5" : "CSU",
 		"game6" : "WIS",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "CORN",
+		"game8" : "ZONA",
+		"game9" : "APP",
+		"game10" : "DAY"
     },
 	{
 		"userId" : 20,
@@ -255,10 +255,10 @@
 		"game4" : "ISU",
 		"game5" : "NEV",
 		"game6" : "MSU",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "PRINCE",
+		"game8" : "ZONA",
+		"game9" : "JMU",
+		"game10" : "DAY"
     },
 	{
 		"userId" : 21,
@@ -268,10 +268,10 @@
 		"game4" : "ISU",
 		"game5" : "NEV",
 		"game6" : "WIS",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "CORN",
+		"game8" : "ZONA",
+		"game9" : "APP",
+		"game10" : "DAY"
     },
 	{
 		"userId" : 22,
@@ -281,10 +281,10 @@
 		"game4" : "ISU",
 		"game5" : "NEV",
 		"game6" : "WIS",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "PRINCE",
+		"game8" : "ZONA",
+		"game9" : "JMU",
+		"game10" : "DAY"
     },
 	{
 		"userId" : 23,
@@ -294,10 +294,10 @@
 		"game4" : "KSST",
 		"game5" : "NEV",
 		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "CORN",
+		"game8" : "ZONA",
+		"game9" : "APP",
+		"game10" : "RICH"
     },
 	{
 		"userId" : 24,
@@ -307,10 +307,10 @@
 		"game4" : "KSST",
 		"game5" : "NEV",
 		"game6" : "WIS",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "CORN",
+		"game8" : "ZONA",
+		"game9" : "APP",
+		"game10" : "RICH"
     },
 	{
 		"userId" : 25,
@@ -320,10 +320,10 @@
 		"game4" : "ISU",
 		"game5" : "CSU",
 		"game6" : "WIS",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "CORN",
+		"game8" : "ZONA",
+		"game9" : "JMU",
+		"game10" : "DAY"
     },
 	{
 		"userId" : 26,
@@ -333,10 +333,10 @@
 		"game4" : "ISU",
 		"game5" : "NEV",
 		"game6" : "WIS",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "CORN",
+		"game8" : "ORE",
+		"game9" : "APP",
+		"game10" : "RICH"
     },
 	{
 		"userId" : 27,
@@ -346,10 +346,10 @@
 		"game4" : "KSST",
 		"game5" : "NEV",
 		"game6" : "WIS",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game7" : "PRINCE",
+		"game8" : "ORE",
+		"game9" : "APP",
+		"game10" : "RICH"
     }
 	]
 }
