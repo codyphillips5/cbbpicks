@@ -80,7 +80,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-01-27T19:00Z",
 		"channel": "ESPN+",
-		"active": true
+		"awayScore" : 68,
+		"homeScore" : 83,
+		"cover" : "CORN"
 	},
 	{
 		"gameId" : 8,
@@ -90,7 +92,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2024-01-27T22:30Z",
 		"channel": "FOX",
-		"active": true
+		"awayScore" : 87,
+		"homeScore" : 78,
+		"cover" : "ZONA"
 	},
 	{
 		"gameId" : 9,
@@ -100,7 +104,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2024-01-27T23:00Z",
 		"channel": "ESPN2",
-		"active": true
+		"awayScore" : 76,
+		"homeScore" : 82,
+		"cover" : "APP"
 	},
 	{
 		"gameId" : 10,
@@ -110,7 +116,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-01-27T23:00Z",
 		"channel": "CBSSN",
-		"active": true
+		"awayScore" : 64,
+		"homeScore" : 69,
+		"cover" : "RICH"
 	}
   ]
 }
