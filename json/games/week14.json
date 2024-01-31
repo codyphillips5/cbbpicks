@@ -22,6 +22,16 @@
 	},
 	{
 		"gameId" : 3,
+		"awayTeam" : "HPU",
+		"homeTeam" : "UNCA",
+		"favorite" : "UNCA",
+		"spread" : "-",
+		"gameTime" : "2024-02-07T23:30Z",
+		"channel": "ESPN+",
+		"active": false
+	},
+	{
+		"gameId" : 4,
 		"awayTeam" : "DREX",
 		"homeTeam" : "UNCW",
 		"favorite" : "UNCW",
@@ -31,23 +41,13 @@
 		"active": false
 	},
 	{
-		"gameId" : 4,
+		"gameId" : 5,
 		"awayTeam" : "SAMF",
 		"homeTeam" : "UNCG",
 		"favorite" : "UNCG",
 		"spread" : "-",
 		"gameTime" : "2024-02-09T00:00Z",
 		"channel": "ESPN2/ESPNU",
-		"active": false
-	},
-	{
-		"gameId" : 5,
-		"awayTeam" : "SDSU",
-		"homeTeam" : "NEV",
-		"favorite" : "NEV",
-		"spread" : "-",
-		"gameTime" : "2024-02-10T01:00Z",
-		"channel": "CBSSN",
 		"active": false
 	},
 	{
