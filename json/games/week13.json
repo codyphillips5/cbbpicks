@@ -28,11 +28,11 @@
 		"gameId" : 3,
 		"awayTeam" : "WIS",
 		"homeTeam" : "NEB",
-		"favorite" : "NEB",
-		"spread" : "-",
+		"favorite" : "WIS",
+		"spread" : 1.5,
 		"gameTime" : "2024-02-02T01:30Z",
 		"channel": "B1G",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 4,
