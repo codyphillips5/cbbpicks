@@ -39,7 +39,7 @@
 		"awayTeam" : "TOL",
 		"homeTeam" : "AKR",
 		"favorite" : "AKR",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2024-02-03T02:00Z",
 		"channel": "ESPN2",
 		"active": false
