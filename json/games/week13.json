@@ -52,8 +52,8 @@
 		"gameId" : 5,
 		"awayTeam" : "HOU",
 		"homeTeam" : "KU",
-		"favorite" : "KU",
-		"spread" : "-",
+		"favorite" : "HOU",
+		"spread" : 1.5,
 		"gameTime" : "2024-02-03T21:00Z",
 		"channel": "ESPN",
 		"active": false
@@ -63,7 +63,7 @@
 		"awayTeam" : "DUKE",
 		"homeTeam" : "UNC",
 		"favorite" : "UNC",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2024-02-03T23:30Z",
 		"channel": "ESPN",
 		"active": false
@@ -73,7 +73,7 @@
 		"awayTeam" : "ISU",
 		"homeTeam" : "BU",
 		"favorite" : "BU",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2024-02-04T01:00Z",
 		"channel": "ESPN2",
 		"active": false
@@ -82,8 +82,8 @@
 		"gameId" : 8,
 		"awayTeam" : "TENN",
 		"homeTeam" : "UK",
-		"favorite" : "UK",
-		"spread" : "-",
+		"favorite" : "TENN",
+		"spread" : 1.5,
 		"gameTime" : "2024-02-04T01:30Z",
 		"channel": "ESPN",
 		"active": false
@@ -93,7 +93,7 @@
 		"awayTeam" : "STMARY",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2024-02-04T03:30Z",
 		"channel": "ESPN",
 		"active": false
