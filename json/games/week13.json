@@ -46,7 +46,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2024-02-03T02:00Z",
 		"channel": "ESPN2",
-		"active": true
+		"awayScore" : 70,
+		"homeScore" : 77,
+		"cover" : "AKR"
 	},
 	{
 		"gameId" : 5,
@@ -56,7 +58,7 @@
 		"spread" : 1.5,
 		"gameTime" : "2024-02-03T21:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 6,
@@ -66,7 +68,7 @@
 		"spread" : 4.5,
 		"gameTime" : "2024-02-03T23:30Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 7,
@@ -76,7 +78,7 @@
 		"spread" : 3.5,
 		"gameTime" : "2024-02-04T01:00Z",
 		"channel": "ESPN2",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 8,
@@ -86,17 +88,17 @@
 		"spread" : 1.5,
 		"gameTime" : "2024-02-04T01:30Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "STMARY",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
-		"spread" : 2.5,
+		"spread" : 4.5,
 		"gameTime" : "2024-02-04T03:30Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 10,
