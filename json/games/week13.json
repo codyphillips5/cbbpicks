@@ -118,7 +118,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-02-04T18:00Z",
 		"channel": "CBS",
-		"active": true
+		"awayScore" : 75,
+		"homeScore" : 69,
+		"cover" : "PURD"
 	}
   ]
 }
