@@ -52,6 +52,16 @@
 	},
 	{
 		"gameId" : 6,
+		"awayTeam" : "ILL",
+		"homeTeam" : "MSU",
+		"favorite" : "MSU",
+		"spread" : "-",
+		"gameTime" : "2024-02-10T19:00Z",
+		"channel": "CBS",
+		"active": false
+	},
+	{
+		"gameId" : 7,
 		"awayTeam" : "GONZ",
 		"homeTeam" : "UK",
 		"favorite" : "UK",
@@ -61,7 +71,7 @@
 		"active": false
 	},
 	{
-		"gameId" : 7,
+		"gameId" : 8,
 		"awayTeam" : "AKR",
 		"homeTeam" : "JMU",
 		"favorite" : "JMU",
@@ -71,7 +81,7 @@
 		"active": false
 	},
 	{
-		"gameId" : 8,
+		"gameId" : 9,
 		"awayTeam" : "BU",
 		"homeTeam" : "KU",
 		"favorite" : "KU",
@@ -81,23 +91,13 @@
 		"active": false
 	},
 	{
-		"gameId" : 9,
+		"gameId" : 10,
 		"awayTeam" : "BSU",
 		"homeTeam" : "USU",
 		"favorite" : "USU",
 		"spread" : "-",
 		"gameTime" : "2024-02-11T03:00Z",
 		"channel": "FS1",
-		"active": false
-	},
-	{
-		"gameId" : 10,
-		"awayTeam" : "SETON",
-		"homeTeam" : "NOVA",
-		"favorite" : "NOVA",
-		"spread" : "-",
-		"gameTime" : "2024-02-11T17:00Z",
-		"channel": "CBSSN",
 		"active": false
 	}
   ]
