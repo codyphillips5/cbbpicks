@@ -5,7 +5,7 @@
 		"awayTeam" : "MISS",
 		"homeTeam" : "SC",
 		"favorite" : "SC",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2024-02-06T23:30Z",
 		"channel": "SECN",
 		"active": false
@@ -15,7 +15,7 @@
 		"awayTeam" : "TTU",
 		"homeTeam" : "BU",
 		"favorite" : "BU",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2024-02-07T02:00Z",
 		"channel": "ESPN",
 		"active": false
