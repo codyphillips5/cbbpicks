@@ -8,7 +8,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2024-02-06T23:30Z",
 		"channel": "SECN",
-		"active": true
+		"awayScore" : 65,
+		"homeScore" : 68,
+		"cover" : "MISS"
 	},
 	{
 		"gameId" : 2,
