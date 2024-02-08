@@ -32,12 +32,12 @@
 	},
 	{
 		"gameId" : 4,
-		"awayTeam" : "",
-		"homeTeam" : "",
-		"favorite" : "",
+		"awayTeam" : "MOREST",
+		"homeTeam" : "WILL",
+		"favorite" : "WILL",
 		"spread" : "-",
-		"gameTime" : "2024-02-20T00:00Z",
-		"channel": "",
+		"gameTime" : "2024-02-23T01:30Z",
+		"channel": "ESPN+",
 		"active": false
 	},
 	{

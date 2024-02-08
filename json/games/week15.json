@@ -2,6 +2,16 @@
   "games": [
 	{ 
 		"gameId" : 1,
+		"awayTeam" : "MARQ",
+		"homeTeam" : "BUTLER",
+		"favorite" : "BUTLER",
+		"spread" : "-",
+		"gameTime" : "2024-02-13T23:30Z",
+		"channel": "FS1",
+		"active": false
+	},
+	{
+		"gameId" : 2,
 		"awayTeam" : "ISU",
 		"homeTeam" : "CINCY",
 		"favorite" : "CINCY",
@@ -11,7 +21,7 @@
 		"active": false
 	},
 	{
-		"gameId" : 2,
+		"gameId" : 3,
 		"awayTeam" : "SC",
 		"homeTeam" : "AUB",
 		"favorite" : "AUB",
@@ -21,23 +31,13 @@
 		"active": false
 	},
 	{
-		"gameId" : 3,
+		"gameId" : 4,
 		"awayTeam" : "UNM",
 		"homeTeam" : "SDSU",
 		"favorite" : "SDSU",
 		"spread" : "-",
 		"gameTime" : "2024-02-17T03:00Z",
 		"channel": "FS1",
-		"active": false
-	},
-	{
-		"gameId" : 4,
-		"awayTeam" : "CREIGH",
-		"homeTeam" : "BUTLER",
-		"favorite" : "BUTLER",
-		"spread" : "-",
-		"gameTime" : "2024-02-17T17:30Z",
-		"channel": "FOX",
 		"active": false
 	},
 	{
@@ -52,16 +52,6 @@
 	},
 	{
 		"gameId" : 6,
-		"awayTeam" : "MOREST",
-		"homeTeam" : "TMU",
-		"favorite" : "TMU",
-		"spread" : "-",
-		"gameTime" : "2024-02-17T21:30Z",
-		"channel": "ESPN+",
-		"active": false
-	},
-	{
-		"gameId" : 7,
 		"awayTeam" : "USU",
 		"homeTeam" : "CSU",
 		"favorite" : "CSU",
@@ -71,7 +61,7 @@
 		"active": false
 	},
 	{
-		"gameId" : 8,
+		"gameId" : 7,
 		"awayTeam" : "UK",
 		"homeTeam" : "AUB",
 		"favorite" : "AUB",
@@ -81,13 +71,23 @@
 		"active": false
 	},
 	{
-		"gameId" : 9,
+		"gameId" : 8,
 		"awayTeam" : "YALE",
 		"homeTeam" : "PRINCE",
 		"favorite" : "PRINCE",
 		"spread" : "-",
 		"gameTime" : "2024-02-18T01:00Z",
 		"channel": "ESPN2",
+		"active": false
+	},
+	{
+		"gameId" : 9,
+		"awayTeam" : "FAU",
+		"homeTeam" : "USF",
+		"favorite" : "USF",
+		"spread" : "-",
+		"gameTime" : "2024-02-18T17:00Z",
+		"channel": "ESPN",
 		"active": false
 	},
 	{

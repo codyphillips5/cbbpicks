@@ -1,0 +1,124 @@
+{
+  "games": [
+	{ 
+		"gameId" : 1,
+		"awayTeam" : "MONTST",
+		"homeTeam" : "EWU",
+		"favorite" : "EWU",
+		"spread" : 2.5,
+		"gameTime" : "2023-02-28T02:00Z",
+		"channel": "ESPN+",
+		"awayScore": 79,
+		"homeScore": 74,
+		"cover": "MONTST"
+	},
+	{
+		"gameId" : 2,
+		"awayTeam" : "ARK",
+		"homeTeam" : "TENN",
+		"favorite" : "TENN",
+		"spread" : 6.5,
+		"gameTime" : "2023-03-01T02:00Z",
+		"channel": "ESPN2",
+		"awayScore": 57,
+		"homeScore": 75,
+		"cover": "TENN"
+	},
+	{
+		"gameId" : 3,
+		"awayTeam" : "SDSU",
+		"homeTeam" : "BSU",
+		"favorite" : "BSU",
+		"spread" : 2.5,
+		"gameTime" : "2023-03-01T02:00Z",
+		"channel": "CBSSN",
+		"awayScore": 60,
+		"homeScore": 66,
+		"cover": "BSU"
+	},
+	{
+		"gameId" : 4,
+		"awayTeam" : "XAV",
+		"homeTeam" : "PROV",
+		"favorite" : "PROV",
+		"spread" : 3.5,
+		"gameTime" : "2023-03-01T23:30Z",
+		"channel": "FS1",
+		"awayScore": 94,
+		"homeScore": 89,
+		"cover": "XAV"
+	},
+	{
+		"gameId" : 5,
+		"awayTeam" : "ZONA",
+		"homeTeam" : "USC",
+		"favorite" : "ZONA",
+		"spread" : 1.5,
+		"gameTime" : "2023-03-03T04:00Z",
+		"channel": "ESPN",
+		"awayScore": 87,
+		"homeScore": 81,
+		"cover": "ZONA"
+	},
+	{
+		"gameId" : 6,
+		"awayTeam" : "ALA",
+		"homeTeam" : "TXAM",
+		"favorite" : "ALA",
+		"spread" : 1.5,
+		"gameTime" : "2023-03-04T17:00Z",
+		"channel": "CBS",
+		"awayScore": 61,
+		"homeScore": 67,
+		"cover": "TXAM"
+	},
+	{
+		"gameId" : 7,
+		"awayTeam" : "PITT",
+		"homeTeam" : "MIA",
+		"favorite" : "MIA",
+		"spread" : 6.5,
+		"gameTime" : "2023-03-04T23:00Z",
+		"channel": "ACCN",
+		"awayScore": 76,
+		"homeScore": 78,
+		"cover": "PITT"
+	},
+	{
+		"gameId" : 8,
+		"awayTeam" : "DUKE",
+		"homeTeam" : "UNC",
+		"favorite" : "UNC",
+		"spread" : 3.5,
+		"gameTime" : "2023-03-04T23:30Z",
+		"channel": "ESPN",
+		"awayScore": 62,
+		"homeScore": 57,
+		"cover": "DUKE"
+	},
+	{
+		"gameId" : 9,
+		"awayTeam" : "ZONA",
+		"homeTeam" : "UCLA",
+		"favorite" : "UCLA",
+		"spread" : 5.5,
+		"gameTime" : "2023-03-05T03:00Z",
+		"channel": "ESPN",
+		"awayScore": 73,
+		"homeScore": 82,
+		"cover": "UCLA"
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "HOU",
+		"homeTeam" : "MEM",
+		"favorite" : "HOU",
+		"spread" : 5.5,
+		"gameTime" : "2023-03-05T17:00Z",
+		"channel": "CBS",
+		"awayScore": 67,
+		"homeScore": 65,
+		"cover": "MEM"
+	}
+  ]
+}
