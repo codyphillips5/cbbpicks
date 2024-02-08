@@ -32,7 +32,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-02-07T23:30Z",
 		"channel": "ESPN+",
-		"active": true
+		"awayScore" : 81,
+		"homeScore" : 86,
+		"cover" : "UNCA"
 	},
 	{
 		"gameId" : 4,
@@ -42,14 +44,16 @@
 		"spread" : 4.5,
 		"gameTime" : "2024-02-08T00:00Z",
 		"channel": "ESPN2",
-		"active": true
+		"awayScore" : 81,
+		"homeScore" : 99,
+		"cover" : "AUB"
 	},
 	{
 		"gameId" : 5,
 		"awayTeam" : "SAMF",
 		"homeTeam" : "UNCG",
 		"favorite" : "UNCG",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2024-02-09T00:00Z",
 		"channel": "ESPNU",
 		"active": false
