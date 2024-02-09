@@ -56,7 +56,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2024-02-09T00:00Z",
 		"channel": "ESPNU",
-		"active": true
+		"awayScore" : 78,
+		"homeScore" : 69,
+		"cover" : "SAMF"
 	},
 	{
 		"gameId" : 6,
