@@ -65,50 +65,50 @@
 		"awayTeam" : "ILL",
 		"homeTeam" : "MSU",
 		"favorite" : "MSU",
-		"spread" : 2.5,
+		"spread" : 3.5,
 		"gameTime" : "2024-02-10T19:00Z",
 		"channel": "CBS",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "WSU",
 		"homeTeam" : "ORE",
 		"favorite" : "ORE",
-		"spread" : 2.5,
+		"spread" : 3.5,
 		"gameTime" : "2024-02-10T22:00Z",
 		"channel": "PACN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "AKR",
 		"homeTeam" : "JMU",
 		"favorite" : "JMU",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2024-02-10T23:00Z",
 		"channel": "ESPN2",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "BU",
 		"homeTeam" : "KU",
 		"favorite" : "KU",
-		"spread" : 5.5,
+		"spread" : 7.5,
 		"gameTime" : "2024-02-10T23:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "BSU",
 		"homeTeam" : "USU",
 		"favorite" : "USU",
-		"spread" : 3.5,
+		"spread" : 4.5,
 		"gameTime" : "2024-02-11T03:00Z",
 		"channel": "FS1",
-		"active": false
+		"active": true
 	}
   ]
 }
