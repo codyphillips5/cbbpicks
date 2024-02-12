@@ -42,6 +42,16 @@
 	},
 	{
 		"gameId" : 5,
+		"awayTeam" : "CREIGH",
+		"homeTeam" : "BUTLER",
+		"favorite" : "BUTLER",
+		"spread" : "-",
+		"gameTime" : "2024-02-17T17:30Z",
+		"channel": "FOX",
+		"active": false
+	},
+	{
+		"gameId" : 6,
 		"awayTeam" : "MARQ",
 		"homeTeam" : "UCONN",
 		"favorite" : "UCONN",
@@ -51,23 +61,13 @@
 		"active": false
 	},
 	{
-		"gameId" : 6,
+		"gameId" : 7,
 		"awayTeam" : "USU",
 		"homeTeam" : "CSU",
 		"favorite" : "CSU",
 		"spread" : "-",
 		"gameTime" : "2024-02-17T22:30Z",
 		"channel": "CBSSN",
-		"active": false
-	},
-	{
-		"gameId" : 7,
-		"awayTeam" : "UK",
-		"homeTeam" : "AUB",
-		"favorite" : "AUB",
-		"spread" : "-",
-		"gameTime" : "2024-02-17T23:00Z",
-		"channel": "ESPN",
 		"active": false
 	},
 	{
