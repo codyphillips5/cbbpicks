@@ -29,7 +29,7 @@
 		"awayTeam" : "SC",
 		"homeTeam" : "AUB",
 		"favorite" : "AUB",
-		"spread" : "-",
+		"spread" : 11.5,
 		"gameTime" : "2024-02-15T01:30Z",
 		"channel": "SECN",
 		"active": false
