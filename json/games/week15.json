@@ -32,7 +32,9 @@
 		"spread" : 11.5,
 		"gameTime" : "2024-02-15T01:30Z",
 		"channel": "SECN",
-		"active": true
+		"awayScore" : 61,
+		"homeScore" : 101,
+		"cover" : "AUB"
 	},
 	{
 		"gameId" : 4,
