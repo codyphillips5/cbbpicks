@@ -53,10 +53,10 @@
 		"awayTeam" : "CREIGH",
 		"homeTeam" : "BUTLER",
 		"favorite" : "CREIGH",
-		"spread" : 3.5,
+		"spread" : 2.5,
 		"gameTime" : "2024-02-17T17:30Z",
 		"channel": "FOX",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 6,
@@ -66,27 +66,27 @@
 		"spread" : 6.5,
 		"gameTime" : "2024-02-17T20:00Z",
 		"channel": "FOX",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "USU",
 		"homeTeam" : "CSU",
 		"favorite" : "CSU",
-		"spread" : 5.5,
+		"spread" : 6.5,
 		"gameTime" : "2024-02-17T22:30Z",
 		"channel": "CBSSN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "YALE",
 		"homeTeam" : "PRINCE",
 		"favorite" : "PRINCE",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2024-02-18T01:00Z",
 		"channel": "ESPN2",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 9,
