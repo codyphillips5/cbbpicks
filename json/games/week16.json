@@ -4,8 +4,8 @@
 		"gameId" : 1,
 		"awayTeam" : "COLG",
 		"homeTeam" : "LAF",
-		"favorite" : "LAF",
-		"spread" : "-",
+		"favorite" : "COLG",
+		"spread" : 7.5,
 		"gameTime" : "2024-02-19T23:00Z",
 		"channel": "CBSSN",
 		"active": false
