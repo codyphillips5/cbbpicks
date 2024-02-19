@@ -6,12 +6,12 @@
 		"game2" : "ISU",
 		"game3" : "SC",
 		"game4" : "SDSU",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "CREIGH",
+		"game6" : "UCONN",
+		"game7" : "CSU",
+		"game8" : "PRINCE",
+		"game9" : "FAU",
+		"game10" : "SJU"
     },
     {
 		"userId" : 2,
@@ -32,12 +32,12 @@
 		"game2" : "CINCY",
 		"game3" : "AUB",
 		"game4" : "SDSU",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "BUTLER",
+		"game6" : "UCONN",
+		"game7" : "CSU",
+		"game8" : "PRINCE",
+		"game9" : "USF",
+		"game10" : "SJU"
     },
 	{
 		"userId" : 4,
@@ -45,10 +45,10 @@
 		"game2" : "CINCY",
 		"game3" : "",
 		"game4" : "UNM",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
+		"game5" : "CREIGH",
+		"game6" : "UCONN",
+		"game7" : "CSU",
+		"game8" : "PRINCE",
 		"game9" : "",
 		"game10" : ""
     },
@@ -58,12 +58,12 @@
 		"game2" : "ISU",
 		"game3" : "AUB",
 		"game4" : "UNM",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "CREIGH",
+		"game6" : "MARQ",
+		"game7" : "USU",
+		"game8" : "YALE",
+		"game9" : "USF",
+		"game10" : "SJU"
     },
 	{
 		"userId" : 6,
@@ -71,12 +71,12 @@
 		"game2" : "CINCY",
 		"game3" : "SC",
 		"game4" : "UNM",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "BUTLER",
+		"game6" : "MARQ",
+		"game7" : "USU",
+		"game8" : "PRINCE",
+		"game9" : "FAU",
+		"game10" : "SETON"
     },    
 	{
 		"userId" : 7,
@@ -84,12 +84,12 @@
 		"game2" : "CINCY",
 		"game3" : "SC",
 		"game4" : "SDSU",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "CREIGH",
+		"game6" : "MARQ",
+		"game7" : "USU",
+		"game8" : "PRINCE",
+		"game9" : "FAU",
+		"game10" : "SETON"
     },
 	{
 		"userId" : 8,
@@ -97,10 +97,10 @@
 		"game2" : "CINCY",
 		"game3" : "SC",
 		"game4" : "",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
+		"game5" : "CREIGH",
+		"game6" : "UCONN",
+		"game7" : "CSU",
+		"game8" : "PRINCE",
 		"game9" : "",
 		"game10" : ""
     },
@@ -123,12 +123,12 @@
 		"game2" : "CINCY",
 		"game3" : "SC",
 		"game4" : "SDSU",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "CREIGH",
+		"game6" : "MARQ",
+		"game7" : "CSU",
+		"game8" : "YALE",
+		"game9" : "FAU",
+		"game10" : "SJU"
     },
 	{
 		"userId" : 11,
@@ -136,10 +136,10 @@
 		"game2" : "",
 		"game3" : "",
 		"game4" : "SDSU",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
+		"game5" : "CREIGH",
+		"game6" : "UCONN",
+		"game7" : "CSU",
+		"game8" : "PRINCE",
 		"game9" : "",
 		"game10" : ""
     },
@@ -162,12 +162,12 @@
 		"game2" : "CINCY",
 		"game3" : "SC",
 		"game4" : "SDSU",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "CREIGH",
+		"game6" : "UCONN",
+		"game7" : "CSU",
+		"game8" : "PRINCE",
+		"game9" : "FAU",
+		"game10" : "SJU"
     },
 	{
 		"userId" : 14,
@@ -175,12 +175,12 @@
 		"game2" : "CINCY",
 		"game3" : "SC",
 		"game4" : "UNM",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "CREIGH",
+		"game6" : "UCONN",
+		"game7" : "USU",
+		"game8" : "PRINCE",
+		"game9" : "FAU",
+		"game10" : "SETON"
     },
 	{
 		"userId" : 15,
@@ -188,10 +188,10 @@
 		"game2" : "CINCY",
 		"game3" : "AUB",
 		"game4" : "SDSU",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
+		"game5" : "BUTLER",
+		"game6" : "UCONN",
+		"game7" : "USU",
+		"game8" : "PRINCE",
 		"game9" : "",
 		"game10" : ""
     },
@@ -201,12 +201,12 @@
 		"game2" : "CINCY",
 		"game3" : "SC",
 		"game4" : "SDSU",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "CREIGH",
+		"game6" : "UCONN",
+		"game7" : "CSU",
+		"game8" : "YALE",
+		"game9" : "USF",
+		"game10" : "SJU"
     },
 	{
 		"userId" : 17,
@@ -214,12 +214,12 @@
 		"game2" : "",
 		"game3" : "SC",
 		"game4" : "SDSU",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "CREIGH",
+		"game6" : "UCONN",
+		"game7" : "CSU",
+		"game8" : "PRINCE",
+		"game9" : "FAU",
+		"game10" : "SJU"
     },
 	{
 		"userId" : 18,
@@ -227,12 +227,12 @@
 		"game2" : "ISU",
 		"game3" : "SC",
 		"game4" : "UNM",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "BUTLER",
+		"game6" : "MARQ",
+		"game7" : "USU",
+		"game8" : "YALE",
+		"game9" : "USF",
+		"game10" : "SETON"
     },
 	{
 		"userId" : 19,
@@ -240,12 +240,12 @@
 		"game2" : "ISU",
 		"game3" : "AUB",
 		"game4" : "UNM",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "BUTLER",
+		"game6" : "UCONN",
+		"game7" : "CSU",
+		"game8" : "YALE",
+		"game9" : "FAU",
+		"game10" : "SETON"
     },
 	{
 		"userId" : 20,
@@ -257,8 +257,8 @@
 		"game6" : "",
 		"game7" : "",
 		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game9" : "FAU",
+		"game10" : "SETON"
     },
 	{
 		"userId" : 21,
@@ -266,10 +266,10 @@
 		"game2" : "CINCY",
 		"game3" : "",
 		"game4" : "SDSU",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
+		"game5" : "CREIGH",
+		"game6" : "UCONN",
+		"game7" : "CSU",
+		"game8" : "PRINCE",
 		"game9" : "",
 		"game10" : ""
     },
@@ -279,12 +279,12 @@
 		"game2" : "CINCY",
 		"game3" : "AUB",
 		"game4" : "SDSU",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "BUTLER",
+		"game6" : "MARQ",
+		"game7" : "CSU",
+		"game8" : "PRINCE",
+		"game9" : "FAU",
+		"game10" : "SJU"
     },
 	{
 		"userId" : 23,
@@ -292,12 +292,12 @@
 		"game2" : "ISU",
 		"game3" : "AUB",
 		"game4" : "UNM",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "BUTLER",
+		"game6" : "UCONN",
+		"game7" : "USU",
+		"game8" : "PRINCE",
+		"game9" : "USF",
+		"game10" : "SJU"
     },
 	{
 		"userId" : 24,
@@ -305,12 +305,12 @@
 		"game2" : "CINCY",
 		"game3" : "SC",
 		"game4" : "",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "BUTLER",
+		"game6" : "MARQ",
+		"game7" : "CSU",
+		"game8" : "YALE",
+		"game9" : "USF",
+		"game10" : "SETON"
     },
 	{
 		"userId" : 25,
@@ -318,12 +318,12 @@
 		"game2" : "CINCY",
 		"game3" : "SC",
 		"game4" : "UNM",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "CREIGH",
+		"game6" : "UCONN",
+		"game7" : "USU",
+		"game8" : "PRINCE",
+		"game9" : "FAU",
+		"game10" : "SJU"
     },
 	{
 		"userId" : 26,
@@ -331,12 +331,12 @@
 		"game2" : "ISU",
 		"game3" : "AUB",
 		"game4" : "SDSU",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
-		"game9" : "",
-		"game10" : ""
+		"game5" : "BUTLER",
+		"game6" : "UCONN",
+		"game7" : "CSU",
+		"game8" : "PRINCE",
+		"game9" : "USF",
+		"game10" : "SJU"
     },
 	{
 		"userId" : 27,
@@ -344,10 +344,10 @@
 		"game2" : "CINCY",
 		"game3" : "SC",
 		"game4" : "SDSU",
-		"game5" : "",
-		"game6" : "",
-		"game7" : "",
-		"game8" : "",
+		"game5" : "CREIGH",
+		"game6" : "UCONN",
+		"game7" : "USU",
+		"game8" : "PRINCE",
 		"game9" : "",
 		"game10" : ""
     }
