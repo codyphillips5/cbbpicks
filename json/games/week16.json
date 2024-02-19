@@ -14,8 +14,8 @@
 		"gameId" : 2,
 		"awayTeam" : "UCONN",
 		"homeTeam" : "CREIGH",
-		"favorite" : "CREIGH",
-		"spread" : "-",
+		"favorite" : "UCONN",
+		"spread" : 2.5,
 		"gameTime" : "2024-02-21T01:30Z",
 		"channel": "FS1",
 		"active": false
@@ -25,7 +25,7 @@
 		"awayTeam" : "DONS",
 		"homeTeam" : "STMARY",
 		"favorite" : "STMARY",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2024-02-21T04:00Z",
 		"channel": "ESPN2",
 		"active": false
