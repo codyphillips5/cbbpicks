@@ -20,13 +20,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-02-21T01:30Z",
 		"channel": "FS1",
-<<<<<<< HEAD
 		"awayScore" : 66,
 		"homeScore" : 85,
 		"cover" : "CREIGH"
-=======
-		"active": true
->>>>>>> a4612930defc298af96b35b7b64af85743b2c027
 	},
 	{
 		"gameId" : 3,
@@ -36,13 +32,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2024-02-21T04:00Z",
 		"channel": "ESPN2",
-<<<<<<< HEAD
 		"awayScore" : 66,
 		"homeScore" : 70,
 		"cover" : "DONS"
-=======
-		"active": true
->>>>>>> a4612930defc298af96b35b7b64af85743b2c027
 	},
 	{
 		"gameId" : 4,
