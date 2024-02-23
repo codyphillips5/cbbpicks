@@ -44,7 +44,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2024-02-23T01:30Z",
 		"channel": "ESPN+",
-		"active": true
+		"awayScore" : 78,
+		"homeScore" : 57,
+		"cover" : "MOREST"
 	},
 	{
 		"gameId" : 5,
