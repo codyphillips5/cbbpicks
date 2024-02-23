@@ -64,8 +64,8 @@
 		"gameId" : 6,
 		"awayTeam" : "HOU",
 		"homeTeam" : "BU",
-		"favorite" : "BU",
-		"spread" : "-",
+		"favorite" : "HOU",
+		"spread" : 2.5,
 		"gameTime" : "2024-02-24T17:00Z",
 		"channel": "CBS",
 		"active": false
@@ -75,7 +75,7 @@
 		"awayTeam" : "SC",
 		"homeTeam" : "MISS",
 		"favorite" : "MISS",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2024-02-24T20:30Z",
 		"channel": "SECN",
 		"active": false
@@ -84,8 +84,8 @@
 		"gameId" : 8,
 		"awayTeam" : "UNC",
 		"homeTeam" : "UVA",
-		"favorite" : "UVA",
-		"spread" : "-",
+		"favorite" : "UNC",
+		"spread" : 2.5,
 		"gameTime" : "2024-02-24T21:00Z",
 		"channel": "ESPN",
 		"active": false
@@ -95,7 +95,7 @@
 		"awayTeam" : "ALA",
 		"homeTeam" : "UK",
 		"favorite" : "UK",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2024-02-24T21:00Z",
 		"channel": "CBS",
 		"active": false
