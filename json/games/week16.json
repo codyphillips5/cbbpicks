@@ -68,17 +68,17 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-02-24T17:00Z",
 		"channel": "CBS",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "SC",
 		"homeTeam" : "MISS",
 		"favorite" : "MISS",
-		"spread" : 2.5,
+		"spread" : 3.5,
 		"gameTime" : "2024-02-24T20:30Z",
 		"channel": "SECN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 8,
@@ -88,27 +88,27 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-02-24T21:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "ALA",
 		"homeTeam" : "UK",
 		"favorite" : "UK",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2024-02-24T21:00Z",
 		"channel": "CBS",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "BUTLER",
 		"homeTeam" : "SETON",
 		"favorite" : "SETON",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2024-02-25T01:30Z",
 		"channel": "FS2",
-		"active": false
+		"active": true
 	}
   ]
 }
