@@ -118,7 +118,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2024-02-25T01:30Z",
 		"channel": "FS2",
-		"active": true
+		"awayScore" : 64,
+		"homeScore" : 76,
+		"cover" : "SETON"
 	}
   ]
 }
