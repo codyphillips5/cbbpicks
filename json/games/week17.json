@@ -36,11 +36,11 @@
 	},
 	{
 		"gameId" : 4,
-		"awayTeam" : "PROV",
-		"homeTeam" : "MARQ",
-		"favorite" : "MARQ",
-		"spread" : 10.5,
-		"gameTime" : "2024-02-29T00:00Z",
+		"awayTeam" : "SETON",
+		"homeTeam" : "CREIGH",
+		"favorite" : "CREIGH",
+		"spread" : 8.5,
+		"gameTime" : "2024-02-29T02:00Z",
 		"channel": "FS1",
 		"active": true
 	},
