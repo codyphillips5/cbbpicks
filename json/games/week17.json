@@ -32,7 +32,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2024-02-29T00:00Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore" : 84,
+		"homeScore" : 92,
+		"cover" : "TENN"
 	},
 	{
 		"gameId" : 4,
@@ -42,7 +44,9 @@
 		"spread" : 8.5,
 		"gameTime" : "2024-02-29T02:00Z",
 		"channel": "FS1",
-		"active": true
+		"awayScore" : 64,
+		"homeScore" : 85,
+		"cover" : "CREIGH"
 	},
 	{
 		"gameId" : 5,
