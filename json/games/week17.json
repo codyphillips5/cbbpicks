@@ -52,8 +52,8 @@
 		"gameId" : 5,
 		"awayTeam" : "DAY",
 		"homeTeam" : "LOYCHI",
-		"favorite" : "LOYCHI",
-		"spread" : "-",
+		"favorite" : "DAY",
+		"spread" : 1.5,
 		"gameTime" : "2024-03-02T02:00Z",
 		"channel": "ESPN2",
 		"active": false
