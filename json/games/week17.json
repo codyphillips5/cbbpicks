@@ -56,57 +56,59 @@
 		"spread" : 1.5,
 		"gameTime" : "2024-03-02T02:00Z",
 		"channel": "ESPN2",
-		"active": true
+		"awayScore" : 72,
+		"homeScore" : 77,
+		"cover" : "LOYCHI"
 	},
 	{
 		"gameId" : 6,
 		"awayTeam" : "ILL",
 		"homeTeam" : "WIS",
 		"favorite" : "WIS",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2024-03-02T18:00Z",
 		"channel": "B1G",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "UVA",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
-		"spread" : "-",
+		"spread" : 8.5,
 		"gameTime" : "2024-03-02T23:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "TENN",
 		"homeTeam" : "ALA",
 		"favorite" : "ALA",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2024-03-03T01:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "MSU",
 		"homeTeam" : "PURD",
 		"favorite" : "PURD",
-		"spread" : "-",
+		"spread" : 10.5,
 		"gameTime" : "2024-03-03T01:00Z",
 		"channel": "FOX",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "GONZ",
 		"homeTeam" : "STMARY",
 		"favorite" : "STMARY",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2024-03-03T03:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	}
   ]
 }
