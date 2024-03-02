@@ -68,7 +68,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-03-02T18:00Z",
 		"channel": "B1G",
-		"active": true
+		"awayScore" : 91,
+		"homeScore" : 83,
+		"cover" : "ILL"
 	},
 	{
 		"gameId" : 7,
