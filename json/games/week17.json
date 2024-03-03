@@ -80,7 +80,9 @@
 		"spread" : 8.5,
 		"gameTime" : "2024-03-02T23:00Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore" : 48,
+		"homeScore" : 73,
+		"cover" : "DUKE"
 	},
 	{
 		"gameId" : 8,
@@ -90,7 +92,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-03-03T01:00Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore" : 81,
+		"homeScore" : 74,
+		"cover" : "TENN"
 	},
 	{
 		"gameId" : 9,
@@ -100,7 +104,9 @@
 		"spread" : 10.5,
 		"gameTime" : "2024-03-03T01:00Z",
 		"channel": "FOX",
-		"active": true
+		"awayScore" : 74,
+		"homeScore" : 80,
+		"cover" : "MSU"
 	},
 	{
 		"gameId" : 10,
@@ -110,7 +116,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-03-03T03:00Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore" : 70,
+		"homeScore" : 57,
+		"cover" : "GONZ"
 	}
   ]
 }
