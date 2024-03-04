@@ -82,12 +82,12 @@
 	},
 	{
 		"gameId" : 9,
-		"awayTeam" : "BU",
-		"homeTeam" : "TTU",
-		"favorite" : "TTU",
+		"awayTeam" : "CLEM",
+		"homeTeam" : "WAKE",
+		"favorite" : "WAKE",
 		"spread" : "-",
 		"gameTime" : "2024-03-09T23:00Z",
-		"channel": "ESPN2",
+		"channel": "ACCN",
 		"active": false
 	},
 	{
