@@ -5,7 +5,7 @@
 		"awayTeam" : "PURD",
 		"homeTeam" : "ILL",
 		"favorite" : "ILL",
-		"spread" : "-",
+		"spread" : 0,
 		"gameTime" : "2024-03-06T00:00Z",
 		"channel": "Peacock",
 		"active": false
@@ -14,8 +14,8 @@
 		"gameId" : 2,
 		"awayTeam" : "ALA",
 		"homeTeam" : "FLA",
-		"favorite" : "FLA",
-		"spread" : "-",
+		"favorite" : "ALA",
+		"spread" : 1.5,
 		"gameTime" : "2024-03-06T02:00Z",
 		"channel": "ESPN2",
 		"active": false
@@ -25,7 +25,7 @@
 		"awayTeam" : "NEV",
 		"homeTeam" : "BSU",
 		"favorite" : "BSU",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2024-03-06T04:00Z",
 		"channel": "FS1",
 		"active": false
