@@ -92,22 +92,22 @@
 	},
 	{
 		"gameId" : 9,
-		"awayTeam" : "CLEM",
-		"homeTeam" : "WAKE",
-		"favorite" : "WAKE",
-		"spread" : "-",
-		"gameTime" : "2024-03-09T23:00Z",
-		"channel": "ACCN",
-		"active": false
-	},
-	{
-		"gameId" : 10,
 		"awayTeam" : "UNC",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
 		"spread" : "-",
 		"gameTime" : "2024-03-09T23:30Z",
 		"channel": "ESPN",
+		"active": false
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "UNM",
+		"homeTeam" : "USU",
+		"favorite" : "USU",
+		"spread" : "-",
+		"gameTime" : "2024-03-10T01:30Z",
+		"channel": "CBSSN",
 		"active": false
 	}
   ]
