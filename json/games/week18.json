@@ -56,7 +56,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2024-03-07T01:30Z",
 		"channel": "FS1",
-		"active": true
+		"awayScore" : 74,
+		"homeScore" : 67,
+		"cover" : "UCONN"
 	},
 	{
 		"gameId" : 6,
