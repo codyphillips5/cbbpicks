@@ -44,7 +44,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2024-03-07T00:00Z",
 		"channel": "ESPN2",
-		"active": true
+		"awayScore" : 66,
+		"homeScore" : 59,
+		"cover" : "TENN"
 	},
 	{
 		"gameId" : 5,
