@@ -68,47 +68,51 @@
 		"spread" : 6.5,
 		"gameTime" : "2024-03-09T03:00Z",
 		"channel": "FS1",
-		"active": true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 79,
+		"homeScore" : 77,
+		"cover" : "BSU"
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "KU",
 		"homeTeam" : "HOU",
 		"favorite" : "HOU",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2024-03-09T21:00Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "UK",
 		"homeTeam" : "TENN",
 		"favorite" : "TENN",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2024-03-09T21:00Z",
 		"channel": "CBS",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "UNC",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2024-03-09T23:30Z",
 		"channel": "ESPN",
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "UNM",
 		"homeTeam" : "USU",
 		"favorite" : "USU",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2024-03-10T01:30Z",
 		"channel": "CBSSN",
-		"active": false
+		"active": true
 	}
   ]
 }
