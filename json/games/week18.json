@@ -82,7 +82,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2024-03-09T21:00Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore" : 46,
+		"homeScore" : 76,
+		"cover" : "HOU"
 	},
 	{
 		"gameId" : 8,
@@ -92,7 +94,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2024-03-09T21:00Z",
 		"channel": "CBS",
-		"active": true
+		"awayScore" : 85,
+		"homeScore" : 81,
+		"cover" : "UK"
 	},
 	{
 		"gameId" : 9,
@@ -102,7 +106,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2024-03-09T23:30Z",
 		"channel": "ESPN",
-		"active": true
+		"awayScore" : 84,
+		"homeScore" : 79,
+		"cover" : "UNC"
 	},
 	{
 		"gameId" : 10,
@@ -112,7 +118,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2024-03-10T01:30Z",
 		"channel": "CBSSN",
-		"active": true
+		"awayScore" : 85,
+		"homeScore" : 87,
+		"cover" : "UNM"
 	}
   ]
 }
