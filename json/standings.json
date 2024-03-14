@@ -21,7 +21,8 @@
 		"week_15" : 6,
 		"week_16" : 5,
 		"week_17" : 8,
-		"week_17_top" : true
+		"week_17_top" : true,
+		"week_18" : 3
 	},
 	{
 		"userId" : 2,
@@ -42,7 +43,8 @@
 		"week_14_top" : true,
 		"week_15" : 1,
 		"week_16" : 1,
-		"week_17" : 4
+		"week_17" : 4,
+		"week_18" : 2
     },		
 	{
 		"userId" : 3,
@@ -62,7 +64,8 @@
 		"week_14" : 6,
 		"week_15" : 6,
 		"week_16" : 2,
-		"week_17" : 5
+		"week_17" : 5,
+		"week_18" : 5
     },	
 	{
 		"userId" : 4,
@@ -83,7 +86,8 @@
 		"week_14" : 5,
 		"week_15" : 5,
 		"week_16" : 3,
-		"week_17" : 6
+		"week_17" : 6,
+		"week_18" : 1
     },
 	{
 		"userId" : 5,
@@ -104,7 +108,8 @@
 		"week_14" : 6,
 		"week_15" : 5,
 		"week_16" : 7,
-		"week_17" : 7
+		"week_17" : 7,
+		"week_18" : 4
     },	
 	{
 		"userId" : 6,
@@ -125,7 +130,8 @@
 		"week_14" : 4,
 		"week_15" : 2,
 		"week_16" : 7,
-		"week_17" : 5
+		"week_17" : 5,
+		"week_18" : 7
     },	
 	{
 		"userId" : 7,
@@ -145,7 +151,8 @@
 		"week_14" : 5,
 		"week_15" : 5,
 		"week_16" : 2,
-		"week_17" : 4
+		"week_17" : 4,
+		"week_18" : 2
     },	
     {
 		"userId" : 8,
@@ -165,7 +172,8 @@
 		"week_14" : 5,
 		"week_15" : 5,
 		"week_16" : 2,
-		"week_17" : 0
+		"week_17" : 0,
+		"week_18" : 0
     },
     {
 		"userId" : 9,
@@ -185,7 +193,8 @@
 		"week_14" : 7,
 		"week_15" : 0,
 		"week_16" : 4,
-		"week_17" : 5
+		"week_17" : 5,
+		"week_18" : 7
     },
 	{
 		"userId" : 10,
@@ -206,7 +215,8 @@
 		"week_14" : 5,
 		"week_15" : 4,
 		"week_16" : 5,
-		"week_17" : 5
+		"week_17" : 5,
+		"week_18" : 7
     },
 	{
 		"userId" : 11,
@@ -226,7 +236,8 @@
 		"week_14" : 5,
 		"week_15" : 5,
 		"week_16" : 0,
-		"week_17" : 5
+		"week_17" : 5,
+		"week_18" : 0
 	},
 	{
 		"userId" : 12,
@@ -246,7 +257,8 @@
 		"week_14" : 5,
 		"week_15" : 0,
 		"week_16" : 0,
-		"week_17" : 0
+		"week_17" : 0,
+		"week_18" : 0
     },   
 	{
 		"userId" : 13,
@@ -267,7 +279,9 @@
 		"week_14" : 5,
 		"week_15" : 5,
 		"week_16" : 4,
-		"week_17" : 4
+		"week_17" : 4,
+		"week_18" : 8,
+		"week_18_top" : true
 	},
 	{
 		"userId" : 14,
@@ -290,7 +304,8 @@
 		"week_14" : 4,
 		"week_15" : 4,
 		"week_16" : 6,
-		"week_17" : 4
+		"week_17" : 4,
+		"week_18" : 3
     },
 	{
 		"userId" : 15,
@@ -310,7 +325,8 @@
 		"week_14" : 4,
 		"week_15" : 5,
 		"week_16" : 1,
-		"week_17" : 7
+		"week_17" : 7,
+		"week_18" : 6
     },	
 	{
 		"userId" : 16,
@@ -332,7 +348,8 @@
 		"week_15" : 5,
 		"week_16" : 9,
 		"week_16_top" : true,
-		"week_17" : 4
+		"week_17" : 4,
+		"week_18" : 3
     },	
 	{
 		"userId" : 17,
@@ -354,7 +371,8 @@
 		"week_14" : 5,
 		"week_15" : 5,
 		"week_16" : 4,
-		"week_17" : 4
+		"week_17" : 4,
+		"week_18" : 1
     },
 	{
 		"userId" : 18,
@@ -375,7 +393,8 @@
 		"week_15" : 3,
 		"week_16" : 5,
 		"week_17" : 8,
-		"week_17_top" : true
+		"week_17_top" : true,
+		"week_18" : 5
     },
 	{
 		"userId" : 19,
@@ -395,7 +414,8 @@
 		"week_14" : 5,
 		"week_15" : 5,
 		"week_16" : 2,
-		"week_17" : 4
+		"week_17" : 4,
+		"week_18" : 4
     },
 	{
 		"userId" : 20,
@@ -416,7 +436,8 @@
 		"week_15" : 7,
 		"week_15_top" : true,
 		"week_16" : 5,
-		"week_17" : 6
+		"week_17" : 6,
+		"week_18" : 6
 	},
 	{
 		"userId" : 21,
@@ -437,7 +458,8 @@
 		"week_14" : 6,
 		"week_15" : 5,
 		"week_16" : 4,
-		"week_17" : 4
+		"week_17" : 4,
+		"week_18" : 1
     },	
 	{
 		"userId" : 22,
@@ -459,7 +481,8 @@
 		"week_14" : 4,
 		"week_15" : 5,
 		"week_16" : 3,
-		"week_17" : 5
+		"week_17" : 5,
+		"week_18" : 7
     },	
 	{
 		"userId" : 23,
@@ -480,7 +503,8 @@
 		"week_14" : 7,
 		"week_15" : 6,
 		"week_16" : 4,
-		"week_17" : 5
+		"week_17" : 5,
+		"week_18" : 5
     },
 	{
 		"userId" : 24,
@@ -501,7 +525,8 @@
 		"week_14" : 4,
 		"week_15" : 3,
 		"week_16" : 5,
-		"week_17" : 4
+		"week_17" : 4,
+		"week_18" : 5
     },		
 	{
 		"userId" : 25,
@@ -521,7 +546,8 @@
 		"week_14" : 6,
 		"week_15" : 4,
 		"week_16" : 4,
-		"week_17" : 7
+		"week_17" : 7,
+		"week_18" : 4
     },
 	{
 		"userId" : 26,
@@ -545,7 +571,8 @@
 		"week_15" : 7,
 		"week_15_top" : true,
 		"week_16" : 4,
-		"week_17" : 4
+		"week_17" : 4,
+		"week_18" : 3
     },	
 	{
 		"userId" : 27,
@@ -566,7 +593,8 @@
 		"week_14" : 3,
 		"week_15" : 5,
 		"week_16" : 6,
-		"week_17" : 3
+		"week_17" : 3,
+		"week_18" : 2
     }
 	]
 }

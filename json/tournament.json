@@ -1,56 +1,56 @@
 {
   "auto": [
 	{
-		"conf" : "Northeast",
-		"winner" : ""
-	},
-	{
 		"conf" :"OVC",
-		"winner" : ""	
+		"winner" : "MOREST"	
 	},
 	{
 		"conf" :"Big South",
-		"winner" : ""
+		"winner" : "LONGW"
 	},
 	{
 		"conf" : "MVC",
-		"winner" : ""
+		"winner" : "DRAKE"
 	},
 	{
 		"conf": "ASUN",
-		"winner" : ""
+		"winner" : "STET"
 	},
 	{
 		"conf" : "Sun Belt",
-		"winner" : ""
+		"winner" : "JMU"
 	},
 	{
 		"conf" : "SoCon",
-		"winner" : ""
+		"winner" : "SAMF"
+	},
+	{
+		"conf" : "Northeast",
+		"winner" : "WAGNER"
 	},
 	{
 		"conf" : "Horizon",
-		"winner" : ""
+		"winner" : "OAK"
 	},
 	{
 		"conf" : "Colonial",
-		"winner" : ""
-	},
-	{
-		"conf" : "Summit",
-		"winner" : ""
+		"winner" : "COFCH"
 	},
 	{
 		"conf" : "WCC",
-		"winner" : ""
+		"winner" : "STMARY"
+	},
+	{
+		"conf" : "Summit",
+		"winner" : "SDAKST"
 	},
 	{
 		"conf" : "Southland",
-		"winner" : ""
+		"winner" : "MCNST"
 	},
 	{
 		"conf" : "Patriot",
-		"winner" : ""
+		"winner" : "COLG"
 	},
 	{
 		"conf" : "Big Sky",
