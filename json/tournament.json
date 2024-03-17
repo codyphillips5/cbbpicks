@@ -54,63 +54,63 @@
 	},
 	{
 		"conf" : "Big Sky",
-		"winner" : ""
+		"winner" : "MONTST"
 	},
 	{
 		"conf" : "America East",
-		"winner" : ""
+		"winner" : "VERM"
 	},
 	{
 		"conf" : "MEAC",
-		"winner" : ""
-	},
-	{
-		"conf" : "SWAC",
-		"winner" : ""
+		"winner" : "HOWARD"
 	},
 	{
 		"conf" : "Big 12",
-		"winner" : ""
+		"winner" : "ISU"
 	},
 	{
 		"conf" : "MW",
-		"winner": ""
+		"winner": "UNM"
 	},
 	{
 		"conf" : "Big East",
-		"winner" : ""
-	},
-	{
-		"conf" : "MAAC",
-		"winner" : ""
+		"winner" : "UCONN"
 	},
 	{
 		"conf" : "MAC",
-		"winner" : ""
+		"winner" : "AKRON"
 	},
 	{
-		"conf" : "C-USA",
-		"winner" : ""
+		"conf" : "MAAC",
+		"winner" : "STPETE"
 	},
 	{
 		"conf" : "ACC",
-		"winner" : ""
+		"winner" : "NCST"
 	},
 	{
-		"conf" : "Big West",
-		"winner" : ""
+		"conf" : "C-USA",
+		"winner" : "WKU"
 	},
 	{
 		"conf" : "PAC12",
-		"winner" : ""
+		"winner" : "ORE"
+	},
+	{
+		"conf" : "Big West",
+		"winner" : "LBSU"
+	},
+	{
+		"conf" : "SWAC",
+		"winner" : "GRAMB"
 	},
 	{
 		"conf" : "WAC",
-		"winner" : ""
+		"winner" : "GCU"
 	},
 	{
 		"conf" : "Ivy",
-		"winner" : ""
+		"winner" : "YALE"
 	},
 	{
 		"conf" : "A-10",
