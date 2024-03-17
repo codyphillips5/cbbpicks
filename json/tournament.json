@@ -122,11 +122,11 @@
 	},
 	{
 		"conf" : "AAC",
-		"winner" : ""
+		"winner" : "UAB"
 	},
 	{
 		"conf" : "B1G",
-		"winner" : ""
+		"winner" : "ILL"
 	}
 	],
 	"atlarge": [
@@ -156,9 +156,6 @@
 	},
 	{
 		"team": "UK"
-	},
-	{
-		"team": "ILL"
 	},
 	{
 		"team": "DUKE"
@@ -237,6 +234,9 @@
 	},
 	{
 		"team": "CSU"
+	},
+	{
+		"team": ""
 	}
 	]
 }
