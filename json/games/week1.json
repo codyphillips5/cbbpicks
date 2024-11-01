@@ -4,8 +4,8 @@
 		"gameId" : 1,
 		"awayTeam" : "TXAM",
 		"homeTeam" : "UCF",
-		"favorite" : "UCF",
-		"spread" : "-",
+		"favorite" : "TXAM",
+		"spread" : 3.5,
 		"gameTime" : "2024-11-05T00:00Z",
 		"channel" : "ESPN+",
 		"active" : false
@@ -24,8 +24,8 @@
 		"gameId" : 3,
 		"awayTeam" : "TEX",
 		"homeTeam" : "OSU",
-		"favorite" : "OSU",
-		"spread" : "-",
+		"favorite" : "TEX",
+		"spread" : 2.5,
 		"gameTime" : "2024-11-05T03:00Z",
 		"channel" : "TNT",
 		"active" : false
@@ -35,7 +35,7 @@
 		"awayTeam" : "BU",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2024-11-05T03:30Z",
 		"channel" : "ESPN2",
 		"active" : false
