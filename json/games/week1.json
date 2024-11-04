@@ -5,7 +5,7 @@
 		"awayTeam" : "TXAM",
 		"homeTeam" : "UCF",
 		"favorite" : "TXAM",
-		"spread" : 3.5,
+		"spread" : 4.5,
 		"gameTime" : "2024-11-05T00:00Z",
 		"channel" : "ESPN+",
 		"active" : false
@@ -15,7 +15,7 @@
 		"awayTeam" : "INDST",
 		"homeTeam" : "FAU",
 		"favorite" : "FAU",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2024-11-05T00:30Z",
 		"channel" : "ESPN+",
 		"active" : false
@@ -35,7 +35,7 @@
 		"awayTeam" : "BU",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
-		"spread" : 3.5,
+		"spread" : 4.5,
 		"gameTime" : "2024-11-05T03:30Z",
 		"channel" : "ESPN2",
 		"active" : false
