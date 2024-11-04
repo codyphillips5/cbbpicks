@@ -8,7 +8,7 @@
 		"spread" : 4.5,
 		"gameTime" : "2024-11-05T00:00Z",
 		"channel" : "ESPN+",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 2,
@@ -18,7 +18,7 @@
 		"spread" : 6.5,
 		"gameTime" : "2024-11-05T00:30Z",
 		"channel" : "ESPN+",
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 3,
@@ -28,17 +28,17 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-11-05T03:00Z",
 		"channel" : "TNT",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 4,
 		"awayTeam" : "BU",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
-		"spread" : 4.5,
+		"spread" : 5.5,
 		"gameTime" : "2024-11-05T03:30Z",
 		"channel" : "ESPN2",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 5,
