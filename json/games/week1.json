@@ -44,7 +44,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2024-11-05T04:30Z",
 		"channel" : "ESPN2",
-		"active" : true
+		"awayScore" : 63,
+		"homeScore" : 101,
+		"cover" : "GONZ"
     },
     {
 		"gameId" : 5,
