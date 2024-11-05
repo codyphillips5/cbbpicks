@@ -8,7 +8,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2024-11-05T00:00Z",
 		"channel" : "ESPN+",
-		"active" : true
+		"awayScore" : 61,
+		"homeScore" : 64,
+		"cover" : "UCF"
     },
     {
 		"gameId" : 2,
@@ -18,7 +20,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2024-11-05T00:30Z",
 		"channel" : "ESPN+",
-		"active" : true
+		"awayScore" : 97,
+		"homeScore" : 64,
+		"cover" : "FAU"
     },
 	{
 		"gameId" : 3,
@@ -28,7 +32,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-11-05T03:00Z",
 		"channel" : "TNT",
-		"active" : true
+		"awayScore" : 72,
+		"homeScore" : 80,
+		"cover" : "OSU"
     },
     {
 		"gameId" : 4,
@@ -36,7 +42,7 @@
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
 		"spread" : 5.5,
-		"gameTime" : "2024-11-05T03:30Z",
+		"gameTime" : "2024-11-05T04:30Z",
 		"channel" : "ESPN2",
 		"active" : true
     },
