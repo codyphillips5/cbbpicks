@@ -70,9 +70,9 @@
     },
     {
 		"gameId" : 7,
-		"awayTeam" : "BU",
-		"homeTeam" : "ARK",
-		"favorite" : "ARK",
+		"awayTeam" : "ARK",
+		"homeTeam" : "BU",
+		"favorite" : "BU",
 		"spread" : "-",
 		"gameTime" : "2024-11-10T00:30Z",
 		"channel" : "ESPNU",
