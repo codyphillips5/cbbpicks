@@ -53,20 +53,20 @@
 		"awayTeam" : "UNC",
 		"homeTeam" : "KU",
 		"favorite" : "KU",
-		"spread" : 8.5,
+		"spread" : 7.5,
 		"gameTime" : "2024-11-09T00:00Z",
 		"channel" : "ESPN2",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 6,
 		"awayTeam" : "UNM",
 		"homeTeam" : "UCLA",
 		"favorite" : "UCLA",
-		"spread" : 6.5,
+		"spread" : 5.5,
 		"gameTime" : "2024-11-09T04:00Z",
 		"channel" : "CBSSN",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 7,
