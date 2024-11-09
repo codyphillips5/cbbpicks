@@ -68,7 +68,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2024-11-09T04:00Z",
 		"channel" : "CBSSN",
-		"active" : true
+		"awayScore" : 72,
+		"homeScore" : 64,
+		"cover" : "UNM"
     },
     {
 		"gameId" : 7,
@@ -78,7 +80,7 @@
 		"spread" : 3.5,
 		"gameTime" : "2024-11-10T00:30Z",
 		"channel" : "ESPNU",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 8,
@@ -88,7 +90,7 @@
 		"spread" : 4.5,
 		"gameTime" : "2024-11-10T00:30Z",
 		"channel" : "ESPN+",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 9,
@@ -98,7 +100,7 @@
 		"spread" : 5.5,
 		"gameTime" : "2024-11-10T02:30Z",
 		"channel" : "ESPNU",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
@@ -108,7 +110,7 @@
 		"spread" : 1.5,
 		"gameTime" : "2024-11-10T03:30Z",
 		"channel" : "ESPN+",
-		"active" : false
+		"active" : true
     }
   ]
 }
