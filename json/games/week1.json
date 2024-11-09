@@ -75,7 +75,7 @@
 		"awayTeam" : "ARK",
 		"homeTeam" : "BU",
 		"favorite" : "BU",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2024-11-10T00:30Z",
 		"channel" : "ESPNU",
 		"active" : false
@@ -95,7 +95,7 @@
 		"awayTeam" : "AUB",
 		"homeTeam" : "HOU",
 		"favorite" : "HOU",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2024-11-10T02:30Z",
 		"channel" : "ESPNU",
 		"active" : false
