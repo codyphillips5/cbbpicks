@@ -56,7 +56,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2024-11-09T00:00Z",
 		"channel" : "ESPN2",
-		"active" : true
+		"awayScore" : 89,
+		"homeScore" : 92,
+		"cover" : "UNC"
     },
     {
 		"gameId" : 6,
