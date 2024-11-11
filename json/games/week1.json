@@ -80,7 +80,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2024-11-10T00:30Z",
 		"channel" : "ESPNU",
-		"active" : true
+		"awayScore" : 67,
+		"homeScore" : 72,
+		"cover" : "BU"
     },
     {
 		"gameId" : 8,
@@ -90,7 +92,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2024-11-10T00:30Z",
 		"channel" : "ESPN+",
-		"active" : true
+		"awayScore" : 66,
+		"homeScore" : 71,
+		"cover" : "DAY"
     },
     {
 		"gameId" : 9,
@@ -100,7 +104,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2024-11-10T02:30Z",
 		"channel" : "ESPNU",
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 69,
+		"cover" : "AUB"
     },
     {
 		"gameId" : 10,
@@ -110,7 +116,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2024-11-10T03:30Z",
 		"channel" : "ESPN+",
-		"active" : true
+		"awayScore" : 73,
+		"homeScore" : 84,
+		"cover" : "DONS"
     }
   ]
 }
