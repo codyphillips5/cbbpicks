@@ -5,7 +5,7 @@
 		"awayTeam" : "KU",
 		"homeTeam" : "MSU",
 		"favorite" : "KU",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2024-11-12T23:30Z",
 		"channel" : "ESPN",
 		"active" : false
@@ -15,7 +15,7 @@
 		"awayTeam" : "UK",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2024-11-13T02:00Z",
 		"channel" : "ESPN",
 		"active" : false
