@@ -26,13 +26,13 @@
     },
     {
 		"gameId" : 3,
-		"awayTeam" : "LSU",
-		"homeTeam" : "KSST",
-		"favorite" : "KSST",
-		"spread" : "-",
+		"awayTeam" : "GCU",
+		"homeTeam" : "AZST",
+		"favorite" : "GCU",
+		"spread" : 5.5,
 		"gameTime" : "2024-11-15T02:00Z",
-		"channel" : "ESPN+",
-		"active" : false
+		"channel" : "ESPN2",
+		"active" : true
     },
     {
 		"gameId" : 4,
