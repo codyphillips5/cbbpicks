@@ -32,7 +32,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2024-11-15T02:00Z",
 		"channel" : "ESPN2",
-		"active" : true
+		"awayScore" : 76,
+		"homeScore" : 87,
+		"cover" : "AZST"
     },
     {
 		"gameId" : 4,
