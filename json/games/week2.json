@@ -40,8 +40,8 @@
 		"gameId" : 4,
 		"awayTeam" : "ALA",
 		"homeTeam" : "PURD",
-		"favorite" : "PURD",
-		"spread" : "-",
+		"favorite" : "ALA",
+		"spread" : 2.5,
 		"gameTime" : "2024-11-16T00:00Z",
 		"channel" : "Peacock",
 		"active" : false
@@ -51,7 +51,7 @@
 		"awayTeam" : "MARQ",
 		"homeTeam" : "MARY",
 		"favorite" : "MARY",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2024-11-16T01:00Z",
 		"channel" : "FS1",
 		"active" : false
@@ -61,7 +61,7 @@
 		"awayTeam" : "OSU",
 		"homeTeam" : "TXAM",
 		"favorite" : "TXAM",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2024-11-16T02:00Z",
 		"channel" : "SECN",
 		"active" : false
@@ -70,8 +70,8 @@
 		"gameId" : 7,
 		"awayTeam" : "ZONA",
 		"homeTeam" : "WIS",
-		"favorite" : "WIS",
-		"spread" : "-",
+		"favorite" : "ZONA",
+		"spread" : 4.5,
 		"gameTime" : "2024-11-16T02:00Z",
 		"channel" : "Peacock",
 		"active" : false
@@ -88,22 +88,22 @@
     },
     {
 		"gameId" : 9,
-		"awayTeam" : "STMARY",
-		"homeTeam" : "NEB",
-		"favorite" : "NEB",
+		"awayTeam" : "SC",
+		"homeTeam" : "IND",
+		"favorite" : "IND",
 		"spread" : "-",
-		"gameTime" : "2024-11-17T18:00Z",
-		"channel" : "B1G",
+		"gameTime" : "2024-11-16T20:00Z",
+		"channel" : "Peacock",
 		"active" : false
     },
     {
 		"gameId" : 10,
-		"awayTeam" : "UTAH",
-		"homeTeam" : "MSST",
-		"favorite" : "MSST",
+		"awayTeam" : "CSU",
+		"homeTeam" : "MISS",
+		"favorite" : "MISS",
 		"spread" : "-",
-		"gameTime" : "2024-11-17T21:00Z",
-		"channel" : "ESPN2",
+		"gameTime" : "2024-11-16T21:00Z",
+		"channel" : "SECN+",
 		"active" : false
     }
   ]
