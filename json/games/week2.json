@@ -44,7 +44,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-11-16T00:00Z",
 		"channel" : "Peacock",
-		"active" : true
+		"awayScore" : 78,
+		"homeScore" : 87,
+		"cover" : "PURD"
     },
     {
 		"gameId" : 5,
@@ -54,7 +56,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2024-11-16T01:00Z",
 		"channel" : "FS1",
-		"active" : true
+		"awayScore" : 78,
+		"homeScore" : 74,
+		"cover" : "MARQ"
     },
     {
 		"gameId" : 6,
@@ -64,7 +68,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2024-11-16T02:00Z",
 		"channel" : "SECN",
-		"active" : true
+		"awayScore" : 64,
+		"homeScore" : 78,
+		"cover" : "TXAM"
     },
     {
 		"gameId" : 7,
@@ -74,37 +80,39 @@
 		"spread" : 3.5,
 		"gameTime" : "2024-11-16T02:00Z",
 		"channel" : "Peacock",
-		"active" : true
+		"awayScore" : 88,
+		"homeScore" : 103,
+		"cover" : "WIS"
     },
 	{
 		"gameId" : 8,
 		"awayTeam" : "WAKE",
 		"homeTeam" : "XAV",
 		"favorite" : "XAV",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2024-11-16T17:00Z",
 		"channel" : "FS1",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 9,
 		"awayTeam" : "SC",
 		"homeTeam" : "IND",
 		"favorite" : "IND",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2024-11-16T20:00Z",
 		"channel" : "Peacock",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
 		"awayTeam" : "CSU",
 		"homeTeam" : "MISS",
 		"favorite" : "MISS",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2024-11-16T21:00Z",
 		"channel" : "SECN+",
-		"active" : false
+		"active" : true
     }
   ]
 }
