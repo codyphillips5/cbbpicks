@@ -92,7 +92,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2024-11-16T17:00Z",
 		"channel" : "FS1",
-		"active" : true
+		"awayScore" : 60,
+		"homeScore" : 75,
+		"cover" : "XAV"
     },
     {
 		"gameId" : 9,
@@ -102,7 +104,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2024-11-16T20:00Z",
 		"channel" : "Peacock",
-		"active" : true
+		"awayScore" : 71,
+		"homeScore" : 87,
+		"cover" : "IND"
     },
     {
 		"gameId" : 10,
@@ -112,7 +116,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2024-11-16T21:00Z",
 		"channel" : "SECN+",
-		"active" : true
+		"awayScore" : 69,
+		"homeScore" : 84,
+		"cover" : "MISS"
     }
   ]
 }
