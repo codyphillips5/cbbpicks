@@ -5,7 +5,7 @@
 		"awayTeam" : "PURD",
 		"homeTeam" : "MARQ",
 		"favorite" : "MARQ",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2024-11-20T02:00Z",
 		"channel" : "FS1",
 		"active" : false
