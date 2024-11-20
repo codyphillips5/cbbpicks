@@ -20,7 +20,7 @@
 		"spread" : 8.5,
 		"gameTime" : "2024-11-21T02:00Z",
 		"channel" : "SECN",
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 3,
