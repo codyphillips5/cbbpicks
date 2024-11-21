@@ -26,8 +26,8 @@
 		"gameId" : 3,
 		"awayTeam" : "BU",
 		"homeTeam" : "SJU",
-		"favorite" : "SJU",
-		"spread" : "-",
+		"favorite" : "BU",
+		"spread" : 2.5,
 		"gameTime" : "2024-11-22T00:00Z",
 		"channel" : "CBSSN",
 		"active" : false
@@ -37,7 +37,7 @@
 		"awayTeam" : "VU",
 		"homeTeam" : "NEV",
 		"favorite" : "NEV",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2024-11-22T00:30Z",
 		"channel" : "ESPNU",
 		"active" : false
@@ -46,8 +46,8 @@
 		"gameId" : 5,
 		"awayTeam" : "MEM",
 		"homeTeam" : "DONS",
-		"favorite" : "DONS",
-		"spread" : "-",
+		"favorite" : "MEM",
+		"spread" : 1.5,
 		"gameTime" : "2024-11-22T03:00Z",
 		"channel" : "ESPNU",
 		"active" : false
