@@ -20,7 +20,9 @@
 		"spread" : 8.5,
 		"gameTime" : "2024-11-21T02:00Z",
 		"channel" : "SECN",
-		"active" : true
+		"awayScore" : 87,
+		"homeScore" : 100,
+		"cover" : "ALA"
     },
     {
 		"gameId" : 3,
@@ -37,7 +39,7 @@
 		"awayTeam" : "VU",
 		"homeTeam" : "NEV",
 		"favorite" : "NEV",
-		"spread" : 4.5,
+		"spread" : 3.5,
 		"gameTime" : "2024-11-22T00:30Z",
 		"channel" : "ESPNU",
 		"active" : false
