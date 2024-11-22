@@ -46,7 +46,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2024-11-22T00:30Z",
 		"channel" : "ESPNU",
-		"active" : true
+		"awayScore" : 73,
+		"homeScore" : 71,
+		"cover" : "VU"
     },
     {
 		"gameId" : 5,
