@@ -31,8 +31,12 @@
 		"favorite" : "BU",
 		"spread" : 2.5,
 		"gameTime" : "2024-11-22T00:00Z",
-		"channel" : "CBSSN",
-		"active" : true
+		"channel" : "CBSSN",,
+		"overtime" : true,
+		"numberOfOT" : 2,
+		"awayScore" : 99,
+		"homeScore" : 98,
+		"cover" : "SJU"
     },
     {
 		"gameId" : 4,
