@@ -70,7 +70,9 @@
 		"spread" : 6.5,
 		"gameTime" : "2024-11-22T19:30Z",
 		"channel" : "CBSSN",
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 63,
+		"cover" : "PITT"
     },
 	{
 		"gameId" : 7,
