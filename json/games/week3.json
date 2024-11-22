@@ -62,8 +62,8 @@
 		"gameId" : 6,
 		"awayTeam" : "PITT",
 		"homeTeam" : "LSU",
-		"favorite" : "LSU",
-		"spread" : "-",
+		"favorite" : "PITT",
+		"spread" : 6.5,
 		"gameTime" : "2024-11-22T19:30Z",
 		"channel" : "CBSSN",
 		"active" : false
@@ -93,7 +93,7 @@
 		"awayTeam" : "DUKE",
 		"homeTeam" : "ZONA",
 		"favorite" : "ZONA",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2024-11-23T03:30Z",
 		"channel" : "ESPN2",
 		"active" : false
