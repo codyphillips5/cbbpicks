@@ -82,7 +82,9 @@
 		"spread" : 8.5,
 		"gameTime" : "2024-11-23T02:00Z",
 		"channel" : "ESPNU",
-		"active" : true
+		"awayScore" : 58,
+		"homeScore" : 67,
+		"cover" : "TEX"
     },
     {
 		"gameId" : 8,
@@ -92,7 +94,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2024-11-23T02:30Z",
 		"channel" : "CBSSN",
-		"active" : true
+		"awayScore" : 77,
+		"homeScore" : 62,
+		"cover" : "TENN"
     },
     {
 		"gameId" : 9,
@@ -106,9 +110,9 @@
     },
     {
 		"gameId" : 10,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "DRAKE",
+		"homeTeam" : "VU",
+		"favorite" : "VU",
 		"spread" : "-",
 		"gameTime" : "2024-11-25T01:30Z",
 		"channel" : "ESPN",
