@@ -115,10 +115,10 @@
 		"awayTeam" : "DRAKE",
 		"homeTeam" : "VU",
 		"favorite" : "VU",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2024-11-25T01:30Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
     }
   ]
 }
