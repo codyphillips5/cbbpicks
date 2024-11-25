@@ -118,7 +118,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2024-11-25T01:30Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 81,
+		"homeScore" : 70,
+		"cover" : "DRAKE"
     }
   ]
 }
