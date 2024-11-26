@@ -8,7 +8,9 @@
 		"spread" : 4.5,
 		"gameTime" : "2024-11-26T02:00Z",
 		"channel" : "ESPNU",
-		"active" : true
+		"awayScore" : 83,
+		"homeScore" : 81,
+		"cover" : "ISU"
 	},
 	{
 		"gameId" : 2,
@@ -18,7 +20,7 @@
 		"spread" : 3.5,
 		"gameTime" : "2024-11-27T01:00Z",
 		"channel" : "TBS",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 3,
@@ -28,7 +30,7 @@
 		"spread" : 3.5,
 		"gameTime" : "2024-11-27T02:00Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 4,
@@ -42,9 +44,9 @@
 	},
 	{
 		"gameId" : 5,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "MICH",
+		"homeTeam" : "XAV",
+		"favorite" : "XAV",
 		"spread" : "-",
 		"gameTime" : "2024-11-28T01:30Z",
 		"channel" : "FS1",
