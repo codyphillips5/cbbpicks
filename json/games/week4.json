@@ -14,8 +14,8 @@
 		"gameId" : 2,
 		"awayTeam" : "HOU",
 		"homeTeam" : "ALA",
-		"favorite" : "ALA",
-		"spread" : "-",
+		"favorite" : "HOU",
+		"spread" : 3.5,
 		"gameTime" : "2024-11-27T01:00Z",
 		"channel" : "TBS",
 		"active" : false
@@ -24,8 +24,8 @@
 		"gameId" : 3,
 		"awayTeam" : "DUKE",
 		"homeTeam" : "KU",
-		"favorite" : "KU",
-		"spread" : "-",
+		"favorite" : "DUKE",
+		"spread" : 3.5,
 		"gameTime" : "2024-11-27T02:00Z",
 		"channel" : "ESPN",
 		"active" : false
