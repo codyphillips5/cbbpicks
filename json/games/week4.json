@@ -64,7 +64,7 @@
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
 		"spread" : "-",
-		"gameTime" : "2024-11-28T17:00Z",
+		"gameTime" : "2024-11-29T20:30Z",
 		"channel" : "ESPN",
 		"active" : false
 	},
@@ -74,7 +74,7 @@
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
 		"spread" : "-",
-		"gameTime" : "2024-11-29T20:30Z",
+		"gameTime" : "2024-11-29T22:30Z",
 		"channel" : "ESPN",
 		"active" : false
 	},
@@ -84,8 +84,8 @@
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
 		"spread" : "-",
-		"gameTime" : "2024-11-29T22:30Z",
-		"channel" : "ESPN",
+		"gameTime" : "2024-11-29T23:00Z",
+		"channel" : "FOX",
 		"active" : false
 	},
 	{
@@ -94,8 +94,8 @@
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
 		"spread" : "-",
-		"gameTime" : "2024-11-29T23:00Z",
-		"channel" : "FOX",
+		"gameTime" : "2024-12-01T00:00Z",
+		"channel" : "TNT",
 		"active" : false
 	},
 	{
