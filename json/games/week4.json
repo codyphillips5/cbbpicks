@@ -52,8 +52,8 @@
 		"gameId" : 5,
 		"awayTeam" : "MICH",
 		"homeTeam" : "XAV",
-		"favorite" : "XAV",
-		"spread" : "-",
+		"favorite" : "MICH",
+		"spread" : 1.5,
 		"gameTime" : "2024-11-28T01:30Z",
 		"channel" : "FS1",
 		"active" : false
