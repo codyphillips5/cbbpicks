@@ -20,7 +20,11 @@
 		"spread" : 3.5,
 		"gameTime" : "2024-11-27T01:00Z",
 		"channel" : "TBS",
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 80,
+		"homeScore" : 85,
+		"cover" : "ALA"
 	},
 	{
 		"gameId" : 3,
@@ -30,11 +34,13 @@
 		"spread" : 3.5,
 		"gameTime" : "2024-11-27T02:00Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 72,
+		"homeScore" : 75,
+		"cover" : "KU"
 	},
 	{
 		"gameId" : 4,
-		"awayTeam" : "TBD",
+		"awayTeam" : "MEM",
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
 		"spread" : "-",
