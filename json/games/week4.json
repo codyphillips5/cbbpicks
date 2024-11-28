@@ -58,7 +58,9 @@
 		"spread" : 1.5,
 		"gameTime" : "2024-11-28T01:30Z",
 		"channel" : "FS1",
-		"active" : true
+		"awayScore" : 78,
+		"homeScore" : 53,
+		"cover" : "MICH"
 	},
 	{
 		"gameId" : 6,
