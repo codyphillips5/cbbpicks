@@ -46,7 +46,9 @@
 		"spread" : 7.5,
 		"gameTime" : "2024-11-27T22:00Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 76,
+		"homeScore" : 90,
+		"cover" : "AUB"
 	},
 	{
 		"gameId" : 5,
