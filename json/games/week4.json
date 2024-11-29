@@ -70,7 +70,9 @@
 		"spread" : 8.5,
 		"gameTime" : "2024-11-29T20:30Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 51,
+		"homeScore" : 88,
+		"cover" : "FLA"
 	},
 	{
 		"gameId" : 7,
