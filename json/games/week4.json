@@ -70,7 +70,7 @@
 		"spread" : 8.5,
 		"gameTime" : "2024-11-29T20:30Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
@@ -80,17 +80,17 @@
 		"spread" : 3.5,
 		"gameTime" : "2024-11-29T22:30Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "PURD",
 		"homeTeam" : "MISS",
-		"favorite" : "MISS",
+		"favorite" : "PURD",
 		"spread" : 4.5,
 		"gameTime" : "2024-11-29T23:00Z",
 		"channel" : "FOX",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
