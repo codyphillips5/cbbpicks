@@ -82,7 +82,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2024-11-29T22:30Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 64,
+		"homeScore" : 69,
+		"cover" : "OKLA"
 	},
 	{
 		"gameId" : 8,
@@ -92,27 +94,29 @@
 		"spread" : 4.5,
 		"gameTime" : "2024-11-29T23:00Z",
 		"channel" : "FOX",
-		"active" : true
+		"awayScore" : 80,
+		"homeScore" : 78,
+		"cover" : "MISS"
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "SDSU",
 		"homeTeam" : "HOU",
 		"favorite" : "HOU",
-		"spread" : "-",
+		"spread" : 12.5,
 		"gameTime" : "2024-12-01T00:00Z",
 		"channel" : "TNT",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "ORE",
 		"homeTeam" : "ALA",
 		"favorite" : "ALA",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2024-12-01T02:30Z",
 		"channel" : "TNT",
-		"active" : false
+		"active" : true
 	}
   ]
 }
