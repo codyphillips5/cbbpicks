@@ -5,7 +5,7 @@
 		"awayTeam" : "MISS",
 		"homeTeam" : "LOU",
 		"favorite" : "LOU",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2024-12-04T02:00Z",
 		"channel" : "ACCN",
 		"active" : false
