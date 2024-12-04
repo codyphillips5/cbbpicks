@@ -8,7 +8,9 @@
 		"spread" : 3.5,
 		"gameTime" : "2024-12-04T02:00Z",
 		"channel" : "ACCN",
-		"active" : true
+		"awayScore" : 86,
+		"homeScore" : 63,
+		"cover" : "MISS"
 	},
 	{
 		"gameId" : 2,
