@@ -20,7 +20,7 @@
 		"spread" : 5.5,
 		"gameTime" : "2024-12-05T01:00Z",
 		"channel" : "ESPN+",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 3,
@@ -30,17 +30,17 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-12-05T02:15Z",
 		"channel" : "ESPN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 4,
 		"awayTeam" : "PITT",
 		"homeTeam" : "MSST",
 		"favorite" : "MSST",
-		"spread" : 4.5,
+		"spread" : 5.5,
 		"gameTime" : "2024-12-05T02:15Z",
 		"channel" : "SECN",
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 5,
