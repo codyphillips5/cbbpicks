@@ -15,7 +15,7 @@
 		"awayTeam" : "ALA",
 		"homeTeam" : "UNC",
 		"favorite" : "UNC",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2024-12-05T00:15Z",
 		"channel" : "ESPN",
 		"active" : false
@@ -25,7 +25,7 @@
 		"awayTeam" : "MARQ",
 		"homeTeam" : "ISU",
 		"favorite" : "ISU",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2024-12-05T01:00Z",
 		"channel" : "ESPN+",
 		"active" : false
@@ -35,7 +35,7 @@
 		"awayTeam" : "AUB",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2024-12-05T02:15Z",
 		"channel" : "ESPN",
 		"active" : false
@@ -45,7 +45,7 @@
 		"awayTeam" : "PITT",
 		"homeTeam" : "MSST",
 		"favorite" : "MSST",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2024-12-05T02:15Z",
 		"channel" : "SECN",
 		"active" : false
