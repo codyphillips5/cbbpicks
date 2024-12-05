@@ -20,7 +20,9 @@
 		"spread" : 5.5,
 		"gameTime" : "2024-12-05T01:00Z",
 		"channel" : "ESPN+",
-		"active" : true
+		"awayScore" : 70,
+		"homeScore" : 81,
+		"cover" : "ISU"
 	},
 	{
 		"gameId" : 3,
@@ -30,7 +32,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2024-12-05T02:15Z",
 		"channel" : "ESPN",
-		"active" : true
+		"awayScore" : 78,
+		"homeScore" : 84,
+		"cover" : "DUKE"
 	},
 	{
 		"gameId" : 4,
@@ -40,14 +44,16 @@
 		"spread" : 5.5,
 		"gameTime" : "2024-12-05T02:15Z",
 		"channel" : "SECN",
-		"active" : true
+		"awayScore" : 57,
+		"homeScore" : 90,
+		"cover" : "MSST"
 	},
 	{
 		"gameId" : 5,
 		"awayTeam" : "PURD",
 		"homeTeam" : "PSU",
 		"favorite" : "PSU",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2024-12-05T23:30Z",
 		"channel" : "FS1",
 		"active" : false
