@@ -64,8 +64,8 @@
 		"gameId" : 6,
 		"awayTeam" : "ILL",
 		"homeTeam" : "NW",
-		"favorite" : "NW",
-		"spread" : "-",
+		"favorite" : "ILL",
+		"spread" : 3.5,
 		"gameTime" : "2024-12-07T02:00Z",
 		"channel" : "B1G",
 		"active" : false
