@@ -118,7 +118,10 @@
 		"spread" : 5.5,
 		"gameTime" : "2024-12-08T03:00Z",
 		"channel" : "ESPN2",
-		"active" : true
+		"numberOfOT" : 1,
+		"awayScore" : 90,
+		"homeScore" : 89,
+		"cover" : "UK"
 	}
   ]
 }
