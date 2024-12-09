@@ -62,22 +62,22 @@
 	},
 	{
 		"gameId" : 7,
-		"awayTeam" : "UCIRV",
-		"homeTeam" : "OREST",
-		"favorite" : "OREST",
+		"awayTeam" : "UCLA",
+		"homeTeam" : "ZONA",
+		"favorite" : "ZONA",
 		"spread" : "-",
-		"gameTime" : "2024-12-14T22:00Z",
-		"channel": "ESPN+",
+		"gameTime" : "2024-12-14T20:00Z",
+		"channel": "ESPN2",
 		"active": false
 	},
 	{
 		"gameId" : 8,
-		"awayTeam" : "LOU",
-		"homeTeam" : "UK",
-		"favorite" : "UK",
+		"awayTeam" : "AZST",
+		"homeTeam" : "FLA",
+		"favorite" : "FLA",
 		"spread" : "-",
-		"gameTime" : "2024-12-14T22:15Z",
-		"channel": "ESPN",
+		"gameTime" : "2024-12-14T20:00Z",
+		"channel": "SECN",
 		"active": false
 	},
 	{
