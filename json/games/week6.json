@@ -15,7 +15,7 @@
 		"awayTeam" : "ARK",
 		"homeTeam" : "MICH",
 		"favorite" : "MICH",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2024-12-11T02:00Z",
 		"channel": "ESPN",
 		"active": false
