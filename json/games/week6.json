@@ -5,7 +5,7 @@
 		"awayTeam" : "PSU",
 		"homeTeam" : "RUTG",
 		"favorite" : "RUTG",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2024-12-11T00:00Z",
 		"channel": "Peacock",
 		"active": false
@@ -15,7 +15,7 @@
 		"awayTeam" : "ARK",
 		"homeTeam" : "MICH",
 		"favorite" : "MICH",
-		"spread" : 2.5,
+		"spread" : 4.5,
 		"gameTime" : "2024-12-11T02:00Z",
 		"channel": "ESPN",
 		"active": false
