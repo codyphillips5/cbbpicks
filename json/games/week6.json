@@ -9,7 +9,9 @@
 		"gameTime" : "2024-12-11T00:00Z",
 		"channel": "Peacock",
 		"foxId": 254625,
-		"active": true
+		"awayScore" : 76,
+		"homeScore" : 80,
+		"cover" : "RUTG"
 	},
 	{
 		"gameId" : 2,
