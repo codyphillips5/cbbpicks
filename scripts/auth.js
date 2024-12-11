@@ -91,7 +91,8 @@ if(createForm) {
 							element.classList.add("text-dark");
 							element.classList.add("bg-opacity-25");
 						}
-					}						
+					}
+					document.getElementById('seasongame1').value = 	docSnapshot.data().game1;		
 					document.getElementById("label-choice-seasongame1").innerHTML = `<label class="choice">${docSnapshot.data().game1} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 				}
 				if (docSnapshot.data().game2 !== undefined) { 
@@ -113,6 +114,7 @@ if(createForm) {
 							element.classList.add("bg-opacity-25");
 						}
 					}
+					document.getElementById('seasongame2').value = 	docSnapshot.data().game2;
 					document.getElementById("label-choice-seasongame2").innerHTML = `<label class="choice">${docSnapshot.data().game2} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 				}
 				if (docSnapshot.data().game3 !== undefined) { 
@@ -134,6 +136,7 @@ if(createForm) {
 							element.classList.add("bg-opacity-25");
 						}
 					}
+					document.getElementById('seasongame3').value = 	docSnapshot.data().game3;
 					document.getElementById("label-choice-seasongame3").innerHTML = `<label class="choice">${docSnapshot.data().game3} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 				}
 				if (docSnapshot.data().game4 !== undefined) { 
@@ -155,6 +158,7 @@ if(createForm) {
 							element.classList.add("bg-opacity-25");
 						}
 					}
+					document.getElementById('seasongame4').value = 	docSnapshot.data().game4;
 					document.getElementById("label-choice-seasongame4").innerHTML = `<label class="choice">${docSnapshot.data().game4} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 				}
 				if (docSnapshot.data().game5 !== undefined) { 
@@ -176,6 +180,7 @@ if(createForm) {
 							element.classList.add("bg-opacity-25");
 						}
 					}
+					document.getElementById('seasongame5').value = 	docSnapshot.data().game5;
 					document.getElementById("label-choice-seasongame5").innerHTML = `<label class="choice">${docSnapshot.data().game5} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 				}
 				if (docSnapshot.data().game6 !== undefined) { 
@@ -197,6 +202,7 @@ if(createForm) {
 							element.classList.add("bg-opacity-25");
 						}
 					}
+					document.getElementById('seasongame6').value = 	docSnapshot.data().game6;
 					document.getElementById("label-choice-seasongame6").innerHTML = `<label class="choice">${docSnapshot.data().game6} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 				}
 				if (docSnapshot.data().game7 !== undefined) { 
@@ -218,6 +224,7 @@ if(createForm) {
 							element.classList.add("bg-opacity-25");
 						}
 					}
+					document.getElementById('seasongame7').value = 	docSnapshot.data().game7;
 					document.getElementById("label-choice-seasongame7").innerHTML = `<label class="choice">${docSnapshot.data().game7} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 				}
 				if (docSnapshot.data().game8 !== undefined) { 
@@ -239,6 +246,7 @@ if(createForm) {
 							element.classList.add("bg-opacity-25");
 						}
 					}
+					document.getElementById('seasongame8').value = 	docSnapshot.data().game8;
 					document.getElementById("label-choice-seasongame8").innerHTML = `<label class="choice">${docSnapshot.data().game8} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 				}
 				if (docSnapshot.data().game9 !== undefined) {
@@ -260,6 +268,7 @@ if(createForm) {
 							element.classList.add("bg-opacity-25");
 						}
 					} 
+					document.getElementById('seasongame9').value = 	docSnapshot.data().game9;
 					document.getElementById("label-choice-seasongame9").innerHTML = `<label class="choice">${docSnapshot.data().game9} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 				}
 				if (docSnapshot.data().game10 !== undefined) { 
@@ -281,6 +290,7 @@ if(createForm) {
 							element.classList.add("bg-opacity-25");
 						}
 					}
+					document.getElementById('seasongame10').value = 	docSnapshot.data().game10;
 					document.getElementById("label-choice-seasongame10").innerHTML = `<label class="choice">${docSnapshot.data().game10} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
 				}
 			}
@@ -301,7 +311,26 @@ if(createForm) {
 			if (docSnapshot.exists) {
 				// the 1 set update
 				//1, 1
-				if (startArray == 1 && lengthArray == 1) {
+				week.update({
+						user: auth.currentUser.email,
+						game1: document.getElementById('seasongame1').value,
+						game2: document.getElementById('seasongame2').value,
+						game3: document.getElementById('seasongame3').value,
+						game4: document.getElementById('seasongame4').value,
+						game5: document.getElementById('seasongame5').value,
+						game6: document.getElementById('seasongame6').value,
+						game7: document.getElementById('seasongame7').value,
+						game8: document.getElementById('seasongame8').value,
+						game9: document.getElementById('seasongame9').value,
+						game10: document.getElementById('seasongame10').value
+				}).then(function() {
+					success();
+				}).catch(err => {
+					console.log("error: " + err.message);
+					createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-danger" role="alert">${err.message}</div>`;
+				});
+				
+				/*if (startArray == 1 && lengthArray == 1) {
 					week.update({	
 							user: auth.currentUser.email,
 							game1: document.getElementById('seasongame1').value
@@ -1971,7 +2000,7 @@ if(createForm) {
 						console.log("error: " + err.message);
 						createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-danger" role="alert">${err.message}</div>`;
 					});
-				}
+				}*/
 			}
 		});
     });

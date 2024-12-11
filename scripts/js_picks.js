@@ -66,6 +66,7 @@ $.when(requestX, requestY).then(function(){
 	for (var key in xFile) {
 		for (var i = 0; i < xFile[key].length; i++) {
 			var gameId = xFile[key][i].gameId;
+			var foxId = xFile[key][i].foxId;
 			// set home team values
 			var home = xFile[key][i].homeTeam;
 			for (var k in yFile) {
@@ -109,6 +110,7 @@ $.when(requestX, requestY).then(function(){
 			  spread = "PK";
 			}
 			if (active) {
+				var activeDate = new Date(xFile[key][i].gameTime);
 				arrayActive.push(gameId);
 				activeBg = "style='background-color: #e3f2fd;'";
 			}
@@ -148,7 +150,15 @@ $.when(requestX, requestY).then(function(){
 				var select = '';	
 			}
 			else {
-				var select = '<select class=\'teamlist form-select form-select-sm\' style=\'width:auto;\' id=\'game' + gameId + '\' onchange=\"assignPointsByTeam(' + gameId +');\"><option value = \"\"> -- Select Team -- </option><option value=\"' + awayTeamVal + '\">' + awayTeam + ' ' + awaySide + spread + '</option><option value=\"' + homeTeamVal + '\">' + homeTeam + ' ' + homeSide + spread + '</option></select>'; 	
+				if (active) {
+					console.log("active " + foxId);
+					if (date1.getTime() <= date.getTime()) {
+						var select = '<select class=\'teamlist form-select form-select-sm\' style=\'width:auto;\' id=\'game' + gameId + '\' onchange=\"assignPointsByTeam(' + gameId +');\"><option value = \"\"> -- Select Team -- </option><option value=\"' + awayTeamVal + '\">' + awayTeam + ' ' + awaySide + spread + '</option><option value=\"' + homeTeamVal + '\">' + homeTeam + ' ' + homeSide + spread + '</option></select>'; 	
+					}
+					else {
+						var select = `<div class="d-grid gap-2"><a href="#" onclick='window.open("https://www.foxsports.com/college-basketball/boxscore?id=${foxId}&tab=boxscore");return false;'><button type="button" class="btn btn-link pb-2 pt-2">Boxscore</button></a></div>`;
+					}
+				}
 			}
 			badge.innerHTML = '<form>' + header + gameInfo + select + fin + '</form></div>';
 			document.getElementById(key).appendChild(badge);
@@ -170,22 +180,23 @@ $.when(requestX, requestY).then(function(){
 			}
 		}
 		arrayActive.forEach(myFunction);
-		var date2 = new Date(xFile[key][first - 1].gameTime);
 		active = xFile[key][first - 1].active;
 	}
+	
+	console.log(activeDate);
   
 	// if current time is after start time of first game, lock
 	if (active !== undefined && !active) {
 		document.getElementById("saver").innerHTML = `<button type="submit" id="savePicks" disabled class='btn btn-primary'>Lines Not Locked</button>`;
 	}
 	else {
-		if (date1.getTime() > date2.getTime()) {
+		if (date1.getTime() > activeDate.getTime()) {
 			document.getElementById("saver").innerHTML = `<button type="submit" disabled id="savePicks" class='btn btn-primary'>Picks Locked</button>`;
 		}
 		else {
 			document.getElementById("saver").innerHTML = `<button type="submit" id="savePicks" class='btn btn-primary'>Save My Picks</button>`;
 		}
-	}/**/
+	}
 });
   
 var request;
@@ -225,9 +236,7 @@ function getTeamInfo(teamId) {
 	});	
 }
 
-function myFunction(arrayValues) {	
+function myFunction(arrayValues) {
 	const note = document.querySelector('#game-' + arrayValues);
 	note.style.backgroundColor = '#e3f2fd';
-	
-	document.getElementById("seasongame"+arrayValues).required = true;
 }
