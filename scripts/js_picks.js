@@ -159,6 +159,9 @@ $.when(requestX, requestY).then(function(){
 						var select = `<div class="d-grid gap-2"><a href="#" onclick='window.open("https://www.foxsports.com/college-basketball/boxscore?id=${foxId}&tab=boxscore");return false;'><button type="button" class="btn btn-link pb-2 pt-2">Boxscore</button></a></div>`;
 					}
 				}
+				else {
+					var select = '';
+				}
 			}
 			badge.innerHTML = '<form>' + header + gameInfo + select + fin + '</form></div>';
 			document.getElementById(key).appendChild(badge);
