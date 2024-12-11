@@ -22,7 +22,9 @@
 		"gameTime" : "2024-12-11T02:00Z",
 		"channel": "ESPN",
 		"foxId": 256037,
-		"active": true
+		"awayScore" : 89,
+		"homeScore" : 87,
+		"cover" : "ARK"
 	},
 	{
 		"gameId" : 3,
