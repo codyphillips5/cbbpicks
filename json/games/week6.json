@@ -35,7 +35,7 @@
 		"gameTime" : "2024-12-13T00:30Z",
 		"channel": "FS1",
 		"foxId": 254409,
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 4,
