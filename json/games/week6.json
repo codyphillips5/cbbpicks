@@ -35,7 +35,9 @@
 		"gameTime" : "2024-12-13T00:30Z",
 		"channel": "FS1",
 		"foxId": 254409,
-		"active": true
+		"awayScore" : 89,
+		"homeScore" : 80,
+		"cover" : "ISU"
 	},
 	{
 		"gameId" : 4,
