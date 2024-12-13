@@ -44,11 +44,11 @@
 		"awayTeam" : "IND",
 		"homeTeam" : "NEB",
 		"favorite" : "NEB",
-		"spread" : 3.5,
+		"spread" : 4.5,
 		"gameTime" : "2024-12-14T01:00Z",
 		"channel": "FOX",
 		"foxId": 252953,
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 5,
