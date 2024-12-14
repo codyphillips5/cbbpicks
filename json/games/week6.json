@@ -48,7 +48,9 @@
 		"gameTime" : "2024-12-14T01:00Z",
 		"channel": "FOX",
 		"foxId": 252953,
-		"active": true
+		"awayScore" : 68,
+		"homeScore" : 85,
+		"cover" : "NEB"
 	},
 	{
 		"gameId" : 5,
