@@ -200,6 +200,7 @@ $.when(requestX, requestY).then(function(){
 			document.getElementById("saver").innerHTML = `<button type="submit" id="savePicks" class='btn btn-primary'>Save My Picks</button>`;
 		}
 	}
+	console.log(document.getElementById('seasongame2').value);	
 });
   
 var request;
@@ -219,6 +220,7 @@ function assignPointsByTeam(id) {
 		document.getElementById("image" + id).innerHTML = `<img src="https://b.fssta.com/uploads/application/college/team-logos/${game.spread}.vresize.200.200.medium.2.png">`;
 	});
 	document.getElementById("seasongame" + id).value = game.team;
+	console.log(document.getElementById("seasongame" + id));
 }
 
 function setTeam(element) {

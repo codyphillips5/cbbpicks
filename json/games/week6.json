@@ -55,33 +55,33 @@
 		"awayTeam" : "XAV",
 		"homeTeam" : "CINCY",
 		"favorite" : "CINCY",
-		"spread" : 8.5,
+		"spread" : 7.5,
 		"gameTime" : "2024-12-14T19:00Z",
 		"channel": "ESPN+",
 		"foxId": 253896,
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 6,
 		"awayTeam" : "WIS",
 		"homeTeam" : "BUTLER",
 		"favorite" : "WIS",
-		"spread" : 3.5,
+		"spread" : 4.5,
 		"gameTime" : "2024-12-14T19:30Z",
 		"channel": "B1G",
 		"foxId": 255471,
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "UCLA",
 		"homeTeam" : "ZONA",
 		"favorite" : "ZONA",
-		"spread" : 1.5,
+		"spread" : 3.5,
 		"gameTime" : "2024-12-14T20:00Z",
 		"channel": "ESPN2",
 		"foxId": 254154,
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 8,
@@ -92,29 +92,29 @@
 		"gameTime" : "2024-12-14T20:00Z",
 		"channel": "SECN",
 		"foxId": 253178,
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "TENN",
 		"homeTeam" : "ILL",
 		"favorite" : "TENN",
-		"spread" : 3.5,
+		"spread" : 1.5,
 		"gameTime" : "2024-12-14T22:30Z",
 		"channel": "FOX",
 		"foxId": 254429,
-		"active": false
+		"active": true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "GONZ",
 		"homeTeam" : "UCONN",
 		"favorite" : "GONZ",
-		"spread" : 3.5,
+		"spread" : 2.5,
 		"gameTime" : "2024-12-15T01:00Z",
 		"channel": "FOX",
 		"foxId": 254331,
-		"active": false
+		"active": true
 	}
   ]
 }
