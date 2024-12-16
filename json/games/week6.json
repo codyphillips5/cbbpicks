@@ -34,10 +34,7 @@
 		"spread" : 6.5,
 		"gameTime" : "2024-12-13T00:30Z",
 		"channel": "FS1",
-		"foxId": 254409,
-		"awayScore" : 89,
-		"homeScore" : 80,
-		"cover" : "ISU"
+		"foxId": 254409cccccc
 	},
 	{
 		"gameId" : 4,
@@ -61,7 +58,9 @@
 		"gameTime" : "2024-12-14T19:00Z",
 		"channel": "ESPN+",
 		"foxId": 253896,
-		"active": true
+		"awayScore" : 65,
+		"homeScore" : 68,
+		"cover" : "XAV"
 	},
 	{
 		"gameId" : 6,
@@ -72,7 +71,9 @@
 		"gameTime" : "2024-12-14T19:30Z",
 		"channel": "B1G",
 		"foxId": 255471,
-		"active": true
+		"awayScore" : 83,
+		"homeScore" : 74,
+		"cover" : "WIS"
 	},
 	{
 		"gameId" : 7,
@@ -83,7 +84,9 @@
 		"gameTime" : "2024-12-14T20:00Z",
 		"channel": "ESPN2",
 		"foxId": 254154,
-		"active": true
+		"awayScore" : 57,
+		"homeScore" : 54,
+		"cover" : "UCLA"
 	},
 	{
 		"gameId" : 8,
@@ -94,7 +97,9 @@
 		"gameTime" : "2024-12-14T20:00Z",
 		"channel": "SECN",
 		"foxId": 253178,
-		"active": true
+		"awayScore" : 66,
+		"homeScore" : 83,
+		"cover" : "FLA"
 	},
 	{
 		"gameId" : 9,
@@ -105,7 +110,9 @@
 		"gameTime" : "2024-12-14T22:30Z",
 		"channel": "FOX",
 		"foxId": 254429,
-		"active": true
+		"awayScore" : 66,
+		"homeScore" : 64,
+		"cover" : "TENN"
 	},
 	{
 		"gameId" : 10,
@@ -116,7 +123,9 @@
 		"gameTime" : "2024-12-15T01:00Z",
 		"channel": "FOX",
 		"foxId": 254331,
-		"active": true
+		"awayScore" : 71,
+		"homeScore" : 77,
+		"cover" : "UCONN"
 	}
   ]
 }
