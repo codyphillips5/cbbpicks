@@ -181,16 +181,16 @@ function getResultsByWeek(x) {
 			}
 			else {
 				tableUser = tableUser + `<tr><th class="first-col bg-light bg-gradient align-middle">${allFirst[loop] + " " +allLast[loop]}</th>`;
-				userPickTeams.push(" ");
-				userPickTeams.push(" ");
-				userPickTeams.push(" ");
-				userPickTeams.push(" ");
-				userPickTeams.push(" ");
-				userPickTeams.push(" ");
-				userPickTeams.push(" ");
-				userPickTeams.push(" ");
-				userPickTeams.push(" ");
-				userPickTeams.push(" ");
+				userPickTeams.push("");
+				userPickTeams.push("");
+				userPickTeams.push("");
+				userPickTeams.push("");
+				userPickTeams.push("");
+				userPickTeams.push("");
+				userPickTeams.push("");
+				userPickTeams.push("");
+				userPickTeams.push("");
+				userPickTeams.push("");
 			}
 				// set starters
 				var points = 0;
