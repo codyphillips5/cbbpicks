@@ -9,7 +9,7 @@
 		"gameTime" : "2024-12-18T00:00Z",
 		"channel": "SECN",
 		"foxId": 252320,
-		"active" : true
+		"active" : false
 	},
 	{
 		"gameId" : 2,
@@ -20,7 +20,7 @@
 		"gameTime" : "2024-12-18T01:00Z",
 		"channel": "ESPN+",
 		"foxId": 254884,
-		"active" : true
+		"active" : false
 	},
 	{
 		"gameId" : 3,
