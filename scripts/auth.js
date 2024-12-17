@@ -378,6 +378,26 @@ if(createForm) {
 					createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-danger" role="alert">${err.message}</div>`;
 				});
 			}
+			else {
+				week.set({	
+						user: auth.currentUser.email,
+						game1: document.getElementById('seasongame1').value,
+						game2: document.getElementById('seasongame2').value,
+						game3: document.getElementById('seasongame3').value,
+						game4: document.getElementById('seasongame4').value,
+						game5: document.getElementById('seasongame5').value,
+						game6: document.getElementById('seasongame6').value,
+						game7: document.getElementById('seasongame7').value,
+						game8: document.getElementById('seasongame8').value,
+						game9: document.getElementById('seasongame9').value,
+						game10: document.getElementById('seasongame10').value
+				}).then(function() {
+					success();
+				}).catch(err => {
+					console.log("error: " + err.message);
+					createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-danger" role="alert">${err.message}</div>`;
+				});
+			}
 		});
     });
 }
