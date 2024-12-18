@@ -98,13 +98,13 @@
 	},
 	{
 		"gameId" : 9,
-		"awayTeam" : "OSU",
-		"homeTeam" : "UK",
-		"favorite" : "UK",
+		"awayTeam" : "NOVA",
+		"homeTeam" : "CREIGH",
+		"favorite" : "CREIGH",
 		"spread" : "-",
-		"gameTime" : "2024-12-21T22:30Z",
-		"channel": "CBS",
-		"foxId": 254711,
+		"gameTime" : "2024-12-21T21:00Z",
+		"channel": "FS1",
+		"foxId": 253380,
 		"active" : false
 	},
 	{
