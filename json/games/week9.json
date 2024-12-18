@@ -2,13 +2,13 @@
   "games": [
 	{
 		"gameId" : 1,
-		"awayTeam" : "",
-		"homeTeam" : "",
-		"favorite" : "",
+		"awayTeam" : "COL",
+		"homeTeam" : "RUTG",
+		"favorite" : "RUTG",
 		"spread" : "-",
-		"gameTime" : "2024-12-31T00:00Z",
-		"channel" : "",
-		"foxId" : 0,
+		"gameTime" : "2024-12-30T22:00Z",
+		"channel" : "B1G",
+		"foxId" : 254628,
 		"active" : false
 	},
 	{
