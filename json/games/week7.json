@@ -9,7 +9,11 @@
 		"gameTime" : "2024-12-18T00:00Z",
 		"channel": "SECN",
 		"foxId": 252320,
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 88,
+		"homeScore" : 91,
+		"cover" : "SC"
 	},
 	{
 		"gameId" : 2,
@@ -20,29 +24,33 @@
 		"gameTime" : "2024-12-18T01:00Z",
 		"channel": "ESPN+",
 		"foxId": 254884,
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 73,
+		"homeScore" : 70,
+		"cover" : "DRAKE"
 	},
 	{
 		"gameId" : 3,
 		"awayTeam" : "OKLA",
 		"homeTeam" : "MICH",
 		"favorite" : "MICH",
-		"spread" : 2.5,
+		"spread" : 3.5,
 		"gameTime" : "2024-12-19T02:00Z",
 		"channel": "ESPN2",
 		"foxId": 256662,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 4,
 		"awayTeam" : "VCU",
 		"homeTeam" : "UNM",
 		"favorite" : "UNM",
-		"spread" : 2.5,
+		"spread" : 3.5,
 		"gameTime" : "2024-12-19T02:00Z",
 		"channel": "MTN",
 		"foxId": 256255,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 5,
