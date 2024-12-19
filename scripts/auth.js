@@ -186,7 +186,7 @@ if(createForm) {
 					var gameElement = document.getElementById('game-4');
 					if (gameElement !== null) {
 						document.getElementById('seasongame4').value = 	docSnapshot.data().game4;		
-						document.getElementById("label-choice-seasongame4").innerHTML = `<label class="choice">${docSnapshot.data().game4} <span class="game4-icon"></span></label>`
+						document.getElementById("label-choice-seasongame4").innerHTML = `<label class="choice">${docSnapshot.data().game4} <span class="game4-icon">${icon}</span></label>`
 					}
 				}
 				if (docSnapshot.data().game5 !== undefined) { 
@@ -214,7 +214,7 @@ if(createForm) {
 					var gameElement = document.getElementById('game-5');
 					if (gameElement !== null) {
 						document.getElementById('seasongame5').value = 	docSnapshot.data().game5;		
-						document.getElementById("label-choice-seasongame5").innerHTML = `<label class="choice">${docSnapshot.data().game5} <span class="game5-icon"></span></label>`
+						document.getElementById("label-choice-seasongame5").innerHTML = `<label class="choice">${docSnapshot.data().game5} <span class="game5-icon">${icon}</span></label>`
 					}
 				}
 				if (docSnapshot.data().game6 !== undefined) { 
@@ -242,7 +242,7 @@ if(createForm) {
 					var gameElement = document.getElementById('game-6');
 					if (gameElement !== null) {
 						document.getElementById('seasongame6').value = 	docSnapshot.data().game6;		
-						document.getElementById("label-choice-seasongame6").innerHTML = `<label class="choice">${docSnapshot.data().game6} <span class="game6-icon"></span></label>`
+						document.getElementById("label-choice-seasongame6").innerHTML = `<label class="choice">${docSnapshot.data().game6} <span class="game6-icon">${icon}</span></label>`
 					}
 				}
 				if (docSnapshot.data().game7 !== undefined) { 
@@ -270,7 +270,7 @@ if(createForm) {
 					var gameElement = document.getElementById('game-7');
 					if (gameElement !== null) {
 						document.getElementById('seasongame7').value = 	docSnapshot.data().game7;		
-						document.getElementById("label-choice-seasongame7").innerHTML = `<label class="choice">${docSnapshot.data().game7} <span class="game7-icon"></span></label>`
+						document.getElementById("label-choice-seasongame7").innerHTML = `<label class="choice">${docSnapshot.data().game7} <span class="game7-icon">${icon}</span></label>`
 					}
 				}
 				if (docSnapshot.data().game8 !== undefined) { 
@@ -298,7 +298,7 @@ if(createForm) {
 					var gameElement = document.getElementById('game-8');
 					if (gameElement !== null) {
 						document.getElementById('seasongame8').value = 	docSnapshot.data().game8;		
-						document.getElementById("label-choice-seasongame8").innerHTML = `<label class="choice">${docSnapshot.data().game8} <span class="game8-icon"></span></label>`
+						document.getElementById("label-choice-seasongame8").innerHTML = `<label class="choice">${docSnapshot.data().game8} <span class="game8-icon">${icon}</span></label>`
 					}
 				}
 				if (docSnapshot.data().game9 !== undefined) {
@@ -326,7 +326,7 @@ if(createForm) {
 					var gameElement = document.getElementById('game-9');
 					if (gameElement !== null) {
 						document.getElementById('seasongame9').value = 	docSnapshot.data().game9;		
-						document.getElementById("label-choice-seasongame9").innerHTML = `<label class="choice">${docSnapshot.data().game9} <span class="game9-icon"></span></label>`
+						document.getElementById("label-choice-seasongame9").innerHTML = `<label class="choice">${docSnapshot.data().game9} <span class="game9-icon">${icon}</span></label>`
 					}
 				}
 				if (docSnapshot.data().game10 !== undefined) { 
@@ -354,7 +354,7 @@ if(createForm) {
 					var gameElement = document.getElementById('game-10');
 					if (gameElement !== null) {
 						document.getElementById('seasongame10').value = docSnapshot.data().game10;		
-						document.getElementById("label-choice-seasongame10").innerHTML = `<label class="choice">${docSnapshot.data().game10} <span class="game10-icon"></span></label>`
+						document.getElementById("label-choice-seasongame10").innerHTML = `<label class="choice">${docSnapshot.data().game10} <span class="game10-icon">${icon}</span></label>`
 					}
 				}
 			}
