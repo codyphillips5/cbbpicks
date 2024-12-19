@@ -39,7 +39,9 @@
 		"gameTime" : "2024-12-19T02:00Z",
 		"channel": "ESPN2",
 		"foxId": 256662,
-		"active" : true
+		"awayScore" : 87,
+		"homeScore" : 86,
+		"cover" : "OKLA"
 	},
 	{
 		"gameId" : 4,
@@ -50,7 +52,9 @@
 		"gameTime" : "2024-12-19T02:00Z",
 		"channel": "MTN",
 		"foxId": 256255,
-		"active" : true
+		"awayScore" : 71,
+		"homeScore" : 78,
+		"cover" : "UNM"
 	},
 	{
 		"gameId" : 5,

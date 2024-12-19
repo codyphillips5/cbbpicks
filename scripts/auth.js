@@ -23,6 +23,7 @@ var sa = 0;
 var lengthArray = 0;
 var la = 0;
 var saLa = [];
+var icon = "";
 var coversTeam = [];
 var weekNum = 7;
 var empty = false;
@@ -64,6 +65,7 @@ if(createForm) {
 			if (docSnapshot.data()) {
 				if (docSnapshot.data().game1 !== undefined) { 
 					if (coversTeam.length >= 1) {
+					icon = "";
 						if (docSnapshot.data().game1 == coversTeam[0]) { 
 							var element = document.getElementById('game-1');
 							if (element !== null) {
@@ -73,6 +75,7 @@ if(createForm) {
 								element.classList.add("text-dark");
 								element.classList.add("bg-opacity-25");
 							}
+							icon = "✅";
 						}
 						else {
 							var element = document.getElementById('game-1');
@@ -83,16 +86,18 @@ if(createForm) {
 								element.classList.add("text-dark");
 								element.classList.add("bg-opacity-25");
 							}
+							icon = "❌";
 						}
 					}
 					var gameElement = document.getElementById('game-1');
 					if (gameElement !== null) {
 						document.getElementById('seasongame1').value = docSnapshot.data().game1;		
-						document.getElementById("label-choice-seasongame1").innerHTML = `<label class="choice">${docSnapshot.data().game1} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+						document.getElementById("label-choice-seasongame1").innerHTML = `<label class="choice">${docSnapshot.data().game1} <span class="game1-icon">${icon}</span></label>`
 					}
 				}
 				if (docSnapshot.data().game2 !== undefined) { 
 					if (coversTeam.length >= 2) {
+					icon = "";
 						if (docSnapshot.data().game2 == coversTeam[1]) { 
 							var element = document.getElementById('game-2');
 							if (element !== null) {
@@ -102,6 +107,7 @@ if(createForm) {
 								element.classList.add("text-dark");
 								element.classList.add("bg-opacity-25");
 							}
+							icon = "✅";
 						}
 						else {
 							var element = document.getElementById('game-2');
@@ -112,6 +118,7 @@ if(createForm) {
 								element.classList.add("text-dark");
 								element.classList.add("bg-opacity-25");
 							}
+							icon = "❌";
 						}
 					}
 					var gameElement = document.getElementById('game-2');
@@ -119,10 +126,11 @@ if(createForm) {
 						console.log(document.getElementById('seasongame2').value);		
 						document.getElementById('seasongame2').value = docSnapshot.data().game2;
 						console.log(document.getElementById('seasongame2').value);		
-						document.getElementById("label-choice-seasongame2").innerHTML = `<label class="choice">${docSnapshot.data().game2} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+						document.getElementById("label-choice-seasongame2").innerHTML = `<label class="choice">${docSnapshot.data().game2} <span class="game2-icon"></span>${icon}</label>`
 					}
 				}
 				if (docSnapshot.data().game3 !== undefined) { 
+					icon = "";
 					if (coversTeam.length >= 3) {
 						if (docSnapshot.data().game3 == coversTeam[2]) { 
 							var element = document.getElementById('game-3');
@@ -133,6 +141,7 @@ if(createForm) {
 								element.classList.add("text-dark");
 								element.classList.add("bg-opacity-25");
 							}
+							icon = "✅";
 						}
 						else {
 							var element = document.getElementById('game-3');
@@ -143,15 +152,17 @@ if(createForm) {
 								element.classList.add("text-dark");
 								element.classList.add("bg-opacity-25");
 							}
+							icon = "❌";
 						}
 					}
 					var gameElement = document.getElementById('game-3');
 					if (gameElement !== null) {
 						document.getElementById('seasongame3').value = 	docSnapshot.data().game3;		
-						document.getElementById("label-choice-seasongame3").innerHTML = `<label class="choice">${docSnapshot.data().game3} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+						document.getElementById("label-choice-seasongame3").innerHTML = `<label class="choice">${docSnapshot.data().game3} <span class="game3-icon">${icon}</span></label>`
 					}
 				}
 				if (docSnapshot.data().game4 !== undefined) { 
+					icon = "";
 					if (coversTeam.length >= 4) {
 						if (docSnapshot.data().game4 == coversTeam[3]) { 
 							var element = document.getElementById('game-4');
@@ -160,6 +171,7 @@ if(createForm) {
 							element.classList.add("p-2");
 							element.classList.add("text-dark");
 							element.classList.add("bg-opacity-25");
+							icon = "✅";
 						}
 						else {
 							var element = document.getElementById('game-4');
@@ -168,16 +180,18 @@ if(createForm) {
 							element.classList.add("p-2");
 							element.classList.add("text-dark");
 							element.classList.add("bg-opacity-25");
+							icon = "❌";
 						}
 					}
 					var gameElement = document.getElementById('game-4');
 					if (gameElement !== null) {
 						document.getElementById('seasongame4').value = 	docSnapshot.data().game4;		
-						document.getElementById("label-choice-seasongame4").innerHTML = `<label class="choice">${docSnapshot.data().game4} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+						document.getElementById("label-choice-seasongame4").innerHTML = `<label class="choice">${docSnapshot.data().game4} <span class="game4-icon"></span></label>`
 					}
 				}
 				if (docSnapshot.data().game5 !== undefined) { 
 					if (coversTeam.length >= 5) {
+					icon = "";
 						if (docSnapshot.data().game5 == coversTeam[4]) { 
 							var element = document.getElementById('game-5');
 							element.classList.remove("bg-light");
@@ -185,6 +199,7 @@ if(createForm) {
 							element.classList.add("p-2");
 							element.classList.add("text-dark");
 							element.classList.add("bg-opacity-25");
+							icon = "✅";
 						}
 						else {
 							var element = document.getElementById('game-5');
@@ -193,16 +208,18 @@ if(createForm) {
 							element.classList.add("p-2");
 							element.classList.add("text-dark");
 							element.classList.add("bg-opacity-25");
+							icon = "❌";
 						}
 					}
 					var gameElement = document.getElementById('game-5');
 					if (gameElement !== null) {
 						document.getElementById('seasongame5').value = 	docSnapshot.data().game5;		
-						document.getElementById("label-choice-seasongame5").innerHTML = `<label class="choice">${docSnapshot.data().game5} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+						document.getElementById("label-choice-seasongame5").innerHTML = `<label class="choice">${docSnapshot.data().game5} <span class="game5-icon"></span></label>`
 					}
 				}
 				if (docSnapshot.data().game6 !== undefined) { 
 					if (coversTeam.length >= 6) {
+					icon = "";
 						if (docSnapshot.data().game6 == coversTeam[5]) { 
 							var element = document.getElementById('game-6');
 							element.classList.remove("bg-light");
@@ -210,6 +227,7 @@ if(createForm) {
 							element.classList.add("p-2");
 							element.classList.add("text-dark");
 							element.classList.add("bg-opacity-25");
+							icon = "✅";
 						}
 						else {
 							var element = document.getElementById('game-6');
@@ -218,16 +236,18 @@ if(createForm) {
 							element.classList.add("p-2");
 							element.classList.add("text-dark");
 							element.classList.add("bg-opacity-25");
+							icon = "❌";
 						}
 					}
 					var gameElement = document.getElementById('game-6');
 					if (gameElement !== null) {
 						document.getElementById('seasongame6').value = 	docSnapshot.data().game6;		
-						document.getElementById("label-choice-seasongame6").innerHTML = `<label class="choice">${docSnapshot.data().game6} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+						document.getElementById("label-choice-seasongame6").innerHTML = `<label class="choice">${docSnapshot.data().game6} <span class="game6-icon"></span></label>`
 					}
 				}
 				if (docSnapshot.data().game7 !== undefined) { 
 					if (coversTeam.length >= 7) {
+					icon = "";
 						if (docSnapshot.data().game7 == coversTeam[6]) { 
 							var element = document.getElementById('game-7');
 							element.classList.remove("bg-light");
@@ -235,6 +255,7 @@ if(createForm) {
 							element.classList.add("p-2");
 							element.classList.add("text-dark");
 							element.classList.add("bg-opacity-25");
+							icon = "✅";
 						}
 						else {
 							var element = document.getElementById('game-7');
@@ -243,16 +264,18 @@ if(createForm) {
 							element.classList.add("p-2");
 							element.classList.add("text-dark");
 							element.classList.add("bg-opacity-25");
+							icon = "❌";
 						}
 					}
 					var gameElement = document.getElementById('game-7');
 					if (gameElement !== null) {
 						document.getElementById('seasongame7').value = 	docSnapshot.data().game7;		
-						document.getElementById("label-choice-seasongame7").innerHTML = `<label class="choice">${docSnapshot.data().game7} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+						document.getElementById("label-choice-seasongame7").innerHTML = `<label class="choice">${docSnapshot.data().game7} <span class="game7-icon"></span></label>`
 					}
 				}
 				if (docSnapshot.data().game8 !== undefined) { 
 					if (coversTeam.length >= 8) {
+					icon = "";
 						if (docSnapshot.data().game8 == coversTeam[7]) { 
 							var element = document.getElementById('game-8');
 							element.classList.remove("bg-light");
@@ -260,6 +283,7 @@ if(createForm) {
 							element.classList.add("p-2");
 							element.classList.add("text-dark");
 							element.classList.add("bg-opacity-25");
+							icon = "✅";
 						}
 						else {
 							var element = document.getElementById('game-8');
@@ -268,16 +292,18 @@ if(createForm) {
 							element.classList.add("p-2");
 							element.classList.add("text-dark");
 							element.classList.add("bg-opacity-25");
+							icon = "❌";
 						}
 					}
 					var gameElement = document.getElementById('game-8');
 					if (gameElement !== null) {
 						document.getElementById('seasongame8').value = 	docSnapshot.data().game8;		
-						document.getElementById("label-choice-seasongame8").innerHTML = `<label class="choice">${docSnapshot.data().game8} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+						document.getElementById("label-choice-seasongame8").innerHTML = `<label class="choice">${docSnapshot.data().game8} <span class="game8-icon"></span></label>`
 					}
 				}
 				if (docSnapshot.data().game9 !== undefined) {
 					if (coversTeam.length >= 9) {
+					icon = "";
 						if (docSnapshot.data().game9 == coversTeam[8]) { 
 							var element = document.getElementById('game-9');
 							element.classList.remove("bg-light");
@@ -285,6 +311,7 @@ if(createForm) {
 							element.classList.add("p-2");
 							element.classList.add("text-dark");
 							element.classList.add("bg-opacity-25");
+							icon = "✅";
 						}
 						else {
 							var element = document.getElementById('game-9');
@@ -293,16 +320,18 @@ if(createForm) {
 							element.classList.add("p-2");
 							element.classList.add("text-dark");
 							element.classList.add("bg-opacity-25");
+							icon = "❌";
 						}
 					} 
 					var gameElement = document.getElementById('game-9');
 					if (gameElement !== null) {
 						document.getElementById('seasongame9').value = 	docSnapshot.data().game9;		
-						document.getElementById("label-choice-seasongame9").innerHTML = `<label class="choice">${docSnapshot.data().game9} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+						document.getElementById("label-choice-seasongame9").innerHTML = `<label class="choice">${docSnapshot.data().game9} <span class="game9-icon"></span></label>`
 					}
 				}
 				if (docSnapshot.data().game10 !== undefined) { 
 					if (coversTeam.length >= 10) {
+					icon = "";
 						if (docSnapshot.data().game10 == coversTeam[9]) { 
 							var element = document.getElementById('game-10');
 							element.classList.remove("bg-light");
@@ -310,6 +339,7 @@ if(createForm) {
 							element.classList.add("p-2");
 							element.classList.add("text-dark");
 							element.classList.add("bg-opacity-25");
+							icon = "✅";
 						}
 						else {
 							var element = document.getElementById('game-10');
@@ -318,12 +348,13 @@ if(createForm) {
 							element.classList.add("p-2");
 							element.classList.add("text-dark");
 							element.classList.add("bg-opacity-25");
+							icon = "❌";
 						}
 					}
 					var gameElement = document.getElementById('game-10');
 					if (gameElement !== null) {
 						document.getElementById('seasongame10').value = docSnapshot.data().game10;		
-						document.getElementById("label-choice-seasongame10").innerHTML = `<label class="choice">${docSnapshot.data().game10} <span class="glyphicon glyphicon-plusglyphicon glyphicon-check"></span></label>`
+						document.getElementById("label-choice-seasongame10").innerHTML = `<label class="choice">${docSnapshot.data().game10} <span class="game10-icon"></span></label>`
 					}
 				}
 			}
