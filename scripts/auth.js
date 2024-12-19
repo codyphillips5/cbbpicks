@@ -166,20 +166,24 @@ if(createForm) {
 					if (coversTeam.length >= 4) {
 						if (docSnapshot.data().game4 == coversTeam[3]) { 
 							var element = document.getElementById('game-4');
-							element.classList.remove("bg-light");
-							element.classList.add("bg-success");  
-							element.classList.add("p-2");
-							element.classList.add("text-dark");
-							element.classList.add("bg-opacity-25");
+							if (element !== null) {
+								element.classList.remove("bg-light");
+								element.classList.add("bg-success");  
+								element.classList.add("p-2");
+								element.classList.add("text-dark");
+								element.classList.add("bg-opacity-25");
+							}
 							icon = "✅";
 						}
 						else {
 							var element = document.getElementById('game-4');
-							element.classList.remove("bg-light");
-							element.classList.add("bg-danger");
-							element.classList.add("p-2");
-							element.classList.add("text-dark");
-							element.classList.add("bg-opacity-25");
+							if (element !== null) {
+								element.classList.remove("bg-light");
+								element.classList.add("bg-danger");
+								element.classList.add("p-2");
+								element.classList.add("text-dark");
+								element.classList.add("bg-opacity-25");
+							}
 							icon = "❌";
 						}
 					}
@@ -193,21 +197,25 @@ if(createForm) {
 					if (coversTeam.length >= 5) {
 					icon = "";
 						if (docSnapshot.data().game5 == coversTeam[4]) { 
-							var element = document.getElementById('game-5');
-							element.classList.remove("bg-light");
-							element.classList.add("bg-success");  
-							element.classList.add("p-2");
-							element.classList.add("text-dark");
-							element.classList.add("bg-opacity-25");
+							var element = document.getElementById('game-5');							
+							if (element !== null) {
+								element.classList.remove("bg-light");
+								element.classList.add("bg-success");  
+								element.classList.add("p-2");
+								element.classList.add("text-dark");
+								element.classList.add("bg-opacity-25");
+							}
 							icon = "✅";
 						}
-						else {
+						else {							
 							var element = document.getElementById('game-5');
-							element.classList.remove("bg-light");
-							element.classList.add("bg-danger");
-							element.classList.add("p-2");
-							element.classList.add("text-dark");
-							element.classList.add("bg-opacity-25");
+							if (element !== null) {
+								element.classList.remove("bg-light");
+								element.classList.add("bg-danger");
+								element.classList.add("p-2");
+								element.classList.add("text-dark");
+								element.classList.add("bg-opacity-25");
+							}
 							icon = "❌";
 						}
 					}
@@ -222,20 +230,24 @@ if(createForm) {
 					icon = "";
 						if (docSnapshot.data().game6 == coversTeam[5]) { 
 							var element = document.getElementById('game-6');
-							element.classList.remove("bg-light");
-							element.classList.add("bg-success");  
-							element.classList.add("p-2");
-							element.classList.add("text-dark");
-							element.classList.add("bg-opacity-25");
+							if (element !== null) {
+								element.classList.remove("bg-light");
+								element.classList.add("bg-success");  
+								element.classList.add("p-2");
+								element.classList.add("text-dark");
+								element.classList.add("bg-opacity-25");
+							}
 							icon = "✅";
 						}
 						else {
 							var element = document.getElementById('game-6');
-							element.classList.remove("bg-light");
-							element.classList.add("bg-danger");
-							element.classList.add("p-2");
-							element.classList.add("text-dark");
-							element.classList.add("bg-opacity-25");
+							if (element !== null) {
+								element.classList.remove("bg-light");
+								element.classList.add("bg-danger");
+								element.classList.add("p-2");
+								element.classList.add("text-dark");
+								element.classList.add("bg-opacity-25");
+							}
 							icon = "❌";
 						}
 					}
@@ -250,20 +262,24 @@ if(createForm) {
 					icon = "";
 						if (docSnapshot.data().game7 == coversTeam[6]) { 
 							var element = document.getElementById('game-7');
-							element.classList.remove("bg-light");
-							element.classList.add("bg-success");  
-							element.classList.add("p-2");
-							element.classList.add("text-dark");
-							element.classList.add("bg-opacity-25");
+							if (element !== null) {
+								element.classList.remove("bg-light");
+								element.classList.add("bg-success");  
+								element.classList.add("p-2");
+								element.classList.add("text-dark");
+								element.classList.add("bg-opacity-25");
+							}
 							icon = "✅";
 						}
 						else {
 							var element = document.getElementById('game-7');
-							element.classList.remove("bg-light");
-							element.classList.add("bg-danger");
-							element.classList.add("p-2");
-							element.classList.add("text-dark");
-							element.classList.add("bg-opacity-25");
+							if (element !== null) {
+								element.classList.remove("bg-light");
+								element.classList.add("bg-danger");
+								element.classList.add("p-2");
+								element.classList.add("text-dark");
+								element.classList.add("bg-opacity-25");
+							}
 							icon = "❌";
 						}
 					}
@@ -278,20 +294,24 @@ if(createForm) {
 					icon = "";
 						if (docSnapshot.data().game8 == coversTeam[7]) { 
 							var element = document.getElementById('game-8');
-							element.classList.remove("bg-light");
-							element.classList.add("bg-success");  
-							element.classList.add("p-2");
-							element.classList.add("text-dark");
-							element.classList.add("bg-opacity-25");
+							if (element !== null) {
+								element.classList.remove("bg-light");
+								element.classList.add("bg-success");  
+								element.classList.add("p-2");
+								element.classList.add("text-dark");
+								element.classList.add("bg-opacity-25");
+							}
 							icon = "✅";
 						}
 						else {
 							var element = document.getElementById('game-8');
-							element.classList.remove("bg-light");
-							element.classList.add("bg-danger");
-							element.classList.add("p-2");
-							element.classList.add("text-dark");
-							element.classList.add("bg-opacity-25");
+							if (element !== null) {
+								element.classList.remove("bg-light");
+								element.classList.add("bg-danger");
+								element.classList.add("p-2");
+								element.classList.add("text-dark");
+								element.classList.add("bg-opacity-25");
+							}
 							icon = "❌";
 						}
 					}
@@ -306,20 +326,24 @@ if(createForm) {
 					icon = "";
 						if (docSnapshot.data().game9 == coversTeam[8]) { 
 							var element = document.getElementById('game-9');
-							element.classList.remove("bg-light");
-							element.classList.add("bg-success");  
-							element.classList.add("p-2");
-							element.classList.add("text-dark");
-							element.classList.add("bg-opacity-25");
+							if (element !== null) {
+								element.classList.remove("bg-light");
+								element.classList.add("bg-success");  
+								element.classList.add("p-2");
+								element.classList.add("text-dark");
+								element.classList.add("bg-opacity-25");
+							}
 							icon = "✅";
 						}
 						else {
 							var element = document.getElementById('game-9');
-							element.classList.remove("bg-light");
-							element.classList.add("bg-danger");
-							element.classList.add("p-2");
-							element.classList.add("text-dark");
-							element.classList.add("bg-opacity-25");
+							if (element !== null) {
+								element.classList.remove("bg-light");
+								element.classList.add("bg-danger");
+								element.classList.add("p-2");
+								element.classList.add("text-dark");
+								element.classList.add("bg-opacity-25");
+							}
 							icon = "❌";
 						}
 					} 
@@ -334,20 +358,24 @@ if(createForm) {
 					icon = "";
 						if (docSnapshot.data().game10 == coversTeam[9]) { 
 							var element = document.getElementById('game-10');
-							element.classList.remove("bg-light");
-							element.classList.add("bg-success");  
-							element.classList.add("p-2");
-							element.classList.add("text-dark");
-							element.classList.add("bg-opacity-25");
+							if (element !== null) {
+								element.classList.remove("bg-light");
+								element.classList.add("bg-success");  
+								element.classList.add("p-2");
+								element.classList.add("text-dark");
+								element.classList.add("bg-opacity-25");
+							}
 							icon = "✅";
 						}
 						else {
 							var element = document.getElementById('game-10');
-							element.classList.remove("bg-light");
-							element.classList.add("bg-danger");
-							element.classList.add("p-2");
-							element.classList.add("text-dark");
-							element.classList.add("bg-opacity-25");
+							if (element !== null) {
+								element.classList.remove("bg-light");
+								element.classList.add("bg-danger");
+								element.classList.add("p-2");
+								element.classList.add("text-dark");
+								element.classList.add("bg-opacity-25");
+							}
 							icon = "❌";
 						}
 					}
