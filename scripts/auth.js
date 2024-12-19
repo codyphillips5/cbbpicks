@@ -64,8 +64,8 @@ if(createForm) {
 		.then((docSnapshot) => {
 			if (docSnapshot.data()) {
 				if (docSnapshot.data().game1 !== undefined) { 
-					if (coversTeam.length >= 1) {
 					icon = "";
+					if (coversTeam.length >= 1) {
 						if (docSnapshot.data().game1 == coversTeam[0]) { 
 							var element = document.getElementById('game-1');
 							if (element !== null) {
@@ -96,8 +96,8 @@ if(createForm) {
 					}
 				}
 				if (docSnapshot.data().game2 !== undefined) { 
-					if (coversTeam.length >= 2) {
 					icon = "";
+					if (coversTeam.length >= 2) {
 						if (docSnapshot.data().game2 == coversTeam[1]) { 
 							var element = document.getElementById('game-2');
 							if (element !== null) {
@@ -194,8 +194,8 @@ if(createForm) {
 					}
 				}
 				if (docSnapshot.data().game5 !== undefined) { 
-					if (coversTeam.length >= 5) {
 					icon = "";
+					if (coversTeam.length >= 5) {
 						if (docSnapshot.data().game5 == coversTeam[4]) { 
 							var element = document.getElementById('game-5');							
 							if (element !== null) {
@@ -226,8 +226,8 @@ if(createForm) {
 					}
 				}
 				if (docSnapshot.data().game6 !== undefined) { 
-					if (coversTeam.length >= 6) {
 					icon = "";
+					if (coversTeam.length >= 6) {
 						if (docSnapshot.data().game6 == coversTeam[5]) { 
 							var element = document.getElementById('game-6');
 							if (element !== null) {
@@ -258,8 +258,8 @@ if(createForm) {
 					}
 				}
 				if (docSnapshot.data().game7 !== undefined) { 
-					if (coversTeam.length >= 7) {
 					icon = "";
+					if (coversTeam.length >= 7) {
 						if (docSnapshot.data().game7 == coversTeam[6]) { 
 							var element = document.getElementById('game-7');
 							if (element !== null) {
@@ -289,9 +289,9 @@ if(createForm) {
 						document.getElementById("label-choice-seasongame7").innerHTML = `<label class="choice">${docSnapshot.data().game7} <span class="game7-icon">${icon}</span></label>`
 					}
 				}
-				if (docSnapshot.data().game8 !== undefined) { 
+				if (docSnapshot.data().game8 !== undefined) {
+					icon = ""; 
 					if (coversTeam.length >= 8) {
-					icon = "";
 						if (docSnapshot.data().game8 == coversTeam[7]) { 
 							var element = document.getElementById('game-8');
 							if (element !== null) {
@@ -322,8 +322,8 @@ if(createForm) {
 					}
 				}
 				if (docSnapshot.data().game9 !== undefined) {
-					if (coversTeam.length >= 9) {
 					icon = "";
+					if (coversTeam.length >= 9) {
 						if (docSnapshot.data().game9 == coversTeam[8]) { 
 							var element = document.getElementById('game-9');
 							if (element !== null) {
@@ -354,8 +354,8 @@ if(createForm) {
 					}
 				}
 				if (docSnapshot.data().game10 !== undefined) { 
-					if (coversTeam.length >= 10) {
 					icon = "";
+					if (coversTeam.length >= 10) {
 						if (docSnapshot.data().game10 == coversTeam[9]) { 
 							var element = document.getElementById('game-10');
 							if (element !== null) {
