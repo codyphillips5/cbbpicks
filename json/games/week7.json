@@ -61,7 +61,7 @@
 		"awayTeam" : "DAY",
 		"homeTeam" : "CINCY",
 		"favorite" : "CINCY",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2024-12-21T01:30Z",
 		"channel": "ESPNU",
 		"foxId": 253897,
