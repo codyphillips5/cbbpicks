@@ -48,9 +48,9 @@ for (var y = weekNum; y >= 1; y--) {
 var select = `
  <a class="btn btn-secondary dropdown-toggle" href="#" id="desktop_buttons" role="button" data-bs-toggle="dropdown" aria-expanded="false">Previous</a>
 <ul class="dropdown-menu" aria-labelledby="desktop_buttons">${weekList}</ul>
- <span id="go"></span>
- <a class="btn btn-secondary dropdown-toggle" href="#" id="mobile_buttons" role="button" data-bs-toggle="dropdown" aria-expanded="false">Previous</a>
-<ul class="dropdown-menu" aria-labelledby="mobile_buttons">${weekList}</ul>`
+<a class="btn btn-secondary dropdown-toggle" href="#" id="mobile_buttons" role="button" data-bs-toggle="dropdown" aria-expanded="false">Previous</a>
+<ul class="dropdown-menu" aria-labelledby="mobile_buttons">${weekList}</ul>
+<span id="go"></span>`
 
 badge.innerHTML = '<form>' + select + '</form>';		
 document.getElementById("weeks").appendChild(badge);
