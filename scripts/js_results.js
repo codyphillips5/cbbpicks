@@ -42,7 +42,7 @@ var badge = document.createElement('div');
 badge.className = 'results';
 
 for (var y = weekNum; y >= 1; y--) {
-	weekList = weekList + `<li class=""><a class="dropdown-item" href="#" onclick='return getResultsByWeek(${y})' id =""></span>Week ${y}</a></li>`;
+	weekList = weekList + `<li class=""><a class="dropdown-item" href="#" onclick='return getResultsByWeek(${y})' id="dd-week-${y}"></span>Week ${y}</a></li>`;
 }
 
 var select = `
@@ -77,8 +77,13 @@ function getResultsByWeek(x) {
 		document.getElementById("week-title").innerHTML = `<h2>Week ${x} Results</h2>`;
 	}
 	
-	
+	for (var y = weekNum; y >= 1; y--) {
+		const ddweek = document.getElementById("dd-week-"+y);
+		ddweek.classList.remove("active");
+	}
 	document.getElementById("go").innerHTML = `<a class="btn btn-primary" href="#" id="go-btn" role="button" onclick='getResultsByWeek(${x});return false;' aria-expanded="false">Go</a>`;
+	const ddweek = document.getElementById("dd-week-"+x);
+	ddweek.classList.add("active");
 	
 	var requestX = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week" + x + ".json", function(json){
 		xFile = json;
