@@ -20,6 +20,7 @@ var userPickTeams = [];
 var coversArr = [""];
 var weekNum = 7;
 var weekList = "";
+var weeklyList = "";
 var isCorrect;
 var isMe;
 var date1 = new Date();
@@ -41,18 +42,23 @@ var badge = document.createElement('div');
 badge.className = 'results';
 
 for (var y = weekNum; y >= 1; y--) {
-	weekList = weekList + `<option value ='${y}'> Week ${y} </option>`;
+	weekList = weekList + `<li class=""><a class="dropdown-item" href="#" onclick='return getResultsByWeek(${y})' id =""></span>Week ${y}</a></li>`;
 }
 
-var select = `<select class='form-control form-select' id='results_by_week' onchange="getResultsByWeek(this.value);">${weekList}</select>`;
+var select = `
+ <a class="btn btn-secondary dropdown-toggle" href="#" id="desktop_buttons" role="button" data-bs-toggle="dropdown" aria-expanded="false">Previous</a>
+<ul class="dropdown-menu" aria-labelledby="desktop_buttons">${weekList}</ul>
+ <span id="go"></span>
+ <a class="btn btn-secondary dropdown-toggle" href="#" id="mobile_buttons" role="button" data-bs-toggle="dropdown" aria-expanded="false">Previous</a>
+<ul class="dropdown-menu" aria-labelledby="mobile_buttons">${weekList}</ul>`
 
 badge.innerHTML = '<form>' + select + '</form>';		
 document.getElementById("weeks").appendChild(badge);
 
-getResultsByWeek(weekNum)
+getResultsByWeek(weekNum);
 
 function getResultsByWeek(x) {
-	clearAll();
+	//clearAll();
 	var tableStart = "";
 	var tableUser = "";
 	var tableEnd = "";
@@ -70,6 +76,9 @@ function getResultsByWeek(x) {
 	else {
 		document.getElementById("week-title").innerHTML = `<h2>Week ${x} Results</h2>`;
 	}
+	
+	
+	document.getElementById("go").innerHTML = `<a class="btn btn-primary" href="#" id="go-btn" role="button" onclick='getResultsByWeek(${x});return false;' aria-expanded="false">Go</a>`;
 	
 	var requestX = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week" + x + ".json", function(json){
 		xFile = json;
@@ -181,6 +190,7 @@ function getResultsByWeek(x) {
 			}
 			else {
 				tableUser = tableUser + `<tr><th class="first-col bg-light bg-gradient align-middle">${allFirst[loop] + " " +allLast[loop]}</th>`;
+				//getResultsByWeek(x);
 				userPickTeams.push("");
 				userPickTeams.push("");
 				userPickTeams.push("");
@@ -280,7 +290,7 @@ function getResultsByWeek(x) {
 		var tableEnd = `</tbody></table></div>`;	
 		document.getElementById("standings").innerHTML = tableStart + tableUser + tableEnd;
 		sortTable(11);
-		clearAll();
+		clearAll(x);
 	});
 }
 
@@ -342,9 +352,10 @@ function sortTable(n) {
   }
 }
 
-function clearAll() {
+function clearAll(x) {
 	firtName = "";
 	lastName = "";
+	//getResultsByWeek(x);
 	console.log(allEntries.length);
 	for (var pop = 0; pop < userCount; pop++) {
 		allGameOne.pop();
