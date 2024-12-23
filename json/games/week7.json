@@ -78,7 +78,9 @@
 		"gameTime" : "2024-12-21T17:30Z",
 		"channel": "CBS",
 		"foxId": 253095,
-		"active" : true
+		"awayScore" : 79,
+		"homeScore" : 66,
+		"cover" : "MSST"
 	},
 	{
 		"gameId" : 7,
@@ -89,7 +91,9 @@
 		"gameTime" : "2024-12-21T20:00Z",
 		"channel": "CBS",
 		"foxId": 255959,
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 76,
+		"cover" : "UNC"
 	},
 	{
 		"gameId" : 8,
@@ -100,7 +104,9 @@
 		"gameTime" : "2024-12-21T21:00Z",
 		"channel": "B1G",
 		"foxId": 254447,
-		"active" : true
+		"awayScore" : 64,
+		"homeScore" : 84,
+		"cover" : "NW"
 	},
 	{
 		"gameId" : 9,
@@ -111,7 +117,9 @@
 		"gameTime" : "2024-12-21T21:00Z",
 		"channel": "FS1",
 		"foxId": 253380,
-		"active" : true
+		"awayScore" : 79,
+		"homeScore" : 86,
+		"cover" : "CREIGH"
 	},
 	{
 		"gameId" : 10,
@@ -122,7 +130,9 @@
 		"gameTime" : "2024-12-22T01:00Z",
 		"channel": "B1G",
 		"foxId": 253688,
-		"active" : true
+		"awayScore" : 76,
+		"homeScore" : 61,
+		"cover" : "ORE"
 	}
   ]
 }
