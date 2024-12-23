@@ -2,10 +2,10 @@
   "games": [
 	{
 		"gameId" : 1,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
-		"spread" : "-",
+		"awayTeam" : "COFCH",
+		"homeTeam" : "LOYCHI",
+		"favorite" : "LOYCHI",
+		"spread" : 4.5,
 		"gameTime" : "2024-12-24T01:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 0,
@@ -13,9 +13,9 @@
 	},
 	{
 		"gameId" : 2,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "NEB",
+		"homeTeam" : "HAW",
+		"favorite" : "HAW",
 		"spread" : "-",
 		"gameTime" : "2024-12-24T03:30Z",
 		"channel" : "ESPN2",
