@@ -9,7 +9,9 @@
 		"gameTime" : "2024-12-23T22:30Z",
 		"channel" : "ESPNU",
 		"foxId" : 257655,
-		"active" : true
+		"awayScore" : 77,
+		"homeScore" : 68,
+		"cover" : "COFCH"
 	},
 	{
 		"gameId" : 2,
@@ -20,16 +22,18 @@
 		"gameTime" : "2024-12-24T03:30Z",
 		"channel" : "ESPN2",
 		"foxId" : 257657,
-		"active" : true
+		"awayScore" : 69,
+		"homeScore" : 55,
+		"cover" : "NEB"
 	},
 	{
 		"gameId" : 3,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "OREST",
+		"homeTeam" : "NEB",
+		"favorite" : "NEB",
 		"spread" : "-",
-		"gameTime" : "2024-12-26T01:30Z",
-		"channel" : "ESPN",
+		"gameTime" : "2024-12-26T02:00Z",
+		"channel" : "ESPN2",
 		"foxId" : 0,
 		"active" : false
 	},
