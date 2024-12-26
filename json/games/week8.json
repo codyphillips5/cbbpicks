@@ -35,7 +35,9 @@
 		"gameTime" : "2024-12-26T02:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 257662,
-		"active" : false
+		"awayScore" : 66,
+		"homeScore" : 78,
+		"cover" : "NEB"
 	},
 	{
 		"gameId" : 4,
