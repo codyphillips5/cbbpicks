@@ -52,6 +52,17 @@
 	},
 	{
 		"gameId" : 5,
+		"awayTeam" : "UNM",
+		"homeTeam" : "CSU",
+		"favorite" : "UNM",
+		"spread" : 1.5,
+		"gameTime" : "2024-12-29T19:00Z",
+		"channel" : "MTN",
+		"foxId" : 254193,
+		"active" : false
+	},
+	{
+		"gameId" : 6,
 		"awayTeam" : "UCLA",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
@@ -62,29 +73,29 @@
 		"active" : false
 	},
 	{
-		"gameId" : 6,
+		"gameId" : 7,
 		"awayTeam" : "NEV",
 		"homeTeam" : "WYO",
-		"favorite" : "WYO",
-		"spread" : "-",
+		"favorite" : "NEV",
+		"spread" : 6.5,
 		"gameTime" : "2024-12-28T21:00Z",
 		"channel" : "MTN",
 		"foxId" : 253718,
 		"active" : false
 	},
 	{
-		"gameId" : 7,
+		"gameId" : 8,
 		"awayTeam" : "USU",
 		"homeTeam" : "SDSU",
 		"favorite" : "SDSU",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2024-12-28T23:00Z",
 		"channel" : "FOX",
 		"foxId" : 253735,
 		"active" : false
 	},
 	{
-		"gameId" : 8,
+		"gameId" : 9,
 		"awayTeam" : "BEL",
 		"homeTeam" : "DRAKE",
 		"favorite" : "DRAKE",
@@ -92,17 +103,6 @@
 		"gameTime" : "2024-12-29T19:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 254497,
-		"active" : false
-	},
-	{
-		"gameId" : 9,
-		"awayTeam" : "LONGW",
-		"homeTeam" : "SMU",
-		"favorite" : "SMU",
-		"spread" : "-",
-		"gameTime" : "2024-12-29T19:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 254480,
 		"active" : false
 	},
 	{
