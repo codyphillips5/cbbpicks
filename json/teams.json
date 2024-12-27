@@ -2470,6 +2470,13 @@
 		"teamMascot" : "Broncos",
 		"teamValue" : "SANCL",
 		"teamImage" : "SantaClara"
+    },
+	{
+		"teamId" : 353,
+		"team" : "UC San Diego",
+		"teamMascot" : "Tritons",
+		"teamValue" : "UCSD",
+		"teamImage" : "UCSanDiego"
     }
   ]
 }

@@ -101,12 +101,12 @@
 	},
 	{
 		"gameId" : 10,
-		"awayTeam" : "",
-		"homeTeam" : "",
-		"favorite" : "",
+		"awayTeam" : "UCIRV",
+		"homeTeam" : "UCSD",
+		"favorite" : "UCSD",
 		"spread" : "-",
-		"gameTime" : "2025-01-07T00:00Z",
-		"channel" : "",
+		"gameTime" : "2025-01-12T03:00Z",
+		"channel" : "ESPNU",
 		"foxId" : 0,
 		"active" : false
 	}
