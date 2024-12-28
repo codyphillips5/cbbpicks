@@ -44,22 +44,22 @@
 		"awayTeam" : "MISS",
 		"homeTeam" : "MEM",
 		"favorite" : "MEM",
-		"spread" : 1.5,
+		"spread" : 0,
 		"gameTime" : "2024-12-28T19:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 253096,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 5,
 		"awayTeam" : "UNM",
 		"homeTeam" : "CSU",
-		"favorite" : "UNM",
+		"favorite" : "CSU",
 		"spread" : 1.5,
 		"gameTime" : "2024-12-28T20:00Z",
 		"channel" : "MTN",
 		"foxId" : 254193,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 6,
@@ -70,7 +70,7 @@
 		"gameTime" : "2024-12-28T21:00Z",
 		"channel" : "FOX",
 		"foxId" : 253494,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
@@ -81,7 +81,7 @@
 		"gameTime" : "2024-12-28T21:00Z",
 		"channel" : "MTN",
 		"foxId" : 253718,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
@@ -92,7 +92,7 @@
 		"gameTime" : "2024-12-28T23:00Z",
 		"channel" : "FOX",
 		"foxId" : 253735,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
