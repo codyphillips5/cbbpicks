@@ -48,7 +48,9 @@
 		"gameTime" : "2024-12-28T19:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 253096,
-		"active" : true
+		"awayScore" : 70,
+		"homeScore" : 87,
+		"cover" : "MEM"
 	},
 	{
 		"gameId" : 5,
@@ -59,7 +61,9 @@
 		"gameTime" : "2024-12-28T20:00Z",
 		"channel" : "MTN",
 		"foxId" : 254193,
-		"active" : true
+		"awayScore" : 76,
+		"homeScore" : 68,
+		"cover" : "UNM"
 	},
 	{
 		"gameId" : 6,
@@ -70,7 +74,9 @@
 		"gameTime" : "2024-12-28T21:00Z",
 		"channel" : "FOX",
 		"foxId" : 253494,
-		"active" : true
+		"awayScore" : 65,
+		"homeScore" : 62,
+		"cover" : "UCLA"
 	},
 	{
 		"gameId" : 7,
@@ -81,7 +87,9 @@
 		"gameTime" : "2024-12-28T21:00Z",
 		"channel" : "MTN",
 		"foxId" : 253718,
-		"active" : true
+		"awayScore" : 63,
+		"homeScore" : 66,
+		"cover" : "WYO"
 	},
 	{
 		"gameId" : 8,
@@ -92,29 +100,31 @@
 		"gameTime" : "2024-12-28T23:00Z",
 		"channel" : "FOX",
 		"foxId" : 253735,
-		"active" : true
+		"awayScore" : 67,
+		"homeScore" : 66,
+		"cover" : "USU"
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "BEL",
 		"homeTeam" : "DRAKE",
 		"favorite" : "DRAKE",
-		"spread" : "-",
+		"spread" : 8.5,
 		"gameTime" : "2024-12-29T19:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 254497,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "NORFST",
 		"homeTeam" : "HPU",
 		"favorite" : "HPU",
-		"spread" : "-",
+		"spread" : 9.5,
 		"gameTime" : "2024-12-29T19:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 257108,
-		"active" : false
+		"active" : true
 	}
   ]
 }
