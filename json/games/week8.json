@@ -113,7 +113,9 @@
 		"gameTime" : "2024-12-29T19:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 254497,
-		"active" : true
+		"awayScore" : 46,
+		"homeScore" : 65,
+		"cover" : "DRAKE"
 	},
 	{
 		"gameId" : 10,
@@ -124,7 +126,9 @@
 		"gameTime" : "2024-12-29T19:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 257108,
-		"active" : true
+		"awayScore" : 77,
+		"homeScore" : 74,
+		"cover" : "NORFST"
 	}
   ]
 }
