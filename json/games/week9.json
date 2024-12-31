@@ -9,7 +9,9 @@
 		"gameTime" : "2024-12-31T19:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 253960,
-		"active" : true
+		"awayScore" : 75,
+		"homeScore" : 77,
+		"cover" : "STBON"
 	},
 	{
 		"gameId" : 2,
