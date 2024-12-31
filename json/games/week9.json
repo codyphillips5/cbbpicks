@@ -2,24 +2,24 @@
   "games": [
 	{
 		"gameId" : 1,
-		"awayTeam" : "WVU",
-		"homeTeam" : "KU",
-		"favorite" : "KU",
-		"spread" : "-",
+		"awayTeam" : "VCU",
+		"homeTeam" : "STBON",
+		"favorite" : "VCU",
+		"spread" : 2.5,
 		"gameTime" : "2024-12-31T19:00Z",
 		"channel" : "ESPN+",
-		"foxId" : 256075,
+		"foxId" : 253960,
 		"active" : false
 	},
 	{
 		"gameId" : 2,
-		"awayTeam" : "VCU",
-		"homeTeam" : "STBON",
-		"favorite" : "STBON",
-		"spread" : "-",
-		"gameTime" : "2024-12-31T19:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 253960,
+		"awayTeam" : "SJU",
+		"homeTeam" : "CREIGH",
+		"favorite" : "SJU",
+		"spread" : 1.5,
+		"gameTime" : "2024-12-31T21:00Z",
+		"channel" : "Peacock",
+		"foxId" : 253381,
 		"active" : false
 	},
 	{
