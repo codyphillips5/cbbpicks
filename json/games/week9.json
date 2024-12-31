@@ -9,7 +9,7 @@
 		"gameTime" : "2024-12-31T19:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 253960,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 2,
@@ -20,7 +20,7 @@
 		"gameTime" : "2024-12-31T21:00Z",
 		"channel" : "Peacock",
 		"foxId" : 253381,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 3,
