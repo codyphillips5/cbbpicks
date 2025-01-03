@@ -46,13 +46,13 @@
 	},
 	{
 		"gameId" : 5,
-		"awayTeam" : "",
-		"homeTeam" : "",
-		"favorite" : "",
+		"awayTeam" : "ARST",
+		"homeTeam" : "USA",
+		"favorite" : "USA",
 		"spread" : "-",
-		"gameTime" : "2025-01-07T00:00Z",
-		"channel" : "",
-		"foxId" : 0,
+		"gameTime" : "2025-01-10T01:00Z",
+		"channel" : "ESPN+",
+		"foxId" : 255809,
 		"active" : false
 	},
 	{
