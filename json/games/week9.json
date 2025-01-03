@@ -55,7 +55,7 @@
 		"awayTeam" : "FLA",
 		"homeTeam" : "UK",
 		"favorite" : "UK",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2025-01-04T16:00Z",
 		"channel" : "ESPN",
 		"foxId" : 254713,
