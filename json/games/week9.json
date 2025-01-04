@@ -61,7 +61,9 @@
 		"gameTime" : "2025-01-04T16:00Z",
 		"channel" : "ESPN",
 		"foxId" : 254713,
-		"active" : true
+		"awayScore" : 100,
+		"homeScore" : 106,
+		"cover" : "UK"
 	},
 	{
 		"gameId" : 6,
@@ -72,7 +74,9 @@
 		"gameTime" : "2025-01-04T17:00Z",
 		"channel" : "SECN",
 		"foxId" : 255357,
-		"active" : true
+		"awayScore" : 51,
+		"homeScore" : 63,
+		"cover" : "MISS"
 	},
 	{
 		"gameId" : 7,
@@ -83,7 +87,9 @@
 		"gameTime" : "2025-01-04T19:00Z",
 		"channel" : "CBS",
 		"foxId" : 253114,
-		"active" : true
+		"awayScore" : 55,
+		"homeScore" : 74,
+		"cover" : "ISU"
 	},
 	{
 		"gameId" : 8,
@@ -94,7 +100,9 @@
 		"gameTime" : "2025-01-04T19:15Z",
 		"channel" : "CW",
 		"foxId" : 254481,
-		"active" : true
+		"awayScore" : 89,
+		"homeScore" : 62,
+		"cover" : "DUKE"
 	},
 	{
 		"gameId" : 9,
@@ -105,7 +113,9 @@
 		"gameTime" : "2025-01-04T19:30Z",
 		"channel" : "ESPN2",
 		"foxId" : 253899,
-		"active" : true
+		"awayScore" : 72,
+		"homeScore" : 67,
+		"cover" : "ZONA"
 	},
 	{
 		"gameId" : 10,
