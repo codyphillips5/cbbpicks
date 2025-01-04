@@ -48,7 +48,9 @@
 		"gameTime" : "2025-01-04T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 255762,
-		"active" : true
+		"awayScore" : 69,
+		"homeScore" : 62,
+		"cover" : "MSU"
 	},
 	{
 		"gameId" : 5,
@@ -59,7 +61,7 @@
 		"gameTime" : "2025-01-04T16:00Z",
 		"channel" : "ESPN",
 		"foxId" : 254713,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 6,
@@ -70,7 +72,7 @@
 		"gameTime" : "2025-01-04T17:00Z",
 		"channel" : "SECN",
 		"foxId" : 255357,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
@@ -81,7 +83,7 @@
 		"gameTime" : "2025-01-04T19:00Z",
 		"channel" : "CBS",
 		"foxId" : 253114,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
@@ -92,29 +94,29 @@
 		"gameTime" : "2025-01-04T19:15Z",
 		"channel" : "CW",
 		"foxId" : 254481,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "ZONA",
 		"homeTeam" : "CINCY",
 		"favorite" : "CINCY",
-		"spread" : 3.5,
+		"spread" : 2.5,
 		"gameTime" : "2025-01-04T19:30Z",
 		"channel" : "ESPN2",
 		"foxId" : 253899,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "OKLA",
 		"homeTeam" : "ALA",
 		"favorite" : "ALA",
-		"spread" : 10.5,
+		"spread" : 12.5,
 		"gameTime" : "2025-01-04T23:00Z",
 		"channel" : "SECN",
 		"foxId" : 253000,
-		"active" : false
+		"active" : true
 	}
   ]
 }
