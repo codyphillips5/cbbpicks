@@ -126,7 +126,9 @@
 		"gameTime" : "2025-01-04T23:00Z",
 		"channel" : "SECN",
 		"foxId" : 253000,
-		"active" : true
+		"awayScore" : 79,
+		"homeScore" : 107,
+		"cover" : "ALA"
 	}
   ]
 }
