@@ -5,7 +5,7 @@
 		"awayTeam" : "TENN",
 		"homeTeam" : "FLA",
 		"favorite" : "FLA",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2025-01-08T00:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 254595,
@@ -13,13 +13,13 @@
 	},
 	{
 		"gameId" : 2,
-		"awayTeam" : "AUB",
-		"homeTeam" : "TEX",
-		"favorite" : "TEX",
+		"awayTeam" : "ZONA",
+		"homeTeam" : "WVU",
+		"favorite" : "WVU",
 		"spread" : "-",
-		"gameTime" : "2025-01-08T02:00Z",
-		"channel" : "ESPN2",
-		"foxId" : 257202,
+		"gameTime" : "2025-01-08T00:00Z",
+		"channel" : "ESPN+",
+		"foxId" : 255074,
 		"active" : false
 	},
 	{
@@ -35,13 +35,13 @@
 	},
 	{
 		"gameId" : 4,
-		"awayTeam" : "COLO",
-		"homeTeam" : "UCF",
-		"favorite" : "UCF",
+		"awayTeam" : "TXAM",
+		"homeTeam" : "OKLA",
+		"favorite" : "OKLA",
 		"spread" : "-",
-		"gameTime" : "2025-01-09T00:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 251917,
+		"gameTime" : "2025-01-09T02:00Z",
+		"channel" : "SECN",
+		"foxId" : 256665,
 		"active" : false
 	},
 	{
@@ -84,7 +84,7 @@
 		"favorite" : "TEX",
 		"spread" : "-",
 		"gameTime" : "2025-01-11T23:00Z",
-		"channel" : "ESPN / ESPN2",
+		"channel" : "ESPN",
 		"foxId" : 257203,
 		"active" : false
 	},
