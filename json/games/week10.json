@@ -5,7 +5,7 @@
 		"awayTeam" : "TENN",
 		"homeTeam" : "FLA",
 		"favorite" : "FLA",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2025-01-08T00:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 254595,
