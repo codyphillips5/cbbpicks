@@ -30,23 +30,23 @@
 		"gameId" : 3,
 		"awayTeam" : "UCONN",
 		"homeTeam" : "NOVA",
-		"favorite" : "UCONN",
+		"favorite" : "NOVA",
 		"spread" : 1.5,
 		"gameTime" : "2025-01-08T23:30Z",
 		"channel" : "FS1",
 		"foxId" : 252227,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 4,
 		"awayTeam" : "TXAM",
 		"homeTeam" : "OKLA",
 		"favorite" : "OKLA",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2025-01-09T02:00Z",
 		"channel" : "SECN",
 		"foxId" : 256665,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 5,
