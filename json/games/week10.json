@@ -35,7 +35,9 @@
 		"gameTime" : "2025-01-08T23:30Z",
 		"channel" : "FS1",
 		"foxId" : 252227,
-		"active" : true
+		"awayScore" : 66,
+		"homeScore" : 68,
+		"cover" : "NOVA"
 	},
 	{
 		"gameId" : 4,
