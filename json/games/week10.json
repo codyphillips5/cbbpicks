@@ -61,7 +61,7 @@
 		"gameTime" : "2025-01-10T01:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 255809,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 6,
