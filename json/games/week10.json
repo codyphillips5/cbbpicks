@@ -53,7 +53,7 @@
 		"awayTeam" : "ARST",
 		"homeTeam" : "USA",
 		"favorite" : "USA",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2025-01-10T01:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 255809,
