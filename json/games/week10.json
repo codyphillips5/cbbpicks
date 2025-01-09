@@ -48,7 +48,9 @@
 		"gameTime" : "2025-01-09T02:00Z",
 		"channel" : "SECN",
 		"foxId" : 256665,
-		"active" : true
+		"awayScore" : 80,
+		"homeScore" : 78,
+		"cover" : "TXAM"
 	},
 	{
 		"gameId" : 5,
