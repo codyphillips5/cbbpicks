@@ -35,13 +35,13 @@
 	},
 	{
 		"gameId" : 4,
-		"awayTeam" : "",
-		"homeTeam" : "",
-		"favorite" : "",
+		"awayTeam" : "LIPS",
+		"homeTeam" : "NOALA",
+		"favorite" : "NOALA",
 		"spread" : "-",
-		"gameTime" : "2025-01-21T00:00Z",
-		"channel" : "",
-		"foxId" : 0,
+		"gameTime" : "2025-01-24T00:00Z",
+		"channel" : "ESPN+",
+		"foxId" : 255627,
 		"active" : false
 	},
 	{
