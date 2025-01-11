@@ -114,7 +114,7 @@
 		"awayTeam" : "UCIRV",
 		"homeTeam" : "UCSD",
 		"favorite" : "UCSD",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2025-01-12T03:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 257126,
