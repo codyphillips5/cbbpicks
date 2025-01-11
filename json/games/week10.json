@@ -74,7 +74,9 @@
 		"gameTime" : "2025-01-11T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 252713,
-		"active" : true
+		"awayScore" : 61,
+		"homeScore" : 79,
+		"cover" : "MARY"
 	},
 	{
 		"gameId" : 7,
@@ -85,40 +87,40 @@
 		"gameTime" : "2025-01-11T19:00Z",
 		"channel" : "ESPN",
 		"foxId" : 252777,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "TENN",
 		"homeTeam" : "TEX",
 		"favorite" : "TENN",
-		"spread" : 6.5,
+		"spread" : 5.5,
 		"gameTime" : "2025-01-11T23:00Z",
 		"channel" : "ESPN",
 		"foxId" : 257203,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "UK",
 		"homeTeam" : "MSST",
 		"favorite" : "MSST",
-		"spread" : 4.5,
+		"spread" : 5.5,
 		"gameTime" : "2025-01-12T01:30Z",
 		"channel" : "SECN",
 		"foxId" : 254801,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "UCIRV",
 		"homeTeam" : "UCSD",
 		"favorite" : "UCSD",
-		"spread" : 4.5,
+		"spread" : 5.5,
 		"gameTime" : "2025-01-12T03:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 257126,
-		"active" : false
+		"active" : true
 	}
   ]
 }
