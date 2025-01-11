@@ -87,7 +87,11 @@
 		"gameTime" : "2025-01-11T19:00Z",
 		"channel" : "ESPN",
 		"foxId" : 252777,
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 85,
+		"homeScore" : 84,
+		"cover" : "ISU"
 	},
 	{
 		"gameId" : 8,
