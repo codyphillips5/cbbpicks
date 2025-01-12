@@ -102,7 +102,9 @@
 		"gameTime" : "2025-01-11T23:00Z",
 		"channel" : "ESPN",
 		"foxId" : 257203,
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 70,
+		"cover" : "TEX"
 	},
 	{
 		"gameId" : 9,
@@ -113,7 +115,9 @@
 		"gameTime" : "2025-01-12T01:30Z",
 		"channel" : "SECN",
 		"foxId" : 254801,
-		"active" : true
+		"awayScore" : 95,
+		"homeScore" : 90,
+		"cover" : "UK"
 	},
 	{
 		"gameId" : 10,
