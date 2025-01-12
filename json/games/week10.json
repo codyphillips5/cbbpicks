@@ -128,7 +128,9 @@
 		"gameTime" : "2025-01-12T03:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 257126,
-		"active" : true
+		"awayScore" : 60,
+		"homeScore" : 52,
+		"cover" : "UCIRV"
 	}
   ]
 }
