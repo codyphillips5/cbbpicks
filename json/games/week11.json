@@ -5,7 +5,7 @@
 		"awayTeam" : "UCF",
 		"homeTeam" : "AZST",
 		"favorite" : "AZST",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2025-01-15T04:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 253181,
