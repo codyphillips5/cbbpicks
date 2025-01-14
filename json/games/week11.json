@@ -9,7 +9,7 @@
 		"gameTime" : "2025-01-15T04:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 253181,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 2,
