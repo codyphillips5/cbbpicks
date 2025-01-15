@@ -9,14 +9,16 @@
 		"gameTime" : "2025-01-15T04:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 253181,
-		"active" : true
+		"awayScore" : 95,
+		"homeScore" : 89,
+		"cover" : "UCF"
 	},
 	{
 		"gameId" : 2,
 		"awayTeam" : "KU",
 		"homeTeam" : "ISU",
 		"favorite" : "ISU",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2025-01-16T00:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 253116,
@@ -27,7 +29,7 @@
 		"awayTeam" : "PSU",
 		"homeTeam" : "MSU",
 		"favorite" : "MSU",
-		"spread" : "-",
+		"spread" : 11.5,
 		"gameTime" : "2025-01-16T00:30Z",
 		"channel" : "B1G",
 		"foxId" : 255841,
@@ -35,17 +37,6 @@
 	},
 	{
 		"gameId" : 4,
-		"awayTeam" : "WVU",
-		"homeTeam" : "HOU",
-		"favorite" : "HOU",
-		"spread" : "-",
-		"gameTime" : "2025-01-16T01:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 256886,
-		"active" : false
-	},
-	{
-		"gameId" : 5,
 		"awayTeam" : "IND",
 		"homeTeam" : "OSU",
 		"favorite" : "OSU",
@@ -56,7 +47,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 6,
+		"gameId" : 5,
 		"awayTeam" : "ALA",
 		"homeTeam" : "UK",
 		"favorite" : "UK",
@@ -67,7 +58,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 7,
+		"gameId" : 6,
 		"awayTeam" : "CLEM",
 		"homeTeam" : "PITT",
 		"favorite" : "PITT",
@@ -78,7 +69,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 8,
+		"gameId" : 7,
 		"awayTeam" : "AUB",
 		"homeTeam" : "UGA",
 		"favorite" : "UGA",
@@ -89,7 +80,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 9,
+		"gameId" : 8,
 		"awayTeam" : "PURD",
 		"homeTeam" : "ORE",
 		"favorite" : "ORE",
@@ -100,7 +91,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 10,
+		"gameId" : 9,
 		"awayTeam" : "ARK",
 		"homeTeam" : "MIZ",
 		"favorite" : "MIZ",
@@ -108,6 +99,17 @@
 		"gameTime" : "2025-01-18T23:00Z",
 		"channel" : "SECN",
 		"foxId" : 253032,
+		"active" : false
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "LSU",
+		"homeTeam" : "TXAM",
+		"favorite" : "TXAM",
+		"spread" : "-",
+		"gameTime" : "2025-01-19T01:30Z",
+		"channel" : "SECN",
+		"foxId" : 254214,
 		"active" : false
 	}
   ]
