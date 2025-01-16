@@ -41,6 +41,17 @@
 	},
 	{
 		"gameId" : 4,
+		"awayTeam" : "GONZ",
+		"homeTeam" : "OREST",
+		"favorite" : "GONZ",
+		"spread" : 9.5,
+		"gameTime" : "2025-01-18T04:00Z",
+		"channel" : "CBSSN",
+		"foxId" : 253032,
+		"active" : false
+	},
+	{
+		"gameId" : 5,
 		"awayTeam" : "IND",
 		"homeTeam" : "OSU",
 		"favorite" : "OSU",
@@ -51,7 +62,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 5,
+		"gameId" : 6,
 		"awayTeam" : "ALA",
 		"homeTeam" : "UK",
 		"favorite" : "UK",
@@ -62,7 +73,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 6,
+		"gameId" : 7,
 		"awayTeam" : "CLEM",
 		"homeTeam" : "PITT",
 		"favorite" : "PITT",
@@ -73,7 +84,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 7,
+		"gameId" : 8,
 		"awayTeam" : "PURD",
 		"homeTeam" : "ORE",
 		"favorite" : "ORE",
@@ -81,17 +92,6 @@
 		"gameTime" : "2025-01-18T20:00Z",
 		"channel" : "NBC",
 		"foxId" : 253884,
-		"active" : false
-	},
-	{
-		"gameId" : 8,
-		"awayTeam" : "ARK",
-		"homeTeam" : "MIZ",
-		"favorite" : "MIZ",
-		"spread" : "-",
-		"gameTime" : "2025-01-18T23:00Z",
-		"channel" : "SECN",
-		"foxId" : 253032,
 		"active" : false
 	},
 	{
