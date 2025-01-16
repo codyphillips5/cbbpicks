@@ -22,7 +22,9 @@
 		"gameTime" : "2025-01-16T00:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 253116,
-		"active" : true
+		"awayScore" : 57,
+		"homeScore" : 74,
+		"cover" : "ISU"
 	},
 	{
 		"gameId" : 3,
@@ -33,7 +35,9 @@
 		"gameTime" : "2025-01-16T00:30Z",
 		"channel" : "B1G",
 		"foxId" : 255841,
-		"active" : true
+		"awayScore" : 85,
+		"homeScore" : 90,
+		"cover" : "PSU"
 	},
 	{
 		"gameId" : 4,
