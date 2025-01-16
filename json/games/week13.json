@@ -90,24 +90,24 @@
 	},
 	{
 		"gameId" : 9,
-		"awayTeam" : "",
-		"homeTeam" : "",
-		"favorite" : "",
+		"awayTeam" : "UTVAL",
+		"homeTeam" : "GCU",
+		"favorite" : "GCU",
 		"spread" : "-",
-		"gameTime" : "2025-02-01T00:00Z",
-		"channel" : "",
+		"gameTime" : "2025-02-01T01:00Z",
+		"channel" : "ESPN+",
 		"foxId" : 0,
 		"active" : false
 	},
 	{
 		"gameId" : 10,
-		"awayTeam" : "",
-		"homeTeam" : "",
-		"favorite" : "",
+		"awayTeam" : "GONZ",
+		"homeTeam" : "STMARY",
+		"favorite" : "STMARY",
 		"spread" : "-",
-		"gameTime" : "2025-02-01T00:00Z",
-		"channel" : "",
-		"foxId" : 0,
+		"gameTime" : "2025-02-01T04:00Z",
+		"channel" : "ESPN",
+		"foxId" : 254234,
 		"active" : false
 	}
   ]
