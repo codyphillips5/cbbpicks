@@ -48,7 +48,7 @@
 		"gameTime" : "2025-01-18T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 255764,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 5,
