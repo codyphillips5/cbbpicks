@@ -85,6 +85,17 @@
 	},
 	{
 		"gameId" : 8,
+		"awayTeam" : "AUB",
+		"homeTeam" : "UGA",
+		"favorite" : "AUB",
+		"spread" : 6.5,
+		"gameTime" : "2025-01-18T18:00Z",
+		"channel" : "SECN",
+		"foxId" : 255001,
+		"active" : false
+	},
+	{
+		"gameId" : 9,
 		"awayTeam" : "PURD",
 		"homeTeam" : "ORE",
 		"favorite" : "ORE",
@@ -95,7 +106,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 9,
+		"gameId" : 10,
 		"awayTeam" : "NMSU",
 		"homeTeam" : "LIB",
 		"favorite" : "LIB",
@@ -103,17 +114,6 @@
 		"gameTime" : "2025-01-19T00:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 257093,
-		"active" : false
-	},
-	{
-		"gameId" : 10,
-		"awayTeam" : "LSU",
-		"homeTeam" : "TXAM",
-		"favorite" : "TXAM",
-		"spread" : "-",
-		"gameTime" : "2025-01-19T01:30Z",
-		"channel" : "SECN",
-		"foxId" : 254214,
 		"active" : false
 	}
   ]
