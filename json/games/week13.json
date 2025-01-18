@@ -2,22 +2,22 @@
   "games": [
 	{ 
 		"gameId" : 1,
-		"awayTeam" : "FURMAN",
-		"homeTeam" : "SAMF",
-		"favorite" : "SAMF",
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
 		"spread" : "-",
-		"gameTime" : "2025-01-29T23:00Z",
+		"gameTime" : "2025-01-28T00:00Z",
 		"channel" : "",
 		"foxId" : 0,
 		"active" : false
 	},
 	{
 		"gameId" : 2,
-		"awayTeam" : "",
-		"homeTeam" : "",
-		"favorite" : "",
+		"awayTeam" : "FURMAN",
+		"homeTeam" : "SAMF",
+		"favorite" : "SAMF",
 		"spread" : "-",
-		"gameTime" : "2025-01-28T00:00Z",
+		"gameTime" : "2025-01-29T23:00Z",
 		"channel" : "",
 		"foxId" : 0,
 		"active" : false
