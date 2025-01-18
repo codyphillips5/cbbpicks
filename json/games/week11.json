@@ -63,7 +63,9 @@
 		"gameTime" : "2025-01-18T17:00Z",
 		"channel" : "FOX",
 		"foxId" : 254334,
-		"active" : true
+		"awayScore" : 68,
+		"homeScore" : 63,
+		"cover" : "CREIGH"
 	},
 	{
 		"gameId" : 6,
@@ -74,7 +76,9 @@
 		"gameTime" : "2025-01-18T17:00Z",
 		"channel" : "ESPN",
 		"foxId" : 254715,
-		"active" : true
+		"awayScore" : 102,
+		"homeScore" : 97,
+		"cover" : "ALA"
 	},
 	{
 		"gameId" : 7,
@@ -85,7 +89,11 @@
 		"gameTime" : "2025-01-18T17:00Z",
 		"channel" : "ACCN",
 		"foxId" : 252583,
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 78,
+		"homeScore" : 75,
+		"cover" : "CLEM"
 	},
 	{
 		"gameId" : 8,
@@ -96,7 +104,9 @@
 		"gameTime" : "2025-01-18T18:00Z",
 		"channel" : "SECN",
 		"foxId" : 255001,
-		"active" : true
+		"awayScore" : 70,
+		"homeScore" : 68,
+		"cover" : "UGA"
 	},
 	{
 		"gameId" : 9,
