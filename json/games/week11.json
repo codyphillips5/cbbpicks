@@ -63,7 +63,7 @@
 		"gameTime" : "2025-01-18T17:00Z",
 		"channel" : "FOX",
 		"foxId" : 254334,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 6,
@@ -74,7 +74,7 @@
 		"gameTime" : "2025-01-18T17:00Z",
 		"channel" : "ESPN",
 		"foxId" : 254715,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
@@ -85,7 +85,7 @@
 		"gameTime" : "2025-01-18T17:00Z",
 		"channel" : "ACCN",
 		"foxId" : 252583,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
@@ -96,7 +96,7 @@
 		"gameTime" : "2025-01-18T18:00Z",
 		"channel" : "SECN",
 		"foxId" : 255001,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
@@ -107,7 +107,7 @@
 		"gameTime" : "2025-01-18T20:00Z",
 		"channel" : "NBC",
 		"foxId" : 253884,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
@@ -118,7 +118,7 @@
 		"gameTime" : "2025-01-19T00:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 257093,
-		"active" : false
+		"active" : true
 	}
   ]
 }
