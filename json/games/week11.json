@@ -117,7 +117,9 @@
 		"gameTime" : "2025-01-18T20:00Z",
 		"channel" : "NBC",
 		"foxId" : 253884,
-		"active" : true
+		"awayScore" : 65,
+		"homeScore" : 58,
+		"cover" : "PURD"
 	},
 	{
 		"gameId" : 10,
