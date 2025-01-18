@@ -48,7 +48,11 @@
 		"gameTime" : "2025-01-18T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 255764,
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 77,
+		"homeScore" : 76,
+		"cover" : "IND"
 	},
 	{
 		"gameId" : 5,
