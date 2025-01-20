@@ -130,7 +130,9 @@
 		"gameTime" : "2025-01-19T00:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 257093,
-		"active" : true
+		"awayScore" : 60,
+		"homeScore" : 68,
+		"cover" : "LIB"
 	}
   ]
 }
