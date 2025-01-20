@@ -2,6 +2,17 @@
   "games": [
 	{ 
 		"gameId" : 1,
+		"awayTeam" : "TTU",
+		"homeTeam" : "CINCY",
+		"favorite" : "TTU",
+		"spread" : 1.5,
+		"gameTime" : "2025-01-22T00:00Z",
+		"channel" : "ESPNU",
+		"foxId" : 253902,
+		"active" : false
+	},
+	{
+		"gameId" : 2,
 		"awayTeam" : "UNC",
 		"homeTeam" : "WAKE",
 		"favorite" : "WAKE",
@@ -9,17 +20,6 @@
 		"gameTime" : "2025-01-22T02:00Z",
 		"channel" : "ESPN",
 		"foxId" : 255287,
-		"active" : false
-	},
-	{
-		"gameId" : 2,
-		"awayTeam" : "MIZ",
-		"homeTeam" : "TEX",
-		"favorite" : "TEX",
-		"spread" : 2.5,
-		"gameTime" : "2025-01-22T02:00Z",
-		"channel" : "SECN",
-		"foxId" : 257204,
 		"active" : false
 	},
 	{
