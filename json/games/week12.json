@@ -2,13 +2,13 @@
   "games": [
 	{ 
 		"gameId" : 1,
-		"awayTeam" : "TTU",
-		"homeTeam" : "CINCY",
-		"favorite" : "TTU",
+		"awayTeam" : "UNC",
+		"homeTeam" : "WAKE",
+		"favorite" : "WAKE",
 		"spread" : 1.5,
-		"gameTime" : "2025-01-222T00:00Z",
-		"channel" : "ESPNU",
-		"foxId" : 253902,
+		"gameTime" : "2025-01-222T02:00Z",
+		"channel" : "ESPN",
+		"foxId" : 255287,
 		"active" : false
 	},
 	{
