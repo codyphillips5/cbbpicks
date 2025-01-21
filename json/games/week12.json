@@ -9,7 +9,7 @@
 		"gameTime" : "2025-01-22T00:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 253902,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 2,
@@ -20,7 +20,7 @@
 		"gameTime" : "2025-01-22T02:00Z",
 		"channel" : "ESPN",
 		"foxId" : 255287,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 3,
