@@ -57,12 +57,12 @@
 	},
 	{
 		"gameId" : 6,
-		"awayTeam" : "LT",
-		"homeTeam" : "LIB",
-		"favorite" : "LIB",
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
 		"spread" : "-",
-		"gameTime" : "2025-02-07T01:00Z",
-		"channel" : "CBSSN",
+		"gameTime" : "2025-02-04T00:00Z",
+		"channel" : "",
 		"foxId" : 0,
 		"active" : false
 	},
@@ -101,13 +101,13 @@
 	},
 	{
 		"gameId" : 10,
-		"awayTeam" : "",
-		"homeTeam" : "",
-		"favorite" : "",
+		"awayTeam" : "UCSD",
+		"homeTeam" : "UCIRV",
+		"favorite" : "UCIRV",
 		"spread" : "-",
-		"gameTime" : "2025-02-01T00:00Z",
-		"channel" : "",
-		"foxId" : 0,
+		"gameTime" : "2025-02-09T03:00Z",
+		"channel" : "ESPN+",
+		"foxId" : 253709,
 		"active" : false
 	}
   ]

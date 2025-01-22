@@ -9,7 +9,9 @@
 		"gameTime" : "2025-01-22T00:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 253902,
-		"active" : true
+		"awayScore" : 81,
+		"homeScore" : 71,
+		"cover" : "TTU"
 	},
 	{
 		"gameId" : 2,
@@ -27,7 +29,7 @@
 		"awayTeam" : "UGA",
 		"homeTeam" : "ARK",
 		"favorite" : "ARK",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2025-01-23T02:00Z",
 		"channel" : "SECN",
 		"foxId" : 256043,
