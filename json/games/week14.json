@@ -2,13 +2,13 @@
   "games": [
 	{ 
 		"gameId" : 1,
-		"awayTeam" : "",
-		"homeTeam" : "",
-		"favorite" : "",
+		"awayTeam" : "COFCH",
+		"homeTeam" : "WMARY",
+		"favorite" : "WMARY",
 		"spread" : "-",
-		"gameTime" : "2025-02-02T00:00Z",
-		"channel" : "",
-		"foxId" : 0,
+		"gameTime" : "2025-02-04T01:00Z",
+		"channel" : "CBSSN",
+		"foxId" : 253949,
 		"active" : false
 	},
 	{
