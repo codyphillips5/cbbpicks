@@ -35,14 +35,16 @@
 		"gameTime" : "2025-01-23T02:00Z",
 		"channel" : "SECN",
 		"foxId" : 256043,
-		"active" : true
+		"awayScore" : 65,
+		"homeScore" : 68,
+		"cover" : "ARK"
 	},
 	{
 		"gameId" : 4,
 		"awayTeam" : "LIPS",
 		"homeTeam" : "NOALA",
-		"favorite" : "NOALA",
-		"spread" : "-",
+		"favorite" : "LIPS",
+		"spread" : 2.5,
 		"gameTime" : "2025-01-24T00:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 255627,
@@ -53,7 +55,7 @@
 		"awayTeam" : "MARY",
 		"homeTeam" : "ILL",
 		"favorite" : "ILL",
-		"spread" : "-",
+		"spread" : 9.5,
 		"gameTime" : "2025-01-24T02:00Z",
 		"channel" : "FS1",
 		"foxId" : 254433,
