@@ -48,18 +48,18 @@
 		"gameTime" : "2025-01-24T00:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 255627,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 5,
 		"awayTeam" : "MARY",
 		"homeTeam" : "ILL",
 		"favorite" : "ILL",
-		"spread" : 9.5,
+		"spread" : 7.5,
 		"gameTime" : "2025-01-24T02:00Z",
 		"channel" : "FS1",
 		"foxId" : 254433,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 6,
