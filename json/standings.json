@@ -91,7 +91,7 @@
 		"week_10" : 7,
 		"week_10_top" : true,
 		"week_11" : 8,
-		"week_11_top" : false
+		"week_11_top" : true
     },	
 	{
 		"userId" : 7,
@@ -209,7 +209,7 @@
 		"week_9" : 4,
 		"week_10" : 4,
 		"week_11" : 8,
-		"week_11_top" : false
+		"week_11_top" : true
     },
 	{
 		"userId" : 15,
