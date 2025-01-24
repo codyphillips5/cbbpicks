@@ -90,13 +90,13 @@
 	},
 	{
 		"gameId" : 9,
-		"awayTeam" : "",
-		"homeTeam" : "",
-		"favorite" : "",
+		"awayTeam" : "PRINCE",
+		"homeTeam" : "YALE",
+		"favorite" : "YALE",
 		"spread" : "-",
-		"gameTime" : "2025-02-09T00:00Z",
-		"channel" : "",
-		"foxId" : 0,
+		"gameTime" : "2025-02-16T01:00Z",
+		"channel" : "ESPN+",
+		"foxId" : 256913,
 		"active" : false
 	},
 	{

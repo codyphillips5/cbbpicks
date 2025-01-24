@@ -48,7 +48,9 @@
 		"gameTime" : "2025-01-24T00:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 255627,
-		"active" : true
+		"awayScore" : 64,
+		"homeScore" : 74,
+		"cover" : "NOALA"
 	},
 	{
 		"gameId" : 5,
@@ -59,14 +61,16 @@
 		"gameTime" : "2025-01-24T02:00Z",
 		"channel" : "FS1",
 		"foxId" : 254433,
-		"active" : true
+		"awayScore" : 91,
+		"homeScore" : 70,
+		"cover" : "MARY"
 	},
 	{
 		"gameId" : 6,
 		"awayTeam" : "MICH",
 		"homeTeam" : "PURD",
 		"favorite" : "PURD",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2025-01-25T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 252159,
