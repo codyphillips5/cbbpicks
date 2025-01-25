@@ -74,51 +74,53 @@
 		"gameTime" : "2025-01-25T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 252159,
-		"active" : true
+		"awayScore" : 64,
+		"homeScore" : 91,
+		"cover" : "PURD"
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "M-OH",
 		"homeTeam" : "AKR",
 		"favorite" : "AKR",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2025-01-25T19:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 252110,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "MISS",
 		"homeTeam" : "MIZ",
 		"favorite" : "MIZ",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2025-01-25T23:00Z",
 		"channel" : "SECN",
 		"foxId" : 253033,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "HOU",
 		"homeTeam" : "KU",
-		"favorite" : "KU",
+		"favorite" : "HOU",
 		"spread" : 1.5,
 		"gameTime" : "2025-01-25T23:30Z",
 		"channel" : "ESPN",
 		"foxId" : 256078,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "TENN",
 		"homeTeam" : "AUB",
 		"favorite" : "AUB",
-		"spread" : 6.5,
+		"spread" : 5.5,
 		"gameTime" : "2025-01-26T01:30Z",
 		"channel" : "ESPN",
 		"foxId" : 253621,
-		"active" : false
+		"active" : true
 	}
   ]
 }
