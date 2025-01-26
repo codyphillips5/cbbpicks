@@ -87,7 +87,9 @@
 		"gameTime" : "2025-01-25T19:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 252110,
-		"active" : true
+		"awayScore" : 75,
+		"homeScore" : 102,
+		"cover" : "AKR"
 	},
 	{
 		"gameId" : 8,
@@ -98,7 +100,9 @@
 		"gameTime" : "2025-01-25T23:00Z",
 		"channel" : "SECN",
 		"foxId" : 253033,
-		"active" : true
+		"awayScore" : 75,
+		"homeScore" : 83,
+		"cover" : "MIZ"
 	},
 	{
 		"gameId" : 9,
@@ -109,7 +113,11 @@
 		"gameTime" : "2025-01-25T23:30Z",
 		"channel" : "ESPN",
 		"foxId" : 256078,
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 92,
+		"homeScore" : 86,
+		"cover" : "HOU"
 	},
 	{
 		"gameId" : 10,
@@ -120,7 +128,9 @@
 		"gameTime" : "2025-01-26T01:30Z",
 		"channel" : "ESPN",
 		"foxId" : 253621,
-		"active" : true
+		"awayScore" : 51,
+		"homeScore" : 53,
+		"cover" : "TENN"
 	}
   ]
 }
