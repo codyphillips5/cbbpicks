@@ -24,17 +24,6 @@
 	},
 	{
 		"gameId" : 3,
-		"awayTeam" : "FURMAN",
-		"homeTeam" : "SAMF",
-		"favorite" : "SAMF",
-		"spread" : "-",
-		"gameTime" : "2025-01-29T23:00Z",
-		"channel" : "CBSSN",
-		"foxId" : 257005,
-		"active" : false
-	},
-	{
-		"gameId" : 4,
 		"awayTeam" : "WIS",
 		"homeTeam" : "MARY",
 		"favorite" : "MARY",
@@ -45,7 +34,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 5,
+		"gameId" : 4,
 		"awayTeam" : "ORE",
 		"homeTeam" : "UCLA",
 		"favorite" : "UCLA",
@@ -56,7 +45,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 6,
+		"gameId" : 5,
 		"awayTeam" : "MIZ",
 		"homeTeam" : "MSST",
 		"favorite" : "MSST",
@@ -67,7 +56,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 7,
+		"gameId" : 6,
 		"awayTeam" : "UNC",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
@@ -75,6 +64,17 @@
 		"gameTime" : "2025-02-01T23:30Z",
 		"channel" : "ESPN",
 		"foxId" : 255715,
+		"active" : false
+	},
+	{
+		"gameId" : 7,
+		"awayTeam" : "UCONN",
+		"homeTeam" : "MARQ",
+		"favorite" : "MARQ",
+		"spread" : "-",
+		"gameTime" : "2025-01-02T01:00Z",
+		"channel" : "FOX",
+		"foxId" : 253607,
 		"active" : false
 	},
 	{

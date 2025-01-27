@@ -79,11 +79,11 @@
 	},
 	{
 		"gameId" : 8,
-		"awayTeam" : "",
-		"homeTeam" : "",
-		"favorite" : "",
+		"awayTeam" : "SAMF",
+		"homeTeam" : "UNCG",
+		"favorite" : "UNCG",
 		"spread" : "-",
-		"gameTime" : "2025-02-23T00:00Z",
+		"gameTime" : "2025-03-01T21:00Z",
 		"channel" : "",
 		"foxId" : 0,
 		"active" : false
