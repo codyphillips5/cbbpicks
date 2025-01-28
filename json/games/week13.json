@@ -9,7 +9,7 @@
 		"gameTime" : "2025-01-29T00:00Z",
 		"channel" : "ACCN",
 		"foxId" : 254161,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 2,
@@ -20,7 +20,7 @@
 		"gameTime" : "2025-01-29T02:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 255149,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 3,
