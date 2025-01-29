@@ -9,7 +9,9 @@
 		"gameTime" : "2025-01-29T00:00Z",
 		"channel" : "ACCN",
 		"foxId" : 254161,
-		"active" : true
+		"awayScore" : 59,
+		"homeScore" : 72,
+		"cover" : "LOU"
 	},
 	{
 		"gameId" : 2,
@@ -20,14 +22,18 @@
 		"gameTime" : "2025-01-29T02:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 255149,
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 89,
+		"homeScore" : 93,
+		"cover" : "BYU"
 	},
 	{
 		"gameId" : 3,
 		"awayTeam" : "WIS",
 		"homeTeam" : "MARY",
 		"favorite" : "MARY",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2025-01-30T00:00Z",
 		"channel" : "B1G",
 		"foxId" : 252716,

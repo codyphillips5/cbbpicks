@@ -90,22 +90,22 @@
 	},
 	{
 		"gameId" : 9,
-		"awayTeam" : "PRINCE",
-		"homeTeam" : "YALE",
-		"favorite" : "YALE",
-		"spread" : "-",
-		"gameTime" : "2025-02-16T01:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 256913,
-		"active" : false
-	},
-	{
-		"gameId" : 10,
 		"awayTeam" : "",
 		"homeTeam" : "",
 		"favorite" : "",
 		"spread" : "-",
-		"gameTime" : "2025-02-09T00:00Z",
+		"gameTime" : "2025-02-16T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+	},
+	{
+		"gameId" : 10,
+		"awayTeam" : "DRAKE",
+		"homeTeam" : "BRAD",
+		"favorite" : "BRAD",
+		"spread" : "-",
+		"gameTime" : "2025-02-16T17:00Z",
 		"channel" : "",
 		"foxId" : 0,
 		"active" : false

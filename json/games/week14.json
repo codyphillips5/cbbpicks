@@ -13,12 +13,12 @@
 	},
 	{
 		"gameId" : 2,
-		"awayTeam" : "",
-		"homeTeam" : "",
-		"favorite" : "",
+		"awayTeam" : "ISU",
+		"homeTeam" : "KU",
+		"favorite" : "KU",
 		"spread" : "-",
-		"gameTime" : "2025-02-02T00:00Z",
-		"channel" : "",
+		"gameTime" : "2025-02-04T02:00Z",
+		"channel" : "ESPN",
 		"foxId" : 0,
 		"active" : false
 	},
@@ -101,13 +101,13 @@
 	},
 	{
 		"gameId" : 10,
-		"awayTeam" : "UCSD",
-		"homeTeam" : "UCIRV",
-		"favorite" : "UCIRV",
+		"awayTeam" : "TTU",
+		"homeTeam" : "ZONA",
+		"favorite" : "ZONA",
 		"spread" : "-",
 		"gameTime" : "2025-02-09T03:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 253709,
+		"channel" : "ESPN",
+		"foxId" : ,
 		"active" : false
 	}
   ]
