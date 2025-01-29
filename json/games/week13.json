@@ -37,7 +37,7 @@
 		"gameTime" : "2025-01-30T00:00Z",
 		"channel" : "B1G",
 		"foxId" : 252716,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 4,
