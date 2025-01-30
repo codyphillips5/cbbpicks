@@ -44,7 +44,7 @@
 		"awayTeam" : "ORE",
 		"homeTeam" : "UCLA",
 		"favorite" : "UCLA",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2025-01-31T03:30Z",
 		"channel" : "FS1",
 		"foxId" : 253498,
