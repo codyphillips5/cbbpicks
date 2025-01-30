@@ -37,7 +37,9 @@
 		"gameTime" : "2025-01-30T00:00Z",
 		"channel" : "B1G",
 		"foxId" : 252716,
-		"active" : true
+		"awayScore" : 68,
+		"homeScore" : 76,
+		"cover" : "MARY"
 	},
 	{
 		"gameId" : 4,
