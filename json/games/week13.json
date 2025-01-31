@@ -50,7 +50,9 @@
 		"gameTime" : "2025-01-31T03:30Z",
 		"channel" : "FS1",
 		"foxId" : 253498,
-		"active" : true
+		"awayScore" : 52,
+		"homeScore" : 78,
+		"cover" : "UCLA"
 	},
 	{
 		"gameId" : 5,
