@@ -76,7 +76,9 @@
 		"gameTime" : "2025-02-01T23:30Z",
 		"channel" : "ESPN",
 		"foxId" : 255715,
-		"active" : true
+		"awayScore" : 70,
+		"homeScore" : 87,
+		"cover" : "UNC"
 	},
 	{
 		"gameId" : 7,
@@ -87,7 +89,9 @@
 		"gameTime" : "2025-02-02T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 253607,
-		"active" : true
+		"awayScore" : 77,
+		"homeScore" : 68,
+		"cover" : "UCONN"
 	},
 	{
 		"gameId" : 8,
@@ -98,7 +102,9 @@
 		"gameTime" : "2025-02-02T01:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 255648,
-		"active" : true
+		"awayScore" : 57,
+		"homeScore" : 75,
+		"cover" : "GCU"
 	},
 	{
 		"gameId" : 9,
@@ -109,7 +115,9 @@
 		"gameTime" : "2025-02-02T02:30Z",
 		"channel" : "FS1",
 		"foxId" : 255046,
-		"active" : true
+		"awayScore" : 82,
+		"homeScore" : 63,
+		"cover" : "UNM"
 	},
 	{
 		"gameId" : 10,
@@ -120,7 +128,9 @@
 		"gameTime" : "2025-02-02T04:00Z",
 		"channel" : "ESPN",
 		"foxId" : 254234,
-		"active" : true
+		"awayScore" : 58,
+		"homeScore" : 62,
+		"cover" : "STMARY"
 	}
   ]
 }
