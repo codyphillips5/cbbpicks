@@ -5,11 +5,11 @@
 		"awayTeam" : "ISU",
 		"homeTeam" : "KU",
 		"favorite" : "KU",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2025-02-04T02:00Z",
 		"channel" : "ESPN",
 		"foxId" : 256080,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 2,
