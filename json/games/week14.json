@@ -24,17 +24,6 @@
 	},
 	{
 		"gameId" : 3,
-		"awayTeam" : "VU",
-		"homeTeam" : "FLA",
-		"favorite" : "FLA",
-		"spread" : "-",
-		"gameTime" : "2025-02-05T00:00Z",
-		"channel" : "SECN",
-		"foxId" : 254599,
-		"active" : false
-	},
-	{
-		"gameId" : 4,
 		"awayTeam" : "MIZ",
 		"homeTeam" : "TENN",
 		"favorite" : "TENN",
@@ -45,7 +34,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 5,
+		"gameId" : 4,
 		"awayTeam" : "SJU",
 		"homeTeam" : "UCONN",
 		"favorite" : "UCONN",
@@ -56,7 +45,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 6,
+		"gameId" : 5,
 		"awayTeam" : "ORE",
 		"homeTeam" : "MSU",
 		"favorite" : "MSU",
@@ -67,7 +56,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 7,
+		"gameId" : 6,
 		"awayTeam" : "TXAM",
 		"homeTeam" : "MIZ",
 		"favorite" : "MIZ",
@@ -78,7 +67,7 @@
 		"active" : false
 	},
 	{
-		"gameId" : 8,
+		"gameId" : 7,
 		"awayTeam" : "FLA",
 		"homeTeam" : "AUB",
 		"favorite" : "AUB",
@@ -86,6 +75,17 @@
 		"gameTime" : "2025-02-08T21:00Z",
 		"channel" : "ESPN",
 		"foxId" : 253623,
+		"active" : false
+	},
+	{
+		"gameId" : 8,
+		"awayTeam" : "DUKE",
+		"homeTeam" : "CLEM",
+		"favorite" : "CLEM",
+		"spread" : "-",
+		"gameTime" : "2025-02-08T23:00Z",
+		"channel" : "ESPN",
+		"foxId" : 252054,
 		"active" : false
 	},
 	{
