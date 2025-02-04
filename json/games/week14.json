@@ -9,14 +9,16 @@
 		"gameTime" : "2025-02-04T02:00Z",
 		"channel" : "ESPN",
 		"foxId" : 256080,
-		"active" : true
+		"awayScore" : 52,
+		"homeScore" : 69,
+		"cover" : "KU"
 	},
 	{
 		"gameId" : 2,
 		"awayTeam" : "MARQ",
 		"homeTeam" : "SJU",
 		"favorite" : "SJU",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2025-02-04T23:30Z",
 		"channel" : "FS1",
 		"foxId" : 253949,
