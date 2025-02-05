@@ -31,11 +31,11 @@
 		"awayTeam" : "MIZ",
 		"homeTeam" : "TENN",
 		"favorite" : "TENN",
-		"spread" : 9.5,
+		"spread" : 8.5,
 		"gameTime" : "2025-02-06T00:00Z",
 		"channel" : "SECN",
 		"foxId" : 252310,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 4,
