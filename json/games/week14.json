@@ -35,7 +35,9 @@
 		"gameTime" : "2025-02-06T00:00Z",
 		"channel" : "SECN",
 		"foxId" : 252310,
-		"active" : true
+		"awayScore" : 81,
+		"homeScore" : 85,
+		"cover" : "MIZ"
 	},
 	{
 		"gameId" : 4,
