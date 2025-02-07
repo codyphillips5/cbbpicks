@@ -44,11 +44,11 @@
 		"awayTeam" : "SJU",
 		"homeTeam" : "UCONN",
 		"favorite" : "UCONN",
-		"spread" : 2.5,
+		"spread" : 3.5,
 		"gameTime" : "2025-02-08T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 254337,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 5,
@@ -77,7 +77,7 @@
 		"awayTeam" : "FLA",
 		"homeTeam" : "AUB",
 		"favorite" : "AUB",
-		"spread" : "-",
+		"spread" : 9.5,
 		"gameTime" : "2025-02-08T21:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 253623,
@@ -88,7 +88,7 @@
 		"awayTeam" : "DUKE",
 		"homeTeam" : "CLEM",
 		"favorite" : "CLEM",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2025-02-08T23:30Z",
 		"channel" : "ESPN",
 		"foxId" : 252054,
