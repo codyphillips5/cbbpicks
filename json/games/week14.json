@@ -55,7 +55,7 @@
 		"awayTeam" : "ORE",
 		"homeTeam" : "MSU",
 		"favorite" : "MSU",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2025-02-08T17:00Z",
 		"channel" : "FOX",
 		"foxId" : 255844,
