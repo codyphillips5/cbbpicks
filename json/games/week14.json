@@ -48,29 +48,31 @@
 		"gameTime" : "2025-02-08T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 254337,
-		"active" : true
+		"awayScore" : 68,
+		"homeScore" : 62,
+		"cover" : "SJU"
 	},
 	{
 		"gameId" : 5,
 		"awayTeam" : "ORE",
 		"homeTeam" : "MSU",
 		"favorite" : "MSU",
-		"spread" : 7.5,
+		"spread" : 8.5,
 		"gameTime" : "2025-02-08T17:00Z",
 		"channel" : "FOX",
 		"foxId" : 255844,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 6,
 		"awayTeam" : "TXAM",
 		"homeTeam" : "MIZ",
 		"favorite" : "MIZ",
-		"spread" : 2.5,
+		"spread" : 4.5,
 		"gameTime" : "2025-02-08T20:30Z",
 		"channel" : "SECN",
 		"foxId" : 253034,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
@@ -81,7 +83,7 @@
 		"gameTime" : "2025-02-08T21:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 253623,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
@@ -92,18 +94,18 @@
 		"gameTime" : "2025-02-08T23:30Z",
 		"channel" : "ESPN",
 		"foxId" : 252054,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
-		"awayTeam" : "UNCA",
-		"homeTeam" : "HPU",
-		"favorite" : "HPU",
-		"spread" : "-",
-		"gameTime" : "2025-02-09T00:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 257113,
-		"active" : false
+		"awayTeam" : "UCSD",
+		"homeTeam" : "UCIRV",
+		"favorite" : "UCSD",
+		"spread" : 1.5,
+		"gameTime" : "2025-02-09T03:00Z",
+		"channel" : "ESPNU",
+		"foxId" : 253709,
+		"active" : true
 	},
 	{
 		"gameId" : 10,
@@ -114,7 +116,7 @@
 		"gameTime" : "2025-02-09T03:30Z",
 		"channel" : "ESPN",
 		"foxId" : 254162,
-		"active" : false
+		"active" : true
 	}
   ]
 }
