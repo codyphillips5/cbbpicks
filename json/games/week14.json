@@ -61,7 +61,9 @@
 		"gameTime" : "2025-02-08T17:00Z",
 		"channel" : "FOX",
 		"foxId" : 255844,
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 86,
+		"cover" : "MSU"
 	},
 	{
 		"gameId" : 6,
@@ -72,7 +74,9 @@
 		"gameTime" : "2025-02-08T20:30Z",
 		"channel" : "SECN",
 		"foxId" : 253034,
-		"active" : true
+		"awayScore" : 67,
+		"homeScore" : 64,
+		"cover" : "TXAM"
 	},
 	{
 		"gameId" : 7,
@@ -83,7 +87,9 @@
 		"gameTime" : "2025-02-08T21:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 253623,
-		"active" : true
+		"awayScore" : 90,
+		"homeScore" : 81,
+		"cover" : "FLA"
 	},
 	{
 		"gameId" : 8,
@@ -94,7 +100,9 @@
 		"gameTime" : "2025-02-08T23:30Z",
 		"channel" : "ESPN",
 		"foxId" : 252054,
-		"active" : true
+		"awayScore" : 71,
+		"homeScore" : 77,
+		"cover" : "CLEM"
 	},
 	{
 		"gameId" : 9,
@@ -105,7 +113,9 @@
 		"gameTime" : "2025-02-09T03:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 253709,
-		"active" : true
+		"awayScore" : 85,
+		"homeScore" : 67,
+		"cover" : "UCSD"
 	},
 	{
 		"gameId" : 10,
@@ -116,7 +126,9 @@
 		"gameTime" : "2025-02-09T03:30Z",
 		"channel" : "ESPN",
 		"foxId" : 254162,
-		"active" : true
+		"awayScore" : 73,
+		"homeScore" : 82,
+		"cover" : "ZONA"
 	}
   ]
 }
