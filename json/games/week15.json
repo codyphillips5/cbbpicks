@@ -35,7 +35,7 @@
 	},
 	{
 		"gameId" : 4,
-		"awayTeam" : "COFC",
+		"awayTeam" : "COFCH",
 		"homeTeam" : "UNCW",
 		"favorite" : "UNCW",
 		"spread" : "-",
@@ -95,7 +95,7 @@
 		"favorite" : "YALE",
 		"spread" : "-",
 		"gameTime" : "2025-02-16T01:00Z",
-		"channel" : "",
+		"channel" : "ESPNU",
 		"foxId" : 256913,
 		"active" : false
 	},
