@@ -34,7 +34,7 @@ var overtime = "";
 var numOT = "";
   
 // week of year, first game
-var week = 14;
+var week = 15;
 if (week === 0) {
 	document.getElementById("week-title").innerHTML = `<h2>🏀 March Madness</h2>`;
 	document.getElementById("games-section").innerHTML = `<a href="totals.html">Sabermetrics</a>`;
