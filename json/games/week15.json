@@ -9,7 +9,7 @@
 		"gameTime" : "2025-02-12T00:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 254805,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 2,
@@ -20,7 +20,7 @@
 		"gameTime" : "2025-02-12T00:00Z",
 		"channel" : "CBSSN",
 		"foxId" : 255080,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 3,
