@@ -9,7 +9,9 @@
 		"gameTime" : "2025-02-12T00:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 254805,
-		"active" : true
+		"awayScore" : 81,
+		"homeScore" : 68,
+		"cover" : "FLA"
 	},
 	{
 		"gameId" : 2,
@@ -20,14 +22,16 @@
 		"gameTime" : "2025-02-12T00:00Z",
 		"channel" : "CBSSN",
 		"foxId" : 255080,
-		"active" : true
+		"awayScore" : 73,
+		"homeScore" : 69,
+		"cover" : "BYU"
 	},
 	{
 		"gameId" : 3,
 		"awayTeam" : "CHATT",
 		"homeTeam" : "SAMF",
 		"favorite" : "SAMF",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2025-02-13T00:30Z",
 		"channel" : "ESPN+",
 		"foxId" : 252735,
