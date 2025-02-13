@@ -48,7 +48,7 @@
 		"gameTime" : "2025-02-14T00:00Z",
 		"channel" : "CBSSN",
 		"foxId" : 254618,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 5,
@@ -59,7 +59,7 @@
 		"gameTime" : "2025-02-14T01:30Z",
 		"channel" : "B1G",
 		"foxId" : 252960,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 6,
