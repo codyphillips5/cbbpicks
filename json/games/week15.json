@@ -35,7 +35,9 @@
 		"gameTime" : "2025-02-13T00:30Z",
 		"channel" : "ESPN+",
 		"foxId" : 252735,
-		"active" : true
+		"awayScore" : 82,
+		"homeScore" : 68,
+		"cover" : "CHATT"
 	},
 	{
 		"gameId" : 4,
