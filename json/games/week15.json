@@ -103,7 +103,7 @@
 		"awayTeam" : "PRINCE",
 		"homeTeam" : "YALE",
 		"favorite" : "YALE",
-		"spread" : "-",
+		"spread" : 10.5,
 		"gameTime" : "2025-02-16T01:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 256913,
