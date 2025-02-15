@@ -74,29 +74,29 @@
 		"gameTime" : "2025-02-15T19:00Z",
 		"channel" : "ESPN",
 		"foxId" : 254163,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "AUB",
 		"homeTeam" : "ALA",
 		"favorite" : "ALA",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2025-02-15T21:00Z",
 		"channel" : "ESPN",
 		"foxId" : 253005,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "MSU",
 		"homeTeam" : "ILL",
 		"favorite" : "ILL",
-		"spread" : 5.5,
+		"spread" : 6.5,
 		"gameTime" : "2025-02-16T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 254437,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
@@ -107,7 +107,7 @@
 		"gameTime" : "2025-02-16T01:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 256913,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
