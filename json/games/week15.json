@@ -74,7 +74,9 @@
 		"gameTime" : "2025-02-15T19:00Z",
 		"channel" : "ESPN",
 		"foxId" : 254163,
-		"active" : true
+		"awayScore" : 62,
+		"homeScore" : 58,
+		"cover" : "HOU"
 	},
 	{
 		"gameId" : 7,
@@ -85,7 +87,9 @@
 		"gameTime" : "2025-02-15T21:00Z",
 		"channel" : "ESPN",
 		"foxId" : 253005,
-		"active" : true
+		"awayScore" : 94,
+		"homeScore" : 85,
+		"cover" : "AUB"
 	},
 	{
 		"gameId" : 8,
@@ -96,7 +100,9 @@
 		"gameTime" : "2025-02-16T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 254437,
-		"active" : true
+		"awayScore" : 79,
+		"homeScore" : 65,
+		"cover" : "MSU"
 	},
 	{
 		"gameId" : 9,
@@ -107,18 +113,20 @@
 		"gameTime" : "2025-02-16T01:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 256913,
-		"active" : true
+		"awayScore" : 57,
+		"homeScore" : 84,
+		"cover" : "YALE"
 	},
 	{
 		"gameId" : 10,
 		"awayTeam" : "USU",
 		"homeTeam" : "UNM",
 		"favorite" : "UNM",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2025-02-16T21:00Z",
 		"channel" : "CBSSN",
 		"foxId" : 256262,
-		"active" : false
+		"active" : true
 	}
   ]
 }
