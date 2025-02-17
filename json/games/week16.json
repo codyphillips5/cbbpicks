@@ -5,11 +5,11 @@
 		"awayTeam" : "MCNST",
 		"homeTeam" : "SELA",
 		"favorite" : "MCNST",
-		"spread" : 7.5,
+		"spread" : 8.5,
 		"gameTime" : "2025-02-18T00:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 254904,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 2,
