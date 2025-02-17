@@ -4,11 +4,11 @@
 		"gameId" : 1,
 		"awayTeam" : "MCNST",
 		"homeTeam" : "SELA",
-		"favorite" : "SELA",
-		"spread" : "-",
+		"favorite" : "MCNST",
+		"spread" : 7.5,
 		"gameTime" : "2025-02-18T00:00Z",
 		"channel" : "ESPN+",
-		"foxId" : 0,
+		"foxId" : 254904,
 		"active" : false
 	},
 	{
@@ -19,7 +19,7 @@
 		"spread" : "-",
 		"gameTime" : "2025-02-19T00:00Z",
 		"channel" : "SECN",
-		"foxId" : 0,
+		"foxId" : 254806,
 		"active" : false
 	},
 	{
@@ -30,7 +30,7 @@
 		"spread" : "-",
 		"gameTime" : "2025-02-20T00:00Z",
 		"channel" : "SECN",
-		"foxId" : 0,
+		"foxId" : 254719,
 		"active" : false
 	},
 	{
@@ -41,44 +41,33 @@
 		"spread" : "-",
 		"gameTime" : "2025-02-22T01:00Z",
 		"channel" : "FOX",
-		"foxId" : 0,
+		"foxId" : 253366,
 		"active" : false
 	},
 	{
 		"gameId" : 5,
-		"awayTeam" : "WVU",
-		"homeTeam" : "TTU",
-		"favorite" : "TTU",
-		"spread" : "-",
-		"gameTime" : "2025-02-22T18:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 0,
-		"active" : false
-	},
-	{
-		"gameId" : 6,
 		"awayTeam" : "ISU",
 		"homeTeam" : "HOU",
 		"favorite" : "HOU",
 		"spread" : "-",
 		"gameTime" : "2025-02-22T19:00Z",
-		"channel" : "",
-		"foxId" : 0,
+		"channel" : "ESPN",
+		"foxId" : 256891,
 		"active" : false
 	},
 	{
-		"gameId" : 7,
+		"gameId" : 6,
 		"awayTeam" : "CLEM",
 		"homeTeam" : "SMU",
 		"favorite" : "SMU",
 		"spread" : "-",
 		"gameTime" : "2025-02-22T21:00Z",
 		"channel" : "ACCN",
-		"foxId" : 0,
+		"foxId" : 254488,
 		"active" : false
 	},
 	{
-		"gameId" : 8,
+		"gameId" : 7,
 		"awayTeam" : "GMU",
 		"homeTeam" : "VCU",
 		"favorite" : "VCU",
@@ -89,14 +78,25 @@
 		"active" : false
 	},
 	{
-		"gameId" : 9,
+		"gameId" : 8,
 		"awayTeam" : "ILL",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
 		"spread" : "-",
 		"gameTime" : "2025-02-23T01:00Z",
 		"channel" : "FOX",
-		"foxId" : 0,
+		"foxId" : 255718,
+		"active" : false
+	},
+	{
+		"gameId" : 9,
+		"awayTeam" : "STMARY",
+		"homeTeam" : "GONZ",
+		"favorite" : "GONZ",
+		"spread" : "-",
+		"gameTime" : "2025-02-23T01:00Z",
+		"channel" : "ESPN",
+		"foxId" : 252783,
 		"active" : false
 	},
 	{
@@ -107,7 +107,7 @@
 		"spread" : "-",
 		"gameTime" : "2025-02-23T17:00Z",
 		"channel" : "FOX",
-		"foxId" : 0,
+		"foxId" : 251885,
 		"active" : false
 	}
   ]
