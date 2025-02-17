@@ -126,7 +126,9 @@
 		"gameTime" : "2025-02-16T21:00Z",
 		"channel" : "CBSSN",
 		"foxId" : 256262,
-		"active" : true
+		"awayScore" : 79,
+		"homeScore" : 82,
+		"cover" : "USU"
 	}
   ]
 }
