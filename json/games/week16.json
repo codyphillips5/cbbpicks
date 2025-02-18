@@ -9,18 +9,20 @@
 		"gameTime" : "2025-02-18T00:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 254904,
-		"active" : true
+		"awayScore" : 88,
+		"homeScore" : 82,
+		"cover" : "SELA"
 	},
 	{
 		"gameId" : 2,
 		"awayTeam" : "TXAM",
 		"homeTeam" : "MSST",
 		"favorite" : "MSST",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2025-02-19T00:00Z",
 		"channel" : "SECN",
 		"foxId" : 254806,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 3,
