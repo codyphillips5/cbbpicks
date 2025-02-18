@@ -29,7 +29,7 @@
 		"awayTeam" : "VU",
 		"homeTeam" : "UK",
 		"favorite" : "UK",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2025-02-20T00:00Z",
 		"channel" : "SECN",
 		"foxId" : 254719,
