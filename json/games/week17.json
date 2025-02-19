@@ -13,6 +13,17 @@
 	},
 	{
 		"gameId" : 2,
+		"awayTeam" : "TCU",
+		"homeTeam" : "WVU",
+		"favorite" : "WVU",
+		"spread" : "-",
+		"gameTime" : "2025-02-26T02:00Z",
+		"channel" : "CBSSN",
+		"foxId" : 255082,
+		"active" : false
+	},
+	{
+		"gameId" : 3,
 		"awayTeam" : "UNM",
 		"homeTeam" : "SDSU",
 		"favorite" : "SDSU",
@@ -20,17 +31,6 @@
 		"gameTime" : "2025-02-26T04:00Z",
 		"channel" : "FS1",
 		"foxId" : 253743,
-		"active" : false
-	},
-	{
-		"gameId" : 3,
-		"awayTeam" : "MSU",
-		"homeTeam" : "MARY",
-		"favorite" : "MARY",
-		"spread" : "-",
-		"gameTime" : "2025-02-26T23:30Z",
-		"channel" : "B1G",
-		"foxId" : 252720,
 		"active" : false
 	},
 	{
