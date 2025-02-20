@@ -44,7 +44,7 @@
 		"awayTeam" : "MSU",
 		"homeTeam" : "MICH",
 		"favorite" : "MICH",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2025-02-22T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 253366,
