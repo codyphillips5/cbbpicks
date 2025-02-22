@@ -48,18 +48,20 @@
 		"gameTime" : "2025-02-22T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 253366,
-		"active" : true
+		"awayScore" : 75,
+		"homeScore" : 62,
+		"cover" : "MSU"
 	},
 	{
 		"gameId" : 5,
-		"awayTeam" : "ISU",
-		"homeTeam" : "HOU",
-		"favorite" : "HOU",
-		"spread" : 8.5,
-		"gameTime" : "2025-02-22T19:00Z",
+		"awayTeam" : "TENN",
+		"homeTeam" : "TXAM",
+		"favorite" : "TXAM",
+		"spread" : 1.5,
+		"gameTime" : "2025-02-22T17:00Z",
 		"channel" : "ESPN",
-		"foxId" : 256891,
-		"active" : false
+		"foxId" : 254218,
+		"active" : true
 	},
 	{
 		"gameId" : 6,
@@ -70,40 +72,40 @@
 		"gameTime" : "2025-02-22T21:00Z",
 		"channel" : "ACCN",
 		"foxId" : 254488,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "GMU",
 		"homeTeam" : "VCU",
 		"favorite" : "VCU",
-		"spread" : 8.5,
+		"spread" : 10.5,
 		"gameTime" : "2025-02-22T21:00Z",
 		"channel" : "CBSSN",
 		"foxId" : 252425,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "ILL",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
-		"spread" : 9.5,
+		"spread" : 8.5,
 		"gameTime" : "2025-02-23T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 255718,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "STMARY",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
-		"spread" : 5.5,
+		"spread" : 6.5,
 		"gameTime" : "2025-02-23T01:00Z",
 		"channel" : "ESPN",
 		"foxId" : 252783,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
