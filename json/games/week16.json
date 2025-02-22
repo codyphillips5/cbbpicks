@@ -116,7 +116,7 @@
 		"awayTeam" : "UCONN",
 		"homeTeam" : "SJU",
 		"favorite" : "SJU",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2025-02-23T17:00Z",
 		"channel" : "FOX",
 		"foxId" : 251885,
