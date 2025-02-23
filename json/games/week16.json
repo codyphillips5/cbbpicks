@@ -87,7 +87,9 @@
 		"gameTime" : "2025-02-22T21:00Z",
 		"channel" : "CBSSN",
 		"foxId" : 252425,
-		"active" : true
+		"awayScore" : 54,
+		"homeScore" : 70,
+		"cover" : "VCU"
 	},
 	{
 		"gameId" : 8,
@@ -98,7 +100,9 @@
 		"gameTime" : "2025-02-23T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 255718,
-		"active" : true
+		"awayScore" : 67,
+		"homeScore" : 110,
+		"cover" : "DUKE"
 	},
 	{
 		"gameId" : 9,
@@ -109,7 +113,9 @@
 		"gameTime" : "2025-02-23T01:00Z",
 		"channel" : "ESPN",
 		"foxId" : 252783,
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 67,
+		"cover" : "STMARY"
 	},
 	{
 		"gameId" : 10,
@@ -120,7 +126,7 @@
 		"gameTime" : "2025-02-23T17:00Z",
 		"channel" : "FOX",
 		"foxId" : 251885,
-		"active" : false
+		"active" : true
 	}
   ]
 }
