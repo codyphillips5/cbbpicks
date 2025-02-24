@@ -35,6 +35,17 @@
 	},
 	{
 		"gameId" : 4,
+		"awayTeam" : "USU",
+		"homeTeam" : "BSU",
+		"favorite" : "BSU",
+		"spread" : "-",
+		"gameTime" : "2025-02-27T03:30Z",
+		"channel" : "FS1",
+		"foxId" : 255668,
+		"active" : false
+	},
+	{
+		"gameId" : 5,
 		"awayTeam" : "JSU",
 		"homeTeam" : "LIB",
 		"favorite" : "LIB",
@@ -42,17 +53,6 @@
 		"gameTime" : "2025-02-28T00:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 257097,
-		"active" : false
-	},
-	{
-		"gameId" : 5,
-		"awayTeam" : "UCLA",
-		"homeTeam" : "PURD",
-		"favorite" : "PURD",
-		"spread" : "-",
-		"gameTime" : "2025-03-01T01:00Z",
-		"channel" : "FOX",
-		"foxId" : 252163,
 		"active" : false
 	},
 	{
