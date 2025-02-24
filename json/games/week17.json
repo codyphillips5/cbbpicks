@@ -35,13 +35,13 @@
 	},
 	{
 		"gameId" : 4,
-		"awayTeam" : "WMARY",
-		"homeTeam" : "TOW",
-		"favorite" : "TOW",
+		"awayTeam" : "JSU",
+		"homeTeam" : "LIB",
+		"favorite" : "LIB",
 		"spread" : "-",
 		"gameTime" : "2025-02-28T00:00Z",
 		"channel" : "FLOSports",
-		"foxId" : 255783,
+		"foxId" : 257097,
 		"active" : false
 	},
 	{
