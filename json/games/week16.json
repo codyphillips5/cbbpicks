@@ -126,7 +126,9 @@
 		"gameTime" : "2025-02-23T17:00Z",
 		"channel" : "FOX",
 		"foxId" : 251885,
-		"active" : true
+		"awayScore" : 75,
+		"homeScore" : 89,
+		"cover" : "SJU"
 	}
   ]
 }
