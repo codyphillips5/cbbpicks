@@ -9,29 +9,31 @@
 		"gameTime" : "2025-02-25T02:00Z",
 		"channel" : "ESPN",
 		"foxId" : 252784,
-		"active" : true
+		"awayScore" : 69,
+		"homeScore" : 61,
+		"cover" : "HOU"
 	},
 	{
 		"gameId" : 2,
 		"awayTeam" : "TCU",
 		"homeTeam" : "WVU",
 		"favorite" : "WVU",
-		"spread" : 7.5,
+		"spread" : 6.5,
 		"gameTime" : "2025-02-26T02:00Z",
 		"channel" : "CBSSN",
 		"foxId" : 255082,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 3,
 		"awayTeam" : "UNM",
 		"homeTeam" : "SDSU",
 		"favorite" : "SDSU",
-		"spread" : 2.5,
+		"spread" : 1.5,
 		"gameTime" : "2025-02-26T04:00Z",
 		"channel" : "FS1",
 		"foxId" : 253743,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 4,
