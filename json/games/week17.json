@@ -59,17 +59,6 @@
 	},
 	{
 		"gameId" : 6,
-		"awayTeam" : "ALA",
-		"homeTeam" : "TENN",
-		"favorite" : "TENN",
-		"spread" : "-",
-		"gameTime" : "2025-03-01T18:00Z",
-		"channel" : "ESPN",
-		"foxId" : 252312,
-		"active" : false
-	},
-	{
-		"gameId" : 7,
 		"awayTeam" : "TTU",
 		"homeTeam" : "KU",
 		"favorite" : "KU",
@@ -77,6 +66,17 @@
 		"gameTime" : "2025-03-01T19:00Z",
 		"channel" : "ESPN/2",
 		"foxId" : 256083,
+		"active" : false
+	},
+	{
+		"gameId" : 7,
+		"awayTeam" : "ALA",
+		"homeTeam" : "TENN",
+		"favorite" : "TENN",
+		"spread" : "-",
+		"gameTime" : "2025-03-01T21:00Z",
+		"channel" : "ESPN",
+		"foxId" : 252312,
 		"active" : false
 	},
 	{
@@ -92,13 +92,13 @@
 	},
 	{
 		"gameId" : 9,
-		"awayTeam" : "TXAM",
-		"homeTeam" : "FLA",
-		"favorite" : "FLA",
+		"awayTeam" : "MIZ",
+		"homeTeam" : "VU",
+		"favorite" : "VU",
 		"spread" : "-",
-		"gameTime" : "2025-03-02T01:30Z",
+		"gameTime" : "2025-03-01T23:00Z",
 		"channel" : "SECN",
-		"foxId" : 254602,
+		"foxId" : 253661,
 		"active" : false
 	},
 	{
