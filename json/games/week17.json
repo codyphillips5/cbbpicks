@@ -22,7 +22,9 @@
 		"gameTime" : "2025-02-26T02:00Z",
 		"channel" : "CBSSN",
 		"foxId" : 255082,
-		"active" : true
+		"awayScore" : 55,
+		"homeScore" : 73,
+		"cover" : "WVU"
 	},
 	{
 		"gameId" : 3,
@@ -33,14 +35,16 @@
 		"gameTime" : "2025-02-26T04:00Z",
 		"channel" : "FS1",
 		"foxId" : 253743,
-		"active" : true
+		"awayScore" : 65,
+		"homeScore" : 73,
+		"cover" : "SDSU"
 	},
 	{
 		"gameId" : 4,
 		"awayTeam" : "USU",
 		"homeTeam" : "BSU",
 		"favorite" : "BSU",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2025-02-27T03:30Z",
 		"channel" : "FS1",
 		"foxId" : 255668,
