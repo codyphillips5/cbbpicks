@@ -48,7 +48,7 @@
 		"gameTime" : "2025-02-27T03:30Z",
 		"channel" : "FS1",
 		"foxId" : 255668,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 5,
