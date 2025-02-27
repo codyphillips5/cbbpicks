@@ -61,7 +61,7 @@
 		"gameTime" : "2025-02-28T00:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 257097,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 6,
