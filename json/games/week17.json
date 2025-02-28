@@ -61,7 +61,9 @@
 		"gameTime" : "2025-02-28T00:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 257097,
-		"active" : true
+		"awayScore" : 55,
+		"homeScore" : 59,
+		"cover" : "JSU"
 	},
 	{
 		"gameId" : 6,
