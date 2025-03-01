@@ -98,7 +98,9 @@
 		"gameTime" : "2025-03-01T21:30Z",
 		"channel" : "FOX",
 		"foxId" : 253421,
-		"active" : true
+		"awayScore" : 61,
+		"homeScore" : 83,
+		"cover" : "XAV"
 	},
 	{
 		"gameId" : 9,
