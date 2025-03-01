@@ -74,7 +74,9 @@
 		"gameTime" : "2025-03-01T19:00Z",
 		"channel" : "ESPN",
 		"foxId" : 256083,
-		"active" : true
+		"awayScore" : 78,
+		"homeScore" : 73,
+		"cover" : "TTU"
 	},
 	{
 		"gameId" : 7,
