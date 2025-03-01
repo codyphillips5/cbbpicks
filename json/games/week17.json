@@ -70,11 +70,11 @@
 		"awayTeam" : "TTU",
 		"homeTeam" : "KU",
 		"favorite" : "KU",
-		"spread" : 2.5,
+		"spread" : 4.5,
 		"gameTime" : "2025-03-01T19:00Z",
 		"channel" : "ESPN",
 		"foxId" : 256083,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
@@ -85,29 +85,29 @@
 		"gameTime" : "2025-03-01T21:00Z",
 		"channel" : "ESPN",
 		"foxId" : 252312,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "CREIGH",
 		"homeTeam" : "XAV",
 		"favorite" : "XAV",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2025-03-01T21:30Z",
 		"channel" : "FOX",
 		"foxId" : 253421,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "MIZ",
 		"homeTeam" : "VU",
-		"favorite" : "VU",
-		"spread" : "-",
+		"favorite" : "MIZ",
+		"spread" : 2.5,
 		"gameTime" : "2025-03-01T23:00Z",
 		"channel" : "SECN",
 		"foxId" : 253661,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
@@ -118,7 +118,7 @@
 		"gameTime" : "2025-03-02T02:00Z",
 		"channel" : "ESPN",
 		"foxId" : 253122,
-		"active" : false
+		"active" : true
 	}
   ]
 }
