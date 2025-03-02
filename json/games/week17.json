@@ -112,7 +112,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2025-03-01T23:00Z",
 		"channel" : "SECN",
-		"foxId" : 253661,
+		"foxId" : 253661,,
+		"overtime" : true,
+		"numberOfOT" : 1,
 		"awayScore" : 93,
 		"homeScore" : 97,
 		"cover" : "VU"
