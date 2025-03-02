@@ -128,7 +128,9 @@
 		"gameTime" : "2025-03-02T02:00Z",
 		"channel" : "ESPN",
 		"foxId" : 253122,
-		"active" : true
+		"awayScore" : 67,
+		"homeScore" : 84,
+		"cover" : "ISU"
 	}
   ]
 }
