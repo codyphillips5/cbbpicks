@@ -74,7 +74,9 @@
 		"gameTime" : "2025-03-01T19:00Z",
 		"channel" : "ESPN",
 		"foxId" : 256083,
-		"active" : true
+		"awayScore" : 78,
+		"homeScore" : 73,
+		"cover" : "TTU"
 	},
 	{
 		"gameId" : 7,
@@ -85,7 +87,9 @@
 		"gameTime" : "2025-03-01T21:00Z",
 		"channel" : "ESPN",
 		"foxId" : 252312,
-		"active" : true
+		"awayScore" : 76,
+		"homeScore" : 79,
+		"cover" : "ALA"
 	},
 	{
 		"gameId" : 8,
@@ -96,7 +100,9 @@
 		"gameTime" : "2025-03-01T21:30Z",
 		"channel" : "FOX",
 		"foxId" : 253421,
-		"active" : true
+		"awayScore" : 61,
+		"homeScore" : 83,
+		"cover" : "XAV"
 	},
 	{
 		"gameId" : 9,
@@ -107,7 +113,11 @@
 		"gameTime" : "2025-03-01T23:00Z",
 		"channel" : "SECN",
 		"foxId" : 253661,
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 93,
+		"homeScore" : 97,
+		"cover" : "VU"
 	},
 	{
 		"gameId" : 10,
@@ -118,7 +128,9 @@
 		"gameTime" : "2025-03-02T02:00Z",
 		"channel" : "ESPN",
 		"foxId" : 253122,
-		"active" : true
+		"awayScore" : 67,
+		"homeScore" : 84,
+		"cover" : "ISU"
 	}
   ]
 }
