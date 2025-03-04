@@ -9,7 +9,7 @@
 		"gameTime" : "2025-03-05T02:00Z",
 		"channel" : "FS1",
 		"foxId" : 253890,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 2,
@@ -20,7 +20,7 @@
 		"gameTime" : "2025-03-05T03:00Z",
 		"channel" : "SECN",
 		"foxId" : 253662,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 3,
