@@ -22,7 +22,9 @@
 		"gameTime" : "2025-03-05T03:00Z",
 		"channel" : "SECN",
 		"foxId" : 253662,
-		"active" : true
+		"awayScore" : 90,
+		"homeScore" : 77,
+		"cover" : "ARK"
 	},
 	{
 		"gameId" : 3,
