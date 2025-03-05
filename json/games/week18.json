@@ -9,7 +9,9 @@
 		"gameTime" : "2025-03-05T02:00Z",
 		"channel" : "FS1",
 		"foxId" : 253890,
-		"active" : true
+		"awayScore" : 64,
+		"homeScore" : 73,
+		"cover" : "ORE"
 	},
 	{
 		"gameId" : 2,
@@ -27,7 +29,7 @@
 		"awayTeam" : "MARY",
 		"homeTeam" : "MICH",
 		"favorite" : "MICH",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2025-03-05T23:30Z",
 		"channel" : "B1G",
 		"foxId" : 253369,
@@ -38,7 +40,7 @@
 		"awayTeam" : "FLA",
 		"homeTeam" : "ALA",
 		"favorite" : "ALA",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2025-03-06T00:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 253008,
