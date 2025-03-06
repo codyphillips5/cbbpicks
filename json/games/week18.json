@@ -35,7 +35,9 @@
 		"gameTime" : "2025-03-05T23:30Z",
 		"channel" : "B1G",
 		"foxId" : 253369,
-		"active" : true
+		"awayScore" : 71,
+		"homeScore" : 65,
+		"cover" : "MARY"
 	},
 	{
 		"gameId" : 4,
@@ -46,7 +48,9 @@
 		"gameTime" : "2025-03-06T00:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 253008,
-		"active" : true
+		"awayScore" : 99,
+		"homeScore" : 94,
+		"cover" : "FLA"
 	},
 	{
 		"gameId" : 5,
