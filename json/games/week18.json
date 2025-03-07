@@ -61,7 +61,7 @@
 		"gameTime" : "2025-03-08T03:00Z",
 		"channel" : "FS1",
 		"foxId" : 255669,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 6,
