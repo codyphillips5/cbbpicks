@@ -74,7 +74,9 @@
 		"gameTime" : "2025-03-08T17:00Z",
 		"channel" : "ESPN",
 		"foxId" : 253038,
-		"active" : true
+		"awayScore" : 91,
+		"homeScore" : 83,
+		"cover" : "UK"
 	},
 	{
 		"gameId" : 7,
@@ -85,7 +87,11 @@
 		"gameTime" : "2025-03-08T17:00Z",
 		"channel" : "FOX",
 		"foxId" : 253611,
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 86,
+		"homeScore" : 84,
+		"cover" : "SJU"
 	},
 	{
 		"gameId" : 8,
