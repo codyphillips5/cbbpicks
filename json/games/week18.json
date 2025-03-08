@@ -102,7 +102,11 @@
 		"gameTime" : "2025-03-08T19:30Z",
 		"channel" : "ESPN",
 		"foxId" : 253627,
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 93,
+		"homeScore" : 91,
+		"cover" : "ALA"
 	},
 	{
 		"gameId" : 9,
