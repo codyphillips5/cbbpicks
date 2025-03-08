@@ -61,51 +61,53 @@
 		"gameTime" : "2025-03-08T03:00Z",
 		"channel" : "FS1",
 		"foxId" : 255669,
-		"active" : true
+		"awayScore" : 83,
+		"homeScore" : 73,
+		"cover" : "CSU"
 	},
 	{
 		"gameId" : 6,
 		"awayTeam" : "UK",
 		"homeTeam" : "MIZ",
 		"favorite" : "MIZ",
-		"spread" : 4.5,
+		"spread" : 5.5,
 		"gameTime" : "2025-03-08T17:00Z",
 		"channel" : "ESPN",
 		"foxId" : 253038,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 7,
 		"awayTeam" : "SJU",
 		"homeTeam" : "MARQ",
 		"favorite" : "MARQ",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2025-03-08T17:00Z",
 		"channel" : "FOX",
 		"foxId" : 253611,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 8,
 		"awayTeam" : "ALA",
 		"homeTeam" : "AUB",
 		"favorite" : "AUB",
-		"spread" : 8.5,
+		"spread" : 7.5,
 		"gameTime" : "2025-03-08T19:30Z",
 		"channel" : "ESPN",
 		"foxId" : 253627,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 9,
 		"awayTeam" : "OKLA",
 		"homeTeam" : "TEX",
 		"favorite" : "TEX",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2025-03-09T01:00Z",
 		"channel" : "SECN",
 		"foxId" : 257210,
-		"active" : false
+		"active" : true
 	},
 	{
 		"gameId" : 10,
