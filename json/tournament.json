@@ -6,15 +6,19 @@
 	},
 	{
 		"conf" :"Big South",
-		"winner" : ""
+		"winner" : "HPU"
 	},
 	{
 		"conf" : "MVC",
-		"winner" : ""
+		"winner" : "DRAKE"
 	},
 	{
 		"conf": "ASUN",
-		"winner" : ""
+		"winner" : "LIPS"
+	},
+	{
+		"conf" : "Summit",
+		"winner" : "OMAHA"
 	},
 	{
 		"conf" : "Sun Belt",
@@ -38,10 +42,6 @@
 	},
 	{
 		"conf" : "WCC",
-		"winner" : ""
-	},
-	{
-		"conf" : "Summit",
 		"winner" : ""
 	},
 	{
