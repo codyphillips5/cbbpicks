@@ -124,7 +124,7 @@
 		"awayTeam" : "BRAD",
 		"homeTeam" : "DRAKE",
 		"favorite" : "DRAKE",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2025-03-09T18:15Z",
 		"channel" : "CBS",
 		"foxId" : 257773,
