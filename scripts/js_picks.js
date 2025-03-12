@@ -36,8 +36,9 @@ var numOT = "";
 // week of year, first game
 var week = 0;
 if (week === 0) {
-	document.getElementById("week-title").innerHTML = `<h2>🏀 March Madness</h2>`;
-	document.getElementById("games-section").innerHTML = `<a href="totals.html">Sabermetrics</a>`;
+	document.getElementById("week-title").innerHTML = `<h2>🏀 Enjoy the Madness 🏀</h2>`;
+	document.getElementsByClassName("picks container pt-3")[0].setAttribute("hidden", "");
+	document.getElementById("games-section").innerHTML = `<a class="p-2 bg-light border" href="standings.html">Standings</a><a class="p-2 bg-light border" href="totals.html">Sabermetrics</a>`;
 }
 else if (week === 4) {
 	document.getElementById("week-title").innerHTML = `<h2>🦃 Feast Week 🦃</h2>`;
