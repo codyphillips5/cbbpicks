@@ -154,7 +154,7 @@ $.when(getGames, getTeams, getTourney).then(function(){
 				}
 				tourneyTeams = autoTeams + largeTeams;
 				totalGames = totalGames + allTeams[1][j];
-				tableStart = tableStart + `<tr><td id="${guess}" class="${tournColor}"><img src="https://b.fssta.com/uploads/application/college/team-logos/${fullTeamImage}.vresize.50.50.medium.2.png" width="25" height="25"><span class="p-1">${tournTeam}</span></td><td class="${color}">${allTeams[1][j]}</td><td class="${color}">${wins}-${losses}</td><td class="${percColor}">${perc.toFixed(1)}</td>`;
+				tableStart = tableStart + `<tr><td id="${guess}" class="${tournColor}"><img src="https://b.fssta.com/uploads/application/college/team-logos/${fullTeamImage}.vresize.50.50.medium.2.png" width="25" height="25"><span class="p-1">${tournTeam}</span></td><td id="${guess}_games" class="${tournColor}">${allTeams[1][j]}</td><td class="${percColor}">${wins}-${losses}</td><td class="${percColor}">${perc.toFixed(1)}</td>`;
 			}
 		}
 		
@@ -277,6 +277,7 @@ function marchMode() {
 		if (allTeams[0].includes(squad)) {
 			console.log(squad);
 			document.getElementById(squad).className = 'table-info';
+			document.getElementById(squad + "_games").className = 'table-info';
 		}
 	} 
   } else {
