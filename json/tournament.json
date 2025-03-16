@@ -58,185 +58,184 @@
 	},
 	{
 		"conf" : "America East",
-		"winner" : ""
+		"winner" : "BRYANT"
 	},
 	{
 		"conf" : "MEAC",
-		"winner" : ""
-	},
-	{
-		"conf" : "Big 12",
-		"winner" : ""
+		"winner" : "NORFST"
 	},
 	{
 		"conf" : "MW",
-		"winner": ""
+		"winner": "CSU"
+	},
+	{
+		"conf" : "Big 12",
+		"winner" : "HOU"
 	},
 	{
 		"conf" : "Big East",
-		"winner" : ""
-	},
-	{
-		"conf" : "MAC",
-		"winner" : ""
+		"winner" : "SJU"
 	},
 	{
 		"conf" : "MAAC",
-		"winner" : ""
+		"winner" : "MSM"
+	},
+	{
+		"conf" : "MAC",
+		"winner" : "AKR"
 	},
 	{
 		"conf" : "ACC",
-		"winner" : ""
+		"winner" : "DUKE"
 	},
 	{
 		"conf" : "C-USA",
-		"winner" : ""
-	},
-	{
-		"conf" : "PAC12",
-		"winner" : ""
-	},
-	{
-		"conf" : "Big West",
-		"winner" : ""
+		"winner" : "LIB"
 	},
 	{
 		"conf" : "SWAC",
-		"winner" : ""
+		"winner" : "ALAST"
+	},
+	{
+		"conf" : "Big West",
+		"winner" : "UCSD"
 	},
 	{
 		"conf" : "WAC",
-		"winner" : ""
+		"winner" : "GCU"
 	},
 	{
 		"conf" : "Ivy",
-		"winner" : ""
-	},
-	{
-		"conf" : "SEC",
-		"winner" : ""
+		"winner" : "YALE"
 	},
 	{
 		"conf" : "A-10",
-		"winner" : ""
+		"winner" : "VCU"
+	},
+	{
+		"conf" : "SEC",
+		"winner" : "FLA"
 	},
 	{
 		"conf" : "AAC",
-		"winner" : ""
+		"winner" : "MEM"
 	},
 	{
 		"conf" : "B1G",
-		"winner" : ""
+		"winner" : "MICH"
 	}
 	],
 	"atlarge": [
 	{
-		"team": ""
+		"team": "AUB"
 	},
 	{
-		"team": ""
+		"team": "TENN"
 	},
 	{
-		"team": ""
+		"team": "ALA"
 	},
 	{
-		"team": ""
+		"team": "MSU"
 	},
 	{
-		"team": ""
+		"team": "TTU"
 	},
 	{
-		"team": ""
+		"team": "ISU"
 	},
 	{
-		"team": ""
+		"team": "UK"
 	},
 	{
-		"team": ""
+		"team": "WIS"
 	},
 	{
-		"team": ""
+		"team": "TXAM"
 	},
 	{
-		"team": ""
+		"team": "PURD"
 	},
 	{
-		"team": ""
+		"team": "MARY"
 	},
 	{
-		"team": ""
+		"team": "ZONA"
 	},
 	{
-		"team": ""
+		"team": "CLEM"
 	},
 	{
-		"team": ""
+		"team": "ORE"
 	},
 	{
-		"team": ""
+		"team": "BYU"
 	},
 	{
-		"team": ""
+		"team": "ILL"
 	},
 	{
-		"team": ""
+		"team": "MIZ"
 	},
 	{
-		"team": ""
+		"team": "MISS"
 	},
 	{
-		"team": ""
+		"team": "UCLA"
 	},
 	{
-		"team": ""
+		"team": "MARQ"
 	},
 	{
-		"team": ""
+		"team": "STMARY"
 	},
 	{
-		"team": ""
+		"team": "KU"
 	},
 	{
-		"team": ""
+		"team": "LOU"
 	},
 	{
-		"team": ""
+		"team": "UCONN"
 	},
 	{
-		"team": ""
+		"team": "MSST"
 	},
 	{
-		"team": ""
+		"team": "CREIGH"
 	},
 	{
-		"team": ""
+		"team": "UGA"
 	},
 	{
-		"team": ""
+		"team": "BU"
 	},
 	{
-		"team": ""
+		"team": "OKLA"
 	},
 	{
-		"team": ""
+		"team": "ARK"
 	},
 	{
-		"team": ""
+		"team": "UNM"
 	},
 	{
-		"team": ""
+		"team": "VU"
 	},
 	{
-		"team": ""
+		"team": "USU"
 	},
 	{
-		"team": ""
+		"team": "TEX"
 	},
 	{
-		"team": ""
+		"team": "XAV"
 	},
 	{
-		"team": ""
+		"team": "SDSU"
+	},
+	{
+		"team": "UNC"
 	}
 	]
 }
