@@ -46,6 +46,17 @@
     },
     {
 		"gameId" : 5,
+		"awayTeam" : "USU",
+		"homeTeam" : "VCU",
+		"favorite" : "VCU",
+		"spread" : "-",
+		"gameTime" : "2025-11-08T02:00Z",
+		"channel" : "UEN",
+		"foxId" : 260115,
+		"active" : false
+    },
+    {
+		"gameId" : 6,
 		"awayTeam" : "ALA",
 		"homeTeam" : "SJU",
 		"favorite" : "SJU",
@@ -56,7 +67,18 @@
 		"active" : false
     },
     {
-		"gameId" : 6,
+		"gameId" : 7,
+		"awayTeam" : "VANDY",
+		"homeTeam" : "UCF",
+		"favorite" : "UCF",
+		"spread" : "-",
+		"gameTime" : "2025-11-08T21:00Z",
+		"channel" : "ESPN+",
+		"foxId" : 262369,
+		"active" : false
+    },
+    {
+		"gameId" : 8,
 		"awayTeam" : "ARK",
 		"homeTeam" : "MSU",
 		"favorite" : "MSU",
@@ -67,7 +89,7 @@
 		"active" : false
     },
     {
-		"gameId" : 7,
+		"gameId" : 9,
 		"awayTeam" : "OKLA",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
@@ -78,36 +100,14 @@
 		"active" : false
     },
     {
-		"gameId" : 8,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
-		"spread" : "-",
-		"gameTime" : "2025-11-04T00:00Z",
-		"channel" : "",
-		"foxId" : 0,
-		"active" : false
-    },
-    {
-		"gameId" : 9,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
-		"spread" : "-",
-		"gameTime" : "2025-11-04T00:00Z",
-		"channel" : "",
-		"foxId" : 0,
-		"active" : false
-    },
-    {
 		"gameId" : 10,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "MARQ",
+		"homeTeam" : "IND",
+		"favorite" : "IND",
 		"spread" : "-",
-		"gameTime" : "2025-11-04T00:00Z",
-		"channel" : "",
-		"foxId" : 0,
+		"gameTime" : "2025-11-09T18:00Z",
+		"channel" : "ESPN",
+		"foxId" : 260176,
 		"active" : false
     }
   ]

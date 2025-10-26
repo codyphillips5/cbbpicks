@@ -1,128 +1,114 @@
 {
   "games": [
-	{
+    {
 		"gameId" : 1,
-		"awayTeam" : "AUB",
-		"homeTeam" : "ISU",
-		"favorite" : "AUB",
-		"spread" : 4.5,
-		"gameTime" : "2024-11-26T02:00Z",
-		"channel" : "ESPNU",
-		"awayScore" : 83,
-		"homeScore" : 81,
-		"cover" : "ISU"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-11-25T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 2,
-		"awayTeam" : "HOU",
-		"homeTeam" : "ALA",
-		"favorite" : "HOU",
-		"spread" : 3.5,
-		"gameTime" : "2024-11-27T01:00Z",
-		"channel" : "TBS",
-		"overtime" : true,
-		"numberOfOT" : 1,
-		"awayScore" : 80,
-		"homeScore" : 85,
-		"cover" : "ALA"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-11-25T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 3,
-		"awayTeam" : "DUKE",
-		"homeTeam" : "KU",
-		"favorite" : "DUKE",
-		"spread" : 3.5,
-		"gameTime" : "2024-11-27T02:00Z",
-		"channel" : "ESPN",
-		"awayScore" : 72,
-		"homeScore" : 75,
-		"cover" : "KU"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-11-25T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 4,
-		"awayTeam" : "MEM",
-		"homeTeam" : "AUB",
-		"favorite" : "AUB",
-		"spread" : 7.5,
-		"gameTime" : "2024-11-27T22:00Z",
-		"channel" : "ESPN",
-		"awayScore" : 76,
-		"homeScore" : 90,
-		"cover" : "AUB"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-11-25T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 5,
-		"awayTeam" : "MICH",
-		"homeTeam" : "XAV",
-		"favorite" : "MICH",
-		"spread" : 1.5,
-		"gameTime" : "2024-11-28T01:30Z",
-		"channel" : "FS1",
-		"awayScore" : 78,
-		"homeScore" : 53,
-		"cover" : "MICH"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-11-25T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 6,
-		"awayTeam" : "WICHST",
-		"homeTeam" : "FLA",
-		"favorite" : "FLA",
-		"spread" : 8.5,
-		"gameTime" : "2024-11-29T20:30Z",
-		"channel" : "ESPN",
-		"awayScore" : 51,
-		"homeScore" : 88,
-		"cover" : "FLA"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-11-25T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 7,
-		"awayTeam" : "LOU",
-		"homeTeam" : "OKLA",
-		"favorite" : "LOU",
-		"spread" : 3.5,
-		"gameTime" : "2024-11-29T22:30Z",
-		"channel" : "ESPN",
-		"awayScore" : 64,
-		"homeScore" : 69,
-		"cover" : "OKLA"
-	},
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-11-25T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
 	{
 		"gameId" : 8,
-		"awayTeam" : "PURD",
-		"homeTeam" : "MISS",
-		"favorite" : "PURD",
-		"spread" : 4.5,
-		"gameTime" : "2024-11-29T23:00Z",
-		"channel" : "FOX",
-		"awayScore" : 80,
-		"homeScore" : 78,
-		"cover" : "MISS"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-11-25T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 9,
-		"awayTeam" : "SDSU",
-		"homeTeam" : "HOU",
-		"favorite" : "HOU",
-		"spread" : 12.5,
-		"gameTime" : "2024-12-01T00:00Z",
-		"channel" : "TNT",
-		"overtime" : true,
-		"numberOfOT" : 1,
-		"awayScore" : 73,
-		"homeScore" : 70,
-		"cover" : "SDSU"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-11-25T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 10,
-		"awayTeam" : "ORE",
-		"homeTeam" : "ALA",
-		"favorite" : "ALA",
-		"spread" : 5.5,
-		"gameTime" : "2024-12-01T02:30Z",
-		"channel" : "TNT",
-		"awayScore" : 83,
-		"homeScore" : 81,
-		"cover" : "ORE"
-	}
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-11-25T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    }
   ]
 }
