@@ -96,7 +96,7 @@ function getResultsByWeek(x) {
 	// query for all user emails and names
 	var users = db.collection("Users").get().then((querySnapshot) => {
 		querySnapshot.forEach((doc) => {
-			if(allUsers.length != 21)
+			if(allUsers.length != 22)
 				allUsers.push(doc.data().Email);
 			allFirst.push(doc.data().FirstName);
 			allLast.push(doc.data().LastName);
