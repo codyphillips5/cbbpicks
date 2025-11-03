@@ -20,7 +20,7 @@
 		"gameTime" : "2025-11-04T02:30Z",
 		"channel" : "TNT",
 		"foxId" : 259957,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 3,
