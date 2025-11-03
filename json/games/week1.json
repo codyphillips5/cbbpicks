@@ -9,14 +9,14 @@
 		"gameTime" : "2025-11-04T00:00Z",
 		"channel" : "TNT",
 		"foxId" : 259983,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 2,
 		"awayTeam" : "NOVA",
 		"homeTeam" : "BYU",
 		"favorite" : "BYU",
-		"spread" : 7.5,
+		"spread" : 8.5,
 		"gameTime" : "2025-11-04T02:30Z",
 		"channel" : "TNT",
 		"foxId" : 259957,
