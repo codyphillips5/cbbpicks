@@ -1,128 +1,114 @@
 {
   "games": [
-	{
+    {
 		"gameId" : 1,
-		"awayTeam" : "MISS",
-		"homeTeam" : "LOU",
-		"favorite" : "LOU",
-		"spread" : 3.5,
-		"gameTime" : "2024-12-04T02:00Z",
-		"channel" : "ACCN",
-		"awayScore" : 86,
-		"homeScore" : 63,
-		"cover" : "MISS"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-02T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 2,
-		"awayTeam" : "MARQ",
-		"homeTeam" : "ISU",
-		"favorite" : "ISU",
-		"spread" : 5.5,
-		"gameTime" : "2024-12-05T01:00Z",
-		"channel" : "ESPN+",
-		"awayScore" : 70,
-		"homeScore" : 81,
-		"cover" : "ISU"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-02T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 3,
-		"awayTeam" : "AUB",
-		"homeTeam" : "DUKE",
-		"favorite" : "DUKE",
-		"spread" : 2.5,
-		"gameTime" : "2024-12-05T02:15Z",
-		"channel" : "ESPN",
-		"awayScore" : 78,
-		"homeScore" : 84,
-		"cover" : "DUKE"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-02T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 4,
-		"awayTeam" : "PITT",
-		"homeTeam" : "MSST",
-		"favorite" : "MSST",
-		"spread" : 5.5,
-		"gameTime" : "2024-12-05T02:15Z",
-		"channel" : "SECN",
-		"awayScore" : 57,
-		"homeScore" : 90,
-		"cover" : "MSST"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-02T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 5,
-		"awayTeam" : "PURD",
-		"homeTeam" : "PSU",
-		"favorite" : "PSU",
-		"spread" : 1.5,
-		"gameTime" : "2024-12-05T23:30Z",
-		"channel" : "FS1",
-		"awayScore" : 70,
-		"homeScore" : 81,
-		"cover" : "PSU"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-02T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 6,
-		"awayTeam" : "ILL",
-		"homeTeam" : "NW",
-		"favorite" : "ILL",
-		"spread" : 3.5,
-		"gameTime" : "2024-12-07T02:00Z",
-		"channel" : "B1G",
-		"overtime" : true,
-		"numberOfOT" : 1,
-		"awayScore" : 66,
-		"homeScore" : 70,
-		"cover" : "NW"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-02T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 7,
-		"awayTeam" : "WIS",
-		"homeTeam" : "MARQ",
-		"favorite" : "MARQ",
-		"spread" : 6.5,
-		"gameTime" : "2024-12-07T18:30Z",
-		"channel" : "FOX",
-		"awayScore" : 74,
-		"homeScore" : 88,
-		"cover" : "MARQ"
-	},
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-02T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
 	{
 		"gameId" : 8,
-		"awayTeam" : "IOWA",
-		"homeTeam" : "MICH",
-		"favorite" : "MICH",
-		"spread" : 8.5,
-		"gameTime" : "2024-12-07T19:00Z",
-		"channel" : "FS1",
-		"awayScore" : 83,
-		"homeScore" : 85,
-		"cover" : "IOWA"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-02T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 9,
-		"awayTeam" : "STMARY",
-		"homeTeam" : "UTAH",
-		"favorite" : "UTAH",
-		"spread" : 2.5,
-		"gameTime" : "2024-12-08T00:00Z",
-		"channel" : "ESPN+",
-		"awayScore" : 72,
-		"homeScore" : 63,
-		"cover" : "STMARY"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-02T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 10,
-		"awayTeam" : "UK",
-		"homeTeam" : "GONZ",
-		"favorite" : "GONZ",
-		"spread" : 5.5,
-		"gameTime" : "2024-12-08T03:00Z",
-		"channel" : "ESPN2",
-		"overtime" : true,
-		"numberOfOT" : 1,
-		"awayScore" : 90,
-		"homeScore" : 89,
-		"cover" : "UK"
-	}
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-02T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    }
   ]
 }

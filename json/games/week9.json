@@ -1,134 +1,114 @@
 {
   "games": [
-	{
+    {
 		"gameId" : 1,
-		"awayTeam" : "VCU",
-		"homeTeam" : "STBON",
-		"favorite" : "VCU",
-		"spread" : 2.5,
-		"gameTime" : "2024-12-31T19:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 253960,
-		"awayScore" : 75,
-		"homeScore" : 77,
-		"cover" : "STBON"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-30T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 2,
-		"awayTeam" : "SJU",
-		"homeTeam" : "CREIGH",
-		"favorite" : "SJU",
-		"spread" : 1.5,
-		"gameTime" : "2024-12-31T21:00Z",
-		"channel" : "Peacock",
-		"foxId" : 253381,
-		"awayScore" : 56,
-		"homeScore" : 57,
-		"cover" : "CREIGH"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-30T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 3,
-		"awayTeam" : "ILL",
-		"homeTeam" : "ORE",
-		"favorite" : "ORE",
-		"spread" : 4.5,
-		"gameTime" : "2025-01-03T03:00Z",
-		"channel" : "FS1",
-		"foxId" : 253882,
-		"awayScore" : 109,
-		"homeScore" : 77,
-		"cover" : "ILL"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-30T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 4,
-		"awayTeam" : "MSU",
-		"homeTeam" : "OSU",
-		"favorite" : "OSU",
-		"spread" : 1.5,
-		"gameTime" : "2025-01-04T01:00Z",
-		"channel" : "FOX",
-		"foxId" : 255762,
-		"awayScore" : 69,
-		"homeScore" : 62,
-		"cover" : "MSU"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-30T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 5,
-		"awayTeam" : "FLA",
-		"homeTeam" : "UK",
-		"favorite" : "UK",
-		"spread" : 2.5,
-		"gameTime" : "2025-01-04T16:00Z",
-		"channel" : "ESPN",
-		"foxId" : 254713,
-		"awayScore" : 100,
-		"homeScore" : 106,
-		"cover" : "UK"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-30T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 6,
-		"awayTeam" : "UGA",
-		"homeTeam" : "MISS",
-		"favorite" : "MISS",
-		"spread" : 4.5,
-		"gameTime" : "2025-01-04T17:00Z",
-		"channel" : "SECN",
-		"foxId" : 255357,
-		"awayScore" : 51,
-		"homeScore" : 63,
-		"cover" : "MISS"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-30T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 7,
-		"awayTeam" : "BU",
-		"homeTeam" : "ISU",
-		"favorite" : "ISU",
-		"spread" : 8.5,
-		"gameTime" : "2025-01-04T19:00Z",
-		"channel" : "CBS",
-		"foxId" : 253114,
-		"awayScore" : 55,
-		"homeScore" : 74,
-		"cover" : "ISU"
-	},
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-30T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
 	{
 		"gameId" : 8,
-		"awayTeam" : "DUKE",
-		"homeTeam" : "SMU",
-		"favorite" : "DUKE",
-		"spread" : 8.5,
-		"gameTime" : "2025-01-04T19:15Z",
-		"channel" : "CW",
-		"foxId" : 254481,
-		"awayScore" : 89,
-		"homeScore" : 62,
-		"cover" : "DUKE"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-30T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 9,
-		"awayTeam" : "ZONA",
-		"homeTeam" : "CINCY",
-		"favorite" : "CINCY",
-		"spread" : 2.5,
-		"gameTime" : "2025-01-04T19:30Z",
-		"channel" : "ESPN2",
-		"foxId" : 253899,
-		"awayScore" : 72,
-		"homeScore" : 67,
-		"cover" : "ZONA"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-30T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 10,
-		"awayTeam" : "OKLA",
-		"homeTeam" : "ALA",
-		"favorite" : "ALA",
-		"spread" : 12.5,
-		"gameTime" : "2025-01-04T23:00Z",
-		"channel" : "SECN",
-		"foxId" : 253000,
-		"awayScore" : 79,
-		"homeScore" : 107,
-		"cover" : "ALA"
-	}
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-30T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    }
   ]
 }

@@ -1,134 +1,114 @@
 {
   "games": [
-	{
+    {
 		"gameId" : 1,
-		"awayTeam" : "COFCH",
-		"homeTeam" : "LOYCHI",
-		"favorite" : "LOYCHI",
-		"spread" : 2.5,
-		"gameTime" : "2024-12-23T22:30Z",
-		"channel" : "ESPNU",
-		"foxId" : 257655,
-		"awayScore" : 77,
-		"homeScore" : 68,
-		"cover" : "COFCH"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-23T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 2,
-		"awayTeam" : "NEB",
-		"homeTeam" : "HAW",
-		"favorite" : "NEB",
-		"spread" : 9.5,
-		"gameTime" : "2024-12-24T03:30Z",
-		"channel" : "ESPN2",
-		"foxId" : 257657,
-		"awayScore" : 69,
-		"homeScore" : 55,
-		"cover" : "NEB"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-23T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 3,
-		"awayTeam" : "OREST",
-		"homeTeam" : "NEB",
-		"favorite" : "NEB",
-		"spread" : 3.5,
-		"gameTime" : "2024-12-26T02:00Z",
-		"channel" : "ESPN2",
-		"foxId" : 257662,
-		"awayScore" : 66,
-		"homeScore" : 78,
-		"cover" : "NEB"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-23T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 4,
-		"awayTeam" : "MISS",
-		"homeTeam" : "MEM",
-		"favorite" : "MEM",
-		"spread" : 0,
-		"gameTime" : "2024-12-28T19:00Z",
-		"channel" : "ESPN2",
-		"foxId" : 253096,
-		"awayScore" : 70,
-		"homeScore" : 87,
-		"cover" : "MEM"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-23T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 5,
-		"awayTeam" : "UNM",
-		"homeTeam" : "CSU",
-		"favorite" : "CSU",
-		"spread" : 1.5,
-		"gameTime" : "2024-12-28T20:00Z",
-		"channel" : "MTN",
-		"foxId" : 254193,
-		"awayScore" : 76,
-		"homeScore" : 68,
-		"cover" : "UNM"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-23T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 6,
-		"awayTeam" : "UCLA",
-		"homeTeam" : "GONZ",
-		"favorite" : "GONZ",
-		"spread" : 4.5,
-		"gameTime" : "2024-12-28T21:00Z",
-		"channel" : "FOX",
-		"foxId" : 253494,
-		"awayScore" : 65,
-		"homeScore" : 62,
-		"cover" : "UCLA"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-23T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 7,
-		"awayTeam" : "NEV",
-		"homeTeam" : "WYO",
-		"favorite" : "NEV",
-		"spread" : 6.5,
-		"gameTime" : "2024-12-28T21:00Z",
-		"channel" : "MTN",
-		"foxId" : 253718,
-		"awayScore" : 63,
-		"homeScore" : 66,
-		"cover" : "WYO"
-	},
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-23T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
 	{
 		"gameId" : 8,
-		"awayTeam" : "USU",
-		"homeTeam" : "SDSU",
-		"favorite" : "SDSU",
-		"spread" : 3.5,
-		"gameTime" : "2024-12-28T23:00Z",
-		"channel" : "FOX",
-		"foxId" : 253735,
-		"awayScore" : 67,
-		"homeScore" : 66,
-		"cover" : "USU"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-23T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 9,
-		"awayTeam" : "BEL",
-		"homeTeam" : "DRAKE",
-		"favorite" : "DRAKE",
-		"spread" : 8.5,
-		"gameTime" : "2024-12-29T19:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 254497,
-		"awayScore" : 46,
-		"homeScore" : 65,
-		"cover" : "DRAKE"
-	},
-	{
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-23T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
 		"gameId" : 10,
-		"awayTeam" : "NORFST",
-		"homeTeam" : "HPU",
-		"favorite" : "HPU",
-		"spread" : 9.5,
-		"gameTime" : "2024-12-29T19:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 257108,
-		"awayScore" : 77,
-		"homeScore" : 74,
-		"cover" : "NORFST"
-	}
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2025-12-23T00:00Z",
+		"channel" : "",
+		"foxId" : 0,
+		"active" : false
+    }
   ]
 }
