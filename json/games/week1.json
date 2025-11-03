@@ -27,7 +27,7 @@
 		"awayTeam" : "TEX",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2025-11-05T01:45Z",
 		"channel" : "ESPN",
 		"foxId" : 260041,
