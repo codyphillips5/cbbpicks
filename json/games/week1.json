@@ -22,14 +22,16 @@
 		"gameTime" : "2025-11-04T02:30Z",
 		"channel" : "TNT",
 		"foxId" : 259957,
-		"active" : true
+		"awayScore" : 66,
+		"homeScore" : 71,
+		"cover" : "NOVA"
     },
 	{
 		"gameId" : 3,
 		"awayTeam" : "TEX",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
-		"spread" : 7.5,
+		"spread" : 8.5,
 		"gameTime" : "2025-11-05T01:45Z",
 		"channel" : "ESPN",
 		"foxId" : 260041,
