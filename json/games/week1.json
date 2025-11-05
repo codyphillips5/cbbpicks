@@ -35,14 +35,16 @@
 		"gameTime" : "2025-11-05T01:45Z",
 		"channel" : "ESPN",
 		"foxId" : 260041,
-		"active" : true
+		"awayScore" : 60,
+		"homeScore" : 75,
+		"cover" : "DUKE"
     },
     {
 		"gameId" : 4,
 		"awayTeam" : "KAN",
 		"homeTeam" : "UNC",
 		"favorite" : "UNC",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2025-11-08T00:00Z",
 		"channel" : "ESPN",
 		"foxId" : 260117,
