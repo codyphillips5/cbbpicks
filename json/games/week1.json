@@ -48,7 +48,7 @@
 		"gameTime" : "2025-11-08T00:00Z",
 		"channel" : "ESPN",
 		"foxId" : 260117,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 5,
@@ -59,7 +59,7 @@
 		"gameTime" : "2025-11-08T01:00Z",
 		"channel" : "UEN",
 		"foxId" : 260115,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 6,
