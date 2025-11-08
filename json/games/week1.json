@@ -74,7 +74,7 @@
 		"gameTime" : "2025-11-08T17:00Z",
 		"channel" : "FS1",
 		"foxId" : 260153,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 7,
@@ -85,7 +85,7 @@
 		"gameTime" : "2025-11-08T21:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 262369,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 8,
@@ -96,18 +96,18 @@
 		"gameTime" : "2025-11-09T00:00Z",
 		"channel" : "FOX",
 		"foxId" : 261287,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 9,
 		"awayTeam" : "OKLA",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
-		"spread" : 11.5,
+		"spread" : 10.5,
 		"gameTime" : "2025-11-09T03:30Z",
 		"channel" : "ESPN2",
 		"foxId" : 261288,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
