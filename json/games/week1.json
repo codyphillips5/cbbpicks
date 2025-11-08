@@ -48,7 +48,9 @@
 		"gameTime" : "2025-11-08T00:00Z",
 		"channel" : "ESPN",
 		"foxId" : 260117,
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 87,
+		"cover" : "UNC"
     },
     {
 		"gameId" : 5,
@@ -59,7 +61,9 @@
 		"gameTime" : "2025-11-08T01:00Z",
 		"channel" : "UEN",
 		"foxId" : 260115,
-		"active" : true
+		"awayScore" : 80,
+		"homeScore" : 77,
+		"cover" : "VCU"
     },
     {
 		"gameId" : 6,
