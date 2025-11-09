@@ -74,7 +74,9 @@
 		"gameTime" : "2025-11-08T17:00Z",
 		"channel" : "FS1",
 		"foxId" : 260153,
-		"active" : true
+		"awayScore" : 103,
+		"homeScore" : 96,
+		"cover" : "ALA"
     },
     {
 		"gameId" : 7,
@@ -85,7 +87,9 @@
 		"gameTime" : "2025-11-08T21:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 262369,
-		"active" : true
+		"awayScore" : 105,
+		"homeScore" : 93,
+		"cover" : "VANDY"
     },
     {
 		"gameId" : 8,
