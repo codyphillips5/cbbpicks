@@ -100,7 +100,10 @@
 		"gameTime" : "2025-11-09T00:00Z",
 		"channel" : "FOX",
 		"foxId" : 261287,
-		"active" : true
+		"foxId" : 262369,
+		"awayScore" : 66,
+		"homeScore" : 69,
+		"cover" : "MSU"
     },
     {
 		"gameId" : 9,
@@ -111,18 +114,21 @@
 		"gameTime" : "2025-11-09T03:30Z",
 		"channel" : "ESPN2",
 		"foxId" : 261288,
-		"active" : true
+		"foxId" : 262369,
+		"awayScore" : 68,
+		"homeScore" : 83,
+		"cover" : "GONZ"
     },
     {
 		"gameId" : 10,
 		"awayTeam" : "MARQ",
 		"homeTeam" : "IND",
 		"favorite" : "IND",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2025-11-09T18:00Z",
 		"channel" : "ESPN",
 		"foxId" : 260176,
-		"active" : false
+		"active" : true
     }
   ]
 }
