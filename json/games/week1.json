@@ -100,7 +100,6 @@
 		"gameTime" : "2025-11-09T00:00Z",
 		"channel" : "FOX",
 		"foxId" : 261287,
-		"foxId" : 262369,
 		"awayScore" : 66,
 		"homeScore" : 69,
 		"cover" : "MSU"
@@ -114,7 +113,6 @@
 		"gameTime" : "2025-11-09T03:30Z",
 		"channel" : "ESPN2",
 		"foxId" : 261288,
-		"foxId" : 262369,
 		"awayScore" : 68,
 		"homeScore" : 83,
 		"cover" : "GONZ"
@@ -128,7 +126,9 @@
 		"gameTime" : "2025-11-09T18:00Z",
 		"channel" : "ESPN",
 		"foxId" : 260176,
-		"active" : true
+		"awayScore" : 77,
+		"homeScore" : 100,
+		"cover" : "IND"
     }
   ]
 }
