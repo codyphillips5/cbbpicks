@@ -5,11 +5,11 @@
 		"awayTeam" : "MSST",
 		"homeTeam" : "ISU",
 		"favorite" : "ISU",
-		"spread" : 4.5,
+		"spread" : 5.5,
 		"gameTime" : "2025-11-11T01:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 260187,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 2,
