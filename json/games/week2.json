@@ -9,40 +9,42 @@
 		"gameTime" : "2025-11-11T01:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 260187,
-		"active" : true
+		"awayScore" : 80,
+		"homeScore" : 96,
+		"cover" : "ISU"
     },
     {
 		"gameId" : 2,
 		"awayTeam" : "UK",
 		"homeTeam" : "LOU",
 		"favorite" : "LOU",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2025-11-12T01:00Z",
 		"channel" : "ESPN",
 		"foxId" : 260210,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 3,
 		"awayTeam" : "TTU",
 		"homeTeam" : "ILL",
 		"favorite" : "ILL",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2025-11-12T01:30Z",
 		"channel" : "FS1",
 		"foxId" : 260242,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 4,
 		"awayTeam" : "CREIGH",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
-		"spread" : "-",
+		"spread" : 12.5,
 		"gameTime" : "2025-11-12T03:00Z",
 		"channel" : "ESPN",
 		"foxId" : 261648,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 5,
