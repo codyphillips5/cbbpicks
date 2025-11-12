@@ -57,7 +57,7 @@
 		"awayTeam" : "PURD",
 		"homeTeam" : "ALA",
 		"favorite" : "ALA",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2025-11-14T00:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 260283,
