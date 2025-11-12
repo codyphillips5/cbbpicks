@@ -22,7 +22,9 @@
 		"gameTime" : "2025-11-12T01:00Z",
 		"channel" : "ESPN",
 		"foxId" : 260210,
-		"active" : true
+		"awayScore" : 88,
+		"homeScore" : 96,
+		"cover" : "LOU"
     },
     {
 		"gameId" : 3,
