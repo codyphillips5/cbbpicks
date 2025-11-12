@@ -35,7 +35,9 @@
 		"gameTime" : "2025-11-12T01:30Z",
 		"channel" : "FS1",
 		"foxId" : 260242,
-		"active" : true
+		"awayScore" : 77,
+		"homeScore" : 81,
+		"cover" : "TTU"
     },
     {
 		"gameId" : 4,
@@ -46,7 +48,9 @@
 		"gameTime" : "2025-11-12T03:00Z",
 		"channel" : "ESPN",
 		"foxId" : 261648,
-		"active" : true
+		"awayScore" : 63,
+		"homeScore" : 90,
+		"cover" : "GONZ"
     },
     {
 		"gameId" : 5,
