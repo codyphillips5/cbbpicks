@@ -61,18 +61,20 @@
 		"gameTime" : "2025-11-14T00:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 260283,
-		"active" : true
+		"awayScore" : 87,
+		"homeScore" : 80,
+		"cover" : "PURD"
     },
     {
 		"gameId" : 6,
 		"awayTeam" : "ZONA",
 		"homeTeam" : "UCLA",
-		"favorite" : "UCLA",
-		"spread" : "-",
+		"favorite" : "ZONA",
+		"spread" : 3.5,
 		"gameTime" : "2025-11-15T03:00Z",
 		"channel" : "Peacock",
 		"foxId" : 260304,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 7,
