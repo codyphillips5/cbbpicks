@@ -87,7 +87,9 @@
 		"gameTime" : "2025-11-15T17:00Z",
 		"channel" : "Peacock",
 		"foxId" : 260337,
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 79,
+		"cover" : "GTOWN"
     },
 	{
 		"gameId" : 8,
