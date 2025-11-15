@@ -74,7 +74,9 @@
 		"gameTime" : "2025-11-15T03:00Z",
 		"channel" : "Peacock",
 		"foxId" : 260304,
-		"active" : true
+		"awayScore" : 69,
+		"homeScore" : 65,
+		"cover" : "ZONA"
     },
     {
 		"gameId" : 7,
@@ -85,7 +87,7 @@
 		"gameTime" : "2025-11-15T17:00Z",
 		"channel" : "Peacock",
 		"foxId" : 260337,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 8,
@@ -96,18 +98,18 @@
 		"gameTime" : "2025-11-16T00:00Z",
 		"channel" : "B1G",
 		"foxId" : 260334,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 9,
 		"awayTeam" : "BYU",
 		"homeTeam" : "UCONN",
 		"favorite" : "UCONN",
-		"spread" : 4.5,
+		"spread" : 5.5,
 		"gameTime" : "2025-11-16T00:00Z",
 		"channel" : "FOX",
 		"foxId" : 260340,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
