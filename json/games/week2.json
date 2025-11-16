@@ -100,7 +100,9 @@
 		"gameTime" : "2025-11-16T00:00Z",
 		"channel" : "B1G",
 		"foxId" : 260334,
-		"active" : true
+		"awayScore" : 99,
+		"homeScore" : 105,
+		"cover" : "NEB"
     },
     {
 		"gameId" : 9,
@@ -111,7 +113,10 @@
 		"gameTime" : "2025-11-16T00:00Z",
 		"channel" : "FOX",
 		"foxId" : 260340,
-		"active" : true
+		"foxId" : 260334,
+		"awayScore" : 84,
+		"homeScore" : 86,
+		"cover" : "BYU"
     },
     {
 		"gameId" : 10,
@@ -122,7 +127,7 @@
 		"gameTime" : "2025-11-16T20:00Z",
 		"channel" : "ESPN",
 		"foxId" : 261371,
-		"active" : false
+		"active" : true
     }
   ]
 }
