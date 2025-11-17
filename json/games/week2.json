@@ -127,7 +127,9 @@
 		"gameTime" : "2025-11-16T20:00Z",
 		"channel" : "ESPN",
 		"foxId" : 261371,
-		"active" : true
+		"awayScore" : 73,
+		"homeScore" : 72,
+		"cover" : "AUB"
     }
   ]
 }
