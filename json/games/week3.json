@@ -9,18 +9,18 @@
 		"gameTime" : "2025-11-18T23:30Z",
 		"channel" : "ESPN",
 		"foxId" : 260408,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 2,
 		"awayTeam" : "DUKE",
 		"homeTeam" : "KAN",
 		"favorite" : "DUKE",
-		"spread" : 7.5,
+		"spread" : 10.5,
 		"gameTime" : "2025-11-19T02:00Z",
 		"channel" : "ESPN",
 		"foxId" : 260424,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 3,
