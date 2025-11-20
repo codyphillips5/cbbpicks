@@ -48,18 +48,20 @@
 		"gameTime" : "2025-11-20T02:00Z",
 		"channel" : "FS1",
 		"foxId" : 260455,
-		"active" : true
+		"awayScore" : 90,
+		"homeScore" : 86,
+		"cover" : "ALA"
     },
     {
 		"gameId" : 5,
 		"awayTeam" : "WAKE",
 		"homeTeam" : "TTU",
 		"favorite" : "TTU",
-		"spread" : "-",
+		"spread" : 9.5,
 		"gameTime" : "2025-11-21T01:30Z",
 		"channel" : "CBSSN",
 		"foxId" : 261411,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 6,
