@@ -74,7 +74,7 @@
 		"gameTime" : "2025-11-21T21:00Z",
 		"channel" : "Peacock",
 		"foxId" : 260479,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 7,
@@ -85,7 +85,7 @@
 		"gameTime" : "2025-11-21T23:30Z",
 		"channel" : "ESPN2",
 		"foxId" : 261421,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 8,
@@ -96,29 +96,29 @@
 		"gameTime" : "2025-11-21T23:30Z",
 		"channel" : "ESPN2",
 		"foxId" : 261426,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 9,
 		"awayTeam" : "KSST",
 		"homeTeam" : "NEB",
 		"favorite" : "NEB",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2025-11-22T02:30Z",
 		"channel" : "Peacock",
 		"foxId" : 263951,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
 		"awayTeam" : "PURD",
 		"homeTeam" : "TTU",
 		"favorite" : "PURD",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2025-11-22T02:30Z",
 		"channel" : "CBSSN",
 		"foxId" : 263949,
-		"active" : false
+		"active" : true
     }
   ]
 }
