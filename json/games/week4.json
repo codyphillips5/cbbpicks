@@ -40,7 +40,7 @@
 		"favorite" : "TBD",
 		"spread" : "-",
 		"gameTime" : "2025-11-26T19:30Z",
-		"channel" : "Maui Championship · ESPN",
+		"channel" : "Maui Championship • ESPN",
 		"foxId" : 263977,
 		"active" : false
     },
@@ -51,7 +51,7 @@
 		"favorite" : "TBD",
 		"spread" : "-",
 		"gameTime" : "2025-11-27T02:30Z",
-		"channel" : "Players Era Championship · TNT",
+		"channel" : "Players Era Championship • TNT",
 		"foxId" : 263995,
 		"active" : false
     },
@@ -95,7 +95,7 @@
 		"favorite" : "TBD",
 		"spread" : "-",
 		"gameTime" : "2025-11-25T18:00Z",
-		"channel" : "Battle 4 Atlantis · ESPN2",
+		"channel" : "Battle 4 Atlantis • ESPN2",
 		"foxId" : 264010,
 		"active" : false
     },
@@ -106,7 +106,7 @@
 		"favorite" : "TBD",
 		"spread" : "-",
 		"gameTime" : "2025-11-25T22:30Z",
-		"channel" : "Rady Children's Invitational Championship · FOX",
+		"channel" : "Rady Children's Invitational Championship • FOX",
 		"foxId" : 264016,
 		"active" : false
     }
