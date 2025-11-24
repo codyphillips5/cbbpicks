@@ -74,7 +74,9 @@
 		"gameTime" : "2025-11-21T21:00Z",
 		"channel" : "Peacock",
 		"foxId" : 260479,
-		"active" : true
+		"awayScore" : 70,
+		"homeScore" : 98,
+		"cover" : "BYU"
     },
     {
 		"gameId" : 7,
@@ -85,7 +87,9 @@
 		"gameTime" : "2025-11-21T23:30Z",
 		"channel" : "ESPN2",
 		"foxId" : 261421,
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 64,
+		"cover" : "LOU"
     },
     {
 		"gameId" : 8,
@@ -96,7 +100,9 @@
 		"gameTime" : "2025-11-21T23:30Z",
 		"channel" : "ESPN2",
 		"foxId" : 261426,
-		"active" : true
+		"awayScore" : 67,
+		"homeScore" : 70,
+		"cover" : "WVU"
     },
 	{
 		"gameId" : 9,
@@ -107,7 +113,9 @@
 		"gameTime" : "2025-11-22T02:30Z",
 		"channel" : "Peacock",
 		"foxId" : 263951,
-		"active" : true
+		"awayScore" : 85,
+		"homeScore" : 86,
+		"cover" : "KSST"
     },
     {
 		"gameId" : 10,
@@ -118,7 +126,9 @@
 		"gameTime" : "2025-11-22T02:30Z",
 		"channel" : "CBSSN",
 		"foxId" : 263949,
-		"active" : true
+		"awayScore" : 86,
+		"homeScore" : 56,
+		"cover" : "PURD"
     }
   ]
 }
