@@ -44,22 +44,22 @@
 		"awayTeam" : "AZST",
 		"homeTeam" : "USC",
 		"favorite" : "USC",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2025-11-26T19:30Z",
 		"channel" : "Maui Championship • ESPN",
 		"foxId" : 263977,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 5,
 		"awayTeam" : "GONZ",
 		"homeTeam" : "MICH",
 		"favorite" : "MICH",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2025-11-27T02:30Z",
 		"channel" : "Players Era Championship • TNT",
 		"foxId" : 263995,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 6,
