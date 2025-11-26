@@ -48,7 +48,9 @@
 		"gameTime" : "2025-11-26T19:30Z",
 		"channel" : "Maui Championship • ESPN",
 		"foxId" : 263977,
-		"active" : true
+		"awayScore" : 75,
+		"homeScore" : 88,
+		"cover" : "USC"
     },
     {
 		"gameId" : 5,
@@ -66,7 +68,7 @@
 		"awayTeam" : "UNC",
 		"homeTeam" : "MSU",
 		"favorite" : "MSU",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2025-11-27T21:30Z",
 		"channel" : "FOX",
 		"foxId" : 260611,
@@ -77,7 +79,7 @@
 		"awayTeam" : "ARK",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
-		"spread" : "-",
+		"spread" : 10.5,
 		"gameTime" : "2025-11-28T01:00Z",
 		"channel" : "CBS",
 		"foxId" : 260615,
