@@ -22,7 +22,9 @@
 		"gameTime" : "2025-11-25T23:00Z",
 		"channel" : "TNT",
 		"foxId" : 261488,
-		"active" : true
+		"awayScore" : 76,
+		"homeScore" : 73,
+		"cover" : "TENN"
     },
     {
 		"gameId" : 3,
@@ -38,8 +40,8 @@
     {
 		"gameId" : 4,
 		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"homeTeam" : "USC",
+		"favorite" : "USC",
 		"spread" : "-",
 		"gameTime" : "2025-11-26T19:30Z",
 		"channel" : "Maui Championship • ESPN",
