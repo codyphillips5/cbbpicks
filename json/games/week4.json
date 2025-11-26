@@ -35,11 +35,13 @@
 		"gameTime" : "2025-11-26T01:30Z",
 		"channel" : "TNT",
 		"foxId" : 261493,
-		"active" : true
+		"awayScore" : 102,
+		"homeScore" : 72,
+		"cover" : "MICH"
     },
     {
 		"gameId" : 4,
-		"awayTeam" : "TBD",
+		"awayTeam" : "AZST",
 		"homeTeam" : "USC",
 		"favorite" : "USC",
 		"spread" : "-",
@@ -51,8 +53,8 @@
     {
 		"gameId" : 5,
 		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"homeTeam" : "MICH",
+		"favorite" : "MICH",
 		"spread" : "-",
 		"gameTime" : "2025-11-27T02:30Z",
 		"channel" : "Players Era Championship • TNT",
