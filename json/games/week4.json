@@ -61,18 +61,20 @@
 		"gameTime" : "2025-11-27T02:30Z",
 		"channel" : "Players Era Championship • TNT",
 		"foxId" : 263995,
-		"active" : true
+		"awayScore" : 61,
+		"homeScore" : 101,
+		"cover" : "MICH"
     },
     {
 		"gameId" : 6,
 		"awayTeam" : "UNC",
 		"homeTeam" : "MSU",
 		"favorite" : "MSU",
-		"spread" : 2.5,
+		"spread" : 1.5,
 		"gameTime" : "2025-11-27T21:30Z",
 		"channel" : "FOX",
 		"foxId" : 260611,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 7,
@@ -83,7 +85,7 @@
 		"gameTime" : "2025-11-28T01:00Z",
 		"channel" : "CBS",
 		"foxId" : 260615,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 8,
