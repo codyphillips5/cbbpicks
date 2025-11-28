@@ -74,7 +74,9 @@
 		"gameTime" : "2025-11-27T21:30Z",
 		"channel" : "FOX",
 		"foxId" : 260611,
-		"active" : true
+		"awayScore" : 58,
+		"homeScore" : 74,
+		"cover" : "MSU"
     },
     {
 		"gameId" : 7,
@@ -85,40 +87,42 @@
 		"gameTime" : "2025-11-28T01:00Z",
 		"channel" : "CBS",
 		"foxId" : 260615,
-		"active" : true
+		"awayScore" : 71,
+		"homeScore" : 80,
+		"cover" : "ARK"
     },
 	{
 		"gameId" : 8,
 		"awayTeam" : "ILL",
 		"homeTeam" : "UCONN",
 		"favorite" : "UCONN",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2025-11-28T17:30Z",
 		"channel" : "FOX",
 		"foxId" : 260626,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 9,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
-		"spread" : "-",
+		"awayTeam" : "VANDY",
+		"homeTeam" : "STMARY",
+		"favorite" : "VANDY",
+		"spread" : 3.5,
 		"gameTime" : "2025-11-28T18:00Z",
 		"channel" : "Battle 4 Atlantis • ESPN2",
 		"foxId" : 264010,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
-		"spread" : "-",
+		"awayTeam" : "TCU",
+		"homeTeam" : "WIS",
+		"favorite" : "WIS",
+		"spread" : 5.5,
 		"gameTime" : "2025-11-28T22:30Z",
 		"channel" : "Rady Children's Invitational Championship • FOX",
 		"foxId" : 264016,
-		"active" : false
+		"active" : true
     }
   ]
 }
