@@ -100,7 +100,9 @@
 		"gameTime" : "2025-11-28T17:30Z",
 		"channel" : "FOX",
 		"foxId" : 260626,
-		"active" : true
+		"awayScore" : 61,
+		"homeScore" : 74,
+		"cover" : "UCONN"
     },
     {
 		"gameId" : 9,
@@ -111,7 +113,9 @@
 		"gameTime" : "2025-11-28T18:00Z",
 		"channel" : "Battle 4 Atlantis • ESPN2",
 		"foxId" : 264010,
-		"active" : true
+		"awayScore" : 96,
+		"homeScore" : 71,
+		"cover" : "VANDY"
     },
     {
 		"gameId" : 10,
