@@ -126,7 +126,9 @@
 		"gameTime" : "2025-11-28T22:30Z",
 		"channel" : "Rady Children's Invitational Championship • FOX",
 		"foxId" : 264016,
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 63,
+		"cover" : "TCU"
     }
   ]
 }
