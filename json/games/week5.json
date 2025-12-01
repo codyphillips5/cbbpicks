@@ -16,7 +16,7 @@
 		"awayTeam" : "MIA",
 		"homeTeam" : "MISS",
 		"favorite" : "MISS",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2025-12-03T02:00Z",
 		"channel" : "SECN",
 		"foxId" : 262856,
