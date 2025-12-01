@@ -2,13 +2,13 @@
   "games": [
     {
 		"gameId" : 1,
-		"awayTeam" : "TENN",
-		"homeTeam" : "SYR",
-		"favorite" : "TENN",
-		"spread" : 5.5,
-		"gameTime" : "2025-12-03T00:00Z",
+		"awayTeam" : "UCONN",
+		"homeTeam" : "KAN",
+		"favorite" : "UCONN",
+		"spread" : 1.5,
+		"gameTime" : "2025-12-03T02:00Z",
 		"channel" : "ESPN2",
-		"foxId" : 260691,
+		"foxId" : 260700,
 		"active" : false
     },
     {
@@ -35,13 +35,13 @@
     },
     {
 		"gameId" : 4,
-		"awayTeam" : "NW",
-		"homeTeam" : "WIS",
-		"favorite" : "WIS",
+		"awayTeam" : "SMU",
+		"homeTeam" : "VANDY",
+		"favorite" : "VANDY",
 		"spread" : "-",
-		"gameTime" : "2025-12-04T02:00Z",
-		"channel" : "B1G",
-		"foxId" : 262508,
+		"gameTime" : "2025-12-04T02:15Z",
+		"channel" : "SECN",
+		"foxId" : 260729,
 		"active" : false
     },
     {
