@@ -2,13 +2,13 @@
   "games": [
     {
 		"gameId" : 1,
-		"awayTeam" : "FLA",
-		"homeTeam" : "DUKE",
-		"favorite" : "DUKE",
-		"spread" : "-",
-		"gameTime" : "2025-12-03T00:30Z",
-		"channel" : "ESPN",
-		"foxId" : 260706,
+		"awayTeam" : "TENN",
+		"homeTeam" : "SYR",
+		"favorite" : "TENN",
+		"spread" : 5.5,
+		"gameTime" : "2025-12-03T00:00Z",
+		"channel" : "ESPN2",
+		"foxId" : 260691,
 		"active" : false
     },
     {
@@ -63,7 +63,7 @@
 		"spread" : "-",
 		"gameTime" : "2025-12-06T00:00Z",
 		"channel" : "ESPN2",
-		"foxId" : 0,
+		"foxId" : 260758,
 		"active" : false
     },
     {
@@ -74,7 +74,7 @@
 		"spread" : "-",
 		"gameTime" : "2025-12-06T00:30Z",
 		"channel" : "TNT",
-		"foxId" : 0,
+		"foxId" : 260757,
 		"active" : false
     },
 	{
@@ -90,6 +90,17 @@
     },
     {
 		"gameId" : 9,
+		"awayTeam" : "ISU",
+		"homeTeam" : "PURD",
+		"favorite" : "PURD",
+		"spread" : "-",
+		"gameTime" : "2025-12-06T17:00Z",
+		"channel" : "CBS",
+		"foxId" : 260789,
+		"active" : false
+    },
+    {
+		"gameId" : 10,
 		"awayTeam" : "LOU",
 		"homeTeam" : "IND",
 		"favorite" : "IND",
@@ -97,17 +108,6 @@
 		"gameTime" : "2025-12-06T19:00Z",
 		"channel" : "CBS",
 		"foxId" : 260814,
-		"active" : false
-    },
-    {
-		"gameId" : 10,
-		"awayTeam" : "ILL",
-		"homeTeam" : "TENN",
-		"favorite" : "TENN",
-		"spread" : "-",
-		"gameTime" : "2025-12-07T01:00Z",
-		"channel" : "ESPN",
-		"foxId" : 260786,
 		"active" : false
     }
   ]
