@@ -9,7 +9,7 @@
 		"gameTime" : "2025-12-03T02:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 260700,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 2,
@@ -20,7 +20,7 @@
 		"gameTime" : "2025-12-03T02:00Z",
 		"channel" : "SECN",
 		"foxId" : 262856,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 3,
