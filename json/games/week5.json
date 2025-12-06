@@ -98,7 +98,9 @@
 		"gameTime" : "2025-12-06T17:00Z",
 		"channel" : "CBS",
 		"foxId" : 260789,
-		"active" : true
+		"awayScore" : 81,
+		"homeScore" : 58,
+		"cover" : "ISU"
     },
     {
 		"gameId" : 9,
