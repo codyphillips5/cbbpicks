@@ -113,7 +113,9 @@
 		"gameTime" : "2025-12-06T19:00Z",
 		"channel" : "CBS",
 		"foxId" : 260814,
-		"active" : true
+		"awayScore" : 87,
+		"homeScore" : 78,
+		"cover" : "LOU"
     },
     {
 		"gameId" : 10,
