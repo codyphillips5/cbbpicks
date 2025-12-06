@@ -87,7 +87,9 @@
 		"gameTime" : "2025-12-06T17:00Z",
 		"channel" : "FOX",
 		"foxId" : 261603,
-		"active" : true
+		"awayScore" : 66,
+		"homeScore" : 60,
+		"cover" : "DUKE"
     },
 	{
 		"gameId" : 8,
