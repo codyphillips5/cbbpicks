@@ -126,7 +126,9 @@
 		"gameTime" : "2025-12-07T01:00Z",
 		"channel" : "ESPN",
 		"foxId" : 260786,
-		"active" : true
+		"awayScore" : 75,
+		"homeScore" : 62,
+		"cover" : "ILL"
     }
   ]
 }
