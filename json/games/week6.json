@@ -9,7 +9,9 @@
 		"gameTime" : "2025-12-09T23:30Z",
 		"channel" : "ESPN",
 		"foxId" : 260862,
-		"active" : true
+		"awayScore" : 64,
+		"homeScore" : 67,
+		"cover" : "CLEM"
     },
     {
 		"gameId" : 2,
