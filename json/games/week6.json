@@ -22,7 +22,9 @@
 		"gameTime" : "2025-12-10T02:00Z",
 		"channel" : "ESPN",
 		"foxId" : 260863,
-		"active" : true
+		"awayScore" : 73,
+		"homeScore" : 77,
+		"cover" : "UCONN"
     },
     {
 		"gameId" : 3,
