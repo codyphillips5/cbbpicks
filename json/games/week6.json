@@ -44,11 +44,11 @@
 		"awayTeam" : "IOWA",
 		"homeTeam" : "ISU",
 		"favorite" : "ISU",
-		"spread" : 12.5,
+		"spread" : 11.5,
 		"gameTime" : "2025-12-12T01:00Z",
 		"channel" : "FS1",
 		"foxId" : 260879,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 5,
