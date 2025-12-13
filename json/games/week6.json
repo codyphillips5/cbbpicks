@@ -61,51 +61,51 @@
 		"gameTime" : "2025-12-13T17:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 261652,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 6,
 		"awayTeam" : "KAN",
 		"homeTeam" : "NCST",
 		"favorite" : "NCST",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2025-12-13T22:30Z",
 		"channel" : "ESPN",
 		"foxId" : 260896,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 7,
 		"awayTeam" : "SCU",
 		"homeTeam" : "AZST",
-		"favorite" : "AZST",
-		"spread" : "-",
+		"favorite" : "SCU",
+		"spread" : 2.5,
 		"gameTime" : "2025-12-14T00:00Z",
 		"channel" : "TNT",
 		"foxId" : 260949,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 8,
 		"awayTeam" : "IND",
 		"homeTeam" : "UK",
 		"favorite" : "UK",
-		"spread" : 4.5,
+		"spread" : 3.5,
 		"gameTime" : "2025-12-14T00:30Z",
 		"channel" : "ESPN",
 		"foxId" : 260921,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 9,
 		"awayTeam" : "SMU",
 		"homeTeam" : "LSU",
-		"favorite" : "LSU",
+		"favorite" : "SMU",
 		"spread" : 1.5,
 		"gameTime" : "2025-12-14T01:30Z",
 		"channel" : "SECN",
 		"foxId" : 260901,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
@@ -116,7 +116,7 @@
 		"gameTime" : "2025-12-14T02:30Z",
 		"channel" : "ESPN",
 		"foxId" : 260909,
-		"active" : false
+		"active" : true
     }
   ]
 }
