@@ -35,13 +35,13 @@
     },
     {
 		"gameId" : 4,
-		"awayTeam" : "FAU",
-		"homeTeam" : "STMARY",
-		"favorite" : "STMARY",
+		"awayTeam" : "BEL",
+		"homeTeam" : "UCIRV",
+		"favorite" : "UCIRV",
 		"spread" : "-",
-		"gameTime" : "2025-12-20T03:00Z",
+		"gameTime" : "2025-12-20T02:00Z",
 		"channel" : "ESPN+",
-		"foxId" : 262523,
+		"foxId" : 263464,
 		"active" : false
     },
     {
