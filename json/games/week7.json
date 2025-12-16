@@ -4,12 +4,12 @@
 		"gameId" : 1,
 		"awayTeam" : "LOU",
 		"homeTeam" : "TENN",
-		"favorite" : "LOU",
+		"favorite" : "TENN",
 		"spread" : 1.5,
 		"gameTime" : "2025-12-17T00:00Z",
 		"channel" : "ESPN",
 		"foxId" : 260983,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 2,

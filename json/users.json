@@ -5,21 +5,21 @@
 		"FirstName" : "Angie",
 		"LastName" : "Phillips",
 		"Email" : "acphillips5@yahoo.com",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 2,
 		"FirstName" : "Brandon",
 		"LastName" : "Oathout",
 		"Email" : "brandon_oathout@yahoo.com",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 3,
 		"FirstName" : "Chris",
 		"LastName" : "Record",
 		"Email" : "chris.record@cincinnatizoo.org",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 4,
@@ -33,21 +33,21 @@
 		"FirstName" : "Craig",
 		"LastName" : "Willett",
 		"Email" : "craig.willett@gmail.com",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 6,
 		"FirstName" : "David",
 		"LastName" : "Murray",
 		"Email" : "free23ty@yahoo.com",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 7,
 		"FirstName" : "Hanny",
 		"LastName" : "Wiesenhahn",
 		"Email" : "hannah.wiesenhahn@gmail.com",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 8,
@@ -61,63 +61,63 @@
 		"FirstName" : "Jake",
 		"LastName" : "Borkosky",
 		"Email" : "jakeborkosky5253@gmail.com",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 10,
 		"FirstName" : "Mario",
 		"LastName" : "Jansen",
 		"Email" : "jansenmariod@gmail.com",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 11,
 		"FirstName" : "Jarred",
 		"LastName" : "Perrmann",
 		"Email" : "jperrmann1@gmail.com",
-		"paid" : false
+		"paid" : true
     },	
 	{
 		"userId" : 12,
 		"FirstName" : "Katie",
 		"LastName" : "Nientimp",
 		"Email" : "katiephillips11@yahoo.com",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 13,
 		"FirstName" : "Liz",
 		"LastName" : "Hurley Deuber",
 		"Email" : "lizhurley021@gmail.com",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 14,
 		"FirstName" : "Luke",
 		"LastName" : "Nientimp",
 		"Email" : "lnientimp@gmail.com",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 15,
 		"FirstName" : "Nick",
 		"LastName" : "Philthy",
 		"Email" : "nphilli8@gmail.com",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 16,
 		"FirstName" : "Mitchell",
 		"LastName" : "Schultz",
 		"Email" : "schultzmitchell93@gmail.com",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 17,
 		"FirstName" : "Sam",
 		"LastName" : "Perrdresmann",
 		"Email" : "sdresmann@gmail.com",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 18,
@@ -131,21 +131,21 @@
 		"FirstName" : "Keith",
 		"LastName" : "Phillips",
 		"Email" : "utvols42@yahoo.com",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 20,
 		"FirstName" : "Sam",
 		"LastName" : "Williams",
 		"Email" : "williamssm1@yahoo.com",
-		"paid" : false
+		"paid" : true
     },
 	{
 		"userId" : 21,
 		"FirstName" : "Zac",
 		"LastName" : "Gorman",
 		"Email" : "zacmgorman@gmail.com",
-		"paid" : false
+		"paid" : true
     }
 	]
 }
