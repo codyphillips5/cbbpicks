@@ -35,7 +35,7 @@
 		"gameTime" : "2025-12-20T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 261035,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 4,
@@ -46,7 +46,7 @@
 		"gameTime" : "2025-12-20T02:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 263464,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 5,
