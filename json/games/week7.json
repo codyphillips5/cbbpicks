@@ -35,7 +35,11 @@
 		"gameTime" : "2025-12-20T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 261035,
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 76,
+		"homeScore" : 66,
+		"cover" : "NOVA"
     },
     {
 		"gameId" : 4,
@@ -46,7 +50,9 @@
 		"gameTime" : "2025-12-20T02:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 263464,
-		"active" : true
+		"awayScore" : 84,
+		"homeScore" : 58,
+		"cover" : "BEL"
     },
     {
 		"gameId" : 5,
