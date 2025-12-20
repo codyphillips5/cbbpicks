@@ -59,11 +59,11 @@
 		"awayTeam" : "CSU",
 		"homeTeam" : "USU",
 		"favorite" : "USU",
-		"spread" : 6.5,
+		"spread" : 7.5,
 		"gameTime" : "2025-12-20T19:00Z",
 		"channel" : "CBSSN",
 		"foxId" : 263792,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 6,
@@ -74,7 +74,7 @@
 		"gameTime" : "2025-12-20T20:00Z",
 		"channel" : "CBS",
 		"foxId" : 261055,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 7,
@@ -85,40 +85,40 @@
 		"gameTime" : "2025-12-20T22:30Z",
 		"channel" : "CBS",
 		"foxId" : 261703,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 8,
 		"awayTeam" : "AUB",
 		"homeTeam" : "PURD",
 		"favorite" : "PURD",
-		"spread" : 9.5,
+		"spread" : 8.5,
 		"gameTime" : "2025-12-20T23:30Z",
 		"channel" : "NBCSN | Peacock",
 		"foxId" : 261045,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 9,
 		"awayTeam" : "DUKE",
 		"homeTeam" : "TTU",
 		"favorite" : "DUKE",
-		"spread" : 8.5,
+		"spread" : 9.5,
 		"gameTime" : "2025-12-21T01:00Z",
 		"channel" : "ESPN",
 		"foxId" : 261070,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
 		"awayTeam" : "STAN",
 		"homeTeam" : "COLO",
 		"favorite" : "COLO",
-		"spread" : 2.5,
+		"spread" : 5.5,
 		"gameTime" : "2025-12-21T01:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 261057,
-		"active" : false
+		"active" : true
     }
   ]
 }
