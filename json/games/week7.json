@@ -63,7 +63,9 @@
 		"gameTime" : "2025-12-20T19:00Z",
 		"channel" : "CBSSN",
 		"foxId" : 263792,
-		"active" : true
+		"awayScore" : 58,
+		"homeScore" : 100,
+		"cover" : "USU"
     },
     {
 		"gameId" : 6,
@@ -74,7 +76,9 @@
 		"gameTime" : "2025-12-20T20:00Z",
 		"channel" : "CBS",
 		"foxId" : 261055,
-		"active" : true
+		"awayScore" : 71,
+		"homeScore" : 70,
+		"cover" : "OSU"
     },
     {
 		"gameId" : 7,
@@ -85,7 +89,9 @@
 		"gameTime" : "2025-12-20T22:30Z",
 		"channel" : "CBS",
 		"foxId" : 261703,
-		"active" : true
+		"awayScore" : 85,
+		"homeScore" : 94,
+		"cover" : "HOU"
     },
 	{
 		"gameId" : 8,
