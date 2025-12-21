@@ -115,7 +115,9 @@
 		"gameTime" : "2025-12-21T01:00Z",
 		"channel" : "ESPN",
 		"foxId" : 261070,
-		"active" : true
+		"awayScore" : 81,
+		"homeScore" : 82,
+		"cover" : "TTU"
     },
     {
 		"gameId" : 10,
@@ -126,7 +128,9 @@
 		"gameTime" : "2025-12-21T01:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 261057,
-		"active" : true
+		"awayScore" : 77,
+		"homeScore" : 68,
+		"cover" : "STAN"
     }
   ]
 }
