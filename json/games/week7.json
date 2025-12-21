@@ -102,7 +102,9 @@
 		"gameTime" : "2025-12-20T23:30Z",
 		"channel" : "NBCSN | Peacock",
 		"foxId" : 261045,
-		"active" : true
+		"awayScore" : 60,
+		"homeScore" : 88,
+		"cover" : "PURD"
     },
     {
 		"gameId" : 9,
