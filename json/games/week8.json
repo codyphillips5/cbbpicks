@@ -2,17 +2,6 @@
   "games": [
     {
 		"gameId" : 1,
-		"awayTeam" : "AMER",
-		"homeTeam" : "UVA",
-		"favorite" : "UVA",
-		"spread" : "-",
-		"gameTime" : "2025-12-22T23:00Z",
-		"channel" : "ACCN",
-		"foxId" : 261116,
-		"active" : false
-    },
-    {
-		"gameId" : 2,
 		"awayTeam" : "SIENA",
 		"homeTeam" : "IND",
 		"favorite" : "IND",
@@ -23,7 +12,7 @@
 		"active" : false
     },
     {
-		"gameId" : 3,
+		"gameId" : 2,
 		"awayTeam" : "ILL",
 		"homeTeam" : "MIZ",
 		"favorite" : "MIZ",
@@ -34,7 +23,7 @@
 		"active" : false
     },
     {
-		"gameId" : 4,
+		"gameId" : 3,
 		"awayTeam" : "DAV",
 		"homeTeam" : "KAN",
 		"favorite" : "KAN",
@@ -45,7 +34,7 @@
 		"active" : false
     },
     {
-		"gameId" : 5,
+		"gameId" : 4,
 		"awayTeam" : "UNI",
 		"homeTeam" : "STMARY",
 		"favorite" : "STMARY",
@@ -56,7 +45,7 @@
 		"active" : false
     },
     {
-		"gameId" : 6,
+		"gameId" : 5,
 		"awayTeam" : "FAU",
 		"homeTeam" : "UCF",
 		"favorite" : "UCF",
@@ -64,6 +53,17 @@
 		"gameTime" : "2025-12-23T19:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 262386,
+		"active" : false
+    },
+    {
+		"gameId" : 6,
+		"awayTeam" : "HARV",
+		"homeTeam" : "SJU",
+		"favorite" : "SJU",
+		"spread" : "-",
+		"gameTime" : "2025-12-23T23:00Z",
+		"channel" : "FS1",
+		"foxId" : 261129,
 		"active" : false
     },
     {
@@ -90,17 +90,6 @@
     },
     {
 		"gameId" : 9,
-		"awayTeam" : "CHSO",
-		"homeTeam" : "RICH",
-		"favorite" : "RICH",
-		"spread" : "-",
-		"gameTime" : "2025-12-28T21:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 261139,
-		"active" : false
-    },
-    {
-		"gameId" : 10,
 		"awayTeam" : "PENN",
 		"homeTeam" : "GMU",
 		"favorite" : "GMU",
@@ -108,6 +97,17 @@
 		"gameTime" : "2025-12-28T22:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 262171,
+		"active" : false
+    },
+    {
+		"gameId" : 10,
+		"awayTeam" : "SCU",
+		"homeTeam" : "OREST",
+		"favorite" : "OREST",
+		"spread" : "-",
+		"gameTime" : "2025-12-28T23:00Z",
+		"channel" : "ESPN+",
+		"foxId" : 263318,
 		"active" : false
     }
   ]
