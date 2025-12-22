@@ -71,7 +71,7 @@
 		"awayTeam" : "NOVA",
 		"homeTeam" : "SETON",
 		"favorite" : "SETON",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2025-12-24T00:00Z",
 		"channel" : "NBCSN | Peacock",
 		"foxId" : 262170,
