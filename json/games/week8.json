@@ -5,11 +5,11 @@
 		"awayTeam" : "SIENA",
 		"homeTeam" : "IND",
 		"favorite" : "IND",
-		"spread" : 23.5,
+		"spread" : 24.5,
 		"gameTime" : "2025-12-22T23:00Z",
 		"channel" : "B1G",
 		"foxId" : 261103,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 2,
@@ -20,29 +20,29 @@
 		"gameTime" : "2025-12-23T01:00Z",
 		"channel" : "FS1",
 		"foxId" : 261115,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 3,
 		"awayTeam" : "DAV",
 		"homeTeam" : "KAN",
 		"favorite" : "KAN",
-		"spread" : 17.5,
+		"spread" : 16.5,
 		"gameTime" : "2025-12-23T01:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 261112,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 4,
 		"awayTeam" : "UNI",
 		"homeTeam" : "STMARY",
 		"favorite" : "STMARY",
-		"spread" : 11.5,
+		"spread" : 12.5,
 		"gameTime" : "2025-12-23T03:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 262525,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 5,
