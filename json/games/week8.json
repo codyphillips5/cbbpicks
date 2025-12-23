@@ -59,18 +59,18 @@
 		"gameTime" : "2025-12-23T19:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 262386,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 6,
 		"awayTeam" : "HARV",
 		"homeTeam" : "SJU",
 		"favorite" : "SJU",
-		"spread" : 25.5,
+		"spread" : 24.5,
 		"gameTime" : "2025-12-23T23:00Z",
 		"channel" : "FS1",
 		"foxId" : 261129,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 7,
@@ -81,7 +81,7 @@
 		"gameTime" : "2025-12-24T00:00Z",
 		"channel" : "NBCSN | Peacock",
 		"foxId" : 262170,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 8,
