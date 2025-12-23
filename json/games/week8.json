@@ -22,7 +22,9 @@
 		"gameTime" : "2025-12-23T01:00Z",
 		"channel" : "FS1",
 		"foxId" : 261115,
-		"active" : true
+		"awayScore" : 91,
+		"homeScore" : 48,
+		"cover" : "ILL"
     },
     {
 		"gameId" : 3,
@@ -33,7 +35,9 @@
 		"gameTime" : "2025-12-23T01:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 261112,
-		"active" : true
+		"awayScore" : 61,
+		"homeScore" : 90,
+		"cover" : "KAN"
     },
     {
 		"gameId" : 4,
