@@ -48,7 +48,9 @@
 		"gameTime" : "2025-12-23T03:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 262525,
-		"active" : true
+		"awayScore" : 58,
+		"homeScore" : 63,
+		"cover" : "UNI"
     },
     {
 		"gameId" : 5,
