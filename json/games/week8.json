@@ -9,7 +9,9 @@
 		"gameTime" : "2025-12-22T23:00Z",
 		"channel" : "B1G",
 		"foxId" : 261103,
-		"active" : true
+		"awayScore" : 60,
+		"homeScore" : 81,
+		"cover" : "SIENA"
     },
     {
 		"gameId" : 2,
