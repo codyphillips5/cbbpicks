@@ -87,7 +87,9 @@
 		"gameTime" : "2025-12-24T00:00Z",
 		"channel" : "NBCSN | Peacock",
 		"foxId" : 262170,
-		"active" : true
+		"awayScore" : 64,
+		"homeScore" : 56,
+		"cover" : "NOVA"
     },
 	{
 		"gameId" : 8,
