@@ -100,7 +100,7 @@
 		"gameTime" : "2025-12-28T20:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 261145,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 9,
@@ -111,18 +111,18 @@
 		"gameTime" : "2025-12-28T23:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 263318,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
 		"awayTeam" : "DONS",
 		"homeTeam" : "SEA",
-		"favorite" : "DONS",
+		"favorite" : "SEA",
 		"spread" : 1.5,
 		"gameTime" : "2025-12-29T01:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 263316,
-		"active" : false
+		"active" : true
     }
   ]
 }
