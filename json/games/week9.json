@@ -16,7 +16,7 @@
 		"awayTeam" : "UNM",
 		"homeTeam" : "BSU",
 		"favorite" : "BSU",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2025-12-31T04:00Z",
 		"channel" : "FS1",
 		"foxId" : 263799,
