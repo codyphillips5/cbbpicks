@@ -100,7 +100,9 @@
 		"gameTime" : "2025-12-28T20:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 261145,
-		"active" : true
+		"awayScore" : 86,
+		"homeScore" : 81,
+		"cover" : "NOCOLO"
     },
     {
 		"gameId" : 9,
@@ -111,7 +113,9 @@
 		"gameTime" : "2025-12-28T23:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 263318,
-		"active" : true
+		"awayScore" : 102,
+		"homeScore" : 64,
+		"cover" : "SCU"
     },
     {
 		"gameId" : 10,
@@ -122,7 +126,9 @@
 		"gameTime" : "2025-12-29T01:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 263316,
-		"active" : true
+		"awayScore" : 67,
+		"homeScore" : 59,
+		"cover" : "DONS"
     }
   ]
 }
