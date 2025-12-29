@@ -1222,7 +1222,7 @@
 		"teamId" : 174,
 		"team" : "Quinnipiac",
 		"teamMascot" : "Bobcats",
-		"teamValue" : "QUINN",
+		"teamValue" : "QUIN",
 		"teamImage" : "Quinnipiac"
     },			
 	{
@@ -1432,7 +1432,7 @@
 		"teamId" : 204,
 		"team" : "Illinois State",
 		"teamMascot" : "Redbirds",
-		"teamValue" : "ILLST",
+		"teamValue" : "ILST",
 		"teamImage" : "IllinoisState"
     },		
 	{
@@ -2216,7 +2216,7 @@
 		"teamId" : 316,
 		"team" : "Georgia Southern",
 		"teamMascot" : "Eagles",
-		"teamValue" : "GASOU",
+		"teamValue" : "GASO",
 		"teamImage" : "GeorgiaSouthern"
     },
 	{

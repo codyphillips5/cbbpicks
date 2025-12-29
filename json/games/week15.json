@@ -1,7 +1,7 @@
 {
   "games": [
     {
-		"gameId" : 01,
+		"gameId" : 1,
 		"awayTeam" : "TBD",
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
@@ -46,12 +46,12 @@
     },
     {
 		"gameId" : 5,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "QUIN",
+		"homeTeam" : "SIENA",
+		"favorite" : "SIENA",
 		"spread" : "-",
-		"gameTime" : "2026-02-10T00:00Z",
-		"channel" : "",
+		"gameTime" : "2026-02-14T00:00Z",
+		"channel" : "ESPN+",
 		"foxId" : 0,
 		"active" : false
     },
@@ -79,13 +79,13 @@
     },
 	{
 		"gameId" : 8,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "HOF",
+		"homeTeam" : "UNCW",
+		"favorite" : "UNCW",
 		"spread" : "-",
-		"gameTime" : "2026-02-10T00:00Z",
-		"channel" : "",
-		"foxId" : 0,
+		"gameTime" : "2026-02-14T21:00Z",
+		"channel" : "CBSSN",
+		"foxId" : 259766,
 		"active" : false
     },
     {
@@ -100,7 +100,7 @@
 		"active" : false
     },
     {
-		"gameId" : 010,
+		"gameId" : 10,
 		"awayTeam" : "TBD",
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",

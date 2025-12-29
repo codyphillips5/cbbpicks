@@ -1,7 +1,7 @@
 {
   "games": [
     {
-		"gameId" : 01,
+		"gameId" : 1,
 		"awayTeam" : "TBD",
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
@@ -100,7 +100,7 @@
 		"active" : false
     },
     {
-		"gameId" : 010,
+		"gameId" : 10,
 		"awayTeam" : "TBD",
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",

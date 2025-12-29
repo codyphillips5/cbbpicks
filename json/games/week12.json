@@ -35,13 +35,13 @@
     },
     {
 		"gameId" : 4,
-		"awayTeam" : "MRST",
-		"homeTeam" : "SIENA",
-		"favorite" : "SIENA",
+		"awayTeam" : "ARST",
+		"homeTeam" : "GASO",
+		"favorite" : "GASO",
 		"spread" : "-",
 		"gameTime" : "2026-01-23T00:00Z",
 		"channel" : "ESPN+",
-		"foxId" : 259547,
+		"foxId" : 259071,
 		"active" : false
     },
     {
