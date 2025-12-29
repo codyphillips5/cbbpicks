@@ -18,7 +18,7 @@ var storeUsers = [];
 var coversNum = [];
 var userPickTeams = [];
 var coversArr = [""];
-var weekNum = 8;
+var weekNum = 9;
 var weekList = "";
 var weeklyList = "";
 var isCorrect;

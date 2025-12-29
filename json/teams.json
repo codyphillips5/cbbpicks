@@ -494,7 +494,7 @@
 		"teamId" : 70,
 		"team" : "Butler",
 		"teamMascot" : "Bulldogs",
-		"teamValue" : "BUTLER",
+		"teamValue" : "BUT",
 		"teamImage" : "Butler"
     },	
 	{
@@ -1201,7 +1201,7 @@
 		"teamId" : 171,
 		"team" : "Marist",
 		"teamMascot" : "Red Foxes",
-		"teamValue" : "MARIST",
+		"teamValue" : "MRST",
 		"teamImage" : "Marist"
     },		
 	{
@@ -1997,9 +1997,9 @@
     },		
 	{
 		"teamId" : 285,
-		"team" : "McNeese State",
+		"team" : "McNeese",
 		"teamMascot" : "Cowboys",
-		"teamValue" : "MCNST",
+		"teamValue" : "MCN",
 		"teamImage" : "McNeeseState"
     },	
 	{
@@ -2477,6 +2477,13 @@
 		"teamMascot" : "Tritons",
 		"teamValue" : "UCSD",
 		"teamImage" : "UCSanDiego"
+    },
+	{
+		"teamId" : 353,
+		"team" : "St. Thomas",
+		"teamMascot" : "Tommies",
+		"teamValue" : "UST",
+		"teamImage" : "st-thomas-tommies"
     }
   ]
 }

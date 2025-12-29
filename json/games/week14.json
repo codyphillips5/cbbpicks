@@ -1,7 +1,7 @@
 {
   "games": [
     {
-		"gameId" : 01,
+		"gameId" : 1,
 		"awayTeam" : "TBD",
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
@@ -18,7 +18,6 @@
 		"favorite" : "TBD",
 		"spread" : "-",
 		"gameTime" : "2026-02-03T00:00Z",
-		"channel" : "",
 		"foxId" : 0,
 		"active" : false
     },
@@ -29,7 +28,6 @@
 		"favorite" : "TBD",
 		"spread" : "-",
 		"gameTime" : "2026-02-03T00:00Z",
-		"channel" : "",
 		"foxId" : 0,
 		"active" : false
     },
@@ -39,7 +37,7 @@
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
 		"spread" : "-",
-		"gameTime" : "2026-02-03T00:00Z",
+		"gameTime" : "2026-02-04T00:00Z",
 		"channel" : "",
 		"foxId" : 0,
 		"active" : false
@@ -100,14 +98,14 @@
 		"active" : false
     },
     {
-		"gameId" : 010,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"gameId" : 10,
+		"awayTeam" : "UCSD",
+		"homeTeam" : "HAW",
+		"favorite" : "HAW",
 		"spread" : "-",
-		"gameTime" : "2026-02-03T00:00Z",
-		"channel" : "",
-		"foxId" : 0,
+		"gameTime" : "2026-02-08T05:00Z",
+		"channel" : "ESPN+",
+		"foxId" : 258649,
 		"active" : false
     }
   ]

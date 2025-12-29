@@ -1,7 +1,7 @@
 {
   "games": [
     {
-		"gameId" : 01,
+		"gameId" : 1,
 		"awayTeam" : "TBD",
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
@@ -90,17 +90,17 @@
     },
     {
 		"gameId" : 9,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "YALE",
+		"homeTeam" : "COL",
+		"favorite" : "COL",
 		"spread" : "-",
-		"gameTime" : "2026-02-24T00:00Z",
-		"channel" : "",
-		"foxId" : 0,
+		"gameTime" : "2026-02-28T23:00Z",
+		"channel" : "ESPN+",
+		"foxId" : 263306,
 		"active" : false
     },
     {
-		"gameId" : 010,
+		"gameId" : 10,
 		"awayTeam" : "TBD",
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
