@@ -101,13 +101,13 @@
     },
     {
 		"gameId" : 10,
-		"awayTeam" : "TENN",
-		"homeTeam" : "ALA",
-		"favorite" : "ALA",
+		"awayTeam" : "UVU",
+		"homeTeam" : "CBU",
+		"favorite" : "CBU",
 		"spread" : "-",
-		"gameTime" : "2026-01-25T01:30Z",
-		"channel" : "ESPN",
-		"foxId" : 258255,
+		"gameTime" : "2026-01-25T01:00Z",
+		"channel" : "ESPN+",
+		"foxId" : 258629,
 		"active" : false
     }
   ]
