@@ -73,6 +73,9 @@ function getResultsByWeek(x) {
 	else if (x === 8) {
 		document.getElementById("week-title").innerHTML = `<h2>🎅 Week 8 Results 🎄</h2>`;
 	}
+	else if (x === 9) {
+		document.getElementById("week-title").innerHTML = `<h2>🎉 Week 9 Results 🍾</h2>`;
+	}
 	else {
 		document.getElementById("week-title").innerHTML = `<h2>Week ${x} Results</h2>`;
 	}

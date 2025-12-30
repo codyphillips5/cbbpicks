@@ -46,6 +46,9 @@ else if (week === 4) {
 else if (week === 8) {
 	document.getElementById("week-title").innerHTML = `<h2>🎅 Week 8 🎄</h2>`;
 }
+else if (week === 9) {
+	document.getElementById("week-title").innerHTML = `<h2>🎉 Week 9 🍾</h2>`;
+}
 else {
 	document.getElementById("week-title").innerHTML = `<h2>Week ${week}</h2>`;
 }
