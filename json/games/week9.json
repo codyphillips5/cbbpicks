@@ -5,22 +5,22 @@
 		"awayTeam" : "LOU",
 		"homeTeam" : "CAL",
 		"favorite" : "LOU",
-		"spread" : 5.5,
+		"spread" : 8.5,
 		"gameTime" : "2025-12-31T02:00Z",
 		"channel" : "ACCN",
 		"foxId" : 261762,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 2,
 		"awayTeam" : "UNM",
 		"homeTeam" : "BSU",
 		"favorite" : "BSU",
-		"spread" : 6.5,
+		"spread" : 5.5,
 		"gameTime" : "2025-12-31T04:00Z",
 		"channel" : "FS1",
 		"foxId" : 263799,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 3,
