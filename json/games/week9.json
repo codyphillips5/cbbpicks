@@ -22,18 +22,20 @@
 		"gameTime" : "2025-12-31T04:00Z",
 		"channel" : "FS1",
 		"foxId" : 263799,
-		"active" : true
+		"awayScore" : 53,
+		"homeScore" : 62,
+		"cover" : "BSU"
     },
     {
 		"gameId" : 3,
 		"awayTeam" : "UVA",
 		"homeTeam" : "VT",
 		"favorite" : "UVA",
-		"spread" : 4.5,
+		"spread" : 5.5,
 		"gameTime" : "2025-12-31T19:00Z",
 		"channel" : "ACCN",
 		"foxId" : 261761,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 4,
