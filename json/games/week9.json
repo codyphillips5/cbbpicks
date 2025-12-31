@@ -9,7 +9,9 @@
 		"gameTime" : "2025-12-31T02:00Z",
 		"channel" : "ACCN",
 		"foxId" : 261762,
-		"active" : true
+		"awayScore" : 90,
+		"homeScore" : 70,
+		"cover" : "LOU"
     },
     {
 		"gameId" : 2,
