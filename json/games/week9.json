@@ -42,28 +42,17 @@
     },
     {
 		"gameId" : 4,
-		"awayTeam" : "USC",
-		"homeTeam" : "MICH",
-		"favorite" : "MICH",
-		"spread" : "-",
-		"gameTime" : "2026-01-03T00:00Z",
-		"channel" : "NBCSN | Peacock",
-		"foxId" : 262529,
-		"active" : false
-    },
-    {
-		"gameId" : 5,
 		"awayTeam" : "MSU",
 		"homeTeam" : "NEB",
 		"favorite" : "NEB",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2026-01-03T02:00Z",
 		"channel" : "NBCSN | Peacock",
 		"foxId" : 262527,
-		"active" : false
+		"active" : true
     },
     {
-		"gameId" : 6,
+		"gameId" : 5,
 		"awayTeam" : "UVA",
 		"homeTeam" : "NCST",
 		"favorite" : "NCST",
@@ -74,7 +63,7 @@
 		"active" : false
     },
     {
-		"gameId" : 7,
+		"gameId" : 6,
 		"awayTeam" : "AUB",
 		"homeTeam" : "UGA",
 		"favorite" : "UGA",
@@ -84,8 +73,8 @@
 		"foxId" : 258590,
 		"active" : false
     },
-	{
-		"gameId" : 8,
+    {
+		"gameId" : 7,
 		"awayTeam" : "BAY",
 		"homeTeam" : "TCU",
 		"favorite" : "TCU",
@@ -93,6 +82,17 @@
 		"gameTime" : "2026-01-03T19:00Z",
 		"channel" : "TNT",
 		"foxId" : 262701,
+		"active" : false
+    },
+	{
+		"gameId" : 8,
+		"awayTeam" : "TENN",
+		"homeTeam" : "ARK",
+		"favorite" : "ARK",
+		"spread" : "-",
+		"gameTime" : "2026-01-03T20:00Z",
+		"channel" : "ESPN2",
+		"foxId" : 258814,
 		"active" : false
     },
     {
