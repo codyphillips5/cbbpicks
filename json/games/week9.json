@@ -49,73 +49,75 @@
 		"gameTime" : "2026-01-03T02:00Z",
 		"channel" : "NBCSN | Peacock",
 		"foxId" : 262527,
-		"active" : true
+		"awayScore" : 56,
+		"homeScore" : 58,
+		"cover" : "NEB"
     },
     {
 		"gameId" : 5,
 		"awayTeam" : "UVA",
 		"homeTeam" : "NCST",
 		"favorite" : "NCST",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2026-01-03T16:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 261787,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 6,
 		"awayTeam" : "AUB",
 		"homeTeam" : "UGA",
 		"favorite" : "UGA",
-		"spread" : "-",
+		"spread" : 4.5
 		"gameTime" : "2026-01-03T18:00Z",
 		"channel" : "SECN",
 		"foxId" : 258590,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 7,
 		"awayTeam" : "BAY",
 		"homeTeam" : "TCU",
 		"favorite" : "TCU",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2026-01-03T19:00Z",
 		"channel" : "TNT",
 		"foxId" : 262701,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 8,
 		"awayTeam" : "TENN",
 		"homeTeam" : "ARK",
 		"favorite" : "ARK",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2026-01-03T20:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 258814,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 9,
 		"awayTeam" : "AKR",
 		"homeTeam" : "M-OH",
-		"favorite" : "M-OH",
-		"spread" : "-",
+		"favorite" : "AKR",
+		"spread" : 2.5,
 		"gameTime" : "2026-01-03T20:30Z",
 		"channel" : "ESPN+",
 		"foxId" : 259349,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
 		"awayTeam" : "UCLA",
 		"homeTeam" : "IOWA",
 		"favorite" : "IOWA",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2026-01-03T23:00Z",
 		"channel" : "NBCSN | Peacock",
 		"foxId" : 262532,
-		"active" : false
+		"active" : true
     }
   ]
 }
