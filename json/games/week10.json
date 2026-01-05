@@ -2,24 +2,24 @@
   "games": [
     {
 		"gameId" : 1,
-		"awayTeam" : "SFA",
-		"homeTeam" : "MCN",
-		"favorite" : "MCN",
-		"spread" : "-",
-		"gameTime" : "2026-01-06T00:30Z",
-		"channel" : "ESPN+",
-		"foxId" : 259380,
+		"awayTeam" : "NEB",
+		"homeTeam" : "OSU",
+		"favorite" : "OSU",
+		"spread" : 2.5,
+		"gameTime" : "2026-01-05T23:30Z",
+		"channel" : "FS1",
+		"foxId" : 262537,
 		"active" : false
     },
     {
 		"gameId" : 2,
-		"awayTeam" : "USC",
-		"homeTeam" : "MSU",
-		"favorite" : "MSU",
-		"spread" : "-",
-		"gameTime" : "2026-01-06T01:30Z",
-		"channel" : "FS1",
-		"foxId" : 262536,
+		"awayTeam" : "SFA",
+		"homeTeam" : "MCN",
+		"favorite" : "MCN",
+		"spread" : 10.5,
+		"gameTime" : "2026-01-06T00:30Z",
+		"channel" : "ESPN+",
+		"foxId" : 259380,
 		"active" : false
     },
     {
