@@ -31,11 +31,11 @@
 		"awayTeam" : "DUKE",
 		"homeTeam" : "LOU",
 		"favorite" : "DUKE",
-		"spread" : 1.5,
+		"spread" : 0,
 		"gameTime" : "2026-01-07T00:00Z",
 		"channel" : "ESPN",
 		"foxId" : 261797,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 4,
@@ -46,7 +46,7 @@
 		"gameTime" : "2026-01-07T01:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 262705,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 5,
@@ -57,7 +57,7 @@
 		"gameTime" : "2026-01-07T02:00Z",
 		"channel" : "FS1",
 		"foxId" : 262708,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 6,
