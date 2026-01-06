@@ -101,13 +101,13 @@
     },
     {
 		"gameId" : 10,
-		"awayTeam" : "BEL",
-		"homeTeam" : "ILST",
-		"favorite" : "ILST",
+		"awayTeam" : "",
+		"homeTeam" : "",
+		"favorite" : "",
 		"spread" : "-",
 		"gameTime" : "2026-03-01T17:00Z",
 		"channel" : "",
-		"foxId" : 263748,
+		"foxId" : 0,
 		"active" : false
     }
   ]

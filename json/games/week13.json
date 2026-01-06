@@ -2,17 +2,6 @@
   "games": [
     {
 		"gameId" : 1,
-		"awayTeam" : "LOU",
-		"homeTeam" : "DUKE",
-		"favorite" : "DUKE",
-		"spread" : "-",
-		"gameTime" : "2026-01-27T00:00Z",
-		"channel" : "ESPN",
-		"foxId" : 261896,
-		"active" : false
-    },
-    {
-		"gameId" : 2,
 		"awayTeam" : "ZONA",
 		"homeTeam" : "BYU",
 		"favorite" : "BYU",
@@ -23,7 +12,7 @@
 		"active" : false
     },
     {
-		"gameId" : 3,
+		"gameId" : 2,
 		"awayTeam" : "TENN",
 		"homeTeam" : "UGA",
 		"favorite" : "UGA",
@@ -34,7 +23,7 @@
 		"active" : false
     },
     {
-		"gameId" : 4,
+		"gameId" : 3,
 		"awayTeam" : "NEB",
 		"homeTeam" : "MICH",
 		"favorite" : "MICH",
@@ -45,7 +34,7 @@
 		"active" : false
     },
     {
-		"gameId" : 5,
+		"gameId" : 4,
 		"awayTeam" : "UK",
 		"homeTeam" : "VANDY",
 		"favorite" : "VANDY",
@@ -56,7 +45,7 @@
 		"active" : false
     },
     {
-		"gameId" : 6,
+		"gameId" : 5,
 		"awayTeam" : "USC",
 		"homeTeam" : "IOWA",
 		"favorite" : "IOWA",
@@ -67,6 +56,17 @@
 		"active" : false
     },
     {
+		"gameId" : 6,
+		"awayTeam" : "ILST",
+		"homeTeam" : "MURR",
+		"favorite" : "MURR",
+		"spread" : "-",
+		"gameTime" : "2026-01-29T02:00Z",
+		"channel" : "ESPN+",
+		"foxId" : 263690,
+		"active" : false
+    },
+    {
 		"gameId" : 7,
 		"awayTeam" : "MICH",
 		"homeTeam" : "MSU",
@@ -74,7 +74,7 @@
 		"spread" : "-",
 		"gameTime" : "2026-01-31T01:00Z",
 		"channel" : "FOX",
-		"foxId" : 0,
+		"foxId" : 262598,
 		"active" : false
     },
 	{
