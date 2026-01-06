@@ -7,19 +7,19 @@
 		"favorite" : "KAN",
 		"spread" : "-",
 		"gameTime" : "2026-01-14T02:00Z",
-		"channel" : "",
+		"channel" : "ESPN",
 		"foxId" : 262723,
 		"active" : false
     },
     {
 		"gameId" : 2,
-		"awayTeam" : "VANDY",
-		"homeTeam" : "TEX",
-		"favorite" : "TEX",
+		"awayTeam" : "VT",
+		"homeTeam" : "SMU",
+		"favorite" : "SMU",
 		"spread" : "-",
 		"gameTime" : "2026-01-15T02:00Z",
 		"channel" : "",
-		"foxId" : 259021,
+		"foxId" : 261833,
 		"active" : false
     },
     {
