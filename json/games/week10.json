@@ -22,7 +22,9 @@
 		"gameTime" : "2026-01-06T00:30Z",
 		"channel" : "ESPN+",
 		"foxId" : 259380,
-		"active" : true
+		"awayScore" : 64,
+		"homeScore" : 66,
+		"cover" : "SFA"
     },
     {
 		"gameId" : 3,
