@@ -61,7 +61,9 @@
 		"gameTime" : "2026-01-07T02:00Z",
 		"channel" : "FS1",
 		"foxId" : 262708,
-		"active" : true
+		"awayScore" : 65,
+		"homeScore" : 69,
+		"cover" : "TTU"
     },
     {
 		"gameId" : 6,
