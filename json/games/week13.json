@@ -101,13 +101,13 @@
     },
     {
 		"gameId" : 10,
-		"awayTeam" : "AUB",
-		"homeTeam" : "TENN",
-		"favorite" : "TENN",
+		"awayTeam" : "STMARY",
+		"homeTeam" : "GONZ",
+		"favorite" : "GONZ",
 		"spread" : "-",
-		"gameTime" : "2026-02-01T01:30Z",
+		"gameTime" : "2026-02-01T03:30Z",
 		"channel" : "ESPN",
-		"foxId" : 258164,
+		"foxId" : 263376,
 		"active" : false
     }
   ]

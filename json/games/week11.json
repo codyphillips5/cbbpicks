@@ -13,6 +13,17 @@
     },
     {
 		"gameId" : 2,
+		"awayTeam" : "FLA",
+		"homeTeam" : "OKLA",
+		"favorite" : "OKLA",
+		"spread" : "-",
+		"gameTime" : "2026-01-14T02:00Z",
+		"channel" : "ESPN2",
+		"foxId" : 258910,
+		"active" : false
+    },
+    {
+		"gameId" : 3,
 		"awayTeam" : "VT",
 		"homeTeam" : "SMU",
 		"favorite" : "SMU",
@@ -20,17 +31,6 @@
 		"gameTime" : "2026-01-15T02:00Z",
 		"channel" : "",
 		"foxId" : 261833,
-		"active" : false
-    },
-    {
-		"gameId" : 3,
-		"awayTeam" : "NMSU",
-		"homeTeam" : "LIB",
-		"favorite" : "LIB",
-		"spread" : "-",
-		"gameTime" : "2026-01-15T23:00Z",
-		"channel" : "CBSSN",
-		"foxId" : 258984,
 		"active" : false
     },
     {

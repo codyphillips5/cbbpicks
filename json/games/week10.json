@@ -35,7 +35,10 @@
 		"gameTime" : "2026-01-07T00:00Z",
 		"channel" : "ESPN",
 		"foxId" : 261797,
-		"active" : true
+		"awayScore" : 84,
+		"homeScore" : 73,
+		"cover" : "DUKE"
+    },
     },
     {
 		"gameId" : 4,
@@ -46,7 +49,9 @@
 		"gameTime" : "2026-01-07T01:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 262705,
-		"active" : true
+		"awayScore" : 76,
+		"homeScore" : 87,
+		"cover" : "OKST"
     },
     {
 		"gameId" : 5,
