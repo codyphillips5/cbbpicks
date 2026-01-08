@@ -74,7 +74,9 @@
 		"gameTime" : "2026-01-08T00:00Z",
 		"channel" : "CBSSN",
 		"foxId" : 263044,
-		"active" : true
+		"awayScore" : 71,
+		"homeScore" : 62,
+		"cover" : "SLU"
     },
     {
 		"gameId" : 7,
