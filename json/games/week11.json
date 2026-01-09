@@ -79,13 +79,13 @@
     },
 	{
 		"gameId" : 8,
-		"awayTeam" : "ARK",
-		"homeTeam" : "UGA",
-		"favorite" : "UGA",
+		"awayTeam" : "MIA",
+		"homeTeam" : "CLEM",
+		"favorite" : "CLEM",
 		"spread" : "-",
-		"gameTime" : "2026-01-17T21:00Z",
-		"channel" : "",
-		"foxId" : 258592,
+		"gameTime" : "2026-01-17T19:15Z",
+		"channel" : "CW",
+		"foxId" : 261847,
 		"active" : false
     },
     {
