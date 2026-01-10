@@ -100,29 +100,29 @@
 		"gameTime" : "2026-01-10T17:00Z",
 		"channel" : "ESPN",
 		"foxId" : 258546,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 9,
 		"awayTeam" : "HOU",
 		"homeTeam" : "BAY",
 		"favorite" : "HOU",
-		"spread" : 4.5,
+		"spread" : 3.5,
 		"gameTime" : "2026-01-10T18:00Z",
 		"channel" : "NBCSN | Peacock",
 		"foxId" : 262715,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
 		"awayTeam" : "HPU",
 		"homeTeam" : "CHSO",
 		"favorite" : "CHSO",
-		"spread" : "-",
+		"spread" : 8.5,
 		"gameTime" : "2026-01-10T19:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 261822,
-		"active" : false
+		"active" : true
     }
   ]
 }
