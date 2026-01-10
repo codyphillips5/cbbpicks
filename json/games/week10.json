@@ -126,7 +126,11 @@
 		"gameTime" : "2026-01-10T19:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 261822,
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 84,
+		"homeScore" : 82,
+		"cover" : "CHSO"
     }
   ]
 }
