@@ -100,7 +100,9 @@
 		"gameTime" : "2026-01-10T17:00Z",
 		"channel" : "ESPN",
 		"foxId" : 258546,
-		"active" : true
+		"awayScore" : 67,
+		"homeScore" : 91,
+		"cover" : "FLA"
     },
     {
 		"gameId" : 9,
