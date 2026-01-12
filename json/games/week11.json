@@ -62,7 +62,7 @@
 		"favorite" : "SMU",
 		"spread" : "-",
 		"gameTime" : "2026-01-17T17:00Z",
-		"channel" : "",
+		"channel" : "ESPN Networks",
 		"foxId" : 261853,
 		"active" : false
     },
@@ -106,7 +106,7 @@
 		"favorite" : "TTU",
 		"spread" : "-",
 		"gameTime" : "2026-01-18T01:00Z",
-		"channel" : "",
+		"channel" : "ESPN Networks",
 		"foxId" : 262734,
 		"active" : false
     }
