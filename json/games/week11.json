@@ -29,7 +29,7 @@
 		"favorite" : "SMU",
 		"spread" : "-",
 		"gameTime" : "2026-01-15T02:00Z",
-		"channel" : "",
+		"channel" : "ESPNU",
 		"foxId" : 261833,
 		"active" : false
     },
@@ -57,6 +57,17 @@
     },
     {
 		"gameId" : 6,
+		"awayTeam" : "UVA",
+		"homeTeam" : "SMU",
+		"favorite" : "SMU",
+		"spread" : "-",
+		"gameTime" : "2026-01-17T17:00Z",
+		"channel" : "",
+		"foxId" : 261853,
+		"active" : false
+    },
+    {
+		"gameId" : 7,
 		"awayTeam" : "IOWA",
 		"homeTeam" : "IND",
 		"favorite" : "IND",
@@ -66,8 +77,8 @@
 		"foxId" : 262568,
 		"active" : false
     },
-    {
-		"gameId" : 7,
+	{
+		"gameId" : 8,
 		"awayTeam" : "UST",
 		"homeTeam" : "NDSU",
 		"favorite" : "NDSU",
@@ -77,8 +88,8 @@
 		"foxId" : 259480,
 		"active" : false
     },
-	{
-		"gameId" : 8,
+    {
+		"gameId" : 9,
 		"awayTeam" : "MIA",
 		"homeTeam" : "CLEM",
 		"favorite" : "CLEM",
@@ -86,17 +97,6 @@
 		"gameTime" : "2026-01-17T19:15Z",
 		"channel" : "CW",
 		"foxId" : 261847,
-		"active" : false
-    },
-    {
-		"gameId" : 9,
-		"awayTeam" : "PURD",
-		"homeTeam" : "USC",
-		"favorite" : "USC",
-		"spread" : "-",
-		"gameTime" : "2026-01-17T23:00Z",
-		"channel" : "NBCSN | Peacock",
-		"foxId" : 262565,
 		"active" : false
     },
     {
