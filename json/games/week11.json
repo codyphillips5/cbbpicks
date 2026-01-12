@@ -2,39 +2,50 @@
   "games": [
     {
 		"gameId" : 1,
+		"awayTeam" : "UCONN",
+		"homeTeam" : "SETON",
+		"favorite" : "UCONN",
+		"spread" : 5.5,
+		"gameTime" : "2026-01-14T01:00Z",
+		"channel" : "TruTV",
+		"foxId" : 261833,
+		"active" : false
+    },
+    {
+		"gameId" : 2,
 		"awayTeam" : "ISU",
 		"homeTeam" : "KAN",
-		"favorite" : "KAN",
-		"spread" : "-",
+		"favorite" : "ISU",
+		"spread" : 3.5,
 		"gameTime" : "2026-01-14T02:00Z",
 		"channel" : "ESPN",
 		"foxId" : 262723,
 		"active" : false
     },
     {
-		"gameId" : 2,
+		"gameId" : 3,
 		"awayTeam" : "FLA",
 		"homeTeam" : "OKLA",
-		"favorite" : "OKLA",
-		"spread" : "-",
+		"favorite" : "FLA",
+		"spread" : 4.5,
 		"gameTime" : "2026-01-14T02:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 258910,
 		"active" : false
     },
     {
-		"gameId" : 3,
-		"awayTeam" : "VT",
-		"homeTeam" : "SMU",
-		"favorite" : "SMU",
+		"gameId" : 4,
+		"awayTeam" : "IOWA",
+		"homeTeam" : "PURD",
+		"favorite" : "PURD",
 		"spread" : "-",
-		"gameTime" : "2026-01-15T02:00Z",
-		"channel" : "ESPNU",
-		"foxId" : 261833,
+		"gameTime" : "2026-01-14T23:30Z",
+		"channel" : "B1G",
+		"foxId" : 262561,
 		"active" : false
     },
     {
-		"gameId" : 4,
+		"gameId" : 5,
 		"awayTeam" : "BAY",
 		"homeTeam" : "KAN",
 		"favorite" : "KAN",
@@ -42,17 +53,6 @@
 		"gameTime" : "2026-01-17T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262729,
-		"active" : false
-    },
-    {
-		"gameId" : 5,
-		"awayTeam" : "BUT",
-		"homeTeam" : "SETON",
-		"favorite" : "SETON",
-		"spread" : "-",
-		"gameTime" : "2026-01-17T17:00Z",
-		"channel" : "TNT",
-		"foxId" : 262202,
 		"active" : false
     },
     {

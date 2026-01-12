@@ -24,13 +24,13 @@
     },
     {
 		"gameId" : 3,
-		"awayTeam" : "MEM",
-		"homeTeam" : "TULSA",
-		"favorite" : "TULSA",
+		"awayTeam" : "UGA",
+		"homeTeam" : "MIZ",
+		"favorite" : "MIZ",
 		"spread" : "-",
-		"gameTime" : "2026-01-22T01:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 262934,
+		"gameTime" : "2026-01-21T02:00Z",
+		"channel" : "SECN",
+		"foxId" : 258264,
 		"active" : false
     },
     {
@@ -46,17 +46,6 @@
     },
     {
 		"gameId" : 5,
-		"awayTeam" : "SLU",
-		"homeTeam" : "STBON",
-		"favorite" : "STBON",
-		"spread" : "-",
-		"gameTime" : "2026-01-23T22:30Z",
-		"channel" : "ESPN2",
-		"foxId" : 263073,
-		"active" : false
-    },
-    {
-		"gameId" : 6,
 		"awayTeam" : "OSU",
 		"homeTeam" : "MICH",
 		"favorite" : "MICH",
@@ -67,14 +56,25 @@
 		"active" : false
     },
     {
-		"gameId" : 7,
+		"gameId" : 6,
 		"awayTeam" : "UNC",
 		"homeTeam" : "UVA",
 		"favorite" : "UVA",
 		"spread" : "-",
-		"gameTime" : "2026-01-24T17:00Z",
-		"channel" : "",
+		"gameTime" : "2026-01-24T19:00Z",
+		"channel" : "ESPN",
 		"foxId" : 261889,
+		"active" : false
+    },
+    {
+		"gameId" : 7,
+		"awayTeam" : "SLU",
+		"homeTeam" : "STBON",
+		"favorite" : "STBON",
+		"spread" : "-",
+		"gameTime" : "2026-01-23T22:30Z",
+		"channel" : "ESPN2",
+		"foxId" : 263073,
 		"active" : false
     },
 	{
