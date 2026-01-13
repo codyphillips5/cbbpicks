@@ -9,29 +9,29 @@
 		"gameTime" : "2026-01-14T01:00Z",
 		"channel" : "TruTV",
 		"foxId" : 261833,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 2,
 		"awayTeam" : "ISU",
 		"homeTeam" : "KAN",
 		"favorite" : "ISU",
-		"spread" : 3.5,
+		"spread" : 4.5,
 		"gameTime" : "2026-01-14T02:00Z",
 		"channel" : "ESPN",
 		"foxId" : 262723,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 3,
 		"awayTeam" : "FLA",
 		"homeTeam" : "OKLA",
 		"favorite" : "FLA",
-		"spread" : 4.5,
+		"spread" : 6.5,
 		"gameTime" : "2026-01-14T02:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 258910,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 4,
