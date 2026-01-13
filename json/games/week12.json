@@ -50,7 +50,7 @@
 		"homeTeam" : "MICH",
 		"favorite" : "MICH",
 		"spread" : "-",
-		"gameTime" : "2026-01-20T00:00Z",
+		"gameTime" : "2026-01-24T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262581,
 		"active" : false
@@ -68,17 +68,6 @@
     },
     {
 		"gameId" : 7,
-		"awayTeam" : "SLU",
-		"homeTeam" : "STBON",
-		"favorite" : "STBON",
-		"spread" : "-",
-		"gameTime" : "2026-01-23T22:30Z",
-		"channel" : "ESPN2",
-		"foxId" : 263073,
-		"active" : false
-    },
-	{
-		"gameId" : 8,
 		"awayTeam" : "ILL",
 		"homeTeam" : "PURD",
 		"favorite" : "PURD",
@@ -88,8 +77,8 @@
 		"foxId" : 262583,
 		"active" : false
     },
-    {
-		"gameId" : 9,
+	{
+		"gameId" : 8,
 		"awayTeam" : "HOU",
 		"homeTeam" : "TTU",
 		"favorite" : "TTU",
@@ -100,7 +89,7 @@
 		"active" : false
     },
     {
-		"gameId" : 10,
+		"gameId" : 9,
 		"awayTeam" : "UVU",
 		"homeTeam" : "CBU",
 		"favorite" : "CBU",
@@ -108,6 +97,17 @@
 		"gameTime" : "2026-01-25T01:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 258629,
+		"active" : false
+    },
+    {
+		"gameId" : 10,
+		"awayTeam" : "CAL",
+		"homeTeam" : "STAN",
+		"favorite" : "STAN",
+		"spread" : "-",
+		"gameTime" : "2026-01-25T01:00Z",
+		"channel" : "ACCN",
+		"foxId" : 261883,
 		"active" : false
     }
   ]
