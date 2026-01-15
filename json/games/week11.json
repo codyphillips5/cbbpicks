@@ -48,7 +48,9 @@
 		"gameTime" : "2026-01-14T23:30Z",
 		"channel" : "B1G",
 		"foxId" : 262561,
-		"active" : true
+		"awayScore" : 72,
+		"homeScore" : 79,
+		"cover" : "IOWA" 
     },
     {
 		"gameId" : 5,
