@@ -57,7 +57,7 @@
 		"awayTeam" : "BAY",
 		"homeTeam" : "KAN",
 		"favorite" : "KAN",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2026-01-17T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262729,

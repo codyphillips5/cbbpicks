@@ -24,13 +24,13 @@
     },
     {
 		"gameId" : 3,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "MIZ",
+		"homeTeam" : "TXAM",
+		"favorite" : "TXAM",
 		"spread" : "-",
-		"gameTime" : "2026-02-10T00:00Z",
-		"channel" : "",
-		"foxId" : 0,
+		"gameTime" : "2026-02-12T02:00Z",
+		"channel" : "SECN",
+		"foxId" : 258484,
 		"active" : false
     },
     {
