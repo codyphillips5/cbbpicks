@@ -61,7 +61,9 @@
 		"gameTime" : "2026-01-17T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262729,
-		"active" : true
+		"awayScore" : 62,
+		"homeScore" : 80,
+		"cover" : "KAN" 
     },
     {
 		"gameId" : 6,
@@ -72,7 +74,7 @@
 		"gameTime" : "2026-01-17T17:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 261853,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 7,
@@ -83,7 +85,7 @@
 		"gameTime" : "2026-01-17T19:00Z",
 		"channel" : "FOX",
 		"foxId" : 262568,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 8,
@@ -94,7 +96,7 @@
 		"gameTime" : "2026-01-17T19:00Z",
 		"channel" : "SLN",
 		"foxId" : 259480,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 9,
@@ -105,7 +107,7 @@
 		"gameTime" : "2026-01-17T19:15Z",
 		"channel" : "CW",
 		"foxId" : 261847,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
@@ -116,7 +118,7 @@
 		"gameTime" : "2026-01-18T01:00Z",
 		"channel" : "ESPN",
 		"foxId" : 262734,
-		"active" : false
+		"active" : true
     }
   ]
 }
