@@ -126,7 +126,9 @@
 		"gameTime" : "2026-01-18T01:00Z",
 		"channel" : "ESPN",
 		"foxId" : 262734,
-		"active" : true
+		"awayScore" : 71,
+		"homeScore" : 84,
+		"cover" : "TTU"
     }
   ]
 }
