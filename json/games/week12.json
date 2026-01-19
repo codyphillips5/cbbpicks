@@ -57,6 +57,17 @@
     },
     {
 		"gameId" : 6,
+		"awayTeam" : "NOVA",
+		"homeTeam" : "UCONN",
+		"favorite" : "UCONN",
+		"spread" : "-",
+		"gameTime" : "2026-01-24T17:30Z",
+		"channel" : "FOX",
+		"foxId" : 262213,
+		"active" : false
+    },
+    {
+		"gameId" : 7,
 		"awayTeam" : "UNC",
 		"homeTeam" : "UVA",
 		"favorite" : "UVA",
@@ -66,8 +77,8 @@
 		"foxId" : 261889,
 		"active" : false
     },
-    {
-		"gameId" : 7,
+	{
+		"gameId" : 8,
 		"awayTeam" : "ILL",
 		"homeTeam" : "PURD",
 		"favorite" : "PURD",
@@ -75,17 +86,6 @@
 		"gameTime" : "2026-01-24T20:00Z",
 		"channel" : "FOX",
 		"foxId" : 262583,
-		"active" : false
-    },
-	{
-		"gameId" : 8,
-		"awayTeam" : "HOU",
-		"homeTeam" : "TTU",
-		"favorite" : "TTU",
-		"spread" : "-",
-		"gameTime" : "2026-01-24T23:30Z",
-		"channel" : "ESPN",
-		"foxId" : 262744,
 		"active" : false
     },
     {
