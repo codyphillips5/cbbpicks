@@ -35,17 +35,6 @@
     },
     {
 		"gameId" : 4,
-		"awayTeam" : "ARST",
-		"homeTeam" : "GASO",
-		"favorite" : "GASO",
-		"spread" : "-",
-		"gameTime" : "2026-01-23T00:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 259071,
-		"active" : false
-    },
-    {
-		"gameId" : 5,
 		"awayTeam" : "OSU",
 		"homeTeam" : "MICH",
 		"favorite" : "MICH",
@@ -53,6 +42,17 @@
 		"gameTime" : "2026-01-24T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262581,
+		"active" : false
+    },
+    {
+		"gameId" : 5,
+		"awayTeam" : "TROY",
+		"homeTeam" : "GASO",
+		"favorite" : "GASO",
+		"spread" : "-",
+		"gameTime" : "2026-01-24T17:00Z",
+		"channel" : "ESPN+",
+		"foxId" : 259071,
 		"active" : false
     },
     {
