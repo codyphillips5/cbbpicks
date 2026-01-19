@@ -13,17 +13,6 @@
     },
     {
 		"gameId" : 2,
-		"awayTeam" : "LSU",
-		"homeTeam" : "FLA",
-		"favorite" : "FLA",
-		"spread" : "-",
-		"gameTime" : "2026-01-21T00:00Z",
-		"channel" : "ESPN2",
-		"foxId" : 258547,
-		"active" : false
-    },
-    {
-		"gameId" : 3,
 		"awayTeam" : "UGA",
 		"homeTeam" : "MIZ",
 		"favorite" : "MIZ",
@@ -31,6 +20,17 @@
 		"gameTime" : "2026-01-21T02:00Z",
 		"channel" : "SECN",
 		"foxId" : 258264,
+		"active" : false
+    },
+    {
+		"gameId" : 3,
+		"awayTeam" : "SDSU",
+		"homeTeam" : "GCU",
+		"favorite" : "GCU",
+		"spread" : "-",
+		"gameTime" : "2026-01-22T04:00Z",
+		"channel" : "FS1",
+		"foxId" : 263835,
 		"active" : false
     },
     {
