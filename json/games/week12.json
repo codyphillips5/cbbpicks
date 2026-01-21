@@ -31,11 +31,11 @@
 		"awayTeam" : "SDSU",
 		"homeTeam" : "GCU",
 		"favorite" : "SDSU",
-		"spread" : 1.5,
+		"spread" : 0,
 		"gameTime" : "2026-01-22T04:00Z",
 		"channel" : "FS1",
 		"foxId" : 263835,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 4,
