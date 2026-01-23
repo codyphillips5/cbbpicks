@@ -48,7 +48,7 @@
 		"gameTime" : "2026-01-24T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262581,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 5,
