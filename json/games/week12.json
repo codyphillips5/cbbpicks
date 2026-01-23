@@ -44,7 +44,7 @@
 		"awayTeam" : "OSU",
 		"homeTeam" : "MICH",
 		"favorite" : "MICH",
-		"spread" : "-",
+		"spread" : 15.5,
 		"gameTime" : "2026-01-24T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262581,
