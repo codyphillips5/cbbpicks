@@ -48,73 +48,75 @@
 		"gameTime" : "2026-01-24T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262581,
-		"active" : true
+		"awayScore" : 62,
+		"homeScore" : 74,
+		"cover" : "OSU"
     },
     {
 		"gameId" : 5,
-		"awayTeam" : "TROY",
-		"homeTeam" : "GASO",
-		"favorite" : "GASO",
-		"spread" : "-",
+		"awayTeam" : "UNC",
+		"homeTeam" : "UVA",
+		"favorite" : "UVA",
+		"spread" : 6.5,
 		"gameTime" : "2026-01-24T17:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 259071,
-		"active" : false
+		"channel" : "ESPN",
+		"foxId" : 261889,
+		"active" : true
     },
     {
 		"gameId" : 6,
 		"awayTeam" : "NOVA",
 		"homeTeam" : "UCONN",
 		"favorite" : "UCONN",
-		"spread" : "-",
+		"spread" : 10.5
 		"gameTime" : "2026-01-24T17:30Z",
 		"channel" : "FOX",
 		"foxId" : 262213,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 7,
-		"awayTeam" : "UNC",
-		"homeTeam" : "UVA",
-		"favorite" : "UVA",
-		"spread" : "-",
-		"gameTime" : "2026-01-24T19:00Z",
-		"channel" : "ESPN",
-		"foxId" : 261889,
-		"active" : false
-    },
-	{
-		"gameId" : 8,
 		"awayTeam" : "ILL",
 		"homeTeam" : "PURD",
 		"favorite" : "PURD",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2026-01-24T20:00Z",
 		"channel" : "FOX",
 		"foxId" : 262583,
-		"active" : false
+		"active" : true
+    },
+	{
+		"gameId" : 8,
+		"awayTeam" : "TROY",
+		"homeTeam" : "GASO",
+		"favorite" : "TROY",
+		"spread" : 4.5,
+		"gameTime" : "2026-01-24T20:00Z",
+		"channel" : "ESPN+",
+		"foxId" : 259071,
+		"active" : true
     },
     {
 		"gameId" : 9,
 		"awayTeam" : "UVU",
 		"homeTeam" : "CBU",
-		"favorite" : "CBU",
-		"spread" : "-",
+		"favorite" : "UVU",
+		"spread" : 1.5,
 		"gameTime" : "2026-01-25T01:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 258629,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
 		"awayTeam" : "CAL",
 		"homeTeam" : "STAN",
 		"favorite" : "STAN",
-		"spread" : "-",
+		"spread" : 4.5,
 		"gameTime" : "2026-01-25T01:00Z",
 		"channel" : "ACCN",
 		"foxId" : 261883,
-		"active" : false
+		"active" : true
     }
   ]
 }
