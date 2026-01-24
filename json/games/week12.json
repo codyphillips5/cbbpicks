@@ -61,7 +61,9 @@
 		"gameTime" : "2026-01-24T17:00Z",
 		"channel" : "ESPN",
 		"foxId" : 261889,
-		"active" : true
+		"awayScore" : 85,
+		"homeScore" : 80,
+		"cover" : "UNC"
     },
     {
 		"gameId" : 6,
@@ -72,7 +74,9 @@
 		"gameTime" : "2026-01-24T17:30Z",
 		"channel" : "FOX",
 		"foxId" : 262213,
-		"active" : true
+		"awayScore" : 67,
+		"homeScore" : 75,
+		"cover" : "NOVA"
     },
     {
 		"gameId" : 7,
@@ -83,7 +87,9 @@
 		"gameTime" : "2026-01-24T20:00Z",
 		"channel" : "FOX",
 		"foxId" : 262583,
-		"active" : true
+		"awayScore" : 88,
+		"homeScore" : 82,
+		"cover" : "ILL"
     },
 	{
 		"gameId" : 8,
@@ -94,7 +100,9 @@
 		"gameTime" : "2026-01-24T20:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 259071,
-		"active" : true
+		"awayScore" : 83,
+		"homeScore" : 78,
+		"cover" : "TROY"
     },
     {
 		"gameId" : 9,
