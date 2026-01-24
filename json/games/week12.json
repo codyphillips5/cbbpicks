@@ -74,6 +74,8 @@
 		"gameTime" : "2026-01-24T17:30Z",
 		"channel" : "FOX",
 		"foxId" : 262213,
+		"overtime" : true,
+		"numberOfOT" : 1,
 		"awayScore" : 67,
 		"homeScore" : 75,
 		"cover" : "NOVA"
