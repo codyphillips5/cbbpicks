@@ -115,7 +115,11 @@
 		"gameTime" : "2026-01-25T01:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 258629,
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 71,
+		"homeScore" : 78,
+		"cover" : "CBU"
     },
     {
 		"gameId" : 10,
@@ -126,7 +130,9 @@
 		"gameTime" : "2026-01-25T01:00Z",
 		"channel" : "ACCN",
 		"foxId" : 261883,
-		"active" : true
+		"awayScore" : 78,
+		"homeScore" : 66,
+		"cover" : "CAL"
     }
   ]
 }
