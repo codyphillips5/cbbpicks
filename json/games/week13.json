@@ -5,11 +5,11 @@
 		"awayTeam" : "ZONA",
 		"homeTeam" : "BYU",
 		"favorite" : "ZONA",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2026-01-27T00:00Z",
 		"channel" : "ESPN",
 		"foxId" : 262752,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 2,
