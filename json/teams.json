@@ -74,7 +74,7 @@
 		"teamId" : 10,
 		"team" : "Tulsa",
 		"teamMascot" : "Golden Hurricane",
-		"teamValue" : "TULSA",
+		"teamValue" : "TLSA",
 		"teamImage" : "Tulsa"
     },
 	{
@@ -592,7 +592,7 @@
 		"teamId" : 84,
 		"team" : "Montana State",
 		"teamMascot" : "Bobcats",
-		"teamValue" : "MONTST",
+		"teamValue" : "MTST",
 		"teamImage" : "MontanaState"
     },		
 	{
@@ -613,7 +613,7 @@
 		"teamId" : 87,
 		"team" : "Portland State",
 		"teamMascot" : "Vikings",
-		"teamValue" : "PORTST",
+		"teamValue" : "PRST",
 		"teamImage" : "PortlandState"
     },			
 	{
@@ -1453,7 +1453,7 @@
 		"teamId" : 207,
 		"team" : "Missouri State",
 		"teamMascot" : "Bears",
-		"teamValue" : "MIZST",
+		"teamValue" : "MOST",
 		"teamImage" : "MissouriState"
     },	
 	{
@@ -2484,6 +2484,13 @@
 		"teamMascot" : "Tommies",
 		"teamValue" : "UST",
 		"teamImage" : "st-thomas-tommies"
+    },
+	{
+		"teamId" : 353,
+		"team" : "Queens",
+		"teamMascot" : "Royals",
+		"teamValue" : "QUC",
+		"teamImage" : "queens-royals"
     }
   ]
 }
