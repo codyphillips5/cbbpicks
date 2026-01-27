@@ -22,7 +22,7 @@
 		"gameTime" : "2026-01-28T00:00Z",
 		"channel" : "NBCSN | Peacock",
 		"foxId" : 262592,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 3,
@@ -33,7 +33,7 @@
 		"gameTime" : "2026-01-28T02:00Z",
 		"channel" : "ESPN",
 		"foxId" : 258395,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 4,
