@@ -22,7 +22,9 @@
 		"gameTime" : "2026-01-28T00:00Z",
 		"channel" : "NBCSN | Peacock",
 		"foxId" : 262592,
-		"active" : true
+		"awayScore" : 72,
+		"homeScore" : 75,
+		"cover" : "NEB"
     },
     {
 		"gameId" : 3,
