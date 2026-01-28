@@ -35,7 +35,9 @@
 		"gameTime" : "2026-01-28T02:00Z",
 		"channel" : "ESPN",
 		"foxId" : 258395,
-		"active" : true
+		"awayScore" : 55,
+		"homeScore" : 80,
+		"cover" : "VANDY"
     },
     {
 		"gameId" : 4,
