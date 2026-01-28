@@ -40,7 +40,7 @@
 		"awayTeam" : "USC",
 		"homeTeam" : "IOWA",
 		"favorite" : "IOWA",
-		"spread" : "-",
+		"spread" : 9.5,
 		"gameTime" : "2026-01-29T00:00Z",
 		"channel" : "B1G",
 		"foxId" : 262593,
