@@ -48,7 +48,7 @@
 		"gameTime" : "2026-01-29T00:00Z",
 		"channel" : "B1G",
 		"foxId" : 262593,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 5,
