@@ -160,7 +160,7 @@ $.when(requestX, requestY).then(function(){
 						var select = '<select class=\'teamlist form-select form-select-sm\' style=\'width:auto;\' id=\'game' + gameId + '\' onchange=\"assignPointsByTeam(' + gameId +');\"><option value = \"\"> -- Select Team -- </option><option value=\"' + awayTeamVal + '\">' + awayTeam + ' ' + awaySide + spread + '</option><option value=\"' + homeTeamVal + '\">' + homeTeam + ' ' + homeSide + spread + '</option></select>'; 	
 					}
 					else {
-						var select = `<div class="d-grid gap-2"><a href="https://www.foxsports.com/college-basketball/boxscore?id=${foxId}&tab=boxscore" target="_blank"><button type="button" class="btn btn-link pb-2 pt-2">Boxscore</button></a></div>`;
+						var select = `<div class="d-grid gap-2 pt-2"><a href="https://www.foxsports.com/college-basketball/boxscore?id=${foxId}&tab=boxscore" target="_blank"><button type="button" class="btn btn-outline-secondary pb-2 pt-2">Box Score</button></a></div>`;
 					}
 				}
 				else {
