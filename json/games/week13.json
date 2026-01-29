@@ -48,7 +48,9 @@
 		"gameTime" : "2026-01-29T00:00Z",
 		"channel" : "B1G",
 		"foxId" : 262593,
-		"active" : true
+		"awayScore" : 72,
+		"homeScore" : 73,
+		"cover" : "USC"
     },
     {
 		"gameId" : 5,
