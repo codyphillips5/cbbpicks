@@ -79,13 +79,13 @@
     },
 	{
 		"gameId" : 8,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "LIB",
+		"homeTeam" : "JSU",
+		"favorite" : "JSU",
 		"spread" : "-",
-		"gameTime" : "2026-02-24T00:00Z",
-		"channel" : "",
-		"foxId" : 0,
+		"gameTime" : "2026-02-28T23:00Z",
+		"channel" : "ESPNU",
+		"foxId" : 258936,
 		"active" : false
     },
     {

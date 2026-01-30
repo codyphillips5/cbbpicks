@@ -24,6 +24,17 @@
     },
     {
 		"gameId" : 3,
+		"awayTeam" : "LIPS",
+		"homeTeam" : "APU",
+		"favorite" : "APU",
+		"spread" : "-",
+		"gameTime" : "2026-02-05T01:00Z",
+		"channel" : "ESPN+",
+		"foxId" : 259063,
+		"active" : false
+    },
+    {
+		"gameId" : 4,
 		"awayTeam" : "USU",
 		"homeTeam" : "UNM",
 		"favorite" : "UNM",
@@ -34,7 +45,7 @@
 		"active" : false
     },
     {
-		"gameId" : 4,
+		"gameId" : 5,
 		"awayTeam" : "UCONN",
 		"homeTeam" : "SJU",
 		"favorite" : "SJU",
@@ -45,7 +56,7 @@
 		"active" : false
     },
     {
-		"gameId" : 5,
+		"gameId" : 6,
 		"awayTeam" : "VT",
 		"homeTeam" : "NCST",
 		"favorite" : "NCST",
@@ -53,17 +64,6 @@
 		"gameTime" : "2026-02-07T18:30Z",
 		"channel" : "CW",
 		"foxId" : 261949,
-		"active" : false
-    },
-    {
-		"gameId" : 6,
-		"awayTeam" : "MOST",
-		"homeTeam" : "LIB",
-		"favorite" : "LIB",
-		"spread" : "-",
-		"gameTime" : "2026-02-07T19:00Z",
-		"channel" : "CBSSN",
-		"foxId" : 258987,
 		"active" : false
     },
     {
