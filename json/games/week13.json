@@ -57,22 +57,22 @@
 		"awayTeam" : "MICH",
 		"homeTeam" : "MSU",
 		"favorite" : "MICH",
-		"spread" : 1.5,
+		"spread" : 0,
 		"gameTime" : "2026-01-31T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262598,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 6,
 		"awayTeam" : "DAY",
 		"homeTeam" : "SLU",
 		"favorite" : "SLU",
-		"spread" : 11.5,
+		"spread" : 10.5,
 		"gameTime" : "2026-01-31T01:00Z",
 		"channel" : "CBSSN",
 		"foxId" : 263087,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 7,
