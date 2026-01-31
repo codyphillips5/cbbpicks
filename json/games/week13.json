@@ -87,7 +87,9 @@
 		"gameTime" : "2026-01-31T18:00Z",
 		"channel" : "SECN",
 		"foxId" : 258594,
-		"active" : true
+		"awayScore" : 92,
+		"homeScore" : 77,
+		"cover" : "TXAM"
     },
 	{
 		"gameId" : 8,
