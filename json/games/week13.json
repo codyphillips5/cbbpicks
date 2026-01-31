@@ -100,7 +100,9 @@
 		"gameTime" : "2026-01-31T21:00Z",
 		"channel" : "ACCN",
 		"foxId" : 261923,
-		"active" : true
+		"awayScore" : 86,
+		"homeScore" : 85,
+		"cover" : "CAL"
     },
     {
 		"gameId" : 9,
