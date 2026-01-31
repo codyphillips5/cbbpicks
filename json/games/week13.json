@@ -87,7 +87,7 @@
 		"gameTime" : "2026-01-31T18:00Z",
 		"channel" : "SECN",
 		"foxId" : 258594,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 8,
@@ -98,7 +98,7 @@
 		"gameTime" : "2026-01-31T21:00Z",
 		"channel" : "ACCN",
 		"foxId" : 261923,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 9,
@@ -109,7 +109,7 @@
 		"gameTime" : "2026-02-01T01:00Z",
 		"channel" : "CBSSN",
 		"foxId" : 263695,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
@@ -120,7 +120,7 @@
 		"gameTime" : "2026-02-01T03:30Z",
 		"channel" : "ESPN",
 		"foxId" : 263376,
-		"active" : false
+		"active" : true
     }
   ]
 }
