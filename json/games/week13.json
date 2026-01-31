@@ -61,7 +61,9 @@
 		"gameTime" : "2026-01-31T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262598,
-		"active" : true
+		"awayScore" : 83,
+		"homeScore" : 71,
+		"cover" : "MICH"
     },
     {
 		"gameId" : 6,
@@ -72,7 +74,9 @@
 		"gameTime" : "2026-01-31T01:00Z",
 		"channel" : "CBSSN",
 		"foxId" : 263087,
-		"active" : true
+		"awayScore" : 71,
+		"homeScore" : 102,
+		"cover" : "SLU"
     },
     {
 		"gameId" : 7,
