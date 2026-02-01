@@ -126,7 +126,9 @@
 		"gameTime" : "2026-02-01T03:30Z",
 		"channel" : "ESPN",
 		"foxId" : 263376,
-		"active" : true
+		"awayScore" : 65,
+		"homeScore" : 73,
+		"cover" : "STMARY"
     }
   ]
 }
