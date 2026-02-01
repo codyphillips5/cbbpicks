@@ -113,7 +113,9 @@
 		"gameTime" : "2026-02-01T01:00Z",
 		"channel" : "CBSSN",
 		"foxId" : 263695,
-		"active" : true
+		"awayScore" : 86,
+		"homeScore" : 103,
+		"cover" : "BEL"
     },
     {
 		"gameId" : 10,
