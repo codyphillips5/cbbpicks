@@ -101,13 +101,13 @@
     },
     {
 		"gameId" : 10,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "UCSB",
+		"homeTeam" : "HAW",
+		"favorite" : "HAW",
 		"spread" : "-",
-		"gameTime" : "2026-02-17T00:00Z",
-		"channel" : "",
-		"foxId" : 0,
+		"gameTime" : "2026-02-23T05:00Z",
+		"channel" : "ESPN+",
+		"foxId" : 258651,
 		"active" : false
     }
   ]
