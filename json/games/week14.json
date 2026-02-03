@@ -9,7 +9,9 @@
 		"gameTime" : "2026-02-03T02:00Z",
 		"channel" : "ESPN",
 		"foxId" : 262766,
-		"active" : true
+		"awayScore" : 64,
+		"homeScore" : 61,
+		"cover" : "KAN"
     },
     {
 		"gameId" : 2,
