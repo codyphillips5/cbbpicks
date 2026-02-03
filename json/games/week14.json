@@ -15,17 +15,6 @@
     },
     {
 		"gameId" : 2,
-		"awayTeam" : "TLSA",
-		"homeTeam" : "FAU",
-		"favorite" : "FAU",
-		"spread" : "-",
-		"gameTime" : "2026-02-05T00:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 262956,
-		"active" : false
-    },
-    {
-		"gameId" : 3,
 		"awayTeam" : "LIPS",
 		"homeTeam" : "APU",
 		"favorite" : "APU",
@@ -36,7 +25,7 @@
 		"active" : false
     },
     {
-		"gameId" : 4,
+		"gameId" : 3,
 		"awayTeam" : "USU",
 		"homeTeam" : "UNM",
 		"favorite" : "UNM",
@@ -47,7 +36,7 @@
 		"active" : false
     },
     {
-		"gameId" : 5,
+		"gameId" : 4,
 		"awayTeam" : "UCONN",
 		"homeTeam" : "SJU",
 		"favorite" : "SJU",
@@ -58,7 +47,7 @@
 		"active" : false
     },
     {
-		"gameId" : 6,
+		"gameId" : 5,
 		"awayTeam" : "VT",
 		"homeTeam" : "NCST",
 		"favorite" : "NCST",
@@ -69,7 +58,7 @@
 		"active" : false
     },
     {
-		"gameId" : 7,
+		"gameId" : 6,
 		"awayTeam" : "DUKE",
 		"homeTeam" : "UNC",
 		"favorite" : "UNC",
@@ -79,8 +68,8 @@
 		"foxId" : 261951,
 		"active" : false
     },
-	{
-		"gameId" : 8,
+    {
+		"gameId" : 7,
 		"awayTeam" : "ILL",
 		"homeTeam" : "MSU",
 		"favorite" : "MSU",
@@ -90,8 +79,8 @@
 		"foxId" : 262617,
 		"active" : false
     },
-    {
-		"gameId" : 9,
+	{
+		"gameId" : 8,
 		"awayTeam" : "FLA",
 		"homeTeam" : "TXAM",
 		"favorite" : "TXAM",
@@ -102,7 +91,7 @@
 		"active" : false
     },
     {
-		"gameId" : 10,
+		"gameId" : 9,
 		"awayTeam" : "HOU",
 		"homeTeam" : "BYU",
 		"favorite" : "BYU",
@@ -110,6 +99,17 @@
 		"gameTime" : "2026-02-08T03:30Z",
 		"channel" : "ESPN",
 		"foxId" : 262773,
+		"active" : false
+    },
+    {
+		"gameId" : 10,
+		"awayTeam" : "TLSA",
+		"homeTeam" : "USF",
+		"favorite" : "USF",
+		"spread" : "-",
+		"gameTime" : "2026-02-08T17:00Z",
+		"channel" : "ESPNU",
+		"foxId" : 262964,
 		"active" : false
     }
   ]
