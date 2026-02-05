@@ -35,17 +35,6 @@
     },
     {
 		"gameId" : 4,
-		"awayTeam" : "FLA",
-		"homeTeam" : "UGA",
-		"favorite" : "UGA",
-		"spread" : "-",
-		"gameTime" : "2026-02-12T00:00Z",
-		"channel" : "",
-		"foxId" : 258595,
-		"active" : false
-    },
-    {
-		"gameId" : 5,
 		"awayTeam" : "MIZ",
 		"homeTeam" : "TXAM",
 		"favorite" : "TXAM",
@@ -56,7 +45,7 @@
 		"active" : false
     },
     {
-		"gameId" : 6,
+		"gameId" : 5,
 		"awayTeam" : "MSU",
 		"homeTeam" : "WIS",
 		"favorite" : "WIS",
@@ -64,6 +53,17 @@
 		"gameTime" : "2026-02-14T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262630,
+		"active" : false
+    },
+    {
+		"gameId" : 6,
+		"awayTeam" : "OHIO",
+		"homeTeam" : "M-OH",
+		"favorite" : "M-OH",
+		"spread" : "-",
+		"gameTime" : "2026-02-14T02:00Z",
+		"channel" : "ESPN",
+		"foxId" : 258595,
 		"active" : false
     },
     {
