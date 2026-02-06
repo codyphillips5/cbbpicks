@@ -55,7 +55,7 @@
 		"awayTeam" : "VT",
 		"homeTeam" : "NCST",
 		"favorite" : "NCST",
-		"spread" : "-",
+		"spread" : 11.5,
 		"gameTime" : "2026-02-07T18:30Z",
 		"channel" : "CW",
 		"foxId" : 261949,
