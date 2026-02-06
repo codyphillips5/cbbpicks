@@ -44,11 +44,11 @@
 		"awayTeam" : "UCONN",
 		"homeTeam" : "SJU",
 		"favorite" : "UCONN",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2026-02-07T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262230,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 5,
