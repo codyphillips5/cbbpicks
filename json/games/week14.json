@@ -47,19 +47,21 @@
 		"spread" : 2.5,
 		"gameTime" : "2026-02-07T01:00Z",
 		"channel" : "FOX",
-		"foxId" : 262230,
-		"active" : true
+		"foxId" : 26223,
+		"awayScore" : 72,
+		"homeScore" : 81,
+		"cover" : "SJU"
     },
     {
 		"gameId" : 5,
 		"awayTeam" : "VT",
 		"homeTeam" : "NCST",
 		"favorite" : "NCST",
-		"spread" : 10.5,
+		"spread" : 9.5,
 		"gameTime" : "2026-02-07T18:30Z",
 		"channel" : "CW",
 		"foxId" : 261949,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 6,
@@ -70,7 +72,7 @@
 		"gameTime" : "2026-02-07T23:30Z",
 		"channel" : "ESPN",
 		"foxId" : 261951,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 7,
@@ -81,29 +83,29 @@
 		"gameTime" : "2026-02-08T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262617,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 8,
 		"awayTeam" : "FLA",
 		"homeTeam" : "TXAM",
 		"favorite" : "FLA",
-		"spread" : 4.5,
+		"spread" : 6.5,
 		"gameTime" : "2026-02-08T01:30Z",
 		"channel" : "SECN",
 		"foxId" : 258483,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 9,
 		"awayTeam" : "HOU",
 		"homeTeam" : "BYU",
 		"favorite" : "HOU",
-		"spread" : 2.5,
+		"spread" : 1.5,
 		"gameTime" : "2026-02-08T03:30Z",
 		"channel" : "ESPN",
 		"foxId" : 262773,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
