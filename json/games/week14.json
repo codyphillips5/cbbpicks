@@ -61,7 +61,9 @@
 		"gameTime" : "2026-02-07T18:30Z",
 		"channel" : "CW",
 		"foxId" : 261949,
-		"active" : true
+		"awayScore" : 73,
+		"homeScore" : 82,
+		"cover" : "VT"
     },
     {
 		"gameId" : 6,
