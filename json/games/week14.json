@@ -87,7 +87,11 @@
 		"gameTime" : "2026-02-08T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262617,
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 82,
+		"homeScore" : 85,
+		"cover" : "MSU"
     },
 	{
 		"gameId" : 8,
@@ -98,7 +102,9 @@
 		"gameTime" : "2026-02-08T01:30Z",
 		"channel" : "SECN",
 		"foxId" : 258483,
-		"active" : true
+		"awayScore" : 86,
+		"homeScore" : 67,
+		"cover" : "FLA"
     },
     {
 		"gameId" : 9,
@@ -109,7 +115,9 @@
 		"gameTime" : "2026-02-08T03:30Z",
 		"channel" : "ESPN",
 		"foxId" : 262773,
-		"active" : true
+		"awayScore" : 77,
+		"homeScore" : 66,
+		"cover" : "HOU"
     },
     {
 		"gameId" : 10,
