@@ -128,7 +128,7 @@
 		"gameTime" : "2026-02-08T17:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 262964,
-		"active" : false
+		"active" : true
     }
   ]
 }
