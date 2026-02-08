@@ -74,7 +74,9 @@
 		"gameTime" : "2026-02-07T23:30Z",
 		"channel" : "ESPN",
 		"foxId" : 261951,
-		"active" : true
+		"awayScore" : 68,
+		"homeScore" : 71,
+		"cover" : "UNC"
     },
     {
 		"gameId" : 7,
