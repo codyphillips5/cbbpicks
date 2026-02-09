@@ -27,7 +27,7 @@
 		"awayTeam" : "PURD",
 		"homeTeam" : "NEB",
 		"favorite" : "NEB",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2026-02-11T00:00Z",
 		"channel" : "FS1",
 		"foxId" : 262625,
