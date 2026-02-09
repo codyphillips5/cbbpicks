@@ -9,7 +9,7 @@
 		"gameTime" : "2026-02-10T01:00Z",
 		"channel" : "CBSSN",
 		"foxId" : 259705,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 2,
@@ -20,7 +20,7 @@
 		"gameTime" : "2026-02-10T02:00Z",
 		"channel" : "ESPN",
 		"foxId" : 262780,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 3,
