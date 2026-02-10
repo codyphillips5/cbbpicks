@@ -9,7 +9,9 @@
 		"gameTime" : "2026-02-10T01:00Z",
 		"channel" : "CBSSN",
 		"foxId" : 259705,
-		"active" : true
+		"awayScore" : 76,
+		"homeScore" : 64,
+		"cover" : "UNCW"
     },
     {
 		"gameId" : 2,
