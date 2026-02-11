@@ -50,7 +50,7 @@
 		"gameTime" : "2026-02-12T00:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 258595,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 5,
