@@ -68,6 +68,17 @@
     },
     {
 		"gameId" : 7,
+		"awayTeam" : "WIN",
+		"homeTeam" : "HPU",
+		"favorite" : "HPU",
+		"spread" : "-",
+		"gameTime" : "2026-02-21T21:00Z",
+		"channel" : "ESPN+",
+		"foxId" : 262016,
+		"active" : false
+    },
+	{
+		"gameId" : 8,
 		"awayTeam" : "UCONN",
 		"homeTeam" : "NOVA",
 		"favorite" : "NOVA",
@@ -77,8 +88,8 @@
 		"foxId" : 262252,
 		"active" : false
     },
-	{
-		"gameId" : 8,
+    {
+		"gameId" : 9,
 		"awayTeam" : "MICH",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
@@ -89,23 +100,12 @@
 		"active" : false
     },
     {
-		"gameId" : 9,
-		"awayTeam" : "ISU",
-		"homeTeam" : "BYU",
-		"favorite" : "BYU",
-		"spread" : "-",
-		"gameTime" : "2026-02-22T03:30Z",
-		"channel" : "ESPN",
-		"foxId" : 262801,
-		"active" : false
-    },
-    {
 		"gameId" : 10,
 		"awayTeam" : "UCSB",
 		"homeTeam" : "HAW",
 		"favorite" : "HAW",
 		"spread" : "-",
-		"gameTime" : "2026-02-23T05:00Z",
+		"gameTime" : "2026-02-22T05:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 258651,
 		"active" : false

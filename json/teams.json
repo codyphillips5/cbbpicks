@@ -338,7 +338,7 @@
     },
 	{
 		"teamId" : 48,
-		"team" : "SLU",
+		"team" : "Saint Louis",
 		"teamMascot" : "Billikens",
 		"teamValue" : "SLU",
 		"teamImage" : "SaintLouis"
@@ -872,7 +872,7 @@
 		"teamId" : 124,
 		"team" : "Winthrop",
 		"teamMascot" : "Eagles",
-		"teamValue" : "WINTH",
+		"teamValue" : "WIN",
 		"teamImage" : "Winthrop"
     },
 	{
@@ -2144,7 +2144,7 @@
     },		
 	{
 		"teamId" : 306,
-		"team" : "NDSU",
+		"team" : "North Dakota State",
 		"teamMascot" : "Bison",
 		"teamValue" : "NDSU",
 		"teamImage" : "NorthDakotaState"
