@@ -65,13 +65,13 @@
     },
     {
 		"gameId" : 6,
-		"awayTeam" : "OHIO",
-		"homeTeam" : "M-OH",
-		"favorite" : "M-OH",
+		"awayTeam" : "TCU",
+		"homeTeam" : "OKST",
+		"favorite" : "OKST",
 		"spread" : "-",
-		"gameTime" : "2026-02-14T02:00Z",
-		"channel" : "ESPN",
-		"foxId" : 258595,
+		"gameTime" : "2026-02-14T17:00Z",
+		"channel" : "ESPN2",
+		"foxId" : 262790,
 		"active" : false
     },
     {
@@ -80,8 +80,8 @@
 		"homeTeam" : "COLG",
 		"favorite" : "COLG",
 		"spread" : "-",
-		"gameTime" : "2026-02-14T19:00Z",
-		"channel" : "ESPN+",
+		"gameTime" : "2026-02-14T17:00Z",
+		"channel" : "CBSSN",
 		"foxId" : 263234,
 		"active" : false
     },
