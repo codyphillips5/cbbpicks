@@ -50,7 +50,9 @@
 		"gameTime" : "2026-02-12T00:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 258595,
-		"active" : true
+		"awayScore" : 86,
+		"homeScore" : 66,
+		"cover" : "FLA"
     },
     {
 		"gameId" : 5,
