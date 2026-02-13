@@ -70,7 +70,7 @@
 		"awayTeam" : "TCU",
 		"homeTeam" : "OKST",
 		"favorite" : "OKST",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2026-02-14T17:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 262790,
