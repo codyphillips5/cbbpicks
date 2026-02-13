@@ -63,7 +63,7 @@
 		"gameTime" : "2026-02-14T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262630,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 6,
