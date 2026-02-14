@@ -63,40 +63,42 @@
 		"gameTime" : "2026-02-14T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262630,
-		"active" : true
+		"awayScore" : 71,
+		"homeScore" : 92,
+		"cover" : "WIS"
     },
     {
 		"gameId" : 6,
 		"awayTeam" : "TCU",
 		"homeTeam" : "OKST",
 		"favorite" : "OKST",
-		"spread" : 2.5,
+		"spread" : 1.5,
 		"gameTime" : "2026-02-14T17:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 262790,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 7,
 		"awayTeam" : "NAVY",
 		"homeTeam" : "COLG",
 		"favorite" : "COLG",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2026-02-14T17:00Z",
 		"channel" : "CBSSN",
 		"foxId" : 263234,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 8,
 		"awayTeam" : "YALE",
 		"homeTeam" : "HARV",
-		"favorite" : "HARV",
-		"spread" : "-",
+		"favorite" : "YALE",
+		"spread" : 5.5,
 		"gameTime" : "2026-02-14T23:30Z",
 		"channel" : "ESPNU",
 		"foxId" : 263296,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 9,
@@ -107,18 +109,18 @@
 		"gameTime" : "2026-02-15T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 261206,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
 		"awayTeam" : "GONZ",
 		"homeTeam" : "SCU",
 		"favorite" : "GONZ",
-		"spread" : 3.5,
+		"spread" : 4.5,
 		"gameTime" : "2026-02-15T03:30Z",
 		"channel" : "ESPN",
 		"foxId" : 263399,
-		"active" : false
+		"active" : true
     }
   ]
 }
