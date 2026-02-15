@@ -76,7 +76,11 @@
 		"gameTime" : "2026-02-14T17:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 262790,
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 95,
+		"homeScore" : 92,
+		"cover" : "TCU"
     },
     {
 		"gameId" : 7,
@@ -87,7 +91,11 @@
 		"gameTime" : "2026-02-14T17:00Z",
 		"channel" : "CBSSN",
 		"foxId" : 263234,
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 84,
+		"homeScore" : 80,
+		"cover" : "NAVY"
     },
 	{
 		"gameId" : 8,
@@ -98,7 +106,9 @@
 		"gameTime" : "2026-02-14T23:30Z",
 		"channel" : "ESPNU",
 		"foxId" : 263296,
-		"active" : true
+		"awayScore" : 76,
+		"homeScore" : 75,
+		"cover" : "HARV"
     },
     {
 		"gameId" : 9,
@@ -109,7 +119,9 @@
 		"gameTime" : "2026-02-15T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 261206,
-		"active" : true
+		"awayScore" : 70,
+		"homeScore" : 66,
+		"cover" : "OSU"
     },
     {
 		"gameId" : 10,
@@ -120,7 +132,9 @@
 		"gameTime" : "2026-02-15T03:30Z",
 		"channel" : "ESPN",
 		"foxId" : 263399,
-		"active" : true
+		"awayScore" : 94,
+		"homeScore" : 86,
+		"cover" : "GONZ"
     }
   ]
 }
