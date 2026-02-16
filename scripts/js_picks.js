@@ -34,7 +34,7 @@ var overtime = "";
 var numOT = "";
   
 // week of year, first game
-var week = 15;
+var week = 16;
 if (week === 0) {
 	document.getElementById("week-title").innerHTML = `<h2>🏀 Enjoy the Madness 🏀</h2>`;
 	document.getElementsByClassName("picks container pt-3")[0].setAttribute("hidden", "");
