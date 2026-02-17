@@ -90,13 +90,13 @@
     },
     {
 		"gameId" : 9,
-		"awayTeam" : "LIB",
-		"homeTeam" : "JSU",
-		"favorite" : "JSU",
+		"awayTeam" : "ETSU",
+		"homeTeam" : "MER",
+		"favorite" : "MER",
 		"spread" : "-",
-		"gameTime" : "2026-02-28T23:00Z",
-		"channel" : "ESPNU",
-		"foxId" : 258936,
+		"gameTime" : "2026-02-28T21:30Z",
+		"channel" : "ESPN+",
+		"foxId" : 258562,
 		"active" : false
     },
     {

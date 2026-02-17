@@ -26,17 +26,6 @@
     },
     {
 		"gameId" : 3,
-		"awayTeam" : "ETSU",
-		"homeTeam" : "FURMAN",
-		"favorite" : "FURMAN",
-		"spread" : "-",
-		"gameTime" : "2026-02-18T23:30Z",
-		"channel" : "ESPN+",
-		"foxId" : 258150,
-		"active" : false
-    },
-    {
-		"gameId" : 4,
 		"awayTeam" : "ARK",
 		"homeTeam" : "ALA",
 		"favorite" : "ALA",
@@ -44,6 +33,17 @@
 		"gameTime" : "2026-02-19T00:00Z",
 		"channel" : "ESPN",
 		"foxId" : 258259,
+		"active" : false
+    },
+    {
+		"gameId" : 4,
+		"awayTeam" : "MARSH",
+		"homeTeam" : "APP",
+		"favorite" : "APP",
+		"spread" : "-",
+		"gameTime" : "2026-02-19T23:30Z",
+		"channel" : "ESPN+",
+		"foxId" : 258150,
 		"active" : false
     },
     {
