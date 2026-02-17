@@ -35,13 +35,13 @@
     },
     {
 		"gameId" : 4,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "SHSU",
+		"homeTeam" : "LIB",
+		"favorite" : "LIB",
 		"spread" : "-",
-		"gameTime" : "2026-03-03T00:00Z",
-		"channel" : "",
-		"foxId" : 0,
+		"gameTime" : "2026-03-07T19:00Z",
+		"channel" : "ESPN+",
+		"foxId" : 258991,
 		"active" : false
     },
     {

@@ -18,11 +18,11 @@
 		"awayTeam" : "MICH",
 		"homeTeam" : "PURD",
 		"favorite" : "MICH",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2026-02-17T23:30Z",
 		"channel" : "NBCSN | Peacock",
 		"foxId" : 262642,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 3,
