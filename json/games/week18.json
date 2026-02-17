@@ -24,13 +24,13 @@
     },
     {
 		"gameId" : 3,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "MICH",
+		"homeTeam" : "IOWA",
+		"favorite" : "IOWA",
 		"spread" : "-",
-		"gameTime" : "2026-03-03T00:00Z",
-		"channel" : "",
-		"foxId" : 0,
+		"gameTime" : "2026-03-06T01:00Z",
+		"channel" : "NBCSN | Peacock",
+		"foxId" : 262678,
 		"active" : false
     },
     {
