@@ -22,14 +22,16 @@
 		"gameTime" : "2026-02-17T23:30Z",
 		"channel" : "NBCSN | Peacock",
 		"foxId" : 262642,
-		"active" : true
+		"awayScore" : 91,
+		"homeScore" : 80,
+		"cover" : "MICH"
     },
     {
 		"gameId" : 3,
 		"awayTeam" : "ARK",
 		"homeTeam" : "ALA",
 		"favorite" : "ALA",
-		"spread" : 3.5,
+		"spread" : 4.5,
 		"gameTime" : "2026-02-19T00:00Z",
 		"channel" : "ESPN",
 		"foxId" : 258259,
