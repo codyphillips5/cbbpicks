@@ -31,11 +31,11 @@
 		"awayTeam" : "ARK",
 		"homeTeam" : "ALA",
 		"favorite" : "ALA",
-		"spread" : 4.5,
+		"spread" : 3.5,
 		"gameTime" : "2026-02-19T00:00Z",
 		"channel" : "ESPN",
 		"foxId" : 258259,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 4,
