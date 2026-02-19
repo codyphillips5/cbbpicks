@@ -35,7 +35,11 @@
 		"gameTime" : "2026-02-19T00:00Z",
 		"channel" : "ESPN",
 		"foxId" : 258259,
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 2,
+		"awayScore" : 115,
+		"homeScore" : 117,
+		"cover" : "ARK"
     },
     {
 		"gameId" : 4,
