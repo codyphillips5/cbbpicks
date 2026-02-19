@@ -50,7 +50,7 @@
 		"gameTime" : "2026-02-19T23:30Z",
 		"channel" : "ESPN+",
 		"foxId" : 258150,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 5,
