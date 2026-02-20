@@ -50,7 +50,9 @@
 		"gameTime" : "2026-02-19T23:30Z",
 		"channel" : "ESPN+",
 		"foxId" : 258204,
-		"active" : true
+		"awayScore" : 94,
+		"homeScore" : 93,
+		"cover" : "MARSH"
     },
     {
 		"gameId" : 5,
