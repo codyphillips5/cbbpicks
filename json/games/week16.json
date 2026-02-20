@@ -59,11 +59,11 @@
 		"awayTeam" : "VCU",
 		"homeTeam" : "SLU",
 		"favorite" : "SLU",
-		"spread" : 8.5,
+		"spread" : 7.5,
 		"gameTime" : "2026-02-21T00:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 263123,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 6,
