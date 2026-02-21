@@ -63,7 +63,9 @@
 		"gameTime" : "2026-02-21T00:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 263123,
-		"active" : true
+		"awayScore" : 75,
+		"homeScore" : 88,
+		"cover" : "SLU"
     },
     {
 		"gameId" : 6,
@@ -81,7 +83,7 @@
 		"awayTeam" : "WIN",
 		"homeTeam" : "HPU",
 		"favorite" : "HPU",
-		"spread" : "-",
+		"spread" : 8.5,
 		"gameTime" : "2026-02-21T21:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 262016,
@@ -114,7 +116,7 @@
 		"awayTeam" : "UCSB",
 		"homeTeam" : "HAW",
 		"favorite" : "HAW",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2026-02-22T03:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 258651,
