@@ -127,7 +127,11 @@
 		"gameTime" : "2026-02-22T03:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 258651,
-		"active" : true
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"awayScore" : 75,
+		"homeScore" : 78,
+		"cover" : "UCSB"
     }
   ]
 }
