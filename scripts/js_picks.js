@@ -149,6 +149,7 @@ $.when(requestX, requestY).then(function(){
 				var yourPick = document.createElement('div');
 				yourPick.id = 'your-pick-game' + gameId;
 				yourPick.innerHTML = '';
+				numOT = "";
 			}
 			else if (spread == "-") {
 				var select = '';	
