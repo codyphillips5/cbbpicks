@@ -76,7 +76,9 @@
 		"gameTime" : "2026-02-21T20:00Z",
 		"channel" : "ABC",
 		"foxId" : 262807,
-		"active" : true
+		"awayScore" : 73,
+		"homeScore" : 66,
+		"cover" : "ZONA"
     },
     {
 		"gameId" : 7,
@@ -87,7 +89,9 @@
 		"gameTime" : "2026-02-21T21:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 262016,
-		"active" : true
+		"awayScore" : 87,
+		"homeScore" : 89,
+		"cover" : "WIN"
     },
 	{
 		"gameId" : 8,
@@ -98,7 +102,9 @@
 		"gameTime" : "2026-02-21T22:30Z",
 		"channel" : "TNT",
 		"foxId" : 262252,
-		"active" : true
+		"awayScore" : 73,
+		"homeScore" : 63,
+		"cover" : "UCONN"
     },
     {
 		"gameId" : 9,
@@ -108,8 +114,9 @@
 		"spread" : 2.5,
 		"gameTime" : "2026-02-21T23:30Z",
 		"channel" : "ESPN",
-		"foxId" : 261211,
-		"active" : true
+		"awayScore" : 63,
+		"homeScore" : 68,
+		"cover" : "DUKE"
     },
     {
 		"gameId" : 10,
