@@ -24,6 +24,17 @@
     },
     {
 		"gameId" : 3,
+		"awayTeam" : "TEX",
+		"homeTeam" : "ARK",
+		"favorite" : "ARK",
+		"spread" : "-",
+		"gameTime" : "2026-03-05T00:00Z",
+		"channel" : "",
+		"foxId" : 258822,
+		"active" : false
+    },
+    {
+		"gameId" : 4,
 		"awayTeam" : "MICH",
 		"homeTeam" : "IOWA",
 		"favorite" : "IOWA",
@@ -34,7 +45,7 @@
 		"active" : false
     },
     {
-		"gameId" : 4,
+		"gameId" : 5,
 		"awayTeam" : "SHSU",
 		"homeTeam" : "LIB",
 		"favorite" : "LIB",
@@ -45,7 +56,18 @@
 		"active" : false
     },
     {
-		"gameId" : 5,
+		"gameId" : 6,
+		"awayTeam" : "VANDY",
+		"homeTeam" : "TENN",
+		"favorite" : "TENN",
+		"spread" : "-",
+		"gameTime" : "2026-03-07T19:00Z",
+		"channel" : "",
+		"foxId" : 258169,
+		"active" : false
+    },
+    {
+		"gameId" : 7,
 		"awayTeam" : "FLA",
 		"homeTeam" : "UK",
 		"favorite" : "UK",
@@ -55,19 +77,8 @@
 		"foxId" : 258571,
 		"active" : false
     },
-    {
-		"gameId" : 6,
-		"awayTeam" : "SLU",
-		"homeTeam" : "GMU",
-		"favorite" : "GMU",
-		"spread" : "-",
-		"gameTime" : "2026-03-07T21:00Z",
-		"channel" : "USA",
-		"foxId" : 263153,
-		"active" : false
-    },
-    {
-		"gameId" : 7,
+	{
+		"gameId" : 8,
 		"awayTeam" : "UNC",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
@@ -75,17 +86,6 @@
 		"gameTime" : "2026-03-07T23:30Z",
 		"channel" : "ESPN",
 		"foxId" : 262080,
-		"active" : false
-    },
-	{
-		"gameId" : 8,
-		"awayTeam" : "TTU",
-		"homeTeam" : "BYU",
-		"favorite" : "BYU",
-		"spread" : "-",
-		"gameTime" : "2026-03-03T00:00Z",
-		"channel" : "ESPN",
-		"foxId" : 262837,
 		"active" : false
     },
     {
