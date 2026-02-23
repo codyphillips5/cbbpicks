@@ -9,7 +9,7 @@
 		"gameTime" : "2026-02-24T00:00Z",
 		"channel" : "ESPN",
 		"foxId" : 262032,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 2,
