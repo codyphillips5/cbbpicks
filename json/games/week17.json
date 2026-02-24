@@ -9,14 +9,16 @@
 		"gameTime" : "2026-02-24T00:00Z",
 		"channel" : "ESPN",
 		"foxId" : 262032,
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 77,
+		"cover" : "UNC"
     },
     {
 		"gameId" : 2,
 		"awayTeam" : "USC",
 		"homeTeam" : "UCLA",
 		"favorite" : "UCLA",
-		"spread" : 5.5,
+		"spread" : 6.5,
 		"gameTime" : "2026-02-25T04:00Z",
 		"channel" : "FS1",
 		"foxId" : 262656,
