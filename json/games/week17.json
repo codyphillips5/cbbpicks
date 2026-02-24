@@ -37,17 +37,6 @@
     },
     {
 		"gameId" : 4,
-		"awayTeam" : "TNST",
-		"homeTeam" : "SEMO",
-		"favorite" : "SEMO",
-		"spread" : "-",
-		"gameTime" : "2026-02-27T01:30Z",
-		"channel" : "ESPN+",
-		"foxId" : 258812,
-		"active" : false
-    },
-    {
-		"gameId" : 5,
 		"awayTeam" : "PRST",
 		"homeTeam" : "MTST",
 		"favorite" : "MTST",
@@ -58,7 +47,7 @@
 		"active" : false
     },
     {
-		"gameId" : 6,
+		"gameId" : 5,
 		"awayTeam" : "MICH",
 		"homeTeam" : "ILL",
 		"favorite" : "ILL",
@@ -69,7 +58,7 @@
 		"active" : false
     },
     {
-		"gameId" : 7,
+		"gameId" : 6,
 		"awayTeam" : "UVA",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
@@ -79,8 +68,8 @@
 		"foxId" : 262059,
 		"active" : false
     },
-	{
-		"gameId" : 8,
+    {
+		"gameId" : 7,
 		"awayTeam" : "TEX",
 		"homeTeam" : "TXAM",
 		"favorite" : "TXAM",
@@ -90,8 +79,8 @@
 		"foxId" : 258486,
 		"active" : false
     },
-    {
-		"gameId" : 9,
+	{
+		"gameId" : 8,
 		"awayTeam" : "ETSU",
 		"homeTeam" : "MER",
 		"favorite" : "MER",
@@ -102,7 +91,7 @@
 		"active" : false
     },
     {
-		"gameId" : 10,
+		"gameId" : 9,
 		"awayTeam" : "NOVA",
 		"homeTeam" : "SJU",
 		"favorite" : "SJU",
@@ -110,6 +99,17 @@
 		"gameTime" : "2026-03-01T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262260,
+		"active" : false
+    },
+    {
+		"gameId" : 10,
+		"awayTeam" : "GONZ",
+		"homeTeam" : "STMARY",
+		"favorite" : "STMARY",
+		"spread" : "-",
+		"gameTime" : "2026-03-02T03:30Z",
+		"channel" : "ESPN",
+		"foxId" : 263416,
 		"active" : false
     }
   ]
