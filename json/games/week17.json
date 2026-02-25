@@ -31,7 +31,7 @@
 		"awayTeam" : "USU",
 		"homeTeam" : "SDSU",
 		"favorite" : "SDSU",
-		"spread" : 1.5,
+		"spread" : 0,
 		"gameTime" : "2026-02-26T04:00Z",
 		"channel" : "FS1",
 		"foxId" : 263890,
