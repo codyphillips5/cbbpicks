@@ -42,7 +42,7 @@
 		"awayTeam" : "PRST",
 		"homeTeam" : "MTST",
 		"favorite" : "MTST",
-		"spread" : "-",
+		"spread" : 2.5,
 		"gameTime" : "2026-02-27T02:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 258371,
