@@ -48,7 +48,9 @@
 		"gameTime" : "2026-02-27T02:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 258371,
-		"active" : true
+		"awayScore" : 69,
+		"homeScore" : 84,
+		"cover" : "MTST"
     },
     {
 		"gameId" : 5,
@@ -59,14 +61,14 @@
 		"gameTime" : "2026-02-28T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262662,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 6,
 		"awayTeam" : "UVA",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
-		"spread" : "-",
+		"spread" : 9.5,
 		"gameTime" : "2026-02-28T17:00Z",
 		"channel" : "ESPN",
 		"foxId" : 262059,
@@ -99,7 +101,7 @@
 		"awayTeam" : "NOVA",
 		"homeTeam" : "SJU",
 		"favorite" : "SJU",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2026-03-01T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262260,
@@ -109,8 +111,8 @@
 		"gameId" : 10,
 		"awayTeam" : "GONZ",
 		"homeTeam" : "STMARY",
-		"favorite" : "STMARY",
-		"spread" : "-",
+		"favorite" : "GONZ",
+		"spread" : 1.5,
 		"gameTime" : "2026-03-01T03:30Z",
 		"channel" : "ESPN",
 		"foxId" : 263416,
