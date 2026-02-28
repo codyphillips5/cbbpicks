@@ -61,62 +61,64 @@
 		"gameTime" : "2026-02-28T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262662,
-		"active" : true
+		"awayScore" : 84,
+		"homeScore" : 70,
+		"cover" : "MICH"
     },
     {
 		"gameId" : 6,
-		"awayTeam" : "UVA",
-		"homeTeam" : "DUKE",
-		"favorite" : "DUKE",
-		"spread" : 9.5,
-		"gameTime" : "2026-02-28T17:00Z",
-		"channel" : "ESPN",
-		"foxId" : 262059,
-		"active" : false
-    },
-    {
-		"gameId" : 7,
 		"awayTeam" : "TEX",
 		"homeTeam" : "TXAM",
 		"favorite" : "TXAM",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2026-02-28T21:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 258486,
-		"active" : false
+		"active" : true
     },
-	{
-		"gameId" : 8,
+    {
+		"gameId" : 7,
 		"awayTeam" : "ETSU",
 		"homeTeam" : "MER",
 		"favorite" : "MER",
-		"spread" : "-",
+		"spread" : 1.5,
 		"gameTime" : "2026-02-28T21:30Z",
 		"channel" : "ESPN+",
 		"foxId" : 258562,
-		"active" : false
+		"active" : true
+    },
+	{
+		"gameId" : 8,
+		"awayTeam" : "ALA",
+		"homeTeam" : "TENN",
+		"favorite" : "TENN",
+		"spread" : 4.5,
+		"gameTime" : "2026-02-28T23:00Z",
+		"channel" : "ESPN",
+		"foxId" : 258168,
+		"active" : true
     },
     {
 		"gameId" : 9,
 		"awayTeam" : "NOVA",
 		"homeTeam" : "SJU",
 		"favorite" : "SJU",
-		"spread" : 5.5,
+		"spread" : 7.5,
 		"gameTime" : "2026-03-01T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262260,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 10,
 		"awayTeam" : "GONZ",
 		"homeTeam" : "STMARY",
 		"favorite" : "GONZ",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2026-03-01T03:30Z",
 		"channel" : "ESPN",
 		"foxId" : 263416,
-		"active" : false
+		"active" : true
     }
   ]
 }
