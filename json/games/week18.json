@@ -5,7 +5,7 @@
 		"awayTeam" : "ISU",
 		"homeTeam" : "ZONA",
 		"favorite" : "ZONA",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2026-03-03T02:00Z",
 		"channel" : "ESPN",
 		"foxId" : 262825,
