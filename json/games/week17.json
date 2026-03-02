@@ -74,7 +74,9 @@
 		"gameTime" : "2026-02-28T21:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 258486,
-		"active" : true
+		"awayScore" : 76,
+		"homeScore" : 70,
+		"cover" : "TEX"
     },
     {
 		"gameId" : 7,
@@ -85,7 +87,9 @@
 		"gameTime" : "2026-02-28T21:30Z",
 		"channel" : "ESPN+",
 		"foxId" : 258562,
-		"active" : true
+		"awayScore" : 76,
+		"homeScore" : 82,
+		"cover" : "MER"
     },
 	{
 		"gameId" : 8,
@@ -96,7 +100,9 @@
 		"gameTime" : "2026-02-28T23:00Z",
 		"channel" : "ESPN",
 		"foxId" : 258168,
-		"active" : true
+		"awayScore" : 71,
+		"homeScore" : 69,
+		"cover" : "ALA"
     },
     {
 		"gameId" : 9,
@@ -107,7 +113,9 @@
 		"gameTime" : "2026-03-01T01:00Z",
 		"channel" : "FOX",
 		"foxId" : 262260,
-		"active" : true
+		"awayScore" : 57,
+		"homeScore" : 89,
+		"cover" : "SJU"
     },
     {
 		"gameId" : 10,
@@ -118,7 +126,9 @@
 		"gameTime" : "2026-03-01T03:30Z",
 		"channel" : "ESPN",
 		"foxId" : 263416,
-		"active" : true
+		"awayScore" : 59,
+		"homeScore" : 70,
+		"cover" : "STMARY"
     }
   ]
 }
