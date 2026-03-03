@@ -9,14 +9,16 @@
 		"gameTime" : "2026-03-03T02:00Z",
 		"channel" : "ESPN",
 		"foxId" : 262825,
-		"active" : true
+		"awayScore" : 57,
+		"homeScore" : 73,
+		"cover" : "ZONA"
     },
     {
 		"gameId" : 2,
 		"awayTeam" : "CLEM",
 		"homeTeam" : "UNC",
 		"favorite" : "UNC",
-		"spread" : 2.5,
+		"spread" : 3.5,
 		"gameTime" : "2026-03-04T00:00Z",
 		"channel" : "ESPN",
 		"foxId" : 262074,
