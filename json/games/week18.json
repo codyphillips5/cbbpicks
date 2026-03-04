@@ -22,14 +22,16 @@
 		"gameTime" : "2026-03-04T00:00Z",
 		"channel" : "ESPN",
 		"foxId" : 262074,
-		"active" : true
+		"awayScore" : 63,
+		"homeScore" : 67,
+		"cover" : "UNC"
     },
     {
 		"gameId" : 3,
 		"awayTeam" : "TEX",
 		"homeTeam" : "ARK",
 		"favorite" : "ARK",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2026-03-05T00:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 258822,
