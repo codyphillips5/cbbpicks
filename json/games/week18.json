@@ -35,7 +35,9 @@
 		"gameTime" : "2026-03-05T00:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 258822,
-		"active" : true
+		"awayScore" : 85,
+		"homeScore" : 105,
+		"cover" : "ARK"
     },
     {
 		"gameId" : 4,
