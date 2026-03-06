@@ -85,13 +85,13 @@
     },
 	{
 		"gameId" : 8,
-		"awayTeam" : "UNC",
-		"homeTeam" : "DUKE",
-		"favorite" : "DUKE",
-		"spread" : 16.5,
-		"gameTime" : "2026-03-07T23:30Z",
-		"channel" : "ESPN",
-		"foxId" : 262080,
+		"awayTeam" : "IND",
+		"homeTeam" : "OSU",
+		"favorite" : "OSU",
+		"spread" : "-",
+		"gameTime" : "2026-03-07T22:30Z",
+		"channel" : "FOX",
+		"foxId" : 262681,
 		"active" : false
     },
     {
