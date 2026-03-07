@@ -63,7 +63,7 @@
 		"gameTime" : "2026-03-07T19:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 258991,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 6,
@@ -74,7 +74,7 @@
 		"gameTime" : "2026-03-07T19:00Z",
 		"channel" : "ESPN",
 		"foxId" : 258169,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 7,
@@ -85,7 +85,7 @@
 		"gameTime" : "2026-03-07T21:00Z",
 		"channel" : "ESPN",
 		"foxId" : 258571,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 8,
@@ -96,7 +96,7 @@
 		"gameTime" : "2026-03-07T22:30Z",
 		"channel" : "FOX",
 		"foxId" : 262681,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 9,
