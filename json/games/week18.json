@@ -75,7 +75,10 @@
 		"spread" : 3.5,
 		"gameTime" : "2026-03-07T19:00Z",
 		"channel" : "ESPN",
-		"foxId" : 258169
+		"foxId" : 258169,
+		"awayScore" : 76,
+		"homeScore" : 72,
+		"cover" : "VANDY"
     },
     {
 		"gameId" : 7,
