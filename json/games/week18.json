@@ -63,7 +63,9 @@
 		"gameTime" : "2026-03-07T19:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 258991,
-		"active" : true
+		"awayScore" : 72,
+		"homeScore" : 79,
+		"cover" : "LIB"
     },
     {
 		"gameId" : 6,
@@ -73,8 +75,7 @@
 		"spread" : 3.5,
 		"gameTime" : "2026-03-07T19:00Z",
 		"channel" : "ESPN",
-		"foxId" : 258169,
-		"active" : true
+		"foxId" : 258169
     },
     {
 		"gameId" : 7,
