@@ -118,7 +118,7 @@
 		"awayTeam" : "MSU",
 		"homeTeam" : "MICH",
 		"favorite" : "MICH",
-		"spread" : "-",
+		"spread" : 11.5,
 		"gameTime" : "2026-03-08T20:30Z",
 		"channel" : "CBS",
 		"foxId" : 262685,
