@@ -128,7 +128,9 @@
 		"gameTime" : "2026-03-08T20:30Z",
 		"channel" : "CBS",
 		"foxId" : 262685,
-		"active" : true
+		"awayScore" : 80,
+		"homeScore" : 90,
+		"cover" : "MICH"
     }
   ]
 }
