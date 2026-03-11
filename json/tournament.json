@@ -41,8 +41,12 @@
 		"winner" : "HOF"
 	},
 	{
+		"conf" : "MAAC",
+		"winner" : "SIENA"
+	},
+	{
 		"conf" : "WCC",
-		"winner" : ""
+		"winner" : "GONZ"
 	},
 	{
 		"conf" : "Southland",
@@ -74,10 +78,6 @@
 	},
 	{
 		"conf" : "Big East",
-		"winner" : ""
-	},
-	{
-		"conf" : "MAAC",
 		"winner" : ""
 	},
 	{
