@@ -127,12 +127,6 @@
 	],
 	"atlarge": [
 	{
-		"team": "DUKE"
-	},
-	{
-		"team": "ZONA"
-	},
-	{
 		"team": "MICH"
 	},
 	{
@@ -148,16 +142,10 @@
 		"team": "ISU"
 	},
 	{
-		"team": "PURD"
-	},
-	{
 		"team": "MSU"
 	},
 	{
 		"team": "ILL"
-	},
-	{
-		"team": "GONZ"
 	},
 	{
 		"team": "UVA"
@@ -172,7 +160,19 @@
 		"team": "KAN"
 	},
 	{
-		"team": "ARK"
+		"team": ""
+	},
+	{
+		"team": ""
+	},
+	{
+		"team": ""
+	},
+	{
+		"team": ""
+	},
+	{
+		"team": ""
 	},
 	{
 		"team": ""
