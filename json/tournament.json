@@ -106,73 +106,73 @@
 	},
 	{
 		"conf" : "Ivy",
-		"winner" : ""
+		"winner" : "PENN"
 	},
 	{
 		"conf" : "A-10",
-		"winner" : ""
+		"winner" : "VCU"
 	},
 	{
 		"conf" : "SEC",
-		"winner" : ""
+		"winner" : "ARK"
 	},
 	{
 		"conf" : "AAC",
-		"winner" : ""
+		"winner" : "USF"
 	},
 	{
 		"conf" : "B1G",
-		"winner" : ""
+		"winner" : "PURD"
 	}
 	],
 	"atlarge": [
 	{
-		"team": ""
+		"team": "DUKE"
 	},
 	{
-		"team": ""
+		"team": "ZONA"
 	},
 	{
-		"team": ""
+		"team": "MICH"
 	},
 	{
-		"team": ""
+		"team": "FLA"
 	},
 	{
-		"team": ""
+		"team": "HOU"
 	},
 	{
-		"team": ""
+		"team": "UCONN"
 	},
 	{
-		"team": ""
+		"team": "ISU"
 	},
 	{
-		"team": ""
+		"team": "PURD"
 	},
 	{
-		"team": ""
+		"team": "MSU"
 	},
 	{
-		"team": ""
+		"team": "ILL"
 	},
 	{
-		"team": ""
+		"team": "GONZ"
 	},
 	{
-		"team": ""
+		"team": "UVA"
 	},
 	{
-		"team": ""
+		"team": "NEB"
 	},
 	{
-		"team": ""
+		"team": "ALA"
 	},
 	{
-		"team": ""
+		"team": "KAN"
 	},
 	{
-		"team": ""
+		"team": "ARK"
 	},
 	{
 		"team": ""
