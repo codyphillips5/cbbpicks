@@ -55,17 +55,12 @@ else {
 
 var xFile, yFile;
 
-var requestX = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week" + week +".json", function(json){
-	xFile = json;
-});
-
-var requestY = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/teams.json", function(json){
-	yFile = json;
-});
-
 var date1 = new Date();
 
-$.when(requestX, requestY).then(function(){
+Promise.all([CBBApi.fetchWeekGames(week), CBBApi.fetchTeams()])
+	.then(function (results) {
+	xFile = results[0];
+	yFile = results[1];
 	console.log(firebase.auth().currentUser);
 	for (var key in xFile) {
 		for (var i = 0; i < xFile[key].length; i++) {
@@ -206,6 +201,15 @@ $.when(requestX, requestY).then(function(){
 		}
 	}
 	console.log(document.getElementById('seasongame2').value);	
+}).catch(function (err) {
+	if (typeof CBBLogger !== 'undefined') {
+		CBBLogger.error('Failed to load picks data', err);
+	}
+	var alertEl = document.querySelector('.alert');
+	if (alertEl) {
+		alertEl.classList.add('alert-danger');
+		alertEl.textContent = 'Could not load games or teams. Please refresh.';
+	}
 });
   
 var request;
@@ -220,7 +224,7 @@ function assignPointsByTeam(id) {
 	document.getElementById("label-choice-seasongame" + id).innerHTML = `<label for="${id}" class="choice pb-1">${game.team} ${fullTeamSpread}</label>`;
 	getTeamInfo(userPick);
 
-	request.success(function(response){
+	request.then(function(){
 		game.spread = attempt.thisTeamImg;
 		document.getElementById("image" + id).innerHTML = `<img src="https://b.fssta.com/uploads/application/college/team-logos/${game.spread}.vresize.200.200.medium.2.png">`;
 	});
@@ -233,7 +237,7 @@ function setTeam(element) {
 }
 
 function getTeamInfo(teamId) {
-	request = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/teams.json", function(team) {
+	request = CBBApi.fetchTeams().then(function (team) {
 		for (var key in team) {
 			for (var i = 0; i < team[key].length; i++) {
 				if(team[key][i].teamValue == teamId){
@@ -243,6 +247,7 @@ function getTeamInfo(teamId) {
 				}
 			}
 		}
+		return team;
 	});	
 }
 

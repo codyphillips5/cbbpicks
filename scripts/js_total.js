@@ -22,45 +22,38 @@ var standings, teams, resultsList, usersList;
 game = 0;
 totalWeek = 18;
 
-for (var i = 1; i <= totalWeek; i++) {
-	var getGames = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week" + i + ".json", function(json){
-		standings = json;
-		
-		for (var key in standings) {
-			for (var i = 0; i < standings[key].length; i++) {
-				if (standings[key][i].cover !== undefined) {
-					home = standings[key][i].homeTeam;
-					away = standings[key][i].awayTeam;
-					cover = standings[key][i].cover;
-					homeTeams.push(home);
-					awayTeams.push(away);
-					coverTeams.push(cover);					
+var weekFetches = [];
+for (var wi = 1; wi <= totalWeek; wi++) {
+	weekFetches.push(
+		CBBApi.fetchWeekGames(wi).then(function (json) {
+			var st = json;
+			for (var key in st) {
+				for (var gi = 0; gi < st[key].length; gi++) {
+					if (st[key][gi].cover !== undefined) {
+						homeTeams.push(st[key][gi].homeTeam);
+						awayTeams.push(st[key][gi].awayTeam);
+						coverTeams.push(st[key][gi].cover);
+					}
 				}
 			}
-		}
-	});
+		})
+	);
 }
 
-var getTeams = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/teams.json", function(json){
-	teams = json;
-});
-
-var getTourney = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/tournament.json", function(json){
-	tourney = json;
-	for (var i = 0; i < tourney.auto.length; i++) {
-		var object = tourney.auto[i];
+Promise.all(weekFetches.concat([CBBApi.fetchTeams(), CBBApi.fetchTournament()])).then(function (results) {
+	teams = results[results.length - 2];
+	tourney = results[results.length - 1];
+	for (var ai = 0; ai < tourney.auto.length; ai++) {
+		var object = tourney.auto[ai];
 		winners.push(object["winner"]);
 	}
-	
-	for (var i = 0; i < tourney.atlarge.length; i++) {
-		var object = tourney.atlarge[i];
-		large.push(object["team"]);
+
+	for (var li = 0; li < tourney.atlarge.length; li++) {
+		var objectLarge = tourney.atlarge[li];
+		large.push(objectLarge["team"]);
 	}
 	theField = winners.concat(large);
-});
 
-
-$.when(getGames, getTeams, getTourney).then(function(){
 	game = coverTeams.length - ((totalWeek-1)*10);
 	
 	if (game < 0) {
@@ -176,6 +169,10 @@ $.when(getGames, getTeams, getTourney).then(function(){
 		document.getElementById("standings").innerHTML = tableStart + tableEnd;
 		sortTable(4);
 		sortTable(2);		
+	}
+}).catch(function (err) {
+	if (typeof CBBLogger !== 'undefined') {
+		CBBLogger.error('Totals data failed', err);
 	}
 });
 

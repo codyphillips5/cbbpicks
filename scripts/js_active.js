@@ -5,15 +5,10 @@ var week = 1;
 
 var xFile, yFile;
 
-var requestX = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week" + week +".json", function(json){
-	xFile = json;
-});
-
-var requestY = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/teams.json", function(json){
-	yFile = json;
-});
-
-$.when(requestX, requestY).then(function(){
+Promise.all([CBBApi.fetchWeekGames(week), CBBApi.fetchTeams()])
+	.then(function (results) {
+	xFile = results[0];
+	yFile = results[1];
 	for (var key in xFile) {
 		for (var i = 0; i < xFile[key].length; i++) {
 			var gameId = xFile[key][i].gameId;
@@ -23,5 +18,9 @@ $.when(requestX, requestY).then(function(){
 				arrayActive.push(gameId);
 			}
 		}
+	}
+}).catch(function (err) {
+	if (typeof CBBLogger !== 'undefined') {
+		CBBLogger.error('js_active load failed', err);
 	}
 });

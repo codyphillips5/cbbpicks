@@ -13,8 +13,11 @@ auth.onAuthStateChanged(user => {
     else {
         setupUI();
 		//document.getElementById("saver").innerHTML = `<button type="submit" id="savePicks" disabled class='btn btn-primary'>Login</button>`;
-		document.getElementById("savePicks").disabled = true;
-		document.getElementById("savePicks").innerHTML = "Login to Submit";
+		var saveBtn = document.getElementById('savePicks');
+		if (saveBtn) {
+			saveBtn.disabled = true;
+			saveBtn.innerHTML = 'Login to Submit';
+		}
         //setupGuides([]);
     }
 })
@@ -28,33 +31,44 @@ var coversTeam = [];
 var weekNum = 18;
 var empty = false;
 var fn = "";
-var users = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.json", function(json){
-	usersFile = json;
-});
+if (typeof CBBApi !== 'undefined') {
+	CBBApi.fetchUsers()
+		.then(function (json) {
+			usersFile = json;
+		})
+		.catch(function (err) {
+			if (typeof CBBLogger !== 'undefined') {
+				CBBLogger.error('Failed to load users.json', err);
+			}
+		});
+}
 
-
-var getResults = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week" + weekNum + ".json", function(json){
-		resultsList = json;
-		// get results
-		for (var result in resultsList) {
-			for (var r = 0; r < resultsList[result].length; r++) {
-				if(resultsList[result][r].cover)
-					coversTeam.push(resultsList[result][r].cover);
-				if(resultsList[result][r].active) {
-					if(resultsList[result][r].active === true) {
-						sa = resultsList[result][r].gameId;
-						saLa.push(sa);
+var getResultsPromise =
+	typeof CBBApi !== 'undefined'
+		? CBBApi.fetchWeekGames(weekNum).then(function (json) {
+				resultsList = json;
+				for (var result in resultsList) {
+					for (var r = 0; r < resultsList[result].length; r++) {
+						if (resultsList[result][r].cover) {
+							coversTeam.push(resultsList[result][r].cover);
+						}
+						if (resultsList[result][r].active) {
+							if (resultsList[result][r].active === true) {
+								sa = resultsList[result][r].gameId;
+								saLa.push(sa);
+							}
+						}
 					}
 				}
-			}
-		}
-	startArray = saLa[0];
-	lengthArray = saLa.length;
-});
+				startArray = saLa[0];
+				lengthArray = saLa.length;
+			})
+		: Promise.reject(new Error('CBBApi not loaded'));
 
-   const createForm = document.querySelector('#save_picks');
+const createForm = document.querySelector('#save_picks');
 //, activeScript
-$.when(getResults).then(function(){
+getResultsPromise
+	.then(function () {
 // create new guide
 if(createForm) {
 	firebase.auth().onAuthStateChanged(user => {
@@ -460,7 +474,17 @@ if(createForm) {
 		});
     });
 }
-});
+})
+	.catch(function (err) {
+		if (typeof CBBLogger !== 'undefined') {
+			CBBLogger.error('Failed to load week games for picks UI', err);
+		}
+		var el = document.querySelector('.alert');
+		if (el) {
+			el.classList.add('alert-danger');
+			el.textContent = 'Could not load game data. Please refresh.';
+		}
+	});
 
 // signup
 const signupForm = document.querySelector('#signup-form');
@@ -492,12 +516,14 @@ firebase.auth().onAuthStateChanged(user => {
 });	
 
 
-// logout 
+// logout
 const logout = document.querySelector('#logout');
-logout.addEventListener('click', (e) => {
-    e.preventDefault();
-    auth.signOut();
-});
+if (logout) {
+	logout.addEventListener('click', (e) => {
+		e.preventDefault();
+		auth.signOut();
+	});
+}
 
 // login
 const loginForm = document.querySelector('#login-form');
@@ -528,10 +554,14 @@ firebase.auth().onAuthStateChanged(user => {
 });
 
 function success() {
+	if (!createForm) return;
 	createForm.reset();
 	createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-success" role="alert">Success! Your picks have been saved. <br>Good luck, ${fn}!</div>`;
-	document.getElementById("savePicks").disabled = true;
-	document.getElementById("savePicks").innerHTML = "Saved";
+	var sp = document.getElementById('savePicks');
+	if (sp) {
+		sp.disabled = true;
+		sp.innerHTML = 'Saved';
+	}
 }
 
 // forgot-password

@@ -88,13 +88,26 @@ function getResultsByWeek(x) {
 	const ddweek = document.getElementById("dd-week-"+x);
 	ddweek.classList.add("active");
 	
-	var requestX = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week" + x + ".json", function(json){
-		xFile = json;
-	});
-
-	$.when(requestX).then(function(){
-		date2 = new Date(xFile["games"][0].gameTime);
-	});
+	var weekJsonPromise =
+		x === 0
+			? Promise.resolve({ games: [] }).then(function (json) {
+					xFile = json;
+					resultsList = json;
+				})
+			: CBBApi.fetchWeekGames(x).then(function (json) {
+					xFile = json;
+					if (xFile.games && xFile.games[0] && xFile.games[0].gameTime) {
+						date2 = new Date(xFile.games[0].gameTime);
+					}
+					resultsList = json;
+					for (var result in resultsList) {
+						for (var r = 0; r < resultsList[result].length; r++) {
+							if (resultsList[result][r].cover) {
+								coversResultsTeam.push(resultsList[result][r].cover);
+							}
+						}
+					}
+				});
 
 	// query for all user emails and names
 	var users = db.collection("Users").get().then((querySnapshot) => {
@@ -106,17 +119,7 @@ function getResultsByWeek(x) {
 		})
 	});
 
-	var getResults = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/games/week" + x + ".json", function(json){
-		resultsList = json;
-		/**/// get results
-		for (var result in resultsList) {
-			for (var r = 0; r < resultsList[result].length; r++) {
-				if(resultsList[result][r].cover)
-					coversResultsTeam.push(resultsList[result][r].cover);
-			}
-		}
-	});	
-	var getTeams = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/teams.json", function(json){
+	var teamsPromise = CBBApi.fetchTeams().then(function (json) {
 		teamsList = json;
 	});
 
@@ -138,7 +141,7 @@ function getResultsByWeek(x) {
 	});
 	console.log(allGameOne);
 	
-	$.when(users, names, requestX, getResults, getTeams).then(function(){
+	Promise.all([users, names, weekJsonPromise, teamsPromise]).then(function () {
 		userCount = allUsers.length;
 		var tableStart = "";
 		var tableGames = "";
@@ -299,6 +302,10 @@ function getResultsByWeek(x) {
 		document.getElementById("standings").innerHTML = tableStart + tableUser + tableEnd;
 		sortTable(11);
 		clearAll(x);
+	}).catch(function (err) {
+		if (typeof CBBLogger !== 'undefined') {
+			CBBLogger.error('Results week load failed', err);
+		}
 	});
 }
 

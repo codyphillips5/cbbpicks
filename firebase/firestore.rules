@@ -1,0 +1,34 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function signedIn() {
+      return request.auth != null;
+    }
+
+    // Read-only roster synced from admin workflow (adjust if clients must not read)
+    match /Users/{docId} {
+      allow read: if signedIn();
+      allow write: if false;
+    }
+
+    match /users/{uid} {
+      allow read, write: if signedIn() && request.auth.uid == uid;
+    }
+
+    // Legacy collection used by auth.js for UI subscriptions
+    match /guides/{docId} {
+      allow read: if signedIn();
+      allow write: if false;
+    }
+
+    // Weekly pick documents keyed by user email
+    match /{coll}/{email} {
+      allow read: if signedIn();
+      allow create, update: if signedIn()
+        && coll.matches('week[0-9]+')
+        && request.auth.token.email == email
+        && request.resource.data.user == request.auth.token.email;
+      allow delete: if false;
+    }
+  }
+}

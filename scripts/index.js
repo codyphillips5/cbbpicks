@@ -9,7 +9,9 @@ const setupUI = (user) => {
             const html = `
             <div>Logged in as ${user.email}</div>
         `;
-        accountDetails.innerHTML = html;
+            if (accountDetails) {
+                accountDetails.innerHTML = html;
+            }
         })
         // toggle UI elements
         loggedInLinks.forEach(item => item.style.display = 'block');

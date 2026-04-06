@@ -6,14 +6,6 @@ var coversTeam = [];
 var standings, usersList;
 var weekList = "";
 
-var getStandings = $.getJSON("https://codyphillips5.github.io/cbbpicks/json/standings.json", function(json) {
-		standings = json;
-});
-	
-var getUsers= $.getJSON("https://codyphillips5.github.io/cbbpicks/json/users.json", function(json) {
-		usersList = json;
-});
-
 var standWeek = 18;
 for (var y = 1; y <= standWeek; y++) {
 	weekList = weekList + `<th scope="col" class="bg-light text-center bg-gradient">Week ${y}</th>`;
@@ -22,7 +14,10 @@ for (var y = 1; y <= standWeek; y++) {
 var tableStart = `<div class="table-responsive"> <table class="table table-hover" id="standings-table"><thead><tr><th class="first-col bg-light" scope="col">Name</th>${weekList}<th scope="col" class="bg-light text-center bg-gradient">Total</th><th scope="col" class="bg-light text-center bg-gradient">Percent</th></tr></thead><tbody>`;
 
 
-$.when(getStandings, getUsers).then(function(){
+Promise.all([CBBApi.fetchStandings(), CBBApi.fetchUsers()])
+	.then(function (results) {
+	standings = results[0];
+	usersList = results[1];
 
 	for (var key in standings) {
 		for (var i = 0; i < standings[key].length; i++) {
@@ -65,6 +60,10 @@ $.when(getStandings, getUsers).then(function(){
 	var tableEnd = `</tbody></table>`;	
 	document.getElementById("standings").innerHTML = tableStart + tableUser + tableEnd;
 	sortTable(weekTotal + 1);
+}).catch(function (err) {
+	if (typeof CBBLogger !== 'undefined') {
+		CBBLogger.error('Standings load failed', err);
+	}
 });
 
 function sortTable(n) {
