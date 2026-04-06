@@ -3,12 +3,11 @@ const arrayActive = [];
 // week of year, first game
 var week = 1;
 
-var xFile, yFile;
+var xFile;
 
-Promise.all([CBBApi.fetchWeekGames(week), CBBApi.fetchTeams()])
-	.then(function (results) {
-	xFile = results[0];
-	yFile = results[1];
+CBBApi.fetchWeekGames(week)
+	.then(function (json) {
+	xFile = json;
 	for (var key in xFile) {
 		for (var i = 0; i < xFile[key].length; i++) {
 			var gameId = xFile[key][i].gameId;

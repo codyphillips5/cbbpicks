@@ -1,4 +1,4 @@
-var firtName = "";
+var firstName = "";
 var lastName = "";
 var allEntries = [];
 var allGameOne = [];
@@ -36,6 +36,7 @@ var coversResultsTeam = [];
 
 var picksList, teamsList, resultsList, usersList;
 var resultsList = [];
+var xFile = {};
 
 
 var badge = document.createElement('div');
@@ -367,8 +368,8 @@ function sortTable(n) {
   }
 }
 
-function clearAll(x) {
-	firtName = "";
+function clearAll(_x) {
+	firstName = "";
 	lastName = "";
 	//getResultsByWeek(x);
 	console.log(allEntries.length);

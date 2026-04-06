@@ -17,6 +17,8 @@ var tournTeam = ""
 var tournTeamImage = ""
 var fullNameTeam = "";
 var fullTeamImage = "";
+var tourney;
+var tournColor = "";
 
 var standings, teams, resultsList, usersList;
 game = 0;

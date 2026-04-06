@@ -5,7 +5,7 @@ var game = {
 	game : "" 
 };
 
-attempt = {
+var attempt = {
 	  thisTeam : "",
 	  thisMascot : "",
 	  thisTeamAbb : "",
@@ -66,6 +66,10 @@ Promise.all([CBBApi.fetchWeekGames(week), CBBApi.fetchTeams()])
 		for (var i = 0; i < xFile[key].length; i++) {
 			var gameId = xFile[key][i].gameId;
 			var foxId = xFile[key][i].foxId;
+			var homeTeamMascot = '';
+			var homeTeamImage = '';
+			var awayTeamMascot = '';
+			var awayTeamImage = '';
 			// set home team values
 			var home = xFile[key][i].homeTeam;
 			for (var k in yFile) {
@@ -151,9 +155,8 @@ Promise.all([CBBApi.fetchWeekGames(week), CBBApi.fetchTeams()])
 			}
 			else {
 				if (active) {
-					console.log("active " + foxId);
 					if (date1.getTime() <= date.getTime()) {
-						var select = '<select class=\'teamlist form-select form-select-sm\' style=\'width:auto;\' id=\'game' + gameId + '\' onchange=\"assignPointsByTeam(' + gameId +');\"><option value = \"\"> -- Select Team -- </option><option value=\"' + awayTeamVal + '\">' + awayTeam + ' ' + awaySide + spread + '</option><option value=\"' + homeTeamVal + '\">' + homeTeam + ' ' + homeSide + spread + '</option></select>'; 	
+						var select = '<select class=\'teamlist form-select form-select-sm\' style=\'width:auto;\' id=\'game' + gameId + '\' onchange="assignPointsByTeam(' + gameId + ')"><option value=""> -- Select Team -- </option><option value="' + awayTeamVal + '">' + awayTeam + ' ' + awaySide + spread + '</option><option value="' + homeTeamVal + '">' + homeTeam + ' ' + homeSide + spread + '</option></select>';
 					}
 					else {
 						var select = `<div class="d-grid gap-2 pt-2"><a href="https://www.foxsports.com/college-basketball/boxscore?id=${foxId}&tab=boxscore" target="_blank"><button type="button" class="btn btn-outline-secondary pb-2 pt-2">Box Score</button></a></div>`;
@@ -218,7 +221,7 @@ function assignPointsByTeam(id) {
 	var pick = document.getElementById("game" + id);
 	var userPick = pick.options[pick.selectedIndex].value;
 	var fullTeamName = pick.options[pick.selectedIndex].text;
-	fullTeamSpread = fullTeamName.replace(/[^\d+.-]/g, '');
+	var fullTeamSpread = fullTeamName.replace(/[^\d+.-]/g, '');
 	game.team = userPick;
 	document.getElementById("seasongame" + id).value = game.team;
 	document.getElementById("label-choice-seasongame" + id).innerHTML = `<label for="${id}" class="choice pb-1">${game.team} ${fullTeamSpread}</label>`;
@@ -231,6 +234,8 @@ function assignPointsByTeam(id) {
 	document.getElementById("seasongame" + id).value = game.team;
 	console.log(document.getElementById("seasongame" + id));
 }
+
+window.assignPointsByTeam = assignPointsByTeam;
 
 function setTeam(element) {
 	game.team = element.value;

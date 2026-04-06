@@ -1,7 +1,5 @@
-var firtName = "";
+var firstName = "";
 var lastName = "";
-var coversNum = [];
-var coversTeam = [];
 
 var standings, usersList;
 var weekList = "";
@@ -19,14 +17,14 @@ Promise.all([CBBApi.fetchStandings(), CBBApi.fetchUsers()])
 	standings = results[0];
 	usersList = results[1];
 
+	var tableUser = '';
+	var lastWeekTotal = 0;
+
 	for (var key in standings) {
 		for (var i = 0; i < standings[key].length; i++) {
-			
-			// set starters
 			var pointTotal = 0;
-			var isTop;
 			var weekTotal = 0;
-			
+
 			var user = standings[key][i].userId;
 
 			for (var k in usersList) {
@@ -37,29 +35,27 @@ Promise.all([CBBApi.fetchStandings(), CBBApi.fetchUsers()])
 					}
 				}
 			}
-			var tableUser = tableUser + `<tr><th class="first-col bg-light bg-gradient">${firstName + " " + lastName}</th>`;
+			tableUser += `<tr><th class="first-col bg-light bg-gradient">${firstName + " " + lastName}</th>`;
 
 			for(var stand = 1; stand <= standWeek; stand++) {
-				//tableUser = tableUser + `<td>${standings[key][i]["week_" + stand]}</td>`;
 				pointTotal = pointTotal + standings[key][i]["week_" + stand];
 				weekTotal++;
 				if(standings[key][i]["week_" + stand + "_top"]) {
-					tableUser = tableUser + `<td class='table-success text-center'>${standings[key][i]["week_" + stand]}</td>`;
+					tableUser += `<td class='table-success text-center'>${standings[key][i]["week_" + stand]}</td>`;
 				}
 				else {
-					tableUser = tableUser + `<td class="text-center" id='week ${stand}'>${standings[key][i]["week_" + stand]}</td>`;
+					tableUser += `<td class="text-center" id='week ${stand}'>${standings[key][i]["week_" + stand]}</td>`;
 				}
 			}
-			//calculate score
-			var perc = (pointTotal / (standWeek * 10)) * 100
-			tableUser = tableUser + `<td class="bg-light first-col active fw-bolder text-center">${pointTotal}</td>`;
-			tableUser = tableUser + `<td class="bg-light first-col text-center"> ${perc.toFixed(2)}%</td></tr>`;
+			var perc = (pointTotal / (standWeek * 10)) * 100;
+			tableUser += `<td class="bg-light first-col active fw-bolder text-center">${pointTotal}</td>`;
+			tableUser += `<td class="bg-light first-col text-center"> ${perc.toFixed(2)}%</td></tr>`;
+			lastWeekTotal = weekTotal;
 		}
 	}
-	tableUser = tableUser.replace("undefined","");
-	var tableEnd = `</tbody></table>`;	
+	var tableEnd = `</tbody></table>`;
 	document.getElementById("standings").innerHTML = tableStart + tableUser + tableEnd;
-	sortTable(weekTotal + 1);
+	sortTable(lastWeekTotal + 1);
 }).catch(function (err) {
 	if (typeof CBBLogger !== 'undefined') {
 		CBBLogger.error('Standings load failed', err);

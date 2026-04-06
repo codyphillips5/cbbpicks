@@ -3,15 +3,15 @@ auth.onAuthStateChanged(user => {
     if(user) {
         // get data
         //console.log(user);
-        db.collection('guides').onSnapshot(snapshot => {
+        db.collection('guides').onSnapshot(_snapshot => {
         //setupGuides(snapshot.docs);
-        setupUI(user);
+        window.setupUI(user);
         }, err => {
             console.log(err.message)
         })
     }
     else {
-        setupUI();
+        window.setupUI();
 		//document.getElementById("saver").innerHTML = `<button type="submit" id="savePicks" disabled class='btn btn-primary'>Login</button>`;
 		var saveBtn = document.getElementById('savePicks');
 		if (saveBtn) {
@@ -24,12 +24,10 @@ auth.onAuthStateChanged(user => {
 var startArray = 0;
 var sa = 0;
 var lengthArray = 0;
-var la = 0;
 var saLa = [];
 var icon = "";
 var coversTeam = [];
 var weekNum = 18;
-var empty = false;
 var fn = "";
 if (typeof CBBApi !== 'undefined') {
 	CBBApi.fetchUsers()
@@ -71,7 +69,7 @@ getResultsPromise
 	.then(function () {
 // create new guide
 if(createForm) {
-	firebase.auth().onAuthStateChanged(user => {
+	firebase.auth().onAuthStateChanged(_user => {
 	var week = db.collection('week' + weekNum).doc(auth.currentUser.email);
 
 	week.get()
@@ -499,7 +497,7 @@ firebase.auth().onAuthStateChanged(user => {
 				const password = signupForm['signup-password'].value;
 
 				// sign up the user
-				auth.createUserWithEmailAndPassword(email, password).then(cred => {
+				auth.createUserWithEmailAndPassword(email, password).then(() => {
 				signupForm.reset();
 				signupForm.querySelector('.response').innerHTML = `<br><div class="alert alert-success" role="alert">Success! Account created. Go view the <a href='picks.html'>Lines</a></div>`;
 				document.getElementById("signup").disabled = true;
@@ -537,7 +535,7 @@ firebase.auth().onAuthStateChanged(user => {
 				const email = loginForm['login-email'].value;
 				const password = loginForm['login-password'].value;
 			
-				auth.signInWithEmailAndPassword(email, password).then(cred => {
+				auth.signInWithEmailAndPassword(email, password).then(() => {
 					// close the login modal and reset the form
 					loginForm.reset();
 					location.replace("picks.html");
@@ -567,13 +565,11 @@ function success() {
 // forgot-password
 const forgotForm = document.querySelector('#forgot-form');
 if(forgotForm) {
-	console.log("here");
     forgotForm.addEventListener('submit', (e) => {
         e.preventDefault();
         // get user info
         const email = forgotForm['forgot-email'].value;
-    console.log(email);
-		auth.sendPasswordResetEmail(email).then(cred => {
+		auth.sendPasswordResetEmail(email).then(() => {
 			forgotForm.reset();
             forgotForm.querySelector('.response').innerHTML = `<br><div class="alert alert-success" role="alert">Reset Email Sent. Return to <a href='log.html'>Log In</a></div>`;
 		})

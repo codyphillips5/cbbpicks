@@ -36,25 +36,12 @@ export default [
         Sentry: 'readonly',
         usersFile: 'writable',
         resultsList: 'writable',
-        /** Cross-page / legacy implicit globals */
-        setupUI: 'readonly',
-        attempt: 'writable',
-        awayTeamMascot: 'writable',
-        awayTeamImage: 'writable',
-        fullTeamSpread: 'writable',
-        xFile: 'writable',
-        yFile: 'writable',
-        firstName: 'writable',
-        tourney: 'writable',
-        tournColor: 'writable',
         M: 'readonly',
       },
     },
     rules: {
       'no-unused-vars': ['warn', { argsIgnorePattern: '^_' }],
       'no-redeclare': 'off',
-      // Legacy templates use escaped quotes inside HTML strings; cleaning them is a separate pass.
-      'no-useless-escape': 'off',
     },
   },
   {
