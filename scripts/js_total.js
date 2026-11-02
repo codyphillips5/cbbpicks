@@ -22,7 +22,7 @@ var tournColor = "";
 
 var standings, teams, resultsList, usersList;
 game = 0;
-totalWeek = 18;
+totalWeek = 1;
 
 var weekFetches = [];
 for (var wi = 1; wi <= totalWeek; wi++) {

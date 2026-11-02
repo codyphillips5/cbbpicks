@@ -27,7 +27,7 @@ var lengthArray = 0;
 var saLa = [];
 var icon = "";
 var coversTeam = [];
-var weekNum = 18;
+var weekNum = 1;
 var fn = "";
 if (typeof CBBApi !== 'undefined') {
 	CBBApi.fetchUsers()
