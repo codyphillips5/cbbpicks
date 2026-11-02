@@ -9,7 +9,7 @@
 		"gameTime" : "2026-11-02T23:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 0,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 2,
@@ -20,7 +20,7 @@
 		"gameTime" : "2026-11-03T00:30Z",
 		"channel" : "TNT",
 		"foxId" : 0,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 3,
@@ -31,7 +31,7 @@
 		"gameTime" : "2026-11-03T02:00Z",
 		"channel" : "FS1",
 		"foxId" : 0,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 4,
@@ -42,7 +42,7 @@
 		"gameTime" : "2026-11-03T03:00Z",
 		"channel" : "TNT",
 		"foxId" : 0,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 5,
