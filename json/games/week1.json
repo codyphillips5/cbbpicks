@@ -48,7 +48,9 @@
 		"gameTime" : "2026-11-03T03:00Z",
 		"channel" : "TNT",
 		"foxId" : 0,
-		"active" : true
+		"awayScore" : 84,
+		"homeScore" : 75,
+		"cover" : "UCLA"
     },
     {
 		"gameId" : 5,
