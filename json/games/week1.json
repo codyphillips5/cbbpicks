@@ -54,17 +54,6 @@
     },
     {
 		"gameId" : 5,
-		"awayTeam" : "WAKE",
-		"homeTeam" : "VANDY",
-		"favorite" : "VANDY",
-		"spread" : "-",
-		"gameTime" : "2026-11-05T23:00Z",
-		"channel" : "ESPN2",
-		"foxId" : 0,
-		"active" : false
-    },
-    {
-		"gameId" : 6,
 		"awayTeam" : "MIZ",
 		"homeTeam" : "SLU",
 		"favorite" : "SLU",
@@ -75,13 +64,24 @@
 		"active" : false
     },
     {
-		"gameId" : 7,
+		"gameId" : 6,
 		"awayTeam" : "MICH",
 		"homeTeam" : "UCONN",
 		"favorite" : "UCONN",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2026-11-07T01:00Z",
 		"channel" : "TNT",
+		"foxId" : 0,
+		"active" : false
+    },
+    {
+		"gameId" : 7,
+		"awayTeam" : "VCU",
+		"homeTeam" : "MEM",
+		"favorite" : "MEM",
+		"spread" : "-",
+		"gameTime" : "2026-11-07T20:00Z",
+		"channel" : "ESPN+",
 		"foxId" : 0,
 		"active" : false
     },
