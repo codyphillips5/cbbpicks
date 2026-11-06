@@ -21,10 +21,6 @@ auth.onAuthStateChanged(user => {
         //setupGuides([]);
     }
 })
-var startArray = 0;
-var sa = 0;
-var lengthArray = 0;
-var saLa = [];
 var icon = "";
 var coversTeam = [];
 var weekNum = 1;
@@ -50,16 +46,8 @@ var getResultsPromise =
 						if (resultsList[result][r].cover) {
 							coversTeam.push(resultsList[result][r].cover);
 						}
-						if (resultsList[result][r].active) {
-							if (resultsList[result][r].active === true) {
-								sa = resultsList[result][r].gameId;
-								saLa.push(sa);
-							}
-						}
 					}
 				}
-				startArray = saLa[0];
-				lengthArray = saLa.length;
 			})
 		: Promise.reject(new Error('CBBApi not loaded'));
 
@@ -402,75 +390,60 @@ if(createForm) {
 	});	
 	
 	createForm.addEventListener('submit', (e) => {
-	e.preventDefault();
-	if (auth.currentUser === null) {
-		createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-danger" role="alert">Pick NOT Saved. Please <a href='log.html'>Log In</a>.</div>`;
-	}
-	
-	// get user's first name
-			var docRef = db.collection("Users").doc(auth.currentUser.email);
-			docRef.get().then((doc) => {
-				if (doc.exists) {
-					fn = doc.data().FirstName;
-					console.log(fn);
-				} else {
-					// doc.data() will be undefined in this case
-					console.log("No such document!");
-				}
-			}).catch((error) => {
-				console.log("Error getting document:", error);
-			})
-	
-	console.log(auth.currentUser.email);
-	console.log(startArray);
-	console.log(lengthArray);
-	var week = db.collection('week' + weekNum).doc(auth.currentUser.email);
-		week.get()
-		  .then((docSnapshot) => {
-			if (docSnapshot.exists) {
-				// the 1 set update
-				//1, 1
-				week.update({
-						user: auth.currentUser.email,
-						game1: document.getElementById('seasongame1').value,
-						game2: document.getElementById('seasongame2').value,
-						game3: document.getElementById('seasongame3').value,
-						game4: document.getElementById('seasongame4').value,
-						game5: document.getElementById('seasongame5').value,
-						game6: document.getElementById('seasongame6').value,
-						game7: document.getElementById('seasongame7').value,
-						game8: document.getElementById('seasongame8').value,
-						game9: document.getElementById('seasongame9').value,
-						game10: document.getElementById('seasongame10').value
-				}).then(function() {
-					success();
-				}).catch(err => {
-					console.log("error: " + err.message);
-					createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-danger" role="alert">${err.message}</div>`;
-				});
+		e.preventDefault();
+		if (auth.currentUser === null) {
+			createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-danger" role="alert">Pick NOT Saved. Please <a href='log.html'>Log In</a>.</div>`;
+			return;
+		}
+
+		var docRef = db.collection('Users').doc(auth.currentUser.email);
+		docRef.get().then((doc) => {
+			if (doc.exists) {
+				fn = doc.data().FirstName;
 			}
-			else {
-				week.set({	
-						user: auth.currentUser.email,
-						game1: document.getElementById('seasongame1').value,
-						game2: document.getElementById('seasongame2').value,
-						game3: document.getElementById('seasongame3').value,
-						game4: document.getElementById('seasongame4').value,
-						game5: document.getElementById('seasongame5').value,
-						game6: document.getElementById('seasongame6').value,
-						game7: document.getElementById('seasongame7').value,
-						game8: document.getElementById('seasongame8').value,
-						game9: document.getElementById('seasongame9').value,
-						game10: document.getElementById('seasongame10').value
-				}).then(function() {
-					success();
-				}).catch(err => {
-					console.log("error: " + err.message);
-					createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-danger" role="alert">${err.message}</div>`;
-				});
-			}
+		}).catch((error) => {
+			console.log('Error getting document:', error);
 		});
-    });
+
+		var games = resultsList && resultsList.games ? resultsList.games : [];
+		var built = buildWeekPicksPatch(
+			auth.currentUser.email,
+			readOpenGameSelections(document, games, Date.now())
+		);
+		if (!built) {
+			createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-warning" role="alert">Choose a team for at least one game that is still open. Picks you already saved were left in place.</div>`;
+			return;
+		}
+
+		var payload = { user: built.user };
+		for (var n = 1; n <= 10; n++) {
+			var key = 'game' + n;
+			if (built.fields[key]) payload[key] = built.fields[key];
+		}
+		payload.updatedAt = firebase.firestore.FieldValue.serverTimestamp();
+		payload.history = firebase.firestore.FieldValue.arrayUnion({
+			at: new Date().toISOString(),
+			games: built.fields,
+		});
+
+		var saveBtn = document.getElementById('savePicks');
+		if (saveBtn) saveBtn.disabled = true;
+
+		db.collection('week' + weekNum)
+			.doc(auth.currentUser.email)
+			.set(payload, { merge: true })
+			.then(function () {
+				success();
+			})
+			.catch(function (err) {
+				console.log('error: ' + err.message);
+				if (saveBtn) {
+					saveBtn.disabled = false;
+					saveBtn.innerHTML = 'Save My Picks';
+				}
+				createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-danger" role="alert">${err.message}</div>`;
+			});
+	});
 }
 })
 	.catch(function (err) {
@@ -551,14 +524,62 @@ firebase.auth().onAuthStateChanged(user => {
 	}
 });
 
+/* picks-submit */
+function isGameOpenForPicks(game, nowMs) {
+	if (!game || typeof game !== 'object') return false;
+	if (game.active !== true) return false;
+	if (game.cover) return false;
+	if (game.gameTime) {
+		var start = new Date(game.gameTime).getTime();
+		if (!isNaN(start) && nowMs >= start) return false;
+	}
+	return true;
+}
+
+function buildWeekPicksPatch(email, selections) {
+	if (!email || !selections || typeof selections !== 'object') return null;
+	var fields = {};
+	var count = 0;
+	for (var i = 1; i <= 10; i++) {
+		var raw = selections[i];
+		if ((raw === undefined || raw === null) && selections['game' + i] != null) {
+			raw = selections['game' + i];
+		}
+		var value = raw == null ? '' : String(raw).trim();
+		if (!value) continue;
+		fields['game' + i] = value;
+		count++;
+	}
+	if (!count) return null;
+	return { user: String(email), fields: fields };
+}
+
+function readOpenGameSelections(doc, games, nowMs) {
+	var root = doc || document;
+	var list = games || [];
+	var now = nowMs == null ? Date.now() : nowMs;
+	var selections = {};
+	for (var i = 1; i <= 10; i++) {
+		var select = root.getElementById('game' + i);
+		if (!select || String(select.tagName).toUpperCase() !== 'SELECT') continue;
+		var game = null;
+		for (var g = 0; g < list.length; g++) {
+			if (list[g] && list[g].gameId === i) game = list[g];
+		}
+		if (!isGameOpenForPicks(game, now)) continue;
+		selections[i] = select.value;
+	}
+	return selections;
+}
+/* end-picks-submit */
+
 function success() {
 	if (!createForm) return;
-	createForm.reset();
 	createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-success" role="alert">Success! Your picks have been saved. <br>Good luck, ${fn}!</div>`;
 	var sp = document.getElementById('savePicks');
 	if (sp) {
-		sp.disabled = true;
-		sp.innerHTML = 'Saved';
+		sp.disabled = false;
+		sp.innerHTML = 'Save My Picks';
 	}
 }
 
