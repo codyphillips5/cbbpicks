@@ -411,7 +411,7 @@ if(createForm) {
 			readOpenGameSelections(document, games, Date.now())
 		);
 		if (!built) {
-			createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-warning" role="alert">Choose a team for at least one game that is still open. Picks you already saved were left in place.</div>`;
+			createForm.querySelector('.response').innerHTML = `<br><div class="alert alert-warning" role="alert">Choose a team for at least one game that is still open.</div>`;
 			return;
 		}
 
