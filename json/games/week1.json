@@ -61,7 +61,7 @@
 		"gameTime" : "2026-11-07T00:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 0,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 6,
@@ -72,7 +72,7 @@
 		"gameTime" : "2026-11-07T01:00Z",
 		"channel" : "TNT",
 		"foxId" : 0,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 7,
