@@ -87,7 +87,9 @@
 		"gameTime" : "2026-11-07T20:00Z",
 		"channel" : "ESPN+",
 		"foxId" : 0,
-		"active" : true
+		"awayScore" : 88,
+		"homeScore" : 89,
+		"cover" : "MEM"
     },
     {
 		"gameId" : 8,
@@ -98,7 +100,9 @@
 		"gameTime" : "2026-11-08T00:00Z",
 		"channel" : "FS1",
 		"foxId" : 0,
-		"active" : true
+		"awayScore" : 58,
+		"homeScore" : 67,
+		"cover" : "NEB"
     },
     {
 		"gameId" : 9,
@@ -109,18 +113,20 @@
 		"gameTime" : "2026-11-08T00:30Z",
 		"channel" : "Peacock",
 		"foxId" : 0,
-		"active" : true
+		"awayScore" : 74,
+		"homeScore" : 86,
+		"cover" : "GTOWN"
     },
     {
 		"gameId" : 10,
-		"awayTeam" : "UVA",
-		"homeTeam" : "ARK",
-		"favorite" : "ARK",
-		"spread" : "-",
+		"awayTeam" : "ARK",
+		"homeTeam" : "UVA",
+		"favorite" : "UVA",
+		"spread" : 2.5,
 		"gameTime" : "2026-11-08T18:00Z",
 		"channel" : "ESPN",
 		"foxId" : 0,
-		"active" : false
+		"active" : true
     }
   ]
 }
