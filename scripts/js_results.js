@@ -26,7 +26,7 @@ var isMe;
 var date1 = new Date();
 var date2;
 var date3;
-var days = 1;
+var days = 2;
 var userCount = 0;
 var itsme = false;
 var check = "";
