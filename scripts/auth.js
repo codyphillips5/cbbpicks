@@ -23,7 +23,7 @@ auth.onAuthStateChanged(user => {
 })
 var icon = "";
 var coversTeam = [];
-var weekNum = 1;
+var weekNum = 2;
 var fn = "";
 if (typeof CBBApi !== 'undefined') {
 	CBBApi.fetchUsers()
