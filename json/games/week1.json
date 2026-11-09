@@ -126,7 +126,9 @@
 		"gameTime" : "2026-11-08T18:00Z",
 		"channel" : "ESPN",
 		"foxId" : 0,
-		"active" : true
+		"awayScore" : 72,
+		"homeScore" : 91,
+		"cover" : "UVA"
     }
   ]
 }
