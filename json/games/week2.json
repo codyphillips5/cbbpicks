@@ -9,9 +9,7 @@
 		"gameTime" : "2025-11-11T01:00Z",
 		"channel" : "ESPNU",
 		"foxId" : 260187,
-		"awayScore" : 80,
-		"homeScore" : 96,
-		"cover" : "ISU"
+		"" : false
     },
     {
 		"gameId" : 2,
