@@ -9,7 +9,7 @@
 		"gameTime" : "2026-11-09T23:30Z",
 		"channel" : "FS1",
 		"foxId" : 401909718,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 2,
