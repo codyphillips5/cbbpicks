@@ -18,33 +18,33 @@
 		"awayTeam" : "MSU",
 		"homeTeam" : "DUKE",
 		"favorite" : "DUKE",
-		"spread" : 6.5,
+		"spread" : 7.5,
 		"gameTime" : "2026-11-11T00:00Z",
 		"channel" : "ESPN",
 		"foxId" : 401909564,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 3,
 		"awayTeam" : "ILL",
 		"homeTeam" : "TTU",
 		"favorite" : "ILL",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2026-11-11T01:00Z",
 		"channel" : "Peacock",
 		"foxId" : 401913527,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 4,
 		"awayTeam" : "KAN",
 		"homeTeam" : "UK",
 		"favorite" : "KAN",
-		"spread" : 5.5,
+		"spread" : 4.5,
 		"gameTime" : "2026-11-11T02:30Z",
 		"channel" : "ESPN",
 		"foxId" : 401909786,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 5,
