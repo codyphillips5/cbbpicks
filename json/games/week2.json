@@ -22,7 +22,9 @@
 		"gameTime" : "2026-11-11T00:00Z",
 		"channel" : "ESPN",
 		"foxId" : 401909564,
-		"active" : true
+		"awayScore" : 79,
+		"homeScore" : 73,
+		"cover" : "MSU"
     },
     {
 		"gameId" : 3,
@@ -33,7 +35,9 @@
 		"gameTime" : "2026-11-11T01:00Z",
 		"channel" : "Peacock",
 		"foxId" : 401913527,
-		"active" : true
+		"awayScore" : 78,
+		"homeScore" : 84,
+		"cover" : "TTU"
     },
     {
 		"gameId" : 4,
@@ -44,7 +48,9 @@
 		"gameTime" : "2026-11-11T02:30Z",
 		"channel" : "ESPN",
 		"foxId" : 401909786,
-		"active" : true
+		"awayScore" : 89,
+		"homeScore" : 69,
+		"cover" : "KAN"
     },
     {
 		"gameId" : 5,
