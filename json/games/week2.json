@@ -57,7 +57,7 @@
 		"awayTeam" : "OKST",
 		"homeTeam" : "TXAM",
 		"favorite" : "TXAM",
-		"spread" : "-",
+		"spread" : 7.5,
 		"gameTime" : "2026-11-13T01:00Z",
 		"channel" : "SECN+",
 		"foxId" : 401919041,
