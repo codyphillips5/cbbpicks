@@ -61,7 +61,7 @@
 		"gameTime" : "2026-11-13T01:00Z",
 		"channel" : "SECN+",
 		"foxId" : 401919041,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 6,
