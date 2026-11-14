@@ -74,7 +74,9 @@
 		"gameTime" : "2026-11-14T00:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 401906782,
-		"active" : true
+		"awayScore" : 78,
+		"homeScore" : 70,
+		"cover" : "UGA"
     },
     {
 		"gameId" : 7,
@@ -85,18 +87,20 @@
 		"gameTime" : "2026-11-14T02:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 401909741,
-		"active" : true
+		"awayScore" : 80,
+		"homeScore" : 69,
+		"cover" : "ZONA"
     },
 	{
 		"gameId" : 8,
 		"awayTeam" : "LSU",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
-		"spread" : "-",
+		"spread" : 6.5,
 		"gameTime" : "2026-11-14T20:30Z",
 		"channel" : "USA",
 		"foxId" : 401921689,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 9,
