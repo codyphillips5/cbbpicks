@@ -4,7 +4,7 @@ var lastName = "";
 var standings, usersList;
 var weekList = "";
 
-var standWeek = 1;
+var standWeek = 2;
 for (var y = 1; y <= standWeek; y++) {
 	weekList = weekList + `<th scope="col" class="bg-light text-center bg-gradient">Week ${y}</th>`;
 }
