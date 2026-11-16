@@ -113,7 +113,9 @@
 		"gameTime" : "2026-11-15T20:00Z",
 		"channel" : "ESPN",
 		"foxId" : 401906866,
-		"active" : true
+		"awayScore" : 72,
+		"homeScore" : 75,
+		"cover" : "BAY"
     },
     {
 		"gameId" : 10,
@@ -124,7 +126,9 @@
 		"gameTime" : "2026-11-15T20:00Z",
 		"channel" : "FS1",
 		"foxId" : 401909493,
-		"active" : true
+		"awayScore" : 70,
+		"homeScore" : 69,
+		"cover" : "CREIGH"
     }
   ]
 }
