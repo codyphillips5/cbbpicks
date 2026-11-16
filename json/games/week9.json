@@ -1,137 +1,114 @@
 {
   "games": [
-    {
+	{
 		"gameId" : 1,
-		"awayTeam" : "LOU",
-		"homeTeam" : "CAL",
-		"favorite" : "LOU",
-		"spread" : 8.5,
-		"gameTime" : "2025-12-31T02:00Z",
-		"channel" : "ACCN",
-		"foxId" : 261762,
-		"awayScore" : 90,
-		"homeScore" : 70,
-		"cover" : "LOU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 2,
-		"awayTeam" : "UNM",
-		"homeTeam" : "BSU",
-		"favorite" : "BSU",
-		"spread" : 5.5,
-		"gameTime" : "2025-12-31T04:00Z",
-		"channel" : "FS1",
-		"foxId" : 263799,
-		"awayScore" : 53,
-		"homeScore" : 62,
-		"cover" : "BSU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 3,
-		"awayTeam" : "UVA",
-		"homeTeam" : "VT",
-		"favorite" : "UVA",
-		"spread" : 5.5,
-		"gameTime" : "2025-12-31T19:00Z",
-		"channel" : "ACCN",
-		"foxId" : 261761,
-		"overtime" : true,
-		"numberOfOT" : 3,
-		"awayScore" : 85,
-		"homeScore" : 95,
-		"cover" : "VT"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 4,
-		"awayTeam" : "MSU",
-		"homeTeam" : "NEB",
-		"favorite" : "NEB",
-		"spread" : 1.5,
-		"gameTime" : "2026-01-03T02:00Z",
-		"channel" : "NBCSN | Peacock",
-		"foxId" : 262527,
-		"awayScore" : 56,
-		"homeScore" : 58,
-		"cover" : "NEB"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 5,
-		"awayTeam" : "UVA",
-		"homeTeam" : "NCST",
-		"favorite" : "NCST",
-		"spread" : 4.5,
-		"gameTime" : "2026-01-03T16:00Z",
-		"channel" : "ESPN2",
-		"foxId" : 261787,
-		"awayScore" : 76,
-		"homeScore" : 61,
-		"cover" : "UVA"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 6,
-		"awayTeam" : "AUB",
-		"homeTeam" : "UGA",
-		"favorite" : "UGA",
-		"spread" : 4.5,
-		"gameTime" : "2026-01-03T18:00Z",
-		"channel" : "SECN",
-		"foxId" : 258590,
-		"overtime" : true,
-		"awayScore" : 100,
-		"homeScore" : 104,
-		"cover" : "AUB"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 7,
-		"awayTeam" : "BAY",
-		"homeTeam" : "TCU",
-		"favorite" : "TCU",
-		"spread" : 1.5,
-		"gameTime" : "2026-01-03T19:00Z",
-		"channel" : "TNT",
-		"foxId" : 262701,
-		"awayScore" : 63,
-		"homeScore" : 69,
-		"cover" : "TCU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
 	{
 		"gameId" : 8,
-		"awayTeam" : "TENN",
-		"homeTeam" : "ARK",
-		"favorite" : "ARK",
-		"spread" : 2.5,
-		"gameTime" : "2026-01-03T20:00Z",
-		"channel" : "ESPN2",
-		"foxId" : 258814,
-		"awayScore" : 75,
-		"homeScore" : 86,
-		"cover" : "ARK"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 9,
-		"awayTeam" : "AKR",
-		"homeTeam" : "M-OH",
-		"favorite" : "AKR",
-		"spread" : 2.5,
-		"gameTime" : "2026-01-03T20:30Z",
-		"channel" : "ESPN+",
-		"foxId" : 259349,
-		"awayScore" : 73,
-		"homeScore" : 76,
-		"cover" : "M-OH"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 10,
-		"awayTeam" : "UCLA",
-		"homeTeam" : "IOWA",
-		"favorite" : "IOWA",
-		"spread" : 6.5,
-		"gameTime" : "2026-01-03T23:00Z",
-		"channel" : "NBCSN | Peacock",
-		"foxId" : 262532,
-		"awayScore" : 61,
-		"homeScore" : 74,
-		"cover" : "IOWA"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     }
   ]
 }

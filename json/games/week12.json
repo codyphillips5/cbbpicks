@@ -1,138 +1,114 @@
 {
   "games": [
-    {
+	{
 		"gameId" : 1,
-		"awayTeam" : "SETON",
-		"homeTeam" : "SJU",
-		"favorite" : "SJU",
-		"spread" : 9.5,
-		"gameTime" : "2026-01-21T00:00Z",
-		"channel" : "FS1",
-		"foxId" : 262207,
-		"awayScore" : 60,
-		"homeScore" : 65,
-		"cover" : "SETON"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 2,
-		"awayTeam" : "UGA",
-		"homeTeam" : "MIZ",
-		"favorite" : "UGA",
-		"spread" : 1.5,
-		"gameTime" : "2026-01-21T02:00Z",
-		"channel" : "SECN",
-		"foxId" : 258264,
-		"awayScore" : 74,
-		"homeScore" : 72,
-		"cover" : "UGA"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 3,
-		"awayTeam" : "SDSU",
-		"homeTeam" : "GCU",
-		"favorite" : "SDSU",
-		"spread" : 0,
-		"gameTime" : "2026-01-22T04:00Z",
-		"channel" : "FS1",
-		"foxId" : 263835,
-		"awayScore" : 69,
-		"homeScore" : 70,
-		"cover" : "GCU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 4,
-		"awayTeam" : "OSU",
-		"homeTeam" : "MICH",
-		"favorite" : "MICH",
-		"spread" : 15.5,
-		"gameTime" : "2026-01-24T01:00Z",
-		"channel" : "FOX",
-		"foxId" : 262581,
-		"awayScore" : 62,
-		"homeScore" : 74,
-		"cover" : "OSU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 5,
-		"awayTeam" : "UNC",
-		"homeTeam" : "UVA",
-		"favorite" : "UVA",
-		"spread" : 6.5,
-		"gameTime" : "2026-01-24T17:00Z",
-		"channel" : "ESPN",
-		"foxId" : 261889,
-		"awayScore" : 85,
-		"homeScore" : 80,
-		"cover" : "UNC"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 6,
-		"awayTeam" : "NOVA",
-		"homeTeam" : "UCONN",
-		"favorite" : "UCONN",
-		"spread" : 10.5,
-		"gameTime" : "2026-01-24T17:30Z",
-		"channel" : "FOX",
-		"foxId" : 262213,
-		"overtime" : true,
-		"numberOfOT" : 1,
-		"awayScore" : 67,
-		"homeScore" : 75,
-		"cover" : "NOVA"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 7,
-		"awayTeam" : "ILL",
-		"homeTeam" : "PURD",
-		"favorite" : "PURD",
-		"spread" : 5.5,
-		"gameTime" : "2026-01-24T20:00Z",
-		"channel" : "FOX",
-		"foxId" : 262583,
-		"awayScore" : 88,
-		"homeScore" : 82,
-		"cover" : "ILL"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
 	{
 		"gameId" : 8,
-		"awayTeam" : "TROY",
-		"homeTeam" : "GASO",
-		"favorite" : "TROY",
-		"spread" : 4.5,
-		"gameTime" : "2026-01-24T20:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 259071,
-		"awayScore" : 83,
-		"homeScore" : 78,
-		"cover" : "TROY"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 9,
-		"awayTeam" : "UVU",
-		"homeTeam" : "CBU",
-		"favorite" : "UVU",
-		"spread" : 1.5,
-		"gameTime" : "2026-01-25T01:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 258629,
-		"overtime" : true,
-		"numberOfOT" : 1,
-		"awayScore" : 71,
-		"homeScore" : 78,
-		"cover" : "CBU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 10,
-		"awayTeam" : "CAL",
-		"homeTeam" : "STAN",
-		"favorite" : "STAN",
-		"spread" : 4.5,
-		"gameTime" : "2026-01-25T01:00Z",
-		"channel" : "ACCN",
-		"foxId" : 261883,
-		"awayScore" : 78,
-		"homeScore" : 66,
-		"cover" : "CAL"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     }
   ]
 }

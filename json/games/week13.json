@@ -1,134 +1,114 @@
 {
   "games": [
-    {
+	{
 		"gameId" : 1,
-		"awayTeam" : "ZONA",
-		"homeTeam" : "BYU",
-		"favorite" : "ZONA",
-		"spread" : 2.5,
-		"gameTime" : "2026-01-27T02:00Z",
-		"channel" : "ESPN",
-		"foxId" : 262752,
-		"awayScore" : 86,
-		"homeScore" : 83,
-		"cover" : "ZONA"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 2,
-		"awayTeam" : "NEB",
-		"homeTeam" : "MICH",
-		"favorite" : "MICH",
-		"spread" : 10.5,
-		"gameTime" : "2026-01-28T00:00Z",
-		"channel" : "NBCSN | Peacock",
-		"foxId" : 262592,
-		"awayScore" : 72,
-		"homeScore" : 75,
-		"cover" : "NEB"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 3,
-		"awayTeam" : "UK",
-		"homeTeam" : "VANDY",
-		"favorite" : "VANDY",
-		"spread" : 6.5,
-		"gameTime" : "2026-01-28T02:00Z",
-		"channel" : "ESPN",
-		"foxId" : 258395,
-		"awayScore" : 55,
-		"homeScore" : 80,
-		"cover" : "VANDY"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 4,
-		"awayTeam" : "USC",
-		"homeTeam" : "IOWA",
-		"favorite" : "IOWA",
-		"spread" : 9.5,
-		"gameTime" : "2026-01-29T00:00Z",
-		"channel" : "B1G",
-		"foxId" : 262593,
-		"awayScore" : 72,
-		"homeScore" : 73,
-		"cover" : "USC"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 5,
-		"awayTeam" : "MICH",
-		"homeTeam" : "MSU",
-		"favorite" : "MICH",
-		"spread" : 0,
-		"gameTime" : "2026-01-31T01:00Z",
-		"channel" : "FOX",
-		"foxId" : 262598,
-		"awayScore" : 83,
-		"homeScore" : 71,
-		"cover" : "MICH"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 6,
-		"awayTeam" : "DAY",
-		"homeTeam" : "SLU",
-		"favorite" : "SLU",
-		"spread" : 10.5,
-		"gameTime" : "2026-01-31T01:00Z",
-		"channel" : "CBSSN",
-		"foxId" : 263087,
-		"awayScore" : 71,
-		"homeScore" : 102,
-		"cover" : "SLU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 7,
-		"awayTeam" : "TXAM",
-		"homeTeam" : "UGA",
-		"favorite" : "UGA",
-		"spread" : 3.5,
-		"gameTime" : "2026-01-31T18:00Z",
-		"channel" : "SECN",
-		"foxId" : 258594,
-		"awayScore" : 92,
-		"homeScore" : 77,
-		"cover" : "TXAM"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
 	{
 		"gameId" : 8,
-		"awayTeam" : "CAL",
-		"homeTeam" : "MIA",
-		"favorite" : "MIA",
-		"spread" : 10.5,
-		"gameTime" : "2026-01-31T21:00Z",
-		"channel" : "ACCN",
-		"foxId" : 261923,
-		"awayScore" : 86,
-		"homeScore" : 85,
-		"cover" : "CAL"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 9,
-		"awayTeam" : "MURR",
-		"homeTeam" : "BEL",
-		"favorite" : "BEL",
-		"spread" : 4.5,
-		"gameTime" : "2026-02-01T01:00Z",
-		"channel" : "CBSSN",
-		"foxId" : 263695,
-		"awayScore" : 86,
-		"homeScore" : 103,
-		"cover" : "BEL"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 10,
-		"awayTeam" : "STMARY",
-		"homeTeam" : "GONZ",
-		"favorite" : "GONZ",
-		"spread" : 9.5,
-		"gameTime" : "2026-02-01T03:30Z",
-		"channel" : "ESPN",
-		"foxId" : 263376,
-		"awayScore" : 65,
-		"homeScore" : 73,
-		"cover" : "STMARY"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     }
   ]
 }

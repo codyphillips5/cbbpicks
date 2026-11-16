@@ -1,136 +1,114 @@
 {
   "games": [
-    {
+	{
 		"gameId" : 1,
-		"awayTeam" : "NEB",
-		"homeTeam" : "OSU",
-		"favorite" : "OSU",
-		"spread" : 2.5,
-		"gameTime" : "2026-01-05T23:30Z",
-		"channel" : "FS1",
-		"foxId" : 262537,
-		"awayScore" : 72,
-		"homeScore" : 69,
-		"cover" : "NEB"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 2,
-		"awayTeam" : "SFA",
-		"homeTeam" : "MCN",
-		"favorite" : "MCN",
-		"spread" : 10.5,
-		"gameTime" : "2026-01-06T00:30Z",
-		"channel" : "ESPN+",
-		"foxId" : 259380,
-		"awayScore" : 64,
-		"homeScore" : 66,
-		"cover" : "SFA"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 3,
-		"awayTeam" : "DUKE",
-		"homeTeam" : "LOU",
-		"favorite" : "DUKE",
-		"spread" : 0,
-		"gameTime" : "2026-01-07T00:00Z",
-		"channel" : "ESPN",
-		"foxId" : 261797,
-		"awayScore" : 84,
-		"homeScore" : 73,
-		"cover" : "DUKE"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 4,
-		"awayTeam" : "UCF",
-		"homeTeam" : "OKST",
-		"favorite" : "OKST",
-		"spread" : 3.5,
-		"gameTime" : "2026-01-07T01:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 262705,
-		"awayScore" : 76,
-		"homeScore" : 87,
-		"cover" : "OKST"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 5,
-		"awayTeam" : "TTU",
-		"homeTeam" : "HOU",
-		"favorite" : "HOU",
-		"spread" : 6.5,
-		"gameTime" : "2026-01-07T02:00Z",
-		"channel" : "FS1",
-		"foxId" : 262708,
-		"awayScore" : 65,
-		"homeScore" : 69,
-		"cover" : "TTU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 6,
-		"awayTeam" : "SLU",
-		"homeTeam" : "VCU",
-		"favorite" : "VCU",
-		"spread" : 2.5,
-		"gameTime" : "2026-01-08T00:00Z",
-		"channel" : "CBSSN",
-		"foxId" : 263044,
-		"awayScore" : 71,
-		"homeScore" : 62,
-		"cover" : "SLU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 7,
-		"awayTeam" : "ALA",
-		"homeTeam" : "VANDY",
-		"favorite" : "VANDY",
-		"spread" : 4.5,
-		"gameTime" : "2026-01-08T02:00Z",
-		"channel" : "ESPN2",
-		"foxId" : 258392,
-		"awayScore" : 90,
-		"homeScore" : 96,
-		"cover" : "VANDY"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
 	{
 		"gameId" : 8,
-		"awayTeam" : "TENN",
-		"homeTeam" : "FLA",
-		"favorite" : "FLA",
-		"spread" : 5.5,
-		"gameTime" : "2026-01-10T17:00Z",
-		"channel" : "ESPN",
-		"foxId" : 258546,
-		"awayScore" : 67,
-		"homeScore" : 91,
-		"cover" : "FLA"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 9,
-		"awayTeam" : "HOU",
-		"homeTeam" : "BAY",
-		"favorite" : "HOU",
-		"spread" : 3.5,
-		"gameTime" : "2026-01-10T18:00Z",
-		"channel" : "NBCSN | Peacock",
-		"foxId" : 262715,
-		"awayScore" : 77,
-		"homeScore" : 55,
-		"cover" : "HOU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 10,
-		"awayTeam" : "HPU",
-		"homeTeam" : "CHSO",
-		"favorite" : "HPU",
-		"spread" : 8.5,
-		"gameTime" : "2026-01-10T19:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 261822,
-		"overtime" : true,
-		"numberOfOT" : 1,
-		"awayScore" : 84,
-		"homeScore" : 82,
-		"cover" : "CHSO"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     }
   ]
 }

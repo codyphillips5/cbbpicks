@@ -1,136 +1,114 @@
 {
   "games": [
-    {
+	{
 		"gameId" : 1,
-		"awayTeam" : "LOU",
-		"homeTeam" : "TENN",
-		"favorite" : "TENN",
-		"spread" : 1.5,
-		"gameTime" : "2025-12-17T00:00Z",
-		"channel" : "ESPN",
-		"foxId" : 260983,
-		"awayScore" : 62,
-		"homeScore" : 83,
-		"cover" : "TENN"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 2,
-		"awayTeam" : "AZST",
-		"homeTeam" : "UCLA",
-		"favorite" : "UCLA",
-		"spread" : 8.5,
-		"gameTime" : "2025-12-18T03:30Z",
-		"channel" : "FS1",
-		"foxId" : 261009,
-		"awayScore" : 77,
-		"homeScore" : 90,
-		"cover" : "UCLA"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 3,
-		"awayTeam" : "NOVA",
-		"homeTeam" : "WIS",
-		"favorite" : "WIS",
-		"spread" : 4.5,
-		"gameTime" : "2025-12-20T01:00Z",
-		"channel" : "FOX",
-		"foxId" : 261035,
-		"overtime" : true,
-		"numberOfOT" : 1,
-		"awayScore" : 76,
-		"homeScore" : 66,
-		"cover" : "NOVA"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 4,
-		"awayTeam" : "BEL",
-		"homeTeam" : "UCIRV",
-		"favorite" : "UCIRV",
-		"spread" : 1.5,
-		"gameTime" : "2025-12-20T02:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 263464,
-		"awayScore" : 84,
-		"homeScore" : 58,
-		"cover" : "BEL"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 5,
-		"awayTeam" : "CSU",
-		"homeTeam" : "USU",
-		"favorite" : "USU",
-		"spread" : 7.5,
-		"gameTime" : "2025-12-20T19:00Z",
-		"channel" : "CBSSN",
-		"foxId" : 263792,
-		"awayScore" : 58,
-		"homeScore" : 100,
-		"cover" : "USU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 6,
-		"awayTeam" : "UNC",
-		"homeTeam" : "OSU",
-		"favorite" : "UNC",
-		"spread" : 3.5,
-		"gameTime" : "2025-12-20T20:00Z",
-		"channel" : "CBS",
-		"foxId" : 261055,
-		"awayScore" : 71,
-		"homeScore" : 70,
-		"cover" : "OSU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 7,
-		"awayTeam" : "ARK",
-		"homeTeam" : "HOU",
-		"favorite" : "HOU",
-		"spread" : 4.5,
-		"gameTime" : "2025-12-20T22:30Z",
-		"channel" : "CBS",
-		"foxId" : 261703,
-		"awayScore" : 85,
-		"homeScore" : 94,
-		"cover" : "HOU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
 	{
 		"gameId" : 8,
-		"awayTeam" : "AUB",
-		"homeTeam" : "PURD",
-		"favorite" : "PURD",
-		"spread" : 8.5,
-		"gameTime" : "2025-12-20T23:30Z",
-		"channel" : "NBCSN | Peacock",
-		"foxId" : 261045,
-		"awayScore" : 60,
-		"homeScore" : 88,
-		"cover" : "PURD"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 9,
-		"awayTeam" : "DUKE",
-		"homeTeam" : "TTU",
-		"favorite" : "DUKE",
-		"spread" : 9.5,
-		"gameTime" : "2025-12-21T01:00Z",
-		"channel" : "ESPN",
-		"foxId" : 261070,
-		"awayScore" : 81,
-		"homeScore" : 82,
-		"cover" : "TTU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 10,
-		"awayTeam" : "STAN",
-		"homeTeam" : "COLO",
-		"favorite" : "COLO",
-		"spread" : 5.5,
-		"gameTime" : "2025-12-21T01:00Z",
-		"channel" : "ESPNU",
-		"foxId" : 261057,
-		"awayScore" : 77,
-		"homeScore" : 68,
-		"cover" : "STAN"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     }
   ]
 }

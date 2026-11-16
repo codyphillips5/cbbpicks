@@ -68,7 +68,8 @@
 		"spread" : "-",
 		"gameTime" : "2026-11-21T01:00Z",
 		"channel" : "CBS",
-		"foxId" : 401916290
+		"foxId" : 401916290,
+		"active" : false
     },
 	{
 		"gameId" : 8,
@@ -78,7 +79,8 @@
 		"spread" : "-",
 		"gameTime" : "2026-11-21T04:00Z",
 		"channel" : "ESPN2",
-		"foxId" : 401911252
+		"foxId" : 401911252,
+		"active" : false
     },
     {
 		"gameId" : 9,
@@ -88,7 +90,8 @@
 		"spread" : "-",
 		"gameTime" : "2026-11-20T05:00Z",
 		"channel" : "",
-		"foxId" : 401921691
+		"foxId" : 401921691,
+		"active" : false
     },
     {
 		"gameId" : 10,
@@ -98,7 +101,8 @@
 		"spread" : "-",
 		"gameTime" : "2026-11-22T00:00Z",
 		"channel" : "FOX",
-		"foxId" : 401921776
+		"foxId" : 401921776,
+		"active" : false
     }
   ]
 }

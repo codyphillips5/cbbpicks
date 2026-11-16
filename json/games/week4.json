@@ -1,134 +1,114 @@
 {
   "games": [
-    {
+	{
 		"gameId" : 1,
-		"awayTeam" : "SJU",
-		"homeTeam" : "ISU",
-		"favorite" : "ISU",
-		"spread" : 2.5,
-		"gameTime" : "2025-11-24T21:30Z",
-		"channel" : "truTV",
-		"foxId" : 261458,
-		"awayScore" : 82,
-		"homeScore" : 83,
-		"cover" : "SJU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 2,
-		"awayTeam" : "TENN",
-		"homeTeam" : "HOU",
-		"favorite" : "HOU",
-		"spread" : 3.5,
-		"gameTime" : "2025-11-25T23:00Z",
-		"channel" : "TNT",
-		"foxId" : 261488,
-		"awayScore" : 76,
-		"homeScore" : 73,
-		"cover" : "TENN"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 3,
-		"awayTeam" : "MICH",
-		"homeTeam" : "AUB",
-		"favorite" : "MICH",
-		"spread" : 4.5,
-		"gameTime" : "2025-11-26T01:30Z",
-		"channel" : "TNT",
-		"foxId" : 261493,
-		"awayScore" : 102,
-		"homeScore" : 72,
-		"cover" : "MICH"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 4,
-		"awayTeam" : "AZST",
-		"homeTeam" : "USC",
-		"favorite" : "USC",
-		"spread" : 4.5,
-		"gameTime" : "2025-11-26T19:30Z",
-		"channel" : "Maui Championship • ESPN",
-		"foxId" : 263977,
-		"awayScore" : 75,
-		"homeScore" : 88,
-		"cover" : "USC"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 5,
-		"awayTeam" : "GONZ",
-		"homeTeam" : "MICH",
-		"favorite" : "MICH",
-		"spread" : 1.5,
-		"gameTime" : "2025-11-27T02:30Z",
-		"channel" : "Players Era Championship • TNT",
-		"foxId" : 263995,
-		"awayScore" : 61,
-		"homeScore" : 101,
-		"cover" : "MICH"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 6,
-		"awayTeam" : "UNC",
-		"homeTeam" : "MSU",
-		"favorite" : "MSU",
-		"spread" : 1.5,
-		"gameTime" : "2025-11-27T21:30Z",
-		"channel" : "FOX",
-		"foxId" : 260611,
-		"awayScore" : 58,
-		"homeScore" : 74,
-		"cover" : "MSU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 7,
-		"awayTeam" : "ARK",
-		"homeTeam" : "DUKE",
-		"favorite" : "DUKE",
-		"spread" : 10.5,
-		"gameTime" : "2025-11-28T01:00Z",
-		"channel" : "CBS",
-		"foxId" : 260615,
-		"awayScore" : 71,
-		"homeScore" : 80,
-		"cover" : "ARK"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
 	{
 		"gameId" : 8,
-		"awayTeam" : "ILL",
-		"homeTeam" : "UCONN",
-		"favorite" : "UCONN",
-		"spread" : 2.5,
-		"gameTime" : "2025-11-28T17:30Z",
-		"channel" : "FOX",
-		"foxId" : 260626,
-		"awayScore" : 61,
-		"homeScore" : 74,
-		"cover" : "UCONN"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 9,
-		"awayTeam" : "VANDY",
-		"homeTeam" : "STMARY",
-		"favorite" : "VANDY",
-		"spread" : 3.5,
-		"gameTime" : "2025-11-28T18:00Z",
-		"channel" : "Battle 4 Atlantis • ESPN2",
-		"foxId" : 264010,
-		"awayScore" : 96,
-		"homeScore" : 71,
-		"cover" : "VANDY"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 10,
-		"awayTeam" : "TCU",
-		"homeTeam" : "WIS",
-		"favorite" : "WIS",
-		"spread" : 5.5,
-		"gameTime" : "2025-11-28T22:30Z",
-		"channel" : "Rady Children's Invitational Championship • FOX",
-		"foxId" : 264016,
-		"awayScore" : 74,
-		"homeScore" : 63,
-		"cover" : "TCU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     }
   ]
 }

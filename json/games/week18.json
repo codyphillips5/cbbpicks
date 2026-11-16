@@ -1,136 +1,114 @@
 {
   "games": [
-    {
+	{
 		"gameId" : 1,
-		"awayTeam" : "ISU",
-		"homeTeam" : "ZONA",
-		"favorite" : "ZONA",
-		"spread" : 7.5,
-		"gameTime" : "2026-03-03T02:00Z",
-		"channel" : "ESPN",
-		"foxId" : 262825,
-		"awayScore" : 57,
-		"homeScore" : 73,
-		"cover" : "ZONA"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 2,
-		"awayTeam" : "CLEM",
-		"homeTeam" : "UNC",
-		"favorite" : "UNC",
-		"spread" : 3.5,
-		"gameTime" : "2026-03-04T00:00Z",
-		"channel" : "ESPN",
-		"foxId" : 262074,
-		"awayScore" : 63,
-		"homeScore" : 67,
-		"cover" : "UNC"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 3,
-		"awayTeam" : "TEX",
-		"homeTeam" : "ARK",
-		"favorite" : "ARK",
-		"spread" : 7.5,
-		"gameTime" : "2026-03-05T00:00Z",
-		"channel" : "ESPN2",
-		"foxId" : 258822,
-		"awayScore" : 85,
-		"homeScore" : 105,
-		"cover" : "ARK"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 4,
-		"awayTeam" : "M-OH",
-		"homeTeam" : "OHIO",
-		"favorite" : "M-OH",
-		"spread" : 5.5,
-		"gameTime" : "2026-03-07T02:00Z",
-		"channel" : "ESPN2",
-		"foxId" : 259943,
-		"overtime" : true,
-		"numberOfOT" : 1,
-		"awayScore" : 110,
-		"homeScore" : 108,
-		"cover" : "OHIO"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 5,
-		"awayTeam" : "SHSU",
-		"homeTeam" : "LIB",
-		"favorite" : "LIB",
-		"spread" : 4.5,
-		"gameTime" : "2026-03-07T19:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 258991,
-		"awayScore" : 72,
-		"homeScore" : 79,
-		"cover" : "LIB"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 6,
-		"awayTeam" : "VANDY",
-		"homeTeam" : "TENN",
-		"favorite" : "TENN",
-		"spread" : 3.5,
-		"gameTime" : "2026-03-07T19:00Z",
-		"channel" : "ESPN",
-		"foxId" : 258169,
-		"awayScore" : 76,
-		"homeScore" : 72,
-		"cover" : "VANDY"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 7,
-		"awayTeam" : "FLA",
-		"homeTeam" : "UK",
-		"favorite" : "FLA",
-		"spread" : 6.5,
-		"gameTime" : "2026-03-07T21:00Z",
-		"channel" : "ESPN",
-		"foxId" : 258571,
-		"awayScore" : 84,
-		"homeScore" : 77,
-		"cover" : "FLA"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
 	{
 		"gameId" : 8,
-		"awayTeam" : "IND",
-		"homeTeam" : "OSU",
-		"favorite" : "OSU",
-		"spread" : 4.5,
-		"gameTime" : "2026-03-07T22:30Z",
-		"channel" : "FOX",
-		"foxId" : 262681,
-		"awayScore" : 78,
-		"homeScore" : 91,
-		"cover" : "OSU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 9,
-		"awayTeam" : "UNI",
-		"homeTeam" : "UIC",
-		"favorite" : "UNI",
-		"spread" : 2.5,
-		"gameTime" : "2026-03-08T16:00Z",
-		"channel" : "CBS",
-		"foxId" : 264230,
-		"awayScore" : 84,
-		"homeScore" : 69,
-		"cover" : "UNI"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 10,
-		"awayTeam" : "MSU",
-		"homeTeam" : "MICH",
-		"favorite" : "MICH",
-		"spread" : 9.5,
-		"gameTime" : "2026-03-08T20:30Z",
-		"channel" : "CBS",
-		"foxId" : 262685,
-		"awayScore" : 80,
-		"homeScore" : 90,
-		"cover" : "MICH"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     }
   ]
 }

@@ -1,137 +1,114 @@
 {
   "games": [
-    {
+	{
 		"gameId" : 1,
-		"awayTeam" : "HOU",
-		"homeTeam" : "ISU",
-		"favorite" : "ISU",
-		"spread" : 2.5,
-		"gameTime" : "2026-02-17T02:00Z",
-		"channel" : "ESPN",
-		"foxId" : 262794,
-		"awayScore" : 67,
-		"homeScore" : 70,
-		"cover" : "ISU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 2,
-		"awayTeam" : "MICH",
-		"homeTeam" : "PURD",
-		"favorite" : "MICH",
-		"spread" : 2.5,
-		"gameTime" : "2026-02-17T23:30Z",
-		"channel" : "NBCSN | Peacock",
-		"foxId" : 262642,
-		"awayScore" : 91,
-		"homeScore" : 80,
-		"cover" : "MICH"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 3,
-		"awayTeam" : "ARK",
-		"homeTeam" : "ALA",
-		"favorite" : "ALA",
-		"spread" : 3.5,
-		"gameTime" : "2026-02-19T00:00Z",
-		"channel" : "ESPN",
-		"foxId" : 258259,
-		"overtime" : true,
-		"numberOfOT" : 2,
-		"awayScore" : 115,
-		"homeScore" : 117,
-		"cover" : "ARK"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 4,
-		"awayTeam" : "MARSH",
-		"homeTeam" : "APP",
-		"favorite" : "APP",
-		"spread" : 2.5,
-		"gameTime" : "2026-02-19T23:30Z",
-		"channel" : "ESPN+",
-		"foxId" : 258204,
-		"awayScore" : 94,
-		"homeScore" : 93,
-		"cover" : "MARSH"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 5,
-		"awayTeam" : "VCU",
-		"homeTeam" : "SLU",
-		"favorite" : "SLU",
-		"spread" : 7.5,
-		"gameTime" : "2026-02-21T00:00Z",
-		"channel" : "ESPN2",
-		"foxId" : 263123,
-		"awayScore" : 75,
-		"homeScore" : 88,
-		"cover" : "SLU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 6,
-		"awayTeam" : "ZONA",
-		"homeTeam" : "HOU",
-		"favorite" : "HOU",
-		"spread" : 5.5,
-		"gameTime" : "2026-02-21T20:00Z",
-		"channel" : "ABC",
-		"foxId" : 262807,
-		"awayScore" : 73,
-		"homeScore" : 66,
-		"cover" : "ZONA"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 7,
-		"awayTeam" : "WIN",
-		"homeTeam" : "HPU",
-		"favorite" : "HPU",
-		"spread" : 7.5,
-		"gameTime" : "2026-02-21T21:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 262016,
-		"awayScore" : 87,
-		"homeScore" : 89,
-		"cover" : "WIN"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
 	{
 		"gameId" : 8,
-		"awayTeam" : "UCONN",
-		"homeTeam" : "NOVA",
-		"favorite" : "UCONN",
-		"spread" : 2.5,
-		"gameTime" : "2026-02-21T22:30Z",
-		"channel" : "TNT",
-		"foxId" : 262252,
-		"awayScore" : 73,
-		"homeScore" : 63,
-		"cover" : "UCONN"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 9,
-		"awayTeam" : "MICH",
-		"homeTeam" : "DUKE",
-		"favorite" : "MICH",
-		"spread" : 2.5,
-		"gameTime" : "2026-02-21T23:30Z",
-		"channel" : "ESPN",
-		"awayScore" : 63,
-		"homeScore" : 68,
-		"cover" : "DUKE"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 10,
-		"awayTeam" : "UCSB",
-		"homeTeam" : "HAW",
-		"favorite" : "HAW",
-		"spread" : 3.5,
-		"gameTime" : "2026-02-22T03:00Z",
-		"channel" : "ESPNU",
-		"foxId" : 258651,
-		"overtime" : true,
-		"numberOfOT" : 1,
-		"awayScore" : 75,
-		"homeScore" : 78,
-		"cover" : "UCSB"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     }
   ]
 }

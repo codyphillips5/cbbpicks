@@ -1,134 +1,114 @@
 {
   "games": [
-    {
+	{
 		"gameId" : 1,
-		"awayTeam" : "LOU",
-		"homeTeam" : "UNC",
-		"favorite" : "LOU",
-		"spread" : 2.5,
-		"gameTime" : "2026-02-24T00:00Z",
-		"channel" : "ESPN",
-		"foxId" : 262032,
-		"awayScore" : 74,
-		"homeScore" : 77,
-		"cover" : "UNC"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 2,
-		"awayTeam" : "USC",
-		"homeTeam" : "UCLA",
-		"favorite" : "UCLA",
-		"spread" : 6.5,
-		"gameTime" : "2026-02-25T04:00Z",
-		"channel" : "FS1",
-		"foxId" : 262656,
-		"awayScore" : 62,
-		"homeScore" : 81,
-		"cover" : "UCLA"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 3,
-		"awayTeam" : "USU",
-		"homeTeam" : "SDSU",
-		"favorite" : "SDSU",
-		"spread" : 0,
-		"gameTime" : "2026-02-26T04:00Z",
-		"channel" : "FS1",
-		"foxId" : 263890,
-		"awayScore" : 72,
-		"homeScore" : 89,
-		"cover" : "SDSU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 4,
-		"awayTeam" : "PRST",
-		"homeTeam" : "MTST",
-		"favorite" : "MTST",
-		"spread" : 2.5,
-		"gameTime" : "2026-02-27T02:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 258371,
-		"awayScore" : 69,
-		"homeScore" : 84,
-		"cover" : "MTST"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 5,
-		"awayTeam" : "MICH",
-		"homeTeam" : "ILL",
-		"favorite" : "MICH",
-		"spread" : 1.5,
-		"gameTime" : "2026-02-28T01:00Z",
-		"channel" : "FOX",
-		"foxId" : 262662,
-		"awayScore" : 84,
-		"homeScore" : 70,
-		"cover" : "MICH"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 6,
-		"awayTeam" : "TEX",
-		"homeTeam" : "TXAM",
-		"favorite" : "TXAM",
-		"spread" : 3.5,
-		"gameTime" : "2026-02-28T21:00Z",
-		"channel" : "ESPN2",
-		"foxId" : 258486,
-		"awayScore" : 76,
-		"homeScore" : 70,
-		"cover" : "TEX"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 7,
-		"awayTeam" : "ETSU",
-		"homeTeam" : "MER",
-		"favorite" : "MER",
-		"spread" : 1.5,
-		"gameTime" : "2026-02-28T21:30Z",
-		"channel" : "ESPN+",
-		"foxId" : 258562,
-		"awayScore" : 76,
-		"homeScore" : 82,
-		"cover" : "MER"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
 	{
 		"gameId" : 8,
-		"awayTeam" : "ALA",
-		"homeTeam" : "TENN",
-		"favorite" : "TENN",
-		"spread" : 4.5,
-		"gameTime" : "2026-02-28T23:00Z",
-		"channel" : "ESPN",
-		"foxId" : 258168,
-		"awayScore" : 71,
-		"homeScore" : 69,
-		"cover" : "ALA"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 9,
-		"awayTeam" : "NOVA",
-		"homeTeam" : "SJU",
-		"favorite" : "SJU",
-		"spread" : 7.5,
-		"gameTime" : "2026-03-01T01:00Z",
-		"channel" : "FOX",
-		"foxId" : 262260,
-		"awayScore" : 57,
-		"homeScore" : 89,
-		"cover" : "SJU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 10,
-		"awayTeam" : "GONZ",
-		"homeTeam" : "STMARY",
-		"favorite" : "GONZ",
-		"spread" : 2.5,
-		"gameTime" : "2026-03-01T03:30Z",
-		"channel" : "ESPN",
-		"foxId" : 263416,
-		"awayScore" : 59,
-		"homeScore" : 70,
-		"cover" : "STMARY"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     }
   ]
 }

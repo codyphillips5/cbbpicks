@@ -1,134 +1,114 @@
 {
   "games": [
-    {
+	{
 		"gameId" : 1,
-		"awayTeam" : "UCONN",
-		"homeTeam" : "SETON",
-		"favorite" : "UCONN",
-		"spread" : 5.5,
-		"gameTime" : "2026-01-14T01:00Z",
-		"channel" : "TruTV",
-		"foxId" : 262197,
-		"awayScore" : 69,
-		"homeScore" : 64,
-		"cover" : "SETON"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 2,
-		"awayTeam" : "ISU",
-		"homeTeam" : "KAN",
-		"favorite" : "ISU",
-		"spread" : 4.5,
-		"gameTime" : "2026-01-14T02:00Z",
-		"channel" : "ESPN",
-		"foxId" : 262723,
-		"awayScore" : 63,
-		"homeScore" : 84,
-		"cover" : "KAN"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 3,
-		"awayTeam" : "FLA",
-		"homeTeam" : "OKLA",
-		"favorite" : "FLA",
-		"spread" : 6.5,
-		"gameTime" : "2026-01-14T02:00Z",
-		"channel" : "ESPN2",
-		"foxId" : 258910,
-		"awayScore" : 96,
-		"homeScore" : 79,
-		"cover" : "FLA" 
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 4,
-		"awayTeam" : "IOWA",
-		"homeTeam" : "PURD",
-		"favorite" : "PURD",
-		"spread" : 9.5,
-		"gameTime" : "2026-01-14T23:30Z",
-		"channel" : "B1G",
-		"foxId" : 262561,
-		"awayScore" : 72,
-		"homeScore" : 79,
-		"cover" : "IOWA" 
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 5,
-		"awayTeam" : "BAY",
-		"homeTeam" : "KAN",
-		"favorite" : "KAN",
-		"spread" : 7.5,
-		"gameTime" : "2026-01-17T01:00Z",
-		"channel" : "FOX",
-		"foxId" : 262729,
-		"awayScore" : 62,
-		"homeScore" : 80,
-		"cover" : "KAN" 
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 6,
-		"awayTeam" : "UVA",
-		"homeTeam" : "SMU",
-		"favorite" : "UVA",
-		"spread" : 1.5,
-		"gameTime" : "2026-01-17T17:00Z",
-		"channel" : "ESPN2",
-		"foxId" : 261853,
-		"awayScore" : 72,
-		"homeScore" : 68,
-		"cover" : "UVA"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 7,
-		"awayTeam" : "IOWA",
-		"homeTeam" : "IND",
-		"favorite" : "IND",
-		"spread" : 2.5,
-		"gameTime" : "2026-01-17T19:00Z",
-		"channel" : "FOX",
-		"foxId" : 262568,
-		"awayScore" : 74,
-		"homeScore" : 57,
-		"cover" : "IOWA"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
 	{
 		"gameId" : 8,
-		"awayTeam" : "UST",
-		"homeTeam" : "NDSU",
-		"favorite" : "NDSU",
-		"spread" : 1.5,
-		"gameTime" : "2026-01-17T19:00Z",
-		"channel" : "SLN",
-		"foxId" : 259480,
-		"awayScore" : 65,
-		"homeScore" : 68,
-		"cover" : "NDSU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 9,
-		"awayTeam" : "MIA",
-		"homeTeam" : "CLEM",
-		"favorite" : "CLEM",
-		"spread" : 4.5,
-		"gameTime" : "2026-01-17T19:15Z",
-		"channel" : "CW",
-		"foxId" : 261847,
-		"awayScore" : 59,
-		"homeScore" : 69,
-		"cover" : "CLEM"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     },
-    {
+	{
 		"gameId" : 10,
-		"awayTeam" : "BYU",
-		"homeTeam" : "TTU",
-		"favorite" : "TTU",
-		"spread" : 2.5,
-		"gameTime" : "2026-01-18T01:00Z",
-		"channel" : "ESPN",
-		"foxId" : 262734,
-		"awayScore" : 71,
-		"homeScore" : 84,
-		"cover" : "TTU"
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "",
+		"channel" : "",
+		"foxId" : "",
+		"active" : false
     }
   ]
 }
