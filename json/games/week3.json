@@ -8,7 +8,8 @@
 		"spread" : 7.5,
 		"gameTime" : "2026-11-18T00:00Z",
 		"channel" : "ESPN",
-		"foxId" : 401909566
+		"foxId" : 401909566,
+		"active" : true
     },
     {
 		"gameId" : 2,
@@ -18,7 +19,8 @@
 		"spread" : 2.5,
 		"gameTime" : "2026-11-18T00:30Z",
 		"channel" : "Peacock",
-		"foxId" : 401916289
+		"foxId" : 401916289,
+		"active" : true
     },
     {
 		"gameId" : 3,
@@ -28,7 +30,8 @@
 		"spread" : 3.5,
 		"gameTime" : "2026-11-18T02:00Z",
 		"channel" : "ESPN2",
-		"foxId" : 401906851
+		"foxId" : 401906851,
+		"active" : true
     },
     {
 		"gameId" : 4,
@@ -38,7 +41,8 @@
 		"spread" : "-",
 		"gameTime" : "2026-11-19T00:30Z",
 		"channel" : "ESPN2",
-		"foxId" : 401920515
+		"foxId" : 401920515,
+		"active" : false
     },
     {
 		"gameId" : 5,
@@ -48,7 +52,8 @@
 		"spread" : "-",
 		"gameTime" : "2026-11-19T02:00Z",
 		"channel" : "FS1",
-		"foxId" : 401909742
+		"foxId" : 401909742,
+		"active" : false
     },
     {
 		"gameId" : 6,
@@ -58,7 +63,8 @@
 		"spread" : "-",
 		"gameTime" : "2026-11-20T04:00Z",
 		"channel" : "",
-		"foxId" : 401920518
+		"foxId" : 401920518,
+		"active" : false
     },
     {
 		"gameId" : 7,
