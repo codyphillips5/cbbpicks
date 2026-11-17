@@ -56,17 +56,6 @@
 		"active" : false
     },
     {
-		"gameId" : 6,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
-		"spread" : "-",
-		"gameTime" : "2026-11-20T04:00Z",
-		"channel" : "",
-		"foxId" : 401920518,
-		"active" : false
-    },
-    {
 		"gameId" : 7,
 		"awayTeam" : "MTST",
 		"homeTeam" : "HPU",
@@ -86,6 +75,17 @@
 		"gameTime" : "2026-11-20T03:30Z",
 		"channel" : "ESPN2",
 		"foxId" : 401917536,
+		"active" : false
+    },
+    {
+		"gameId" : 6,
+		"awayTeam" : "TBD",
+		"homeTeam" : "TBD",
+		"favorite" : "TBD",
+		"spread" : "-",
+		"gameTime" : "2026-11-20T04:00Z",
+		"channel" : "",
+		"foxId" : 401920518,
 		"active" : false
     },
     {
