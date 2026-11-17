@@ -57,13 +57,13 @@
     },
     {
 		"gameId" : 7,
-		"awayTeam" : "MTST",
-		"homeTeam" : "HPU",
-		"favorite" : "HPU",
+		"awayTeam" : "TXAM",
+		"homeTeam" : "TCU",
+		"favorite" : "TCU",
 		"spread" : "-",
-		"gameTime" : "2026-11-20T00:00Z",
-		"channel" : "ESPN+",
-		"foxId" : 401920413,
+		"gameTime" : "2026-11-20T01:00Z",
+		"channel" : "Peacock",
+		"foxId" : 401919050,
 		"active" : false
     },
 	{
