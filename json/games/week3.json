@@ -44,11 +44,11 @@
 		"awayTeam" : "HOU",
 		"homeTeam" : "FLA",
 		"favorite" : "FLA",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2026-11-18T21:30Z",
 		"channel" : "ESPN",
 		"foxId" : 401920514,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 5,
@@ -59,7 +59,7 @@
 		"gameTime" : "2026-11-19T02:00Z",
 		"channel" : "FS1",
 		"foxId" : 401909742,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 7,
