@@ -62,7 +62,7 @@
 		"active" : true
     },
     {
-		"gameId" : 7,
+		"gameId" : 6,
 		"awayTeam" : "TXAM",
 		"homeTeam" : "TCU",
 		"favorite" : "TCU",
@@ -73,7 +73,7 @@
 		"active" : false
     },
 	{
-		"gameId" : 8,
+		"gameId" : 7,
 		"awayTeam" : "VCU",
 		"homeTeam" : "SCU",
 		"favorite" : "SCU",
@@ -84,7 +84,7 @@
 		"active" : false
     },
     {
-		"gameId" : 6,
+		"gameId" : 8,
 		"awayTeam" : "TBD",
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
