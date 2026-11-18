@@ -9,7 +9,9 @@
 		"gameTime" : "2026-11-18T00:00Z",
 		"channel" : "ESPN",
 		"foxId" : 401909566,
-		"active" : true
+		"awayScore" : 99,
+		"homeScore" : 78,
+		"cover" : "ILL"
     },
     {
 		"gameId" : 2,
@@ -20,7 +22,9 @@
 		"gameTime" : "2026-11-18T00:30Z",
 		"channel" : "Peacock",
 		"foxId" : 401916289,
-		"active" : true
+		"awayScore" : 76,
+		"homeScore" : 81,
+		"cover" : "IND"
     },
     {
 		"gameId" : 3,
@@ -36,9 +40,9 @@
     {
 		"gameId" : 4,
 		"awayTeam" : "HOU",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
-		"spread" : "-",
+		"homeTeam" : "FLA",
+		"favorite" : "FLA",
+		"spread" : 1.5,
 		"gameTime" : "2026-11-18T21:30Z",
 		"channel" : "ESPN",
 		"foxId" : 401920514,
