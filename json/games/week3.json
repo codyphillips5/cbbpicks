@@ -70,22 +70,22 @@
 		"awayTeam" : "TXAM",
 		"homeTeam" : "TCU",
 		"favorite" : "TCU",
-		"spread" : 1.5,
+		"spread" : 0,
 		"gameTime" : "2026-11-20T01:00Z",
 		"channel" : "Peacock",
 		"foxId" : 401919050,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 7,
 		"awayTeam" : "VCU",
 		"homeTeam" : "SCU",
 		"favorite" : "SCU",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2026-11-20T03:30Z",
 		"channel" : "ESPN2",
 		"foxId" : 401917536,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 8,
@@ -96,7 +96,7 @@
 		"gameTime" : "2026-11-20T04:00Z",
 		"channel" : "ESPN",
 		"foxId" : 401920518,
-		"active" : false
+		"active" : true
     },
     {
 		"gameId" : 9,
@@ -113,7 +113,7 @@
 		"gameId" : 10,
 		"awayTeam" : "MICH",
 		"homeTeam" : "NOVA",
-		"favorite" : "MICH",
+		"favorite" : "NOVA",
 		"spread" : "-",
 		"gameTime" : "2026-11-22T00:00Z",
 		"channel" : "FOX",
