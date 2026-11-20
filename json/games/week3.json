@@ -89,7 +89,11 @@
 		"gameTime" : "2026-11-20T03:30Z",
 		"channel" : "ESPN2",
 		"foxId" : 401917536,
-		"active" : true
+		"awayScore" : 83,
+		"homeScore" : 77,
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"cover" : "VCU"
     },
     {
 		"gameId" : 8,
