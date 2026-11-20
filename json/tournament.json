@@ -105,6 +105,10 @@
 		"winner" : ""
 	},
 	{
+		"conf" : "Pac12",
+		"winner" : ""
+	},
+	{
 		"conf" : "Ivy",
 		"winner" : ""
 	},
@@ -126,9 +130,6 @@
 	}
 	],
 	"atlarge": [
-	{
-		"team": ""
-	},
 	{
 		"team": ""
 	},
