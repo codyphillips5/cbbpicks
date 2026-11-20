@@ -104,7 +104,9 @@
 		"gameTime" : "2026-11-20T04:00Z",
 		"channel" : "ESPN",
 		"foxId" : 401920518,
-		"active" : true
+		"awayScore" : 92,
+		"homeScore" : 83,
+		"cover" : "HOU"
     },
     {
 		"gameId" : 9,
