@@ -74,7 +74,11 @@
 		"gameTime" : "2026-11-20T01:00Z",
 		"channel" : "Peacock",
 		"foxId" : 401919050,
-		"active" : true
+		"awayScore" : 97,
+		"homeScore" : 92,
+		"overtime" : true,
+		"numberOfOT" : 1,
+		"cover" : "TXAM"
     },
 	{
 		"gameId" : 7,
