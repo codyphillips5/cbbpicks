@@ -104,11 +104,11 @@
     },
     {
 		"gameId" : 9,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "SETON",
+		"homeTeam" : "NCST",
+		"favorite" : "NCST",
 		"spread" : "-",
-		"gameTime" : "2026-11-21T00:00Z",
+		"gameTime" : "2026-11-21T02:30Z",
 		"channel" : "CBSSN",
 		"foxId" : 401921691,
 		"active" : false
