@@ -18,7 +18,7 @@
 		"favorite" : "TBD",
 		"spread" : "-",
 		"gameTime" : "2026-11-25T19:30Z",
-		"channel" : "",
+		"channel" : "ESPN",
 		"foxId" : 401921715,
 		"active" : false
     },
@@ -73,7 +73,7 @@
 		"favorite" : "TBD",
 		"spread" : "-",
 		"gameTime" : "2026-11-27T22:00Z",
-		"channel" : "",
+		"channel" : "FOX",
 		"foxId" : 401921718,
 		"active" : false
     },
@@ -84,7 +84,7 @@
 		"favorite" : "TBD",
 		"spread" : "-",
 		"gameTime" : "2026-11-28T02:00Z",
-		"channel" : "",
+		"channel" : "ESPN",
 		"foxId" : 401920534,
 		"active" : false
     },
@@ -95,7 +95,7 @@
 		"favorite" : "TBD",
 		"spread" : "-",
 		"gameTime" : "2026-11-28T04:00Z",
-		"channel" : "",
+		"channel" : "ESPN",
 		"foxId" : 401920544,
 		"active" : false
     },
@@ -106,7 +106,7 @@
 		"favorite" : "TBD",
 		"spread" : "-",
 		"gameTime" : "2026-11-29T03:30Z",
-		"channel" : "",
+		"channel" : "ESPN",
 		"foxId" : 401920536,
 		"active" : false
     }
