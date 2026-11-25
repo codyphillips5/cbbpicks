@@ -9,18 +9,20 @@
 		"gameTime" : "2026-11-25T03:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 401906762,
-		"active" : true
+		"awayScore" : 68,
+		"homeScore" : 63,
+		"cover" : "BAY"
     },
 	{
 		"gameId" : 2,
 		"awayTeam" : "MISS",
 		"homeTeam" : "ZONA",
 		"favorite" : "ZONA",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2026-11-25T19:30Z",
 		"channel" : "ESPN",
 		"foxId" : 401921715,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 3,
