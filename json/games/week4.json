@@ -48,13 +48,13 @@
     },
 	{
 		"gameId" : 5,
-		"awayTeam" : "ARK",
-		"homeTeam" : "MSU",
-		"favorite" : "MSU",
+		"awayTeam" : "SMU",
+		"homeTeam" : "LSU",
+		"favorite" : "LSU",
 		"spread" : "-",
-		"gameTime" : "2026-11-26T21:30Z",
-		"channel" : "CBS",
-		"foxId" : 401925757,
+		"gameTime" : "2026-11-27T00:30Z",
+		"channel" : "CBSSN",
+		"foxId" : 401918972,
 		"active" : false
     },
 	{
