@@ -22,7 +22,9 @@
 		"gameTime" : "2026-11-25T19:30Z",
 		"channel" : "ESPN",
 		"foxId" : 401921715,
-		"active" : true
+		"awayScore" : 73,
+		"homeScore" : 84,
+		"cover" : "ZONA"
     },
 	{
 		"gameId" : 3,
