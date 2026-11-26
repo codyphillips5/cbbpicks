@@ -46,7 +46,7 @@
 		"gameTime" : "2026-11-26T16:00Z",
 		"channel" : "ESPN",
 		"foxId" : 401929281,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 5,
