@@ -35,7 +35,9 @@
 		"gameTime" : "2026-11-26T00:00Z",
 		"channel" : "Prime Video",
 		"foxId" : 401909568,
-		"active" : true
+		"awayScore" : 63,
+		"homeScore" : 77,
+		"cover" : "DUKE"
     },
 	{
 		"gameId" : 4,
@@ -54,7 +56,7 @@
 		"homeTeam" : "USC",
 		"favorite" : "USC",
 		"spread" : 2.5,
-		"gameTime" : "2026-11-27T22:30Z",
+		"gameTime" : "2026-11-27T21:30Z",
 		"channel" : "CBSSN",
 		"foxId" : 401918972,
 		"active" : true
