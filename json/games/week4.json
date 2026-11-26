@@ -42,7 +42,7 @@
 		"awayTeam" : "UGA",
 		"homeTeam" : "CIN",
 		"favorite" : "CIN",
-		"spread" : 1.5,
+		"spread" : 2.5,
 		"gameTime" : "2026-11-26T16:00Z",
 		"channel" : "ESPN",
 		"foxId" : 401929281,
@@ -50,14 +50,14 @@
     },
 	{
 		"gameId" : 5,
-		"awayTeam" : "SMU",
-		"homeTeam" : "LSU",
-		"favorite" : "LSU",
-		"spread" : 4.5,
-		"gameTime" : "2026-11-27T00:00Z",
+		"awayTeam" : "USU",
+		"homeTeam" : "USC",
+		"favorite" : "USC",
+		"spread" : 2.5,
+		"gameTime" : "2026-11-27T22:30Z",
 		"channel" : "CBSSN",
 		"foxId" : 401918972,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 6,
