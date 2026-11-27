@@ -103,11 +103,11 @@
 		"awayTeam" : "CREIGH",
 		"homeTeam" : "GONZ",
 		"favorite" : "GONZ",
-		"spread" : "-",
+		"spread" : 5.5,
 		"gameTime" : "2026-11-28T04:00Z",
 		"channel" : "ESPN",
 		"foxId" : 401920544,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 10,
