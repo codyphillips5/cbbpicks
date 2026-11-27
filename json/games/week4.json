@@ -69,38 +69,38 @@
 		"gameId" : 6,
 		"awayTeam" : "UVA",
 		"homeTeam" : "XAV",
-		"favorite" : "XAV",
-		"spread" : "-",
+		"favorite" : "UVA",
+		"spread" : 7.5,
 		"gameTime" : "2026-11-27T16:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 401920429,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 7,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
-		"spread" : "-",
+		"awayTeam" : "STMARY",
+		"homeTeam" : "TEX",
+		"favorite" : "TEX",
+		"spread" : 7.5,
 		"gameTime" : "2026-11-27T22:00Z",
 		"channel" : "FOX",
 		"foxId" : 401921718,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 8,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
-		"spread" : "-",
+		"awayTeam" : "LOU",
+		"homeTeam" : "TENN",
+		"favorite" : "TENN",
+		"spread" : 1.5,
 		"gameTime" : "2026-11-28T02:00Z",
 		"channel" : "ESPN",
 		"foxId" : 401920534,
-		"active" : false
+		"active" : true
     },
 	{
 		"gameId" : 9,
-		"awayTeam" : "TBD",
+		"awayTeam" : "CREIGH",
 		"homeTeam" : "TBD",
 		"favorite" : "TBD",
 		"spread" : "-",
