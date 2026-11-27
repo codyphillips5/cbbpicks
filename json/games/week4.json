@@ -48,7 +48,9 @@
 		"gameTime" : "2026-11-26T16:00Z",
 		"channel" : "ESPN",
 		"foxId" : 401929281,
-		"active" : true
+		"awayScore" : 81,
+		"homeScore" : 83,
+		"cover" : "UGA"
     },
 	{
 		"gameId" : 5,
@@ -58,8 +60,10 @@
 		"spread" : 2.5,
 		"gameTime" : "2026-11-26T21:30Z",
 		"channel" : "CBSSN",
-		"foxId" : 401918972,
-		"active" : true
+		"foxId" : 401921673,
+		"awayScore" : 78,
+		"homeScore" : 74,
+		"cover" : "USU"
     },
 	{
 		"gameId" : 6,
