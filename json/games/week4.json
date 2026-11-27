@@ -74,7 +74,9 @@
 		"gameTime" : "2026-11-27T16:00Z",
 		"channel" : "ESPN2",
 		"foxId" : 401920429,
-		"active" : true
+		"awayScore" : 83,
+		"homeScore" : 71,
+		"cover" : "UVA"
     },
 	{
 		"gameId" : 7,
