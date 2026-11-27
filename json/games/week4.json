@@ -89,8 +89,8 @@
     },
 	{
 		"gameId" : 8,
-		"awayTeam" : "LOU",
-		"homeTeam" : "TENN",
+		"awayTeam" : "TENN",
+		"homeTeam" : "LOU",
 		"favorite" : "TENN",
 		"spread" : 1.5,
 		"gameTime" : "2026-11-28T02:00Z",
