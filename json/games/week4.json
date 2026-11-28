@@ -122,7 +122,7 @@
 		"awayTeam" : "CREIGH",
 		"homeTeam" : "LOU",
 		"favorite" : "LOU",
-		"spread" : "-",
+		"spread" : 3.5,
 		"gameTime" : "2026-11-29T03:30Z",
 		"channel" : "ESPN",
 		"foxId" : 401920536,
