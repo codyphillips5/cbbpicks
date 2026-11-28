@@ -87,7 +87,9 @@
 		"gameTime" : "2026-11-27T22:00Z",
 		"channel" : "FOX",
 		"foxId" : 401921718,
-		"active" : true
+		"awayScore" : 73,
+		"homeScore" : 76,
+		"cover" : "STMARY"
     },
 	{
 		"gameId" : 8,
@@ -98,7 +100,9 @@
 		"gameTime" : "2026-11-28T02:00Z",
 		"channel" : "ESPN",
 		"foxId" : 401920534,
-		"active" : true
+		"awayScore" : 64,
+		"homeScore" : 84,
+		"cover" : "LOU"
     },
 	{
 		"gameId" : 9,
@@ -109,13 +113,15 @@
 		"gameTime" : "2026-11-28T04:00Z",
 		"channel" : "ESPN",
 		"foxId" : 401920544,
-		"active" : true
+		"awayScore" : 97,
+		"homeScore" : 89,
+		"cover" : "CREIGH"
     },
 	{
 		"gameId" : 10,
-		"awayTeam" : "TBD",
-		"homeTeam" : "TBD",
-		"favorite" : "TBD",
+		"awayTeam" : "CREIGH",
+		"homeTeam" : "LOU",
+		"favorite" : "LOU",
 		"spread" : "-",
 		"gameTime" : "2026-11-29T03:30Z",
 		"channel" : "ESPN",
